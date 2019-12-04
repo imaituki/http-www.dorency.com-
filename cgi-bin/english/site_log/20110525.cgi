@@ -1,0 +1,3 @@
+トップページ,i121-112-65-196.s10.a027.ap.plala.or.jp,121.112.65.196,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB5; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1306292019
+トップページ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/,1306290804
+トップページ,i60-34-199-155.s02.a020.ap.plala.or.jp,60.34.199.155,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1306281633

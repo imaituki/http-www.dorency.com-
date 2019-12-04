@@ -1,0 +1,2 @@
+トップページ,ec2-52-197-225-11.ap-northeast-1.compute.amazonaws.com,52.197.225.11,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1547534862
+トップページ,165.100.242.135,165.100.242.135,Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0;(cntn:vb-de0facfcb6ac32e1e45b5d79eb592133-05cbb4cb161f4941f7ed410f9c2beb52-ievysk6ihyw7h6fr2nyi-001c67664-20190115095801-2.2.9),http://www.dorency.com/,1547514006

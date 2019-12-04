@@ -1,0 +1,1 @@
+トップページ,93-47-71-199.ip111.fastwebnet.it,93.47.71.199,Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36,http://www.dorency.com/,1391036836

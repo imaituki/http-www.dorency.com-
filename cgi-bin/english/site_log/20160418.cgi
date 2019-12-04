@@ -1,0 +1,2 @@
+トップページ,d75-155-225-142.bchsia.telus.net,75.155.225.142,Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://dorency.com/,1460939639
+OxygenAbsorber　HandWarmers,cpe-76-169-103-171.socal.res.rr.com,76.169.103.171,Mozilla/5.0 (Linux; Android 6.0.1; SM-G925V Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36,https://www.google.com/,1460906540

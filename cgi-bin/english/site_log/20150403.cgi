@@ -1,0 +1,1 @@
+トップページ,em119-72-193-13.pool.e-mobile.ne.jp,119.72.193.13,Mozilla/5.0 (Linux; Android 4.2.2; H30-U10 Build/HuaweiH30-U10) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36,http://dorency.com/,1428057435

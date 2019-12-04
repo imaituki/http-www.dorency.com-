@@ -1,0 +1,8 @@
+トップページ,abts-north-dynamic-207.166.69.182.airtelbroadband.in,182.69.166.207,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/78.0.3904.70 Safari/537.36,http://dorency.com/,1572245431
+OxygenAbsorber　HandWarmers,113.215.199.78,113.215.199.78,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Safari/605.1.15,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1572228326
+Equipments(Machines) for environmental maintenance,113.215.199.78,113.215.199.78,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Safari/605.1.15,http://www.dorency.com/english/,1572228306
+Company,113.215.199.78,113.215.199.78,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Safari/605.1.15,http://www.dorency.com/english/,1572226830
+トップページ,113.215.199.78,113.215.199.78,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Safari/605.1.15,http://www.dorency.com/,1572226809
+OxygenAbsorber　HandWarmers,p11128-ipngn100102okayamaima.okayama.ocn.ne.jp,114.173.170.128,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/english/,1572222850
+トップページ,p11128-ipngn100102okayamaima.okayama.ocn.ne.jp,114.173.170.128,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/,1572222815
+Company,176-141-57-81.abo.bbox.fr,176.141.57.81,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,https://www.google.fr/,1572203542

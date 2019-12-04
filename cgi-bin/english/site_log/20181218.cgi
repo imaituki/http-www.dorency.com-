@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,119.155.13.202,119.155.13.202,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-C5000 Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,https://www.google.com/,1545134717
+Company,120.113.180.138,120.113.180.138,Mozilla/5.0 (Linux; Android 8.0.0; HTC_2Q4D100) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,https://www.google.com/,1545118637
+OxygenAbsorber　HandWarmers,120.113.180.138,120.113.180.138,Mozilla/5.0 (Linux; Android 8.0.0; HTC_2Q4D100) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1545118647
+OxygenAbsorber　HandWarmers,net-188-216-42-180.cust.vodafonedsl.it,188.216.42.180,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/english/,1545063534
+トップページ,ppp-163-79.32-151.wind.it,151.32.79.163,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0,http://www.dorency.com/english/,1545063306
+トップページ,net-188-216-42-180.cust.vodafonedsl.it,188.216.42.180,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/,1545063231

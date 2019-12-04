@@ -1,0 +1,14 @@
+トップページ,111.206.198.49,111.206.198.49,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1565447859
+会社概要,zaqd37c5f25.zaq.ne.jp,211.124.95.37,Mozilla/5.0 (Linux; Android 9; SCV35 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36,http://www.dorency.com/,1565447535
+トップページ,zaqd37c5f25.zaq.ne.jp,211.124.95.37,Mozilla/5.0 (Linux; Android 9; SCV35 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36,http://www.dorency.com/,1565447528
+脱酸素剤・カイロ,p842039-ipngn5101akatuka.ibaraki.ocn.ne.jp,114.166.90.39,Mozilla/5.0 (Linux; Android 9; SOV36) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36,http://www.google.com/,1565446352
+会社概要,110.165.187.255,110.165.187.255,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1565441542
+脱酸素剤・カイロ,110.165.187.255,110.165.187.255,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1565441533
+環境整備関連機器,msnbot-65-55-210-100.search.msn.com,65.55.210.100,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1565438191
+トップページ,111.206.222.66,111.206.222.66,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.93 Safari/537.36,http://www.dorency.com/,1565437056
+脱酸素剤・カイロ,p1197033-ipngn200713niho.hiroshima.ocn.ne.jp,122.22.219.33,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDSJS; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1565424527
+脱酸素剤・カイロ,122-223-172-111.east.otk.vectant.ne.jp,122.223.172.111,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.100 Safari/537.36,https://www.google.com/,1565403888
+トップページ,gd191156.gd15.kcv.ne.jp,220.247.191.156,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1565403227
+トップページ,208.69.133.69,208.69.133.69,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.100 Safari/537.36,http://www.dorency.com/,1565394460
+トップページ,111.206.222.198,111.206.222.198,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.93 Safari/537.36,http://www.dorency.com/,1565383056
+会社概要,KD027093095218.ppp-bb.dion.ne.jp,27.93.95.218,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Version/11.0 Mobile/15C114 Safari/604.1,http://www.dorency.com/,1565369499

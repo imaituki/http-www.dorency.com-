@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,p647020-ipngn200807kobeminato.hyogo.ocn.ne.jp,180.17.148.20,Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1456647277
+Company,p647020-ipngn200807kobeminato.hyogo.ocn.ne.jp,180.17.148.20,Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/english/,1456647208
+トップページ,p647020-ipngn200807kobeminato.hyogo.ocn.ne.jp,180.17.148.20,Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/,1456647142

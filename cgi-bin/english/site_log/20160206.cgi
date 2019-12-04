@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,f052015055.adsl.alicedsl.de,78.52.15.55,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.106 Safari/537.36,http://www.dorency.com/english/,1454764714
+トップページ,f052015055.adsl.alicedsl.de,78.52.15.55,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.106 Safari/537.36,http://www.dorency.com/,1454764691

@@ -1,0 +1,2 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,hcc3d73d176.bai.ne.jp,61.115.209.118,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/english/,1269483250
+トップページ,hcc3d73d176.bai.ne.jp,61.115.209.118,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1269483202

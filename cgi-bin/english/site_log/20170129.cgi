@@ -1,0 +1,2 @@
+Company,pl2055.nas81s-3.p-aichi.nttpc.ne.jp,157.65.242.7,Mozilla/5.0 (Linux; Android 6.0.1; SCV33 Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://www.dorency.com/english/,1485669730
+トップページ,pl2055.nas81s-3.p-aichi.nttpc.ne.jp,157.65.242.7,Mozilla/5.0 (Linux; Android 6.0.1; SCV33 Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1485669721

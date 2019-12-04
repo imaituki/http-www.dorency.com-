@@ -1,0 +1,1 @@
+トップページ,61-21-96-53.rev.home.ne.jp,61.21.96.53,Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search;_ylt=A2RhPz_wdnVVsw0AykjMFvR7?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80KEEPIT&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=&afs=,1433761554

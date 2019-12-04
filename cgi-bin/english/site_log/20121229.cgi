@@ -1,0 +1,1 @@
+トップページ,PPPpf339.shiga-ip.dti.ne.jp,59.156.103.89,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YTB730; BTRS102906; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1356740371

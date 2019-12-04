@@ -1,0 +1,1 @@
+トップページ,net-2-35-120-3.cust.vodafonedsl.it,2.35.120.3,Mozilla/5.0 (Linux; U; Android 4.3; it-it; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1452100474

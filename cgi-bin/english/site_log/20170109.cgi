@@ -1,0 +1,3 @@
+Company,93-36-119-159.ip60.fastwebnet.it,93.36.119.159,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/english/,1483918683
+OxygenAbsorber　HandWarmers,pool-100-8-234-210.nwrknj.fios.verizon.net,100.8.234.210,Mozilla/5.0 (Linux; Android 6.0; LG-D850 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://www.dorency.com/english/,1483894232
+トップページ,pool-100-8-234-210.nwrknj.fios.verizon.net,100.8.234.210,Mozilla/5.0 (Linux; Android 6.0; LG-D850 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://dorency.com/,1483894205

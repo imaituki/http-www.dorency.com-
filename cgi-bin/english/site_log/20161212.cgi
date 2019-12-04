@@ -1,0 +1,1 @@
+トップページ,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/english/,1481530037

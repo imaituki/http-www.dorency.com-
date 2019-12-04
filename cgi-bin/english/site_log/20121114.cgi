@@ -1,0 +1,1 @@
+トップページ,122x220x134x162.ap122.ftth.ucom.ne.jp,122.220.134.162,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%EF%BC%B7%EF%BC%B2%EF%BC%A5&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1352883985

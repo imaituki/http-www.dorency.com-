@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,154.31.78.222.broad.zz.fj.dynamic.163data.com.cn,222.78.31.154,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/29.0.1547.66 Safari/537.36 LBBROWSER,http://www.dorency.com/english/,1398846901
+トップページ,154.31.78.222.broad.zz.fj.dynamic.163data.com.cn,222.78.31.154,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; SE 2.X MetaSr 1.0),http://www.dorency.com/english/,1398844515
+トップページ,n058152040114.netvigator.com,58.152.40.114,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1398844389

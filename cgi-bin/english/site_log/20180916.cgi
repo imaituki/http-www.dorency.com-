@@ -1,0 +1,2 @@
+Company,114.125.229.85,114.125.229.85,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.co.id/,1537078332
+トップページ,softbank219211042018.bbtec.net,219.211.42.18,Mozilla/5.0 (Linux; Android 6.0.1; arrowsM03 Build/V06R055F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.91 Mobile Safari/537.36,https://www.google.co.jp/,1537054398

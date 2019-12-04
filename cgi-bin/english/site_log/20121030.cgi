@@ -1,0 +1,3 @@
+トップページ,p9222-ipngn100103okayamahigasi.okayama.ocn.ne.jp,153.136.116.222,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTbGLSV5/5.15.4.23821),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1351571087
+トップページ,msnbot-157-56-93-231.search.msn.com,157.56.93.231,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/english/,1351557872
+トップページ,msnbot-65-55-208-29.search.msn.com,65.55.208.29,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/english/,1351553528

@@ -1,0 +1,3 @@
+トップページ,baiduspider-220-181-108-160.crawl.baidu.com,220.181.108.160,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/english,1437697806
+Company,dsl-189-180-99-241-dyn.prod-infinitum.com.mx,189.180.99.241,Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4,http://www.dorency.com/english/,1437670781
+トップページ,dsl-189-180-99-241-dyn.prod-infinitum.com.mx,189.180.99.241,Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4,http://dorency.com/,1437670705

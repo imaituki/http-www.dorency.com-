@@ -1,0 +1,4 @@
+トップページ,p6106-ipngn100201oomichi.oita.ocn.ne.jp,180.48.253.106,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.125 Safari/537.36,https://www.google.co.jp/,1438842700
+Company,node-2j.pool-118-174.dynamic.totbb.net,118.174.218.91,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.125 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1438841855
+OxygenAbsorber　HandWarmers,node-2j.pool-118-174.dynamic.totbb.net,118.174.218.91,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.125 Safari/537.36,http://www.dorency.com/english/,1438841784
+トップページ,node-2j.pool-118-174.dynamic.totbb.net,118.174.218.91,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.125 Safari/537.36,http://www.dorency.com/,1438841781

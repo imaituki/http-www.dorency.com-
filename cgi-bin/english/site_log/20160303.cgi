@@ -1,0 +1,4 @@
+トップページ,p2114-ipad32niho.hiroshima.ocn.ne.jp,222.149.161.114,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1456982753
+Company,122-117-194-111.HINET-IP.hinet.net,122.117.194.111,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.116 Safari/537.36,https://tw.search.yahoo.com/,1456975981
+OxygenAbsorber　HandWarmers,162-17-174-177-static.hfc.comcastbusiness.net,162.17.174.177,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.116 Safari/537.36,http://www.dorency.com/english/,1456934053
+トップページ,162-17-174-177-static.hfc.comcastbusiness.net,162.17.174.177,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.116 Safari/537.36,http://www.dorency.com/,1456934045

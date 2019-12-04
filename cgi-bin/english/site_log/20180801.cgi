@@ -1,0 +1,1 @@
+トップページ,71-13-203-50.static.ftbg.wi.charter.com,71.13.203.50,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,http://www.dorency.com/english/,1533134514

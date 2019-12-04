@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,84-75-16-163.dclient.hispeed.ch,84.75.16.163,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1547209145
+Company,84-75-16-163.dclient.hispeed.ch,84.75.16.163,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.ch/,1547209133

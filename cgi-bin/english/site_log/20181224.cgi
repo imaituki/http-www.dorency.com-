@@ -1,0 +1,4 @@
+トップページ,118.103.64.67,118.103.64.67,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1545642109
+トップページ,ai126166131094.48.access-internet.ne.jp,126.166.131.94,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1545638681
+OxygenAbsorber　HandWarmers,66.251.2.103.shared.user.transix.jp,103.2.251.66,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1545577305
+トップページ,66.251.2.103.shared.user.transix.jp,103.2.251.66,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://dorency.com/,1545577254

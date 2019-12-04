@@ -1,0 +1,2 @@
+トップページ,msnbot-65-55-213-51.search.msn.com,65.55.213.51,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0),http://www.dorency.com/english/,1410921557
+Company,14.169.149.70,14.169.149.70,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML like Gecko) Version/7.0.6 Safari/537.78.2,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1410916218

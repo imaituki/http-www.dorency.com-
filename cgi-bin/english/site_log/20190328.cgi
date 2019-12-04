@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,64.252.149.210.rev.vmobile.jp,210.149.252.64,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-J810Y Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36,http://www.dorency.com/english/,1553764407
+トップページ,64.252.149.210.rev.vmobile.jp,210.149.252.64,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-J810Y Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36,http://www.dorency.com/,1553764392

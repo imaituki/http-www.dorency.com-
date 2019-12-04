@@ -1,0 +1,8 @@
+通販法の表記,ZB082053.ppp.dion.ne.jp,219.125.82.53,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; IEMB3; IEMB3),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1217124331
+ショッピング,ZB082053.ppp.dion.ne.jp,219.125.82.53,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; IEMB3; IEMB3),http://www.dorency.com/,1217123969
+トップページ,ZB082053.ppp.dion.ne.jp,219.125.82.53,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; IEMB3; IEMB3),http://www.dorency.com/,1217123939
+トップページ,tw-out-f136.google.com,72.14.234.136,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;Google Wireless Transcoder;),,1217118202
+お問合わせ,ff-in-f69.google.com,66.249.85.69,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;Google Wireless Transcoder;),,1217118163
+脱酸素剤・カイロ,ff-in-f69.google.com,66.249.85.69,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;Google Wireless Transcoder;),,1217118004
+脱酸素剤・カイロ,FLH1Aak243.kmm.mesh.ad.jp,221.170.81.243,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&search_x=1&tid=top_ga1&ei=UTF-8&xargs=12KPjg1upStYGmmvmnN%2DmZDrDaoAtP0cHwsd5sCpIIXYZL8wZsUfV9aOGQxZ6kfOzL3jqBnueXiKYWDcPL&pstart=5&fr=top_ga1&b=11&qrw=0,1217113507
+トップページ,22.28.163.60.broad.dynamic.jx.zj.cndata.com,60.163.28.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.pinghu.com/moreurl.asp?page=1,1217087051

@@ -1,0 +1,1 @@
+トップページ,p174215-ipngn2101hiraide.tochigi.ocn.ne.jp,124.101.227.215,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,https://search.yahoo.co.jp/,1558835953

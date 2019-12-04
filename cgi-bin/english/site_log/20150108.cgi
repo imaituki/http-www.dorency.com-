@@ -1,0 +1,12 @@
+OxygenAbsorber　HandWarmers,c-76-110-214-29.hsd1.fl.comcast.net,76.110.214.29,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1420720331
+Company,c-76-110-214-29.hsd1.fl.comcast.net,76.110.214.29,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,https://www.google.com/,1420720323
+Company,211.36.133.57,211.36.133.57,Mozilla/5.0 (Linux; U; Android 4.4.2; ko-kr; LG-F240L Build/KOT49I.F240L20g) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36,http://www.dorency.com/english/,1420707535
+トップページ,211.36.133.57,211.36.133.57,Mozilla/5.0 (Linux; U; Android 4.4.2; ko-kr; LG-F240L Build/KOT49I.F240L20g) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36,http://www.dorency.com/,1420707524
+OxygenAbsorber　HandWarmers,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1420702026
+トップページ,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1420702024
+Company,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1420702009
+Contact,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1420702007
+Equipments(Machines) for environmental maintenance,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1420702001
+OxygenAbsorber　HandWarmers,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1420701999
+トップページ,219.240.26.86,219.240.26.86,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1420701994
+OxygenAbsorber　HandWarmers,om126186147041.7.openmobile.ne.jp,126.186.147.41,Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SBM303SH Build/S0026) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,https://www.google.co.jp,1420699725

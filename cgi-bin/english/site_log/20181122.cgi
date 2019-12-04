@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,121.54.44.170,121.54.44.170,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/25.0.152548370 Mobile/16A404 Safari/602.1,http://www.dorency.com/english/,1542875190
+トップページ,121.54.44.170,121.54.44.170,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/25.0.152548370 Mobile/16A404 Safari/602.1,http://dorency.com/,1542875170

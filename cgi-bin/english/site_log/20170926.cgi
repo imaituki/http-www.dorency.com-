@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,111101074026.userreverse.wvs2.kddi.ne.jp,111.101.74.26,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/60.0.3112.113 Safari/537.36,https://www.google.co.jp/,1506422846
+トップページ,next-210-167-95-49.harenet.ne.jp,210.167.95.49,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1506386082

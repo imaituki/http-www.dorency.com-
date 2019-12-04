@@ -1,0 +1,3 @@
+トップページ,114.247.10.123,114.247.10.123,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MDDS),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1300715363
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,115.21.243.114,115.21.243.114,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1300679327
+トップページ,adsl186-28184239.dyn.etb.net.co,186.28.184.239,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML like Gecko) Chrome/10.0.648.151 Safari/534.16,http://www.dorency.com/,1300649155

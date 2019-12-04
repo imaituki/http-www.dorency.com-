@@ -1,0 +1,2 @@
+トップページ,221.12.122.182,221.12.122.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1376036906
+トップページ,221.201.109.132,221.201.109.132,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1376021893

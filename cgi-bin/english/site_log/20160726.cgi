@@ -1,0 +1,4 @@
+Company,204.79.180.233,204.79.180.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1469526024
+OxygenAbsorber　HandWarmers,190-33-29-181.fibertel.com.ar,181.29.33.190,Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,http://www.dorency.com/english/,1469497734
+Equipments(Machines) for environmental maintenance,190-33-29-181.fibertel.com.ar,181.29.33.190,Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,http://www.dorency.com/english/,1469497712
+トップページ,190-33-29-181.fibertel.com.ar,181.29.33.190,Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,http://www.dorency.com/,1469497661

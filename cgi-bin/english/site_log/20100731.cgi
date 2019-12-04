@@ -1,0 +1,1 @@
+トップページ,gd099218.gd.kcv.ne.jp,218.40.99.218,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.google.co.jp/search?hl=ja&source=hp&q=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=&aq=f&aqi=&aql=&oq=&gs_rfai=,1280546781

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,42.113.189.184,42.113.189.184,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/66.4.120 Chrome/60.4.3112.120 Safari/537.36,http://www.dorency.com/english/,1510729955
+トップページ,42.113.189.184,42.113.189.184,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/66.4.120 Chrome/60.4.3112.120 Safari/537.36,http://www.dorency.com/,1510729949

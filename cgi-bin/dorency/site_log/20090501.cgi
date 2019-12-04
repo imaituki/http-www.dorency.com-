@@ -1,0 +1,11 @@
+脱酸素剤・カイロ,p1025-ipbf610souka.saitama.ocn.ne.jp,122.16.192.25,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB5; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1241172275
+トップページ,p1025-ipbf610souka.saitama.ocn.ne.jp,122.16.192.25,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB5; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1241172267
+会社概要,60.32.69.216,60.32.69.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1241168655
+お問合わせ,60.32.69.216,60.32.69.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/,1241168650
+トップページ,60.32.69.216,60.32.69.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&ei=UTF-8&fr=top_ga1_sa&x=wrt,1241168446
+トップページ,au-gate2.raytheon.com,199.46.185.231,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1241158082
+会社概要,p2204-ipad205okayamaima.okayama.ocn.ne.jp,123.221.235.204,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727),http://www.dorency.com/,1241136685
+トップページ,p2204-ipad205okayamaima.okayama.ocn.ne.jp,123.221.235.204,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1241136641
+脱酸素剤・カイロ,ns.topack.co.jp,218.216.68.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1241134697
+会社概要,ns.topack.co.jp,218.216.68.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1241134599
+トップページ,ns.topack.co.jp,218.216.68.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.cybozu.net/search/search.php?Keywords=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&keywordCharEnc=euc-jp&x=46&y=15,1241134593

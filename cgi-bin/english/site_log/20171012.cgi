@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,j089045.ppp.asahi-net.or.jp,61.213.89.45,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1507769643
+Contact,j089045.ppp.asahi-net.or.jp,61.213.89.45,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.dorency.com/english/,1507769634
+トップページ,j089045.ppp.asahi-net.or.jp,61.213.89.45,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.dorency.com/,1507769631

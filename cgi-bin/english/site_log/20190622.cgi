@@ -1,0 +1,2 @@
+Company,ftth-124-225.103.dws.ne.jp,42.124.225.103,Mozilla/5.0 (iPad; CPU OS 12_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/16C50 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.28,http://www.dorency.com/english/,1561165891
+トップページ,ftth-124-225.103.dws.ne.jp,42.124.225.103,Mozilla/5.0 (iPad; CPU OS 12_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/16C50 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.28,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1561165868

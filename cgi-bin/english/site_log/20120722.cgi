@@ -1,0 +1,1 @@
+トップページ,i220-99-173-25.s41.a033.ap.plala.or.jp,220.99.173.25,Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://search.yahoo.co.jp/search?p=oxygenabsorber&ei=UTF-8&fr=applpd&pcarrier=&pmcc=000&pmnc=00,1342952580

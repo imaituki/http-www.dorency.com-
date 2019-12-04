@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,122x220x195x26.ap122.ftth.ucom.ne.jp,122.220.195.26,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1391344186
+トップページ,122x220x195x26.ap122.ftth.ucom.ne.jp,122.220.195.26,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://dorency.com/,1391344102
+トップページ,acbx253.neoplus.adsl.tpnet.pl,83.9.121.253,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68,http://www.dorency.com/english/,1391267975

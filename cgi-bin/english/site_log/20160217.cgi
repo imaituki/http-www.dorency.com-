@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,37.73.255.120,37.73.255.120,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/english/,1455639534
+トップページ,37.73.255.120,37.73.255.120,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://dorency.com/,1455639392

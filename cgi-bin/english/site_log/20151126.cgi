@@ -1,0 +1,9 @@
+トップページ,182.210.62.185,182.210.62.185,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0,http://www.dorency.com/,1448515399
+Company,p12037-ipngnfx01matsue.shimane.ocn.ne.jp,153.142.38.229,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1448514087
+トップページ,p12037-ipngnfx01matsue.shimane.ocn.ne.jp,153.142.38.229,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1448514081
+Company,8.66.185.220.broad.jx.zj.dynamic.163data.com.cn,220.185.66.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1448502864
+OxygenAbsorber　HandWarmers,8.66.185.220.broad.jx.zj.dynamic.163data.com.cn,220.185.66.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1448502846
+Equipments(Machines) for environmental maintenance,8.66.185.220.broad.jx.zj.dynamic.163data.com.cn,220.185.66.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1448502840
+Contact,8.66.185.220.broad.jx.zj.dynamic.163data.com.cn,220.185.66.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1448502834
+トップページ,8.66.185.220.broad.jx.zj.dynamic.163data.com.cn,220.185.66.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1448502825
+トップページ,183.81.12.11,183.81.12.11,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.96 Chrome/46.2.2490.96 Safari/537.36,http://dorency.com/,1448465286

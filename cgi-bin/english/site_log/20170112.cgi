@@ -1,0 +1,5 @@
+OxygenAbsorber　HandWarmers,101.81.253.222,101.81.253.222,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.98 Safari/537.36 Vivaldi/1.6.689.40,http://www.dorency.com/english/,1484204158
+OxygenAbsorber　HandWarmers,47.91.147.24,47.91.147.24,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.98 Safari/537.36 Vivaldi/1.6.689.40,http://www.dorency.com/english/,1484192759
+トップページ,47.91.147.24,47.91.147.24,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.98 Safari/537.36 Vivaldi/1.6.689.40,http://www.dorency.com/,1484192723
+Equipments(Machines) for environmental maintenance,60.191.33.250,60.191.33.250,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/english/,1484189630
+トップページ,60.191.33.250,60.191.33.250,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1484189628

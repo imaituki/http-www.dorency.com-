@@ -1,0 +1,4 @@
+トップページ,p376203-ipngn200409niho.hiroshima.ocn.ne.jp,180.49.191.203,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1552294384
+トップページ,KD182250246037.au-net.ne.jp,182.250.246.37,Mozilla/5.0 (iPad; CPU OS 12_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1552282206
+トップページ,KD182250246006.au-net.ne.jp,182.250.246.6,Mozilla/5.0 (iPad; CPU OS 12_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1552282111
+トップページ,KD182250246042.au-net.ne.jp,182.250.246.42,Mozilla/5.0 (iPad; CPU OS 12_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1552278290

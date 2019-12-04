@@ -1,0 +1,4 @@
+トップページ,c83-253-58-128.bredband.comhem.se,83.253.58.128,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML like Gecko) Chrome/16.0.912.75 Safari/535.7,http://www.dorency.com/,1326115509
+OxygenAbsorber　HandWarmers,pw126245251079.5.tik.panda-world.ne.jp,126.245.251.79,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5,http://www.dorency.com/english/,1326111756
+トップページ,pw126245251079.5.tik.panda-world.ne.jp,126.245.251.79,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5,http://www.dorency.com/,1326111688
+OxygenAbsorber　HandWarmers,crawl-66-249-67-4.googlebot.com,66.249.67.4,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1326044131

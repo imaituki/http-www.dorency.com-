@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,proxy-220-255-1-75.singnet.com.sg,220.255.1.75,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=2&ved=0CDQQFjAB&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D1&ei=ZoYlUo-mHJDtrQeUx4HIDQ&usg=AFQjCNHDcRI2XwFSdrXH5bBMbpzSmIAMzQ&bvm=bv.51495398&#44;d.bmk,1378190967
+OxygenAbsorber　HandWarmers,14.37.217.63,14.37.217.63,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/english/,1378170815
+トップページ,14.37.217.63,14.37.217.63,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1378170799

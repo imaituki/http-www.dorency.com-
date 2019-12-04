@@ -1,0 +1,3 @@
+トップページ,114.220.79.24,114.220.79.24,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://www.dorency.com/,1284101393
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.3; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0),http://www.dorency.com/english/,1284074780
+トップページ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.3; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1284074773

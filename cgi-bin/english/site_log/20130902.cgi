@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,proxy-220-255-1-36.singnet.com.sg,220.255.1.36,Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8160 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1378118626
+トップページ,proxy-220-255-1-62.singnet.com.sg,220.255.1.62,Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8160 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1378118611

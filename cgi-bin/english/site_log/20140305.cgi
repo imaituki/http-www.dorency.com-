@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,p5791CC09.dip0.t-ipconnect.de,87.145.204.9,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAAU; rv:11.0) like Gecko,http://www.dorency.com/english/,1394012232
+トップページ,p5791CC09.dip0.t-ipconnect.de,87.145.204.9,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAAU; rv:11.0) like Gecko,http://www.dorency.com/,1394012186
+トップページ,188-193-45-196-dynip.superkabel.de,188.193.45.196,Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; GT-I9105P Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1393945205
+OxygenAbsorber　HandWarmers,188-193-45-196-dynip.superkabel.de,188.193.45.196,Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; GT-I9105P Build/JDQ39) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1393945200

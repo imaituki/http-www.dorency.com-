@@ -1,0 +1,1 @@
+トップページ,d182.AaichiFL1.vectant.ne.jp,124.110.212.182,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1343627173

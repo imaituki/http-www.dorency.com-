@@ -1,0 +1,2 @@
+トップページ,node-f25.pool-125-24.dynamic.totinternet.net,125.24.76.61,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1565838814
+Contact,msnbot-40-77-188-20.search.msn.com,40.77.188.20,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1565824981

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,KD182250248038.au-net.ne.jp,182.250.248.38,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) GSA/4.1.0.31802 Mobile/11B554a Safari/9537.53,http://www.google.co.jp/,1494932731
+トップページ,p179064-ipngn200205okayamahigasi.okayama.ocn.ne.jp,180.27.32.64,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1494908185

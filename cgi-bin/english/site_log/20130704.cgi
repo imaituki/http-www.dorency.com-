@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,pw126208038072.3.kyb.panda-world.ne.jp,126.208.38.72,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1372918136

@@ -1,0 +1,1 @@
+トップページ,11.118.231.222.megaegg.ne.jp,222.231.118.11,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?fr=slv1-just2&ei=utf-8&search.x=1&p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80KEEPIT,1480720077

@@ -1,0 +1,7 @@
+トップページ,1.25.189.69,1.25.189.69,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; InfoPath.2; 360SE),http://www.dorency.com/,1323687958
+Company,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://www.dorency.com/english/,1323680506
+トップページ,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1323680495
+Contact,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1323680492
+Equipments(Machines) for environmental maintenance,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1323680468
+OxygenAbsorber　HandWarmers,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1323680454
+Company,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AskTB5.5),http://tw.search.yahoo.com/search;_ylt=A8tUwYZEwuVO0CUAGfFr1gt.?p=Dorency&fr2=sb-top&fr=yfp&rd=r1,1323680375

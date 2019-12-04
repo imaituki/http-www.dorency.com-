@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,121-82-29-38f1.osk2.eonet.ne.jp,121.82.29.38,Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; HTL22 Build/KOT49H) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.google.co.jp,1466235410
+トップページ,c906e762.virtua.com.br,201.6.231.98,Mozilla/5.0 (Linux; Android 5.0.2; SM-A500M Build/LRX22G) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36,http://dorency.com/,1466223503
+トップページ,google-proxy-66-249-85-6.google.com,66.249.85.6,Mozilla/5.0 (Linux; Android 5.0.2; SM-A500M Build/LRX22G) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36,http://dorency.com/,1466223502

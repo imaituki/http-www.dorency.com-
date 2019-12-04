@@ -1,0 +1,2 @@
+Company,1-36-225-183.static.netvigator.com,1.36.225.183,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,http://www.dorency.com/english/,1468839024
+トップページ,1-36-225-183.static.netvigator.com,1.36.225.183,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1468839020

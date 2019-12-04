@@ -1,0 +1,2 @@
+Company,KD036008123014.ppp-bb.dion.ne.jp,36.8.123.14,Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4,http://search.yahoo.co.jp/search?p=dorency&fr=iphone&.tsrc=apple&pcarrier=KDDI&pmcc=440&pmnc=50,1439886004
+トップページ,pulpgl2.fp.a.u-tokyo.ac.jp,130.69.125.73,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0,http://www.dorency.com/,1439882656

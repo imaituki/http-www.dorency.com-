@@ -1,0 +1,2 @@
+トップページ,ec2-18-176-150-54.ap-northeast-1.compute.amazonaws.com,18.176.150.54,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1573716211
+Company,msnbot-40-77-191-34.search.msn.com,40.77.191.34,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1573693422

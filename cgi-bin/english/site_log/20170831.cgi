@@ -1,0 +1,2 @@
+Company,204.79.180.18,204.79.180.18,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1504170116
+トップページ,45.252.72.210,45.252.72.210,Mozilla/5.0 (Linux; Android 5.1.1; C6903 Build/14.6.A.1.216) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1504169984

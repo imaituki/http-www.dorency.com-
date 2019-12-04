@@ -1,0 +1,5 @@
+Equipments(Machines) for environmental maintenance,220-253-191-217.dyn.iinet.net.au,220.253.191.217,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1471853219
+OxygenAbsorber　HandWarmers,220-253-191-217.dyn.iinet.net.au,220.253.191.217,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1471853190
+トップページ,220-253-191-217.dyn.iinet.net.au,220.253.191.217,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1471853182
+OxygenAbsorber　HandWarmers,202.248.100.1,202.248.100.1,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.116 Safari/537.36,http://www.dorency.com/english/,1471828186
+トップページ,202.248.100.1,202.248.100.1,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.116 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1471828179

@@ -1,0 +1,14 @@
+トップページ,t18-09.opera-mini.net,94.246.127.25,Opera/9.80 (Android; Opera Mini/5.1.21126/19.916; U; de) Presto/2.5.25,http://www.dorency.com/,1282486530
+脱酸素剤・カイロ,111-90-0-200.koalanet.ne.jp,111.90.0.200,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; YTB730; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MALN; Sleipnir/2.9.4),http://www.google.co.jp/hws/search?hl=ja&channel=ssp&client=fenrir-sub&adsafe=off&safe=off&lr=lang_ja&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4,1282484604
+脱酸素剤・カイロ,122-127-68-79.dynamic.hinet.net,122.127.68.79,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW; rv:1.9.1.11) Gecko/20100701 Firefox/3.5.11 (.NET CLR 3.5.30729),http://www.dorency.com./,1282483541
+脱酸素剤・カイロ,p8017-ipbffx02kokuryo.gunma.ocn.ne.jp,125.200.79.209,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729) YTB730,http://www.dorency.com/,1282467518
+トップページ,p8017-ipbffx02kokuryo.gunma.ocn.ne.jp,125.200.79.209,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729) YTB730,http://www.shokokai.or.jp/33/3344310006/,1282467507
+トップページ,122-127-67-101.dynamic.hinet.net,122.127.67.101,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-TW; rv:1.9.1.11) Gecko/20100701 Firefox/3.5.11 (.NET CLR 3.5.30729),http://www.dorency.com./,1282458239
+脱酸素剤・カイロ,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1282440920
+会社概要,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1282440771
+お問合わせ,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1282440768
+環境整備関連機器,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1282440763
+脱酸素剤・カイロ,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1282440742
+トップページ,113.237.221.139,113.237.221.139,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1282440719
+トップページ,221.194.159.228,221.194.159.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1282439481
+トップページ,FLH1Aht053.osk.mesh.ad.jp,125.194.41.53,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; YTB730; GTB0.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; AskTB5.6),http://www.bing.com/search?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&src=IE-SearchBox&FORM=IE8SRC,1282407222

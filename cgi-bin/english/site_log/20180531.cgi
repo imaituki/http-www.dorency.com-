@@ -1,0 +1,2 @@
+Company,p64054-ipbffx02marunouchi.tokyo.ocn.ne.jp,61.126.180.54,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.181 Safari/537.36,http://www.dorency.com/english/,1527758784
+トップページ,p64054-ipbffx02marunouchi.tokyo.ocn.ne.jp,61.126.180.54,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.181 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1527758781

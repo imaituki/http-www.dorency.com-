@@ -1,0 +1,4 @@
+トップページ,183.81.12.11,183.81.12.11,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.90 Chrome/46.2.2490.90 Safari/537.36,http://www.dorency.com/,1448376587
+OxygenAbsorber　HandWarmers,5.90.72.70,5.90.72.70,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,https://www.google.it/,1448364490
+OxygenAbsorber　HandWarmers,dsl.49.146.170.144.pldt.net,49.146.170.144,Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/english/,1448355988
+トップページ,dsl.49.146.170.144.pldt.net,49.146.170.144,Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,https://www.google.com.ph/,1448355953

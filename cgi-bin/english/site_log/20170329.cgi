@@ -1,0 +1,4 @@
+トップページ,119.112.251.73,119.112.251.73,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/english/,1490756310
+OxygenAbsorber　HandWarmers,180.204.146.140,180.204.146.140,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1490755296
+OxygenAbsorber　HandWarmers,dns3.mitsubishicorp.com,165.241.31.254,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1490752953
+トップページ,dns3.mitsubishicorp.com,165.241.31.254,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.bing.com/search?q=Keepit+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&qs=n&form=QBRE&sp=-1&pq=keepit+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&sc=0-11&sk=&cvid=B632BE7F216B4A72A17D70E70F8C8A8D,1490752945

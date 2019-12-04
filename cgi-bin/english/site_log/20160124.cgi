@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,123.114.42.189,123.114.42.189,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.124 Safari/537.36,http://www.dorency.com/english/,1453629781
+トップページ,123.114.42.189,123.114.42.189,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.124 Safari/537.36,http://www.dorency.com/,1453629734
+Company,localhost,113.181.176.196,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/53.2.123 Chrome/47.2.2526.123 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1453619488
+Equipments(Machines) for environmental maintenance,localhost,113.181.176.196,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/53.2.123 Chrome/47.2.2526.123 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1453619487
+OxygenAbsorber　HandWarmers,localhost,113.181.176.196,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/53.2.123 Chrome/47.2.2526.123 Safari/537.36,http://www.dorency.com/english/,1453619328
+トップページ,localhost,113.181.176.196,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/53.2.123 Chrome/47.2.2526.123 Safari/537.36,http://dorency.com/,1453619271

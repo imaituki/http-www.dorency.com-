@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,cpe-24-55-53-155.austin.res.rr.com,24.55.53.155,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4,http://www.dorency.com/english/,1419518290
+トップページ,cpe-24-55-53-155.austin.res.rr.com,24.55.53.155,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4,http://www.dorency.com/,1419518249
+トップページ,gd8242.gd18.kcv.ne.jp,180.178.82.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1419473097

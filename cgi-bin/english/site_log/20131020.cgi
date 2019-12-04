@@ -1,0 +1,2 @@
+Company,adsl.viettel.vn,115.74.239.53,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53,http://www.dorency.com/english/,1382239749
+トップページ,adsl.viettel.vn,115.74.239.53,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53,http://www.dorency.com/,1382239669

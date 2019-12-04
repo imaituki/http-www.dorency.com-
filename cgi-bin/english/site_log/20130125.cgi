@@ -1,0 +1,1 @@
+トップページ,host122-206-static.42-85-b.business.telecomitalia.it,85.42.206.122,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.56 Safari/537.17,http://www.dorency.com/,1359118683

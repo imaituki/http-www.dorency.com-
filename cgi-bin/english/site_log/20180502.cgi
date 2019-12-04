@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,dynamic-200-119-48-54.dynamic.etb.net.co,200.119.48.54,Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-8) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36,http://www.dorency.com/english/,1525220352
+OxygenAbsorber　HandWarmers,google-proxy-66-249-88-87.google.com,66.249.88.87,Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-8) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36,http://www.dorency.com/english/,1525220351
+トップページ,dynamic-200-119-48-54.dynamic.etb.net.co,200.119.48.54,Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-8) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36,http://dorency.com/,1525220342
+トップページ,google-proxy-66-249-88-87.google.com,66.249.88.87,Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-8) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36,http://dorency.com/,1525220341
+トップページ,123.125.67.221,123.125.67.221,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/english/,1525212605
+トップページ,111.206.198.41,111.206.198.41,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/english/,1525212605

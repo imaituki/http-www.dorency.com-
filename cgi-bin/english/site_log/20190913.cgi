@@ -1,0 +1,3 @@
+トップページ,ZG114221.ppp.dion.ne.jp,222.2.114.221,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1568374289
+トップページ,ec2-52-192-228-197.ap-northeast-1.compute.amazonaws.com,52.192.228.197,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1568364396
+Equipments(Machines) for environmental maintenance,msnbot-40-77-189-50.search.msn.com,40.77.189.50,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1568344512

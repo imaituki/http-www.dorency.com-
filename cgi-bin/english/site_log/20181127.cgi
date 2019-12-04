@@ -1,0 +1,1 @@
+トップページ,softbank060148195221.bbtec.net,60.148.195.221,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwiiw5eblvTeAhU_JTQIHfPCCGAQFjAFegQIAxAB&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&usg=AOvVaw0WAIGNs71YH_mOQ_zruo4h,1543308052

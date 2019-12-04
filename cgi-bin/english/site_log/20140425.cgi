@@ -1,0 +1,4 @@
+Company,14.219.189.151,14.219.189.151,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.107 Safari/537.36,http://www.dorency.com/english/,1398428786
+トップページ,14.219.189.151,14.219.189.151,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.107 Safari/537.36,http://www.dorency.com/english/,1398428763
+OxygenAbsorber　HandWarmers,a91-152-121-3.elisa-laajakaista.fi,91.152.121.3,Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,http://www.dorency.com/english/,1398356117
+トップページ,a91-152-121-3.elisa-laajakaista.fi,91.152.121.3,Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,http://www.dorency.com/,1398356070

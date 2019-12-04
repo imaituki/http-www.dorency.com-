@@ -1,0 +1,2 @@
+トップページ,S01065039555fc619.cg.shawcable.net,184.64.216.254,Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1542563554
+Company,S01065039555fc619.cg.shawcable.net,184.64.216.254,Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,https://www.google.ca/,1542563520

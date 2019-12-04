@@ -1,0 +1,5 @@
+トップページ,FNAfb-05p4-17.ppp11.odn.ad.jp,210.197.206.17,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1360916001
+Contact,crawl-66-249-74-203.googlebot.com,66.249.74.203,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1360904997
+Contact,crawl-66-249-77-34.googlebot.com,66.249.77.34,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1360904936
+トップページ,61.153.233.82,61.153.233.82,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; Apache; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Microsoft Windows Media Center PC 6.0; Media Center PC 6.0),http://www.dorency.com/,1360902737
+トップページ,60.32.115.32,60.32.115.32,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1360902015

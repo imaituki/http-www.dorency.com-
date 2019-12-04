@@ -1,0 +1,1 @@
+トップページ,gd100058.gd.kcv.ne.jp,218.40.100.58,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; YTB730),http://search.yahoo.co.jp/search?fr=slv1-snvaio&p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%82%AD%E3%83%BC%E3%83%93%E3%83%83%E3%83%88&ei=UTF-8,1338176514

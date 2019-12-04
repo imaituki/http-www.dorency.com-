@@ -1,0 +1,2 @@
+トップページ,mx-ll-49.49.235-112.dynamic.3bb.co.th,49.49.235.112,Mozilla/5.0 (Linux; Android 5.1; ZTE Blade D6 Lite 3G Build/LMY47I) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1497536446
+OxygenAbsorber　HandWarmers,mx-ll-49.49.235-112.dynamic.3bb.co.th,49.49.235.112,Mozilla/5.0 (Linux; Android 5.1; ZTE Blade D6 Lite 3G Build/LMY47I) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,http://www.google.co.th/,1497536281

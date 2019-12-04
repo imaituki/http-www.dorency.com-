@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,FL1-49-129-57-55.tky.mesh.ad.jp,49.129.57.55,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/english/,1380098695
+トップページ,FL1-49-129-57-55.tky.mesh.ad.jp,49.129.57.55,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1380098687
+OxygenAbsorber　HandWarmers,182-164-143-233f1.kyt1.eonet.ne.jp,182.164.143.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MANMJS),http://jp.hao123.com/yahoo_search?query=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%2B%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E7%A8%AE%E9%A1%9E,1380092720
+トップページ,p4229-ipbf1608souka.saitama.ocn.ne.jp,220.111.57.229,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1380088497

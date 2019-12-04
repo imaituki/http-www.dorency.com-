@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,59-124-108-115.HINET-IP.hinet.net,59.124.108.115,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.57 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1385606240
+OxygenAbsorber　HandWarmers,59-124-108-115.HINET-IP.hinet.net,59.124.108.115,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.57 Safari/537.36,http://www.dorency.com/english/,1385606224
+トップページ,59-124-108-115.HINET-IP.hinet.net,59.124.108.115,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.57 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1385606217

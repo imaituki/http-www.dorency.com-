@@ -1,0 +1,5 @@
+トップページ,static-91-59-26-46.ipcom.comunitel.net,46.26.59.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1518346140
+Equipments(Machines) for environmental maintenance,static-91-59-26-46.ipcom.comunitel.net,46.26.59.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.dorency.com/english/,1518345498
+OxygenAbsorber　HandWarmers,static-91-59-26-46.ipcom.comunitel.net,46.26.59.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1518345128
+Company,static-91-59-26-46.ipcom.comunitel.net,46.26.59.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.dorency.com/english/,1518345096
+トップページ,static-91-59-26-46.ipcom.comunitel.net,46.26.59.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0,http://www.dorency.com/,1518344996

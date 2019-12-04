@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,178.115.131.214.wireless.dyn.drei.com,178.115.131.214,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,http://www.dorency.com/english/,1520928640
+トップページ,178.115.131.214.wireless.dyn.drei.com,178.115.131.214,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,https://www.google.at/,1520928617
+Company,111.205.61.239,111.205.61.239,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,https://cn.bing.com/,1520927259
+トップページ,p67155-ipngn200401osakachuo.osaka.ocn.ne.jp,60.44.157.155,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAFSJS; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1520896480

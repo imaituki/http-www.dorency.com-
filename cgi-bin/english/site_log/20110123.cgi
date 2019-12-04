@@ -1,0 +1,4 @@
+Company,114.89.2.34,114.89.2.34,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.3),http://www.dorency.com/english/,1295789943
+トップページ,114.89.2.34,114.89.2.34,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.3),http://www.dorency.com/,1295789941
+トップページ,host6-16-dynamic.252-95-r.retail.telecomitalia.it,95.252.16.6,Mozilla/5.0 (Windows; U; Windows NT 6.0; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1295742580
+Company,host6-16-dynamic.252-95-r.retail.telecomitalia.it,95.252.16.6,Mozilla/5.0 (Windows; U; Windows NT 6.0; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,http://www.google.it/url?sa=t&source=web&cd=3&ved=0CCwQFjAC&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D0&rct=j&q=dorency%20alcohol%20volatiles&ei=zXU7TcuKMsSdOt64rb0L&usg=AFQjCNGOle9nfPXxETYeklTPRW56noJKZw&cad=rja,1295742440

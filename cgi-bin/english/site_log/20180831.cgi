@@ -1,0 +1,2 @@
+トップページ,dsl-emcali-200.29.127.56.emcali.net.co,200.29.127.56,Mozilla/5.0 (Linux; Android 5.1; Neffos C5 Max Build/LMY47D) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36,http://www.dorency.com/,1535666581
+トップページ,ec2-52-192-101-71.ap-northeast-1.compute.amazonaws.com,52.192.101.71,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1535645433

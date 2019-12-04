@@ -1,0 +1,1 @@
+トップページ,ppp-27-55-21-123.revip3.asianet.co.th,27.55.21.123,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/,1388061246

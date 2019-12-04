@@ -1,0 +1,4 @@
+OxygenAbsorberÅ@HandWarmers,localhost,113.188.54.208,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.87 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1458047767
+Company,localhost,113.188.54.208,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.87 Safari/537.36,https://www.google.com/,1458046547
+OxygenAbsorberÅ@HandWarmers,static,123.63.214.59,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.116 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1458028294
+Company,static,123.63.214.59,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.116 Safari/537.36,https://www.google.co.in/,1458028283

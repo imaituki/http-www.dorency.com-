@@ -1,0 +1,1 @@
+トップページ,58.186.130.99,58.186.130.99,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/42.0 CoRom/36.0.1985.144 Chrome/36.0.1985.144 Safari/537.36,http://dorency.com/,1411868571

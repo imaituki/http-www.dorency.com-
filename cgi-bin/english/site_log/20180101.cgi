@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,y093101.ppp.asahi-net.or.jp,118.243.93.101,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.dorency.com/english/,1514736904
+トップページ,y093101.ppp.asahi-net.or.jp,118.243.93.101,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.dorency.com/,1514736890

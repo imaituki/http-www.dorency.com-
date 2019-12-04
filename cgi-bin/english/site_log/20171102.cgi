@@ -1,0 +1,1 @@
+トップページ,softbank126002175159.bbtec.net,126.2.175.159,Mozilla/5.0 (Linux; Android 5.0.2; 401SO Build/23.1.F.0.464) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.73 Mobile Safari/537.36,android-app://com.google.android.googlequicksearchbox,1509550065

@@ -1,0 +1,1 @@
+トップページ,mail.gtamail.com,173.46.2.2,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1501000829

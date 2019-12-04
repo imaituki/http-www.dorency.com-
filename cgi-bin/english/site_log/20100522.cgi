@@ -1,0 +1,1 @@
+トップページ,116.226.94.128,116.226.94.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&lr=&newwindow=1&tbo=p&tbs=qdr%3Ay&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&aq=f&aqi=g2&aql=&oq=&gs_rfai=,1274522019

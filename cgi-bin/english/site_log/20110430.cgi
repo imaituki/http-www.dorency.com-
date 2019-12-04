@@ -1,0 +1,2 @@
+トップページ,KD106128237243.au-net.ne.jp,106.128.237.243,Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; IS03 Build/S2080) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17,http://www.dorency.com/english/,1304165353
+トップページ,66.8.183.58.megaegg.ne.jp,58.183.8.66,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; YTB730; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; BRI/2),http://jp.ask.com/web?qsrc=3015&o=21039&l=sem&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80KEEPIT,1304156093

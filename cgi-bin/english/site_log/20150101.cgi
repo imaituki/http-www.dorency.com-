@@ -1,0 +1,2 @@
+トップページ,139.192.199.68,139.192.199.68,Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36,http://www.dorency.com/english/,1420082155
+OxygenAbsorber　HandWarmers,baiduspider-220-181-108-144.crawl.baidu.com,220.181.108.144,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1420042233

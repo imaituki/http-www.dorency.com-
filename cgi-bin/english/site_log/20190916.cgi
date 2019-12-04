@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,p1018020-ipngnfx01niho.hiroshima.ocn.ne.jp,153.156.183.20,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1568609424
+Company,p1018020-ipngnfx01niho.hiroshima.ocn.ne.jp,153.156.183.20,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1568609421
+トップページ,p1018020-ipngnfx01niho.hiroshima.ocn.ne.jp,153.156.183.20,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1568609418

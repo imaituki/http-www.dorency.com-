@@ -1,0 +1,10 @@
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1328764899
+Company,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1328764845
+Equipments(Machines) for environmental maintenance,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1328764845
+OxygenAbsorber　HandWarmers,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1328764832
+Contact,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1328764831
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1328764779
+Company,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1328764757
+Equipments(Machines) for environmental maintenance,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1328764757
+Contact,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1328764756
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1328764700

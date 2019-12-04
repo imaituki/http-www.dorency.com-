@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,z80-15.opera-mini.net,82.145.217.179,Opera/9.80 (Android; Opera Mini/7.5.32193/35.5003; U; en) Presto/2.8.119 Version/11.10,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1413466838

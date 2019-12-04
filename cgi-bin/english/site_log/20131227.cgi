@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,2.180.191.240,2.180.191.240,Mozilla/5.0 (Linux; Android 4.3; K00E Build/JSS15Q) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.94 Safari/537.36,http://www.dorency.com/english/,1388155792
+トップページ,2.180.191.240,2.180.191.240,Mozilla/5.0 (Linux; Android 4.3; K00E Build/JSS15Q) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.94 Safari/537.36,http://www.dorency.com/,1388155716

@@ -1,0 +1,5 @@
+トップページ,d-79-117-214-167.craiova.rdsnet.ro,79.117.214.167,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1460200145
+Equipments(Machines) for environmental maintenance,d-79-117-214-167.craiova.rdsnet.ro,79.117.214.167,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1460199802
+Company,d-79-117-214-167.craiova.rdsnet.ro,79.117.214.167,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1460199617
+OxygenAbsorber　HandWarmers,d-79-117-214-167.craiova.rdsnet.ro,79.117.214.167,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/english/,1460199482
+トップページ,d-79-117-214-167.craiova.rdsnet.ro,79.117.214.167,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/,1460199401

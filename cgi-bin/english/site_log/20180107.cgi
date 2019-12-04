@@ -1,0 +1,3 @@
+トップページ,p760188-ipbf907yosida.nagano.ocn.ne.jp,118.15.178.188,Mozilla/5.0 (Linux; Android 5.0.2; SH-04G Build/S6260) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36,http://www.dorency.com/english/,1515334837
+トップページ,46.71.92.145,46.71.92.145,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Version/11.0 Mobile/15C153 Safari/604.1,http://dorency.com/,1515286442
+トップページ,183.net042126023.t-com.ne.jp,42.126.23.183,Mozilla/5.0 (Linux; Android 7.0; SO-02H Build/32.3.E.0.100) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36,https://www.google.co.jp/,1515273325

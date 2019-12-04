@@ -1,0 +1,1 @@
+Company,dynamic-114-69-41-168.vips.gol.ne.jp,114.69.41.168,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML like Gecko) Version/8.0.5 Safari/600.5.17,https://www.google.co.jp/,1431407785

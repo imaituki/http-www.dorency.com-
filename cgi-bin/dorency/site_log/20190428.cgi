@@ -1,0 +1,15 @@
+トップページ,gd165233.gd33.kcv.ne.jp,157.112.165.233,Mozilla/5.0 (Linux; Android 7.1.1; F-01J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36,http://www.google.com/,1556457567
+脱酸素剤・カイロ,pw126182199130.27.panda-world.ne.jp,126.182.199.130,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,https://search.yahoo.co.jp/,1556452872
+脱酸素剤・カイロ,h220-215-188-035.catv02.itscom.jp,220.215.188.35,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/15E148 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.25,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1556452416
+脱酸素剤・カイロ,ftu42125197095.yuzu-tv.ne.jp,42.125.197.95,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1556451479
+トップページ,123.125.67.166,123.125.67.166,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556444066
+トップページ,baiduspider-111-206-221-92.crawl.baidu.com,111.206.221.92,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556444065
+脱酸素剤・カイロ,aaubervilliers-653-1-247-95.w90-61.abo.wanadoo.fr,90.61.6.95,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML like Gecko) Version/9.1.1 Safari/601.6.17,http://www.dorency.com/english/,1556435710
+トップページ,aaubervilliers-653-1-247-95.w90-61.abo.wanadoo.fr,90.61.6.95,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML like Gecko) Version/9.1.1 Safari/601.6.17,http://dorency.com/,1556435585
+会社概要,om126208247043.22.openmobile.ne.jp,126.208.247.43,Mozilla/5.0 (Linux; Android 8.0.0; 706SH) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36,http://www.dorency.com/,1556426355
+トップページ,om126208247043.22.openmobile.ne.jp,126.208.247.43,Mozilla/5.0 (Linux; Android 8.0.0; 706SH) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36,http://www.google.com/,1556426347
+トップページ,123.125.67.157,123.125.67.157,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556415242
+トップページ,111.206.198.33,111.206.198.33,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556415239
+脱酸素剤・カイロ,p596172-ipngn200504kyoto.kyoto.ocn.ne.jp,122.23.51.172,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,https://search.yahoo.co.jp/,1556414685
+トップページ,123.125.67.221,123.125.67.221,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556387147
+トップページ,111.206.198.46,111.206.198.46,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556387146

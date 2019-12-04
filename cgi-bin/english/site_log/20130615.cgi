@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,host-196.218.119.194-static.tedata.net,196.218.119.194,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1371288917
+OxygenAbsorber　HandWarmers,host-196.218.119.194-static.tedata.net,196.218.119.194,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.110 Safari/537.36,http://www.dorency.com/english/,1371288802
+トップページ,host-196.218.119.194-static.tedata.net,196.218.119.194,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.110 Safari/537.36,http://dorency.com/,1371288771

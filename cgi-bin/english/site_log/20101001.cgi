@@ -1,0 +1,6 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/english/,1285894779
+トップページ,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/,1285894747
+Contact,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1285894192
+Company,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1285894090
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/english/,1285894082
+トップページ,ppp-124-120-197-128.revip2.asianet.co.th,124.120.197.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1285894070

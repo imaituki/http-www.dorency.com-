@@ -1,0 +1,1 @@
+トップページ,dynamic-adsl-94-34-209-181.clienti.tiscali.it,94.34.209.181,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://www.dorency.com/,1420877472

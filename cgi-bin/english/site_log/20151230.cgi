@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,14-201-93-201.static.tpgi.com.au,14.201.93.201,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:43.0) Gecko/20100101 Firefox/43.0,http://www.dorency.com/english/,1451484542
+トップページ,14-201-93-201.static.tpgi.com.au,14.201.93.201,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.106 Safari/537.36,http://www.dorency.com/,1451484511
+トップページ,sndr1.swg-proxy.tokyostarbank.co.jp,210.149.175.50,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1451459963
+トップページ,189.80-203-107.nextgentel.com,80.203.107.189,Mozilla/5.0 (Linux; Android 4.4.2; H60-L04 Build/HDH60-L04) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,http://www.dorency.com/,1451438810

@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,static.vnpt.vn,14.181.34.9,Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36,android-app://com.google.android.googlequicksearchbox,1508757071
+トップページ,p516020-ipngn200106okayamahigasi.okayama.ocn.ne.jp,153.195.41.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1508726687
+トップページ,node-j1l.pool-1-1.dynamic.totbb.net,1.1.224.105,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A432 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1508722140

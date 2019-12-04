@@ -1,0 +1,1 @@
+トップページ,om126208184118.22.openmobile.ne.jp,126.208.184.118,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/16D57 Safari/605.1.15 Sleipnir/4.5.2m,https://www.google.co.jp/,1560659690

@@ -1,0 +1,6 @@
+トップページ,nttkyo1293246.tkyo.nt.ngn.ppp.infoweb.ne.jp,61.210.19.246,Mozilla/5.0 (Linux; Android 8.0.0; HWV32) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,https://sp-web.search.auone.jp/,1545399849
+OxygenAbsorber　HandWarmers,104.192.74.197,104.192.74.197,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1545337285
+Contact,104.192.74.197,104.192.74.197,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1545337280
+トップページ,104.192.74.197,104.192.74.197,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/english/,1545337276
+Company,59-126-125-55.HINET-IP.hinet.net,59.126.125.55,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/english/,1545331476
+トップページ,59-126-125-55.HINET-IP.hinet.net,59.126.125.55,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1545331470

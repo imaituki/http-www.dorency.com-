@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,43.246.220.130,43.246.220.130,Mozilla/5.0 (Linux; Android 7.1.1; XT1799-2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36,http://www.dorency.com/english/,1560236207
+OxygenAbsorber　HandWarmers,google-proxy-66-249-93-212.google.com,66.249.93.212,Mozilla/5.0 (Linux; Android 7.1.1; XT1799-2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36,http://www.dorency.com/english/,1560236207
+トップページ,43.246.220.130,43.246.220.130,Mozilla/5.0 (Linux; Android 7.1.1; XT1799-2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36,http://www.dorency.com/,1560236112
+トップページ,google-proxy-66-249-93-212.google.com,66.249.93.212,Mozilla/5.0 (Linux; Android 7.1.1; XT1799-2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36,http://www.dorency.com/,1560236111
+Company,115.92.168.4,115.92.168.4,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1560227211
+Equipments(Machines) for environmental maintenance,115.92.168.4,115.92.168.4,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1560227186
+トップページ,115.92.168.4,115.92.168.4,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1560227178
+Contact,172-245-107-231-host.colocrossing.com,172.245.107.231,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1560182762

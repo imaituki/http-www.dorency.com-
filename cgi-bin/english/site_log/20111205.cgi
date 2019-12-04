@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,p1054-ipad202sizuokaden.shizuoka.ocn.ne.jp,60.44.6.54,Mozilla/5.0 (Ubuntu; X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/english/,1323048495
+トップページ,p1054-ipad202sizuokaden.shizuoka.ocn.ne.jp,60.44.6.54,Mozilla/5.0 (Ubuntu; X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0,http://dorency.com/,1323048476
+OxygenAbsorber　HandWarmers,74.125.64.87,74.125.64.87,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.51 (KHTML like Gecko; Google Web Preview) Chrome/12.0.742 Safari/534.51,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1323031672

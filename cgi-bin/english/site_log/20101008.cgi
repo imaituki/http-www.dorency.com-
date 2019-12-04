@@ -1,0 +1,2 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,112.221.225.171,112.221.225.171,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2),http://www.dorency.com/english/,1286517576
+トップページ,112.221.225.171,112.221.225.171,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1286517572

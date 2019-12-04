@@ -1,0 +1,2 @@
+トップページ,1.9.156.213,1.9.156.213,Mozilla/5.0 (Linux; Android 6.0; E5663 Build/30.2.B.1.21) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://dorency.com/,1518689229
+トップページ,google-proxy-64-233-173-8.google.com,64.233.173.8,Mozilla/5.0 (Linux; Android 6.0; E5663 Build/30.2.B.1.21) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://dorency.com/,1518689229

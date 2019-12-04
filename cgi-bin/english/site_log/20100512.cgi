@@ -1,0 +1,1 @@
+Company,micro7.dent.okayama-u.ac.jp,150.46.139.191,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.4),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rlz=1T4SUNA_jaJP311JP311&q=The+Chugoku+Bank%e3%80%80branch,1273633913

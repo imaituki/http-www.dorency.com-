@@ -1,0 +1,1 @@
+トップページ,i121-116-23-77.s41.a010.ap.plala.or.jp,121.116.23.77,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A421 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1509891397

@@ -1,0 +1,4 @@
+トップページ,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.94 Mobile Safari/537.36 OPR/37.0.2192.110486,http://www.dorency.com/,1486391072
+トップページ,96.191.130.210.rev.vmobile.jp,210.130.191.96,Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.94 Mobile Safari/537.36 OPR/37.0.2192.110486,http://www.dorency.com/,1486388730
+Company,om126212154209.14.openmobile.ne.jp,126.212.154.209,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,https://search.yahoo.co.jp/,1486347621
+トップページ,180.157.93.21,180.157.93.21,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1486344609

@@ -1,0 +1,3 @@
+トップページ,ip3e83729a.speed.planet.nl,62.131.114.154,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1477554836
+OxygenAbsorber　HandWarmers,mail.sftc-llc.com,173.10.243.1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.dorency.com/english/,1477495802
+トップページ,mail.sftc-llc.com,173.10.243.1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.dorency.com/,1477495781

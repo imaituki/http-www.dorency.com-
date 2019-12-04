@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,TYO108.gate.nec.co.jp,210.143.35.18,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/english/,1375430580
+トップページ,TYO108.gate.nec.co.jp,210.143.35.18,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.google.com/search?q=KEEPIT+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&hl=ja&lr=&oe=UTF-8&num=50&oq=KEEPIT+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&gs_l=heirloom-serp.3...10157.14735.0.16079.15.8.0.6.0.2.282.1330.0j6j2.8.0....0...1ac.1j4.23.heirloom-serp..12.3.500.SL_Qpd8oAVw,1375430521

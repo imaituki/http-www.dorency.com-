@@ -1,0 +1,6 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,119.190.9.119,119.190.9.119,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/english/,1297672212
+トップページ,119.190.9.119,119.190.9.119,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1297672199
+トップページ,fnttkyo029020.tkyo.fnt.ftth2.ppp.infoweb.ne.jp,58.1.246.148,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MDDS; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; AskTbBCPA/5.8.0.12304),http://www.dorency.com/,1297670785
+トップページ,122.225.239.158,122.225.239.158,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),http://www.dorency.com/,1297657673
+Company,bcout.hikari.co.jp,210.229.155.62,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML like Gecko) Chrome/9.0.597.98 Safari/534.13,http://www.dorency.com/english/,1297647003
+トップページ,bcout.hikari.co.jp,210.229.155.62,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML like Gecko) Chrome/9.0.597.98 Safari/534.13,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1297646974

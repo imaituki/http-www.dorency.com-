@@ -1,0 +1,5 @@
+トップページ,i121-119-93-167.s42.a009.ap.plala.or.jp,121.119.93.167,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0,http://www.dorency.com/,1424175262
+Company,224.206.120.153.tokyo.global.crust-r.net,153.120.206.224,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MAMIJS),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1424166001
+Equipments(Machines) for environmental maintenance,224.206.120.153.tokyo.global.crust-r.net,153.120.206.224,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MAMIJS),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1424165980
+OxygenAbsorber　HandWarmers,224.206.120.153.tokyo.global.crust-r.net,153.120.206.224,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MAMIJS),http://www.dorency.com/english/,1424165838
+Company,baiduspider-220-181-108-143.crawl.baidu.com,220.181.108.143,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1424130328

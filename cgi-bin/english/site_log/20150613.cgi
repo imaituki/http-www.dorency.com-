@@ -1,0 +1,2 @@
+トップページ,KD182250250199.au-net.ne.jp,182.250.250.199,Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4,https://www.google.co.jp/,1434155439
+Company,KD182250250199.au-net.ne.jp,182.250.250.199,Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4,https://www.google.co.jp/,1434155429

@@ -1,0 +1,1 @@
+トップページ,121-82-149-233f1.osk2.eonet.ne.jp,121.82.149.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; YTB730),http://search.yahoo.co.jp/search?p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1350038759

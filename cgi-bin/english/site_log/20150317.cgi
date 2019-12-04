@@ -1,0 +1,2 @@
+トップページ,FL1-203-136-22-34.tky.mesh.ad.jp,203.136.22.34,Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4,http://dorency.com/,1426590506
+トップページ,gd056146.gd.kcv.ne.jp,219.103.56.146,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.89 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1426571523

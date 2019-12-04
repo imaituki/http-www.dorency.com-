@@ -1,0 +1,1 @@
+トップページ,softbank060103207101.bbtec.net,60.103.207.101,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B150 Safari/604.1,http://www.dorency.com/,1511958882

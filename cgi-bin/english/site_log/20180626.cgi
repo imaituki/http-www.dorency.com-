@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,061092168218.static.ctinets.com,61.92.168.218,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1529998519
+トップページ,061092168218.static.ctinets.com,61.92.168.218,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1529998500

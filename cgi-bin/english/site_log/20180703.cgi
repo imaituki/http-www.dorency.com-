@@ -1,0 +1,2 @@
+Company,153.35.130.154,153.35.130.154,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML like Gecko) Version/10.0 Mobile/14E304 Safari/602.1,https://search.smt.docomo.ne.jp/result?MT=dorency&SID=000&IND=000&TPLID=&UNIT=&URANK=&SPAGE=&PAGE=1,1530622645
+Company,163.43.89.140,163.43.89.140,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/15F79 YJApp-IOS jp.co.yahoo.ipn.appli/4.6.5,https://search.yahoo.co.jp/,1530622563

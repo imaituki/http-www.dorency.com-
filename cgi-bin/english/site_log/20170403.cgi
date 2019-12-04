@@ -1,0 +1,1 @@
+トップページ,182.185.98.6,182.185.98.6,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://dorency.com/,1491145461

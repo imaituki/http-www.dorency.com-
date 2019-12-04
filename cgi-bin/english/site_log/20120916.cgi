@@ -1,0 +1,1 @@
+トップページ,124x37x205x149.ap124.ftth.ucom.ne.jp,124.37.205.149,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0),http://www.google.co.jp/url?sa=t&rct=j&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80keepit&source=web&cd=1&cad=rja&ved=0CCIQFjAA&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=GnNVUPTrOrGSiQevsYFI&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ,1347777313

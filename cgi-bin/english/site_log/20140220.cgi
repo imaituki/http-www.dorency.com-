@@ -1,0 +1,5 @@
+トップページ,KD182249247004.au-net.ne.jp,182.249.247.4,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,https://www.google.co.jp/,1392888322
+トップページ,p209.net112139131.tokai.or.jp,112.139.131.209,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://search.yahoo.co.jp/search?ei=UTF-8&fr=top_ipd_sa&x=wrt&p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+keepit,1392887671
+OxygenAbsorber　HandWarmers,p2102-ipbf2509marunouchi.tokyo.ocn.ne.jp,122.18.180.102,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/english/,1392860915
+トップページ,p2102-ipbf2509marunouchi.tokyo.ocn.ne.jp,122.18.180.102,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/,1392860901
+Contact,p2102-ipbf2509marunouchi.tokyo.ocn.ne.jp,122.18.180.102,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1392860872

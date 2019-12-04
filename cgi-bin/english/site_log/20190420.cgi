@@ -1,0 +1,1 @@
+トップページ,p5004-ipbfpfx02okayamaima.okayama.ocn.ne.jp,210.163.181.132,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.119 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1555739652

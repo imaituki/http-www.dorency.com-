@@ -1,0 +1,3 @@
+トップページ,p2090-ipbf603funabasi.chiba.ocn.ne.jp,124.87.128.90,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; YTB730; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1307013631
+トップページ,175.148.8.213,175.148.8.213,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 685),http://www.dorency.com/,1306998302
+トップページ,61.123.204.184,61.123.204.184,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.3; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1306983309

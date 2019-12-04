@@ -1,0 +1,5 @@
+トップページ,KD106180027157.au-net.ne.jp,106.180.27.157,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/58.0.212077146 Mobile/15G77 Safari/604.1,https://www.google.com/,1539949521
+トップページ,185.46.214.60,185.46.214.60,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; S.N.O.W.4; rv:11.0) like Gecko,http://www.dorency.com/,1539947958
+トップページ,localhost,117.7.140.223,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Version/11.0 Mobile/15C153 Safari/604.1,http://dorency.com/,1539946335
+OxygenAbsorber　HandWarmers,185.46.214.111,185.46.214.111,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/english/,1539936946
+トップページ,185.46.214.111,185.46.214.111,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/,1539936936

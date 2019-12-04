@@ -1,0 +1,4 @@
+トップページ,p7173-ipngn100104okayamaima.okayama.ocn.ne.jp,153.179.97.173,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1517307229
+OxygenAbsorber　HandWarmers,host022.ip106.stnet.ne.jp,203.112.35.22,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1517277892
+OxygenAbsorber　HandWarmers,42.112.81.71,42.112.81.71,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/68.4.126 Chrome/62.4.3202.126 Safari/537.36,http://www.dorency.com/english/,1517240981
+トップページ,42.112.81.71,42.112.81.71,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/68.4.126 Chrome/62.4.3202.126 Safari/537.36,http://dorency.com/,1517240962

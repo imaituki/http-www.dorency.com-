@@ -1,0 +1,2 @@
+トップページ,ppp-27-55-201-144.revip3.asianet.co.th,27.55.201.144,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/21.4.141508723 Mobile/14B100 Safari/600.1.4,http://www.dorency.com/,1483238550
+Company,bb119-74-111-41.singnet.com.sg,119.74.111.41,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,https://www.google.com.sg/,1483234533

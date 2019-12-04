@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,crawl-66-249-72-164.googlebot.com,66.249.72.164,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1347717282
+トップページ,gd062009.gd.kcv.ne.jp,219.103.62.9,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; YTB730),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1347668894

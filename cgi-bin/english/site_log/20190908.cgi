@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,58.65.221.80,58.65.221.80,Mozilla/5.0 (Linux; Android 7.0; TRT-L21A) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/english/,1567920916
+OxygenAbsorber　HandWarmers,google-proxy-66-249-93-212.google.com,66.249.93.212,Mozilla/5.0 (Linux; Android 7.0; TRT-L21A) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/english/,1567920915
+トップページ,58.65.221.80,58.65.221.80,Mozilla/5.0 (Linux; Android 7.0; TRT-L21A) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1567920889
+トップページ,google-proxy-66-249-93-210.google.com,66.249.93.210,Mozilla/5.0 (Linux; Android 7.0; TRT-L21A) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1567920888

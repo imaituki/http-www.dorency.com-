@@ -1,0 +1,4 @@
+トップページ,123.159.179.63,123.159.179.63,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.6756.400 QQBrowser/10.3.2473.400,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1539751951
+OxygenAbsorber　HandWarmers,103.31.113.14,103.31.113.14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1539745288
+Company,103.31.113.14,103.31.113.14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.dorency.com/english/,1539745274
+トップページ,103.31.113.14,103.31.113.14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.dorency.com/,1539745266

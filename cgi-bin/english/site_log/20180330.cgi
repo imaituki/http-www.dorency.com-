@@ -1,0 +1,6 @@
+トップページ,156.185.35.58.broad.xw.sh.dynamic.163data.com.cn,58.35.185.156,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.dorency.com/,1522419895
+Contact,nsg-static-10.237.76.182-airtel.com,182.76.237.10,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1522390889
+Company,nsg-static-10.237.76.182-airtel.com,182.76.237.10,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/english/,1522390849
+トップページ,nsg-static-10.237.76.182-airtel.com,182.76.237.10,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1522390841
+トップページ,176.187.234.178,176.187.234.178,Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 635),http://www.dorency.com/,1522355734
+Company,client.yota.ru,94.25.169.160,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1522335606

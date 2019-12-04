@@ -1,0 +1,7 @@
+トップページ,120.128.2.6,120.128.2.6,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1355988853
+OxygenAbsorber　HandWarmers,140.120.9.55,140.120.9.55,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1355988538
+Equipments(Machines) for environmental maintenance,140.120.9.55,140.120.9.55,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://www.dorency.com/english/,1355988531
+トップページ,140.120.9.55,140.120.9.55,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1355988526
+トップページ,120.128.2.6,120.128.2.6,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),http://www.dorency.com/,1355988426
+トップページ,59-125-204-121.HINET-IP.hinet.net,59.125.204.121,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://www.dorency.com/,1355968381
+OxygenAbsorber　HandWarmers,p4FEECAC1.dip.t-dialin.net,79.238.202.193,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://search.conduit.com/Results.aspx?q=keepit+oxygene+absorber&ctid=CT3242337&SearchSource=15&SearchType=SearchWeb&SSPV=&CUI=UN23903890792280436,1355930934

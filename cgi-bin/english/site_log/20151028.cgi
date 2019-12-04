@@ -1,0 +1,4 @@
+トップページ,42.118.6.219,42.118.6.219,Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.80 Safari/537.36,http://dorency.com/,1446018585
+OxygenAbsorber　HandWarmers,i118-18-169-236.s10.a027.ap.plala.or.jp,118.18.169.236,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1446016389
+Company,i118-18-169-236.s10.a027.ap.plala.or.jp,118.18.169.236,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%E3%80%80%E4%B8%AD%E5%9B%BD&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1446016381
+トップページ,unknown.maxonline.com.sg,202.156.172.134,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1445989479

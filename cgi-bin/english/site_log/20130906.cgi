@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,p31222-ipngn601akatuka.ibaraki.ocn.ne.jp,180.35.132.222,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/29.0.1547.66 Safari/537.36,http://www.dorency.com/english/,1378472458
+トップページ,p31222-ipngn601akatuka.ibaraki.ocn.ne.jp,180.35.132.222,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/29.0.1547.66 Safari/537.36,http://www.dorency.com/,1378472407
+トップページ,.,218.202.230.222,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/,1378458262

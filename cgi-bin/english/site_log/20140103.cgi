@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,60.52.7.252,60.52.7.252,Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; GT-N8000 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1388759901
+トップページ,host249-117-dynamic.17-79-r.retail.telecomitalia.it,79.17.117.249,Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,http://dorency.com/,1388725521

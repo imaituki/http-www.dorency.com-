@@ -1,0 +1,1 @@
+トップページ,pat-ip-195-91-55-148.gprs.as5628.telecom.sk,195.91.55.148,Mozilla/5.0 (Linux; U; Android 2.2.2; en-sk; Desire_A8181 Build/FRG83G) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/,1335036635

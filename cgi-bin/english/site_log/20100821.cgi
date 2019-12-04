@@ -1,0 +1,2 @@
+トップページ,89.net059086097.t-com.ne.jp,59.86.97.89,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; YTB720; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://search.yahoo.co.jp/search?p=keepit%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1282391890
+トップページ,hn.kd.ny.adsl,115.50.23.128,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; CNCDialer),http://www.dorency.com,1282387584

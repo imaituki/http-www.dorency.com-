@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,cpe-58-166-230-132.nb06.nsw.asp.telstra.net,58.166.230.132,Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1,https://www.google.com.au/,1566776729
+トップページ,23.100.232.233,23.100.232.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0),http://www.dorency.com/english/,1566747517

@@ -1,0 +1,3 @@
+トップページ,203.140.73.225,203.140.73.225,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1368610470
+Company,pl1326.nas926.p-okayama.nttpc.ne.jp,219.102.167.46,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.4; .NET CLR 1.1.4322; McAfee; .NET4.0C),http://www.dorency.com/english/,1368594807
+トップページ,pl1326.nas926.p-okayama.nttpc.ne.jp,219.102.167.46,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.4; .NET CLR 1.1.4322; McAfee; .NET4.0C),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1368594804

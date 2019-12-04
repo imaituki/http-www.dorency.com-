@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,dslb-178-006-100-107.178.006.pools.vodafone-ip.de,178.6.100.107,Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T550 Build/NMF26X) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/english/,1518866645
+トップページ,dslb-178-006-100-107.178.006.pools.vodafone-ip.de,178.6.100.107,Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-T800 Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/,1518863900

@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,cpc1-bexl1-0-0-cust770.2-3.cable.virginmedia.com,86.8.7.3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://www.dorency.com/english/,1342010363
+トップページ,cpc1-bexl1-0-0-cust770.2-3.cable.virginmedia.com,86.8.7.3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://www.dorency.com/,1342010350
+トップページ,msnbot-65-52-108-56.search.msn.com,65.52.108.56,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648),http://www.dorency.com/english/,1342005981
+Company,msnbot-207-46-194-252.search.msn.com,207.46.194.252,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1341993451
+Equipments(Machines) for environmental maintenance,crawl-66-249-72-167.googlebot.com,66.249.72.167,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1341992547
+OxygenAbsorber　HandWarmers,69.171.187.77,69.171.187.77,Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; SCH-R720 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1341938931

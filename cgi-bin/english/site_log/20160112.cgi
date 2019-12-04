@@ -1,0 +1,4 @@
+トップページ,m120088228010.pccwmobile.com,120.88.228.10,Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,http://www.dorency.com/,1452608929
+トップページ,64-132-192-190.cab.prima.net.ar,190.192.132.64,Mozilla/5.0 (Linux; Android 4.4.2; SM-G357M Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,http://www.dorency.com/,1452561562
+トップページ,google-proxy-66-249-88-143.google.com,66.249.88.143,Mozilla/5.0 (Linux; Android 4.4.2; SM-G357M Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,http://www.dorency.com/,1452561561
+トップページ,119.net119083069.t-com.ne.jp,119.83.69.119,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML like Gecko) Version/9.0.1 Safari/601.2.7,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1452526579

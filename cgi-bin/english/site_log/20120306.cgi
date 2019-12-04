@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,pd33589.hrsmac00.ap.so-net.ne.jp,61.211.53.137,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.56 Safari/535.11,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1331038119
+Contact,pd33589.hrsmac00.ap.so-net.ne.jp,61.211.53.137,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.56 Safari/535.11,http://www.dorency.com/english/,1331038111
+トップページ,pd33589.hrsmac00.ap.so-net.ne.jp,61.211.53.137,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.56 Safari/535.11,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1331038105

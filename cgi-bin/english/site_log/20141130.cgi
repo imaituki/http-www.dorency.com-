@@ -1,0 +1,1 @@
+トップページ,static.cmcti.vn,183.91.29.65,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko,http://search.yahoo.co.jp/search;_ylt=A7dPGUCkZnpUXQgADEKJBtF7?p=dorency+&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=&afs=,1417317601

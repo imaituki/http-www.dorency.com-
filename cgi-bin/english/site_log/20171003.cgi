@@ -1,0 +1,2 @@
+トップページ,ec2-54-174-61-66.compute-1.amazonaws.com,54.174.61.66,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.116 Safari/537.36 HubSpot Webcrawler - web-crawlers@hubspot.com,http://www.dorency.com/english/,1506975435
+トップページ,S0106c8fb2645af5e.vs.shawcable.net,96.48.132.156,Mozilla/5.0 (Android 7.0; Mobile; rv:55.0) Gecko/55.0 Firefox/55.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1506968603

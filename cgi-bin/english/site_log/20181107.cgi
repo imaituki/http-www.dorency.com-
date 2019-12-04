@@ -1,0 +1,2 @@
+Company,cm-27-145-8-4.revip12.asianet.co.th,27.145.8.4,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,https://www.google.co.th/,1541582589
+OxygenAbsorberÅ@HandWarmers,p314097-ipngn200405oomichi.oita.ocn.ne.jp,114.161.166.97,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,https://www.google.co.jp/,1541556111

@@ -1,0 +1,7 @@
+トップページ,119.116.9.35,119.116.9.35,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; 360SE),http://www.dorency.com/,1268906050
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,123.131.88.53,123.131.88.53,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/english/,1268872540
+トップページ,123.131.88.53,123.131.88.53,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1268872523
+Company,123.168.206.16,123.168.206.16,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/english/,1268841647
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,123.168.206.16,123.168.206.16,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/english/,1268839866
+トップページ,123.168.206.16,123.168.206.16,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/,1268839791
+Company,EM114-48-120-234.pool.e-mobile.ne.jp,114.48.120.234,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.3; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rlz=1T4SUNA_jaJP284JP285&q=dairen+chemical+number+of+employee,1268880071

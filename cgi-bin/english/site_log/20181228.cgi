@@ -1,0 +1,2 @@
+トップページ,ab178154.ppp.asahi-net.or.jp,183.76.178.154,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://dorency.com/,1546002138
+トップページ,222-228-21-170.saitama.otk.vectant.ne.jp,222.228.21.170,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1545962898

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,47.131.241.49.ap.yournet.ne.jp,49.241.131.47,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?fr=slv1-jwtkw&p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%E3%80%80%E8%87%AA%E5%8A%9B%E5%9E%8B&ei=UTF-8,1442470629
+トップページ,gd058029.gd.kcv.ne.jp,219.103.58.29,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1442464625

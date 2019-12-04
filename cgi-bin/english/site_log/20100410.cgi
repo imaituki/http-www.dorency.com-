@@ -1,0 +1,1 @@
+トップページ,catv61-89-228-129.sensyu.ne.jp,61.89.228.129,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MDDR; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1270859120

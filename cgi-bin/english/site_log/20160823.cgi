@@ -1,0 +1,3 @@
+OxygenAbsorberÅ@HandWarmers,211-20-200-148.HINET-IP.hinet.net,211.20.200.148,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1471935132
+Company,211-20-200-148.HINET-IP.hinet.net,211.20.200.148,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.google.com.tw/url?url=http://www.dorency.com/cgi-bin/english/siteup.cgi%3Fcategory%3D2%26page%3D0&rct=j&frm=1&q=&esrc=s&sa=U&ved=0ahUKEwi7l-C_-dbOAhWHq5QKHUEwC4EQFggpMAQ&usg=AFQjCNElCQqO188xlHoLUyv5dmM2QqUtQA,1471935118
+Company,ai126241137068.47.access-internet.ne.jp,126.241.137.68,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0,https://www.google.co.jp,1471918106

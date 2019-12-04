@@ -1,0 +1,4 @@
+トップページ,111.206.198.15,111.206.198.15,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/english/,1522764442
+Equipments(Machines) for environmental maintenance,95-30-67-244.broadband.corbina.ru,95.30.67.244,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1522697499
+OxygenAbsorber　HandWarmers,95-30-67-244.broadband.corbina.ru,95.30.67.244,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0,http://www.dorency.com/english/,1522697484
+トップページ,95-30-67-244.broadband.corbina.ru,95.30.67.244,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0,http://www.dorency.com/,1522697468

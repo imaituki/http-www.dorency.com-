@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,248052107111.ppp-oct.au-hikari.ne.jp,111.107.52.248,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1392367926
+トップページ,248052107111.ppp-oct.au-hikari.ne.jp,111.107.52.248,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1392367882

@@ -1,0 +1,2 @@
+トップページ,ec2-52-69-52-39.ap-northeast-1.compute.amazonaws.com,52.69.52.39,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1521255823
+トップページ,cable-86-56-4-130.cust.telecolumbus.net,86.56.4.130,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0,http://dorency.com/,1521218894

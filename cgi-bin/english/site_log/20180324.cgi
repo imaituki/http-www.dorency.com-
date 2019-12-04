@@ -1,0 +1,1 @@
+トップページ,188-122-254-117.clients.tlt.100megabit.ru,188.122.254.117,Mozilla/5.0 (Linux; Android 8.0.0; MI 6 Build/OPR1.170623.027) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 YaBrowser/18.1.1.645.00 Mobile Safari/537.36,https://yandex.ru/,1521879657

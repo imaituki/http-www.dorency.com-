@@ -1,0 +1,5 @@
+Company,sndr2.swg-proxy.tokyostarbank.co.jp,210.149.175.51,Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0,http://www.dorency.com/english/,1479456207
+トップページ,sndr2.swg-proxy.tokyostarbank.co.jp,210.149.175.51,Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0,http://www.dorency.com/,1479456202
+OxygenAbsorber　HandWarmers,bb220-255-57-78.singnet.com.sg,220.255.57.78,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,https://www.google.com.sg/,1479448781
+OxygenAbsorber　HandWarmers,182.red-88-24-65.staticip.rima-tde.net,88.24.65.182,Mozilla/5.0 (Linux; Android 4.4.2; Aquaris E5 HD Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36,https://www.google.es/,1479426192
+Company,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,https://www.google.co.uk/,1479403190

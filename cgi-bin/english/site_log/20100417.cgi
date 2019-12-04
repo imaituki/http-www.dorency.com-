@@ -1,0 +1,3 @@
+Company,msnbot-207-46-204-220.search.msn.com,207.46.204.220,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1271487701
+トップページ,c-98-234-189-38.hsd1.ca.comcast.net,98.234.189.38,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://dorency.com/,1271486934
+Contact,msnbot-207-46-12-155.search.msn.com,207.46.12.155,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707;  MS-RTC LM 8),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1271486918

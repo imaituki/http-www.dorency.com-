@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,172.56.10.60,172.56.10.60,Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; SGH-T769 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1410356450

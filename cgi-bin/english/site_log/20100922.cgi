@@ -1,0 +1,1 @@
+トップページ,eproxy2.hosp.go.jp,221.186.136.51,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.30729),http://www.google.co.jp/search?hl=ja&source=hp&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89&aq=f&aqi=&aql=&oq=&gs_rfai=,1285138210

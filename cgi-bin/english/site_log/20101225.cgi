@@ -1,0 +1,1 @@
+トップページ,p11180-ipngn100105osakakita.osaka.ocn.ne.jp,114.174.206.180,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; YTB730; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; OfficeLiveConnector.1.5; OfficeLivePatch.1.3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1293271629

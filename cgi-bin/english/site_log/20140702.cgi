@@ -1,0 +1,1 @@
+トップページ,softbank126029196045.bbtec.net,126.29.196.45,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CC4QFjAD&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=i_SzU-PgGYyB8gXLlYGACg&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&bvm=bv.70138588&#44;d.dGc&cad=rjt,1404302600

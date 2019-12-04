@@ -1,0 +1,3 @@
+トップページ,lic37-65.mtholyoke.edu,138.110.37.65,Mozilla/5.0 (Windows NT 6.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1,http://www.google.com/url?sa=t&rct=j&q=raku%20raku%20kairo&source=web&cd=2&ved=0CCoQFjAB&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=f5vuTqSoN-r30gGV9aHnCQ&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ,1324260262
+トップページ,gd051183.gd.kcv.ne.jp,219.103.51.183,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1324254417
+Company,msnbot-207-46-204-161.search.msn.com,207.46.204.161,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1324250259

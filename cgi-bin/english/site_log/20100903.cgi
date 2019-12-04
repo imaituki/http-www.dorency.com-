@@ -1,0 +1,3 @@
+トップページ,cb8abd-114.dynamic.tiki.ne.jp,203.138.189.114,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6) Gecko/2009011913 Firefox/3.0.6 (.NET CLR 3.5.30729),http://search.yahoo.co.jp/search?p=%E9%9D%92%E6%B1%81%E3%80%80barley&ei=UTF-8&fr=top_ga1_sa&x=wrt&meta=vc%3D,1283521990
+トップページ,60.191.48.157,60.191.48.157,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322),http://www.dorency.com/,1283501959
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,pre61688.fip.synapse.ne.jp,124.146.118.164,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88+%EF%BC%B9%EF%BC%A6&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1283490736

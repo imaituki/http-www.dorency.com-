@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,p2044-ipbffx02sapodori.hokkaido.ocn.ne.jp,61.119.224.44,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,https://www.google.com.au/,1454673658
+トップページ,p2170-ipbf1205osakakita.osaka.ocn.ne.jp,180.6.223.170,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.86 Safari/537.36,http://www.dorency.com/,1454600999

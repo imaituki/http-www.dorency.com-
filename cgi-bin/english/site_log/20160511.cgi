@@ -1,0 +1,3 @@
+Company,59.25.154.65,59.25.154.65,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729),http://www.dorency.com/english/,1462951534
+トップページ,59.25.154.65,59.25.154.65,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1462951463
+Contact,g117.219-103-239.ppp.wakwak.ne.jp,219.103.239.117,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80%E5%8C%97%E6%B5%B7%E9%81%93&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1462928884

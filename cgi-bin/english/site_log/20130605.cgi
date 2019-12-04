@@ -1,0 +1,1 @@
+トップページ,KD182249146237.au-net.ne.jp,182.249.146.237,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,http://www.dorency.com/english/,1370416817

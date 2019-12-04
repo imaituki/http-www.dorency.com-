@@ -1,0 +1,2 @@
+トップページ,61-24-0-84.rev.home.ne.jp,61.24.0.84,Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDQQFjAA&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=-wjIUqSeCY7nkgXJlYDADA&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&bvm=bv.58187178&#44;d.dGI,1388841275
+トップページ,host249-117-dynamic.17-79-r.retail.telecomitalia.it,79.17.117.249,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1388769516

@@ -1,0 +1,4 @@
+Company,59-126-206-14.HINET-IP.hinet.net,59.126.206.14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0,https://www.google.com.tw,1460019466
+OxygenAbsorber　HandWarmers,pac33-h03-89-88-66-82.dsl.sta.abo.bbox.fr,89.88.66.82,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1459971162
+Equipments(Machines) for environmental maintenance,pac33-h03-89-88-66-82.dsl.sta.abo.bbox.fr,89.88.66.82,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/english/,1459971148
+トップページ,pac33-h03-89-88-66-82.dsl.sta.abo.bbox.fr,89.88.66.82,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.110 Safari/537.36,http://www.dorency.com/,1459971108

@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,softbank126219026044.bbtec.net,126.219.26.44,Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1481983220
+Company,softbank126219026044.bbtec.net,126.219.26.44,Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,https://www.google.com.ph/,1481983130

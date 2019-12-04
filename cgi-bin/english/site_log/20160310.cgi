@@ -1,0 +1,1 @@
+トップページ,ntokym049245.okym.nt.ngn.ppp.infoweb.ne.jp,125.0.130.245,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7&ei=UTF-8&fr=top_ga1_sa&x=wrt,1457536340

@@ -1,0 +1,1 @@
+トップページ,pc2196.ibara.ne.jp,210.157.85.196,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&aq=-1&oq=&ei=UTF-8&fr=top_ga1&x=wrt,1359943835

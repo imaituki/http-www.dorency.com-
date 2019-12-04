@@ -1,0 +1,5 @@
+トップページ,111-240-97-140.dynamic.hinet.net,111.240.97.140,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/21.1.139288856 Mobile/13G36 Safari/600.1.4,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1481458351
+トップページ,p129237-ipngn4601souka.saitama.ocn.ne.jp,124.85.23.237,Mozilla/5.0 (Linux; Android 5.0.2; SOL25 Build/23.1.G.2.151) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1481417146
+OxygenAbsorber　HandWarmers,gw1-plab.interactions.net,12.217.80.234,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,https://www.google.com/,1481411806
+OxygenAbsorber　HandWarmers,87-92-14-44.bb.dnainternet.fi,87.92.14.44,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0.1 Safari/602.2.14,http://www.dorency.com/english/,1481406715
+トップページ,87-92-14-44.bb.dnainternet.fi,87.92.14.44,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0.1 Safari/602.2.14,http://dorency.com/,1481406701

@@ -1,0 +1,1 @@
+トップページ,KD182249241010.au-net.ne.jp,182.249.241.10,Mozilla/5.0 (Linux; U; Android 4.0.3; en-jp; ISW12HT Build/IML74K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1366551201

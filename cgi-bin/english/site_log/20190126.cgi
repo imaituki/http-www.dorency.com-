@@ -1,0 +1,9 @@
+OxygenAbsorber　HandWarmers,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1548475360
+Company,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1548475348
+Contact,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1548475345
+Equipments(Machines) for environmental maintenance,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1548475338
+OxygenAbsorber　HandWarmers,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://www.dorency.com/english/,1548475229
+トップページ,109-126-29-226.eth.vladlink.net,109.126.29.226,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0,http://dorency.com/,1548475206
+OxygenAbsorber　HandWarmers,dhcp-226-167.eastdorm.uic.edu,131.193.226.167,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/english/,1548456152
+トップページ,dhcp-226-167.eastdorm.uic.edu,131.193.226.167,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1548456139
+Company,dhcp-226-167.eastdorm.uic.edu,131.193.226.167,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,https://www.google.com/,1548456130

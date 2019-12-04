@@ -1,0 +1,10 @@
+トップページ,pl402.nas982.p-gifu.nttpc.ne.jp,210.139.11.146,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1211014914
+脱酸素剤・カイロ,pl402.nas982.p-gifu.nttpc.ne.jp,210.139.11.146,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.msn.co.jp/results.aspx?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&form=QBRE,1211014683
+脱酸素剤・カイロ,pl080.nas937.p-okayama.nttpc.ne.jp,219.102.50.80,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.dorency.com/,1211007419
+トップページ,pl080.nas937.p-okayama.nttpc.ne.jp,219.102.50.80,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=,1211007416
+脱酸素剤・カイロ,FLH1Aby209.hrs.mesh.ad.jp,125.193.149.209,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://www.dorency.com/,1211005542
+トップページ,FLH1Aby209.hrs.mesh.ad.jp,125.193.149.209,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://www.google.co.jp/search?hl=ja&q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&btnG=Google+%E6%A4%9C%E7%B4%A2&lr=,1211005533
+会社概要,dhcp249-121.tamatele.ne.jp,210.255.249.121,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1210985646
+脱酸素剤・カイロ,dhcp249-121.tamatele.ne.jp,210.255.249.121,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.dorency.com/,1210985580
+お問合わせ,dhcp249-121.tamatele.ne.jp,210.255.249.121,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.dorency.com/,1210985569
+トップページ,dhcp249-121.tamatele.ne.jp,210.255.249.121,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://cgi.search.biglobe.ne.jp/cgi-bin/search2-b?search=%8C%9F%8D%F5&q=%83h%83%8C%83%93%83V%81%5B,1210985517

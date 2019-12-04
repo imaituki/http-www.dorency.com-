@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,177.7.191.81,177.7.191.81,Mozilla/5.0 (Linux; U; Android 2.3.3; pt-br; MID7127 Build/GRI40) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1372717741
+OxygenAbsorber　HandWarmers,177.7.191.81,177.7.191.81,Mozilla/5.0 (Linux; U; Android 2.3.3; pt-br; MID7127 Build/GRI40) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/english/,1372717543
+トップページ,177.7.191.81,177.7.191.81,Mozilla/5.0 (Linux; U; Android 2.3.3; pt-br; MID7127 Build/GRI40) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://dorency.com/,1372717488

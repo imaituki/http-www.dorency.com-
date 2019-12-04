@@ -1,0 +1,1 @@
+トップページ,218-172-248-25.dynamic.hinet.net,218.172.248.25,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://search.yahoo.co.jp/search?p=dorency&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=dorency,1287811864

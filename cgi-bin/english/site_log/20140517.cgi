@@ -1,0 +1,3 @@
+トップページ,n05-02-02.opera-mini.net,82.145.220.17,Opera/9.80 (Android; Opera Mini/7.5.35199/34.2089; U; ru) Presto/2.8.119 Version/11.10,http://www.dorency.com/,1400318426
+トップページ,pl182.nas986.n-hiroshima.nttpc.ne.jp,219.102.208.182,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1400310180
+トップページ,em114-49-18-212.pool.e-mobile.ne.jp,114.49.18.212,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%EF%BC%AB%EF%BC%A5%EF%BC%A5%EF%BC%B0%EF%BC%A9%EF%BC%B4%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&aq=-1&oq=&ei=UTF-8&fr=top_lt2_sa&x=wrt,1400292768

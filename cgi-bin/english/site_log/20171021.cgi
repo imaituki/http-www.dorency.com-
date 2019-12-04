@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,210-55-81-127.dialup.xtra.co.nz,210.55.81.127,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,http://www.dorency.com/english/,1508583021
+トップページ,210-55-81-127.dialup.xtra.co.nz,210.55.81.127,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,http://dorency.com/,1508582917

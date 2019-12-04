@@ -1,0 +1,4 @@
+Company,ABTS-North-Dynamic-219.137.161.122.airtelbroadband.in,122.161.137.219,Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,https://www.google.co.in/,1385780845
+OxygenAbsorber　HandWarmers,ABTS-North-Dynamic-219.137.161.122.airtelbroadband.in,122.161.137.219,Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25,https://www.google.co.in/,1385780098
+OxygenAbsorber　HandWarmers,em1-115-193-115.pool.e-mobile.ne.jp,1.115.193.115,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1385768299
+トップページ,em1-115-193-115.pool.e-mobile.ne.jp,1.115.193.115,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://dorency.com/,1385768276

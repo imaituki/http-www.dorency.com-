@@ -1,0 +1,2 @@
+トップページ,123.151.195.1,123.151.195.1,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.132 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1438936717
+トップページ,z205.124-45-108.ppp.wakwak.ne.jp,124.45.108.205,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?fr=slv1-necbpc5&p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88WRE-100&ei=UTF-8,1438905277

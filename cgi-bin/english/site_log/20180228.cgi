@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,120.29.117.207,120.29.117.207,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML like Gecko) Version/9.1.2 Safari/601.7.7,http://www.dorency.com/english/,1519823031
+トップページ,120.29.117.207,120.29.117.207,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML like Gecko) Version/9.1.2 Safari/601.7.7,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1519823021
+トップページ,219x123x70x20.ap219.ftth.ucom.ne.jp,219.123.70.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1519814051
+Company,219x123x70x20.ap219.ftth.ucom.ne.jp,219.123.70.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,https://www.google.co.jp/,1519813367
+Company,pw126234088193.21.panda-world.ne.jp,126.234.88.193,Mozilla/5.0 (iPad; CPU OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Version/11.0 Mobile/15C153 Safari/604.1,http://www.dorency.com/english/,1519791883
+トップページ,pw126234088193.21.panda-world.ne.jp,126.234.88.193,Mozilla/5.0 (iPad; CPU OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Version/11.0 Mobile/15C153 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1519791877
+Company,static.vnpt.vn,14.187.209.155,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,https://www.google.com.vn/,1519784164

@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,cpe-24-24-171-177.socal.res.rr.com,24.24.171.177,Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1361514646
+トップページ,igwl116.nw.solteria.net,202.174.204.116,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; YTB730),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1361512693
+トップページ,p2159-ipad28okayamaima.okayama.ocn.ne.jp,221.190.153.159,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1361497205

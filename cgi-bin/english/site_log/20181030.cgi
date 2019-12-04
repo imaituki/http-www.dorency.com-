@@ -1,0 +1,5 @@
+OxygenAbsorber　HandWarmers,5.0.245.10,5.0.245.10,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A9000 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1540902496
+Company,5.0.245.10,5.0.245.10,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A9000 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/english/,1540902472
+トップページ,5.0.245.10,5.0.245.10,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-A9000 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1540902444
+トップページ,pl18617.ag1212.nttpc.ne.jp,119.245.86.185,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,https://www.google.co.jp/,1540880513
+Company,31.13.191.176,31.13.191.176,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0,http://www.dorency.com/english/,1540874087

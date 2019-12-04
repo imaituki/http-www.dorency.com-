@@ -1,0 +1,3 @@
+Company,113.157.200.150,113.157.200.150,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/english/,1423825909
+トップページ,113.157.200.150,113.157.200.150,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1423825904
+トップページ,103.246.39.212,103.246.39.212,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1423825904

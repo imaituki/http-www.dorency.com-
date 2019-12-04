@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,149.135.146.45,149.135.146.45,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.dorency.com/english/,1342777891
+トップページ,149.135.146.45,149.135.146.45,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.dorency.com/,1342777864
+OxygenAbsorber　HandWarmers,149.135.147.2,149.135.147.2,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5,http://www.dorency.com/english/,1342775834
+トップページ,149.135.147.2,149.135.147.2,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5,http://dorency.com/,1342775799
+Company,crawl-66-249-69-7.googlebot.com,66.249.69.7,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1342768719
+トップページ,124.236.194.49,124.236.194.49,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MALC; InfoPath.2; .NET4.0C),http://www.dorency.com/,1342760212

@@ -1,0 +1,9 @@
+OxygenAbsorber　HandWarmers,194-166-99-36.adsl.highway.telekom.at,194.166.99.36,Mozilla/5.0 (Windows NT 5.1; rv:8.0.1) Gecko/20100101 Firefox/8.0.1,http://www.dorency.com/english/,1334569373
+トップページ,194-166-99-36.adsl.highway.telekom.at,194.166.99.36,Mozilla/5.0 (Windows NT 5.1; rv:8.0.1) Gecko/20100101 Firefox/8.0.1,http://www.dorency.com/,1334569320
+OxygenAbsorber　HandWarmers,88.238.66.228.dynamic.ttnet.com.tr,88.238.66.228,Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0,http://www.dorency.com/english/,1334562307
+トップページ,88.238.66.228.dynamic.ttnet.com.tr,88.238.66.228,Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1334562300
+Company,88.238.66.228.dynamic.ttnet.com.tr,88.238.66.228,Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0,http://www.google.com.tr/url?sa=t&rct=j&q=dorency&source=web&cd=6&ved=0CE0QFjAF&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D0&ei=ec2LT_PIGabl4QSnl6HeCQ&usg=AFQjCNGOle9nfPXxETYeklTPRW56noJKZw&sig2=i0xWMIaACTC99ZyNuOI6XQ&cad=rja,1334562267
+Company,adsl-184-43-81-203.bgk.bellsouth.net,184.43.81.203,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1334543920
+Contact,adsl-184-43-81-203.bgk.bellsouth.net,184.43.81.203,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1334543895
+OxygenAbsorber　HandWarmers,adsl-184-43-81-203.bgk.bellsouth.net,184.43.81.203,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1334543742
+トップページ,adsl-184-43-81-203.bgk.bellsouth.net,184.43.81.203,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://dorency.com/,1334543659

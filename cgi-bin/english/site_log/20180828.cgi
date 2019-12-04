@@ -1,0 +1,5 @@
+Company,202.170.216.51,202.170.216.51,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1535445567
+トップページ,202.170.216.51,202.170.216.51,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1535445563
+Equipments(Machines) for environmental maintenance,115-82-11-133.taiwanmobile.net,115.82.11.133,Mozilla/5.0 (Linux; Android 4.4.4; SM-E7000 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1535444278
+OxygenAbsorber　HandWarmers,115-82-11-133.taiwanmobile.net,115.82.11.133,Mozilla/5.0 (Linux; Android 4.4.4; SM-E7000 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1535444180
+Company,115-82-11-133.taiwanmobile.net,115.82.11.133,Mozilla/5.0 (Linux; Android 4.4.4; SM-E7000 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,android-app://com.google.android.googlequicksearchbox,1535444153

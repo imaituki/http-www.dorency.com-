@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,dhy237.neoplus.adsl.tpnet.pl,83.23.206.237,Opera/9.80 (Windows NT 6.1; U; Edition Campaign 21; pl) Presto/2.10.229 Version/11.61,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1329462790

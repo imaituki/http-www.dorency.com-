@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,pool-96-252-45-81.bstnma.fios.verizon.net,96.252.45.81,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950U Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/english/,1524356279
+トップページ,pool-96-252-45-81.bstnma.fios.verizon.net,96.252.45.81,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-N950U Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1524356243

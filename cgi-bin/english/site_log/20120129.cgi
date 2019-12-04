@@ -1,0 +1,9 @@
+OxygenAbsorber　HandWarmers,softbank126044053089.bbtec.net,126.44.53.89,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS31753; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MAAU; MAAU),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1327828567
+Equipments(Machines) for environmental maintenance,softbank126044053089.bbtec.net,126.44.53.89,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS31753; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MAAU; MAAU),http://www.dorency.com/english/,1327828562
+トップページ,softbank126044053089.bbtec.net,126.44.53.89,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS31753; GTB7.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MAAU; MAAU),http://www.dorency.com/,1327828533
+Equipments(Machines) for environmental maintenance,220.191.180.54,220.191.180.54,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.7 (KHTML like Gecko) Chrome/16.0.912.77 Safari/535.7,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1327815475
+OxygenAbsorber　HandWarmers,220.191.180.54,220.191.180.54,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.7 (KHTML like Gecko) Chrome/16.0.912.77 Safari/535.7,http://www.dorency.com/english/,1327815455
+トップページ,220.191.180.54,220.191.180.54,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.7 (KHTML like Gecko) Chrome/16.0.912.77 Safari/535.7,http://www.dorency.com/,1327815442
+OxygenAbsorber　HandWarmers,182.160.24.155,182.160.24.155,Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1,http://www.dorency.com/english/,1327809921
+トップページ,182.160.24.155,182.160.24.155,Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1,http://dorency.com/,1327809325
+Contact,crawl-66-249-67-57.googlebot.com,66.249.67.57,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1327800596

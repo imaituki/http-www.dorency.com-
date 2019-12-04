@@ -1,0 +1,4 @@
+Contact,bb269b3c.virtua.com.br,187.38.155.60,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1495035361
+OxygenAbsorber　HandWarmers,bb269b3c.virtua.com.br,187.38.155.60,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1495035143
+トップページ,bb269b3c.virtua.com.br,187.38.155.60,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.dorency.com/,1495034999
+Company,bb269b3c.virtua.com.br,187.38.155.60,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,https://www.google.com.br/,1495034944

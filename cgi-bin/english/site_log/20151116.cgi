@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,by1-office.wargaming.net,178.172.239.243,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML like Gecko) Version/9.0.1 Safari/601.2.7,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1447674482
+トップページ,by1-office.wargaming.net,178.172.239.243,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML like Gecko) Version/9.0.1 Safari/601.2.7,http://dorency.com/,1447674465

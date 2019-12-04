@@ -1,0 +1,2 @@
+Contact,host45-54-dynamic.251-95-r.retail.telecomitalia.it,95.251.54.45,Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1516643996
+Company,host45-54-dynamic.251-95-r.retail.telecomitalia.it,95.251.54.45,Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4,https://www.google.it/,1516643931

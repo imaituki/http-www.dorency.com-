@@ -1,0 +1,3 @@
+トップページ,fp96f946f5.knge106.ap.nuro.jp,150.249.70.245,Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1561977049
+トップページ,msnbot-40-77-190-192.search.msn.com,40.77.190.192,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/english/,1561927792
+Company,81-231-108-193-no49.tbcn.telia.com,81.231.108.193,Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,https://www.google.com/,1561919938

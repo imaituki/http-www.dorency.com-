@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,cm-110-171-126-78.revip7.asianet.co.th,110.171.126.78,Mozilla/5.0 (iPad; CPU OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/english/,1502538817
+トップページ,cm-110-171-126-78.revip7.asianet.co.th,110.171.126.78,Mozilla/5.0 (iPad; CPU OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1502538799
+トップページ,014198025225.ctinets.com,14.198.25.225,Mozilla/5.0 (Linux; Android 7.0; SM-N9200 Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1502467173
+Company,014198025225.ctinets.com,14.198.25.225,Mozilla/5.0 (Linux; Android 7.0; SM-N9200 Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.google.com.hk/,1502467163

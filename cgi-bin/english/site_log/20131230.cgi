@@ -1,0 +1,3 @@
+Company,CPE68b6fca88013-CM68b6fca88010.cpe.net.cable.rogers.com,99.228.36.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/533.19.4 (KHTML like Gecko) Version/4.1.3 Safari/533.19.4,http://www.dorency.com/english/,1388332703
+OxygenAbsorber　HandWarmers,CPE68b6fca88013-CM68b6fca88010.cpe.net.cable.rogers.com,99.228.36.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/533.19.4 (KHTML like Gecko) Version/4.1.3 Safari/533.19.4,http://www.dorency.com/english/,1388332664
+トップページ,CPE68b6fca88013-CM68b6fca88010.cpe.net.cable.rogers.com,99.228.36.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/533.19.4 (KHTML like Gecko) Version/4.1.3 Safari/533.19.4,http://www.dorency.com/,1388332612

@@ -1,0 +1,2 @@
+トップページ,dsl-189-131-172-69-dyn.prod-infinitum.com.mx,189.131.172.69,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/45.0.188348008 Mobile/15D100 Safari/604.1,http://www.dorency.com/,1522024348
+Company,broadband-37.204-211-139.moscow.rt.ru,37.204.211.139,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,https://www.google.ru/,1521994705

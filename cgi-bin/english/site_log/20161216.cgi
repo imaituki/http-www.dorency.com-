@@ -1,0 +1,3 @@
+トップページ,p515119-ipngn200106okayamahigasi.okayama.ocn.ne.jp,153.195.40.119,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML like Gecko) Version/9.1.3 Safari/537.86.7,http://search.yahoo.co.jp/,1481849306
+OxygenAbsorber　HandWarmers,117.104.130.143,117.104.130.143,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1481836226
+Company,117.104.130.143,117.104.130.143,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,https://www.google.co.jp/,1481836190

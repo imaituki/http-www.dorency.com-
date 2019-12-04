@@ -1,0 +1,7 @@
+Company,gd056146.gd.kcv.ne.jp,219.103.56.146,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1436264623
+OxygenAbsorber　HandWarmers,gd056146.gd.kcv.ne.jp,219.103.56.146,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1436264617
+Equipments(Machines) for environmental maintenance,gd056146.gd.kcv.ne.jp,219.103.56.146,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1436264613
+トップページ,gd056146.gd.kcv.ne.jp,219.103.56.146,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1436264610
+OxygenAbsorber　HandWarmers,catv-142-181.tees.ne.jp,202.216.142.181,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.125 Safari/537.36 OPR/30.0.1835.88,https://www.google.co.jp/,1436262072
+Company,219-118-162-26.cust.bit-drive.ne.jp,219.118.162.26,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),http://www.dorency.com/english/,1436229980
+トップページ,219-118-162-26.cust.bit-drive.ne.jp,219.118.162.26,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),http://www.dorency.com/,1436229976

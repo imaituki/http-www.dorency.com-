@@ -1,0 +1,1 @@
+Company,114-137-103-223.emome-ip.hinet.net,114.137.103.223,Mozilla/5.0 (Linux; Android 7.0; LG-H990 Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.68 Mobile Safari/537.36,https://www.google.com.tw/,1528644853

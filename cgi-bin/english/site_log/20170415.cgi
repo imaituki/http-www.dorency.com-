@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,46.249.233.45,46.249.233.45,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.dorency.com/english/,1492241933
+トップページ,46.249.233.45,46.249.233.45,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://dorency.com/,1492241920
+OxygenAbsorber　HandWarmers,host81-141-3-32.in-addr.btcentralplus.com,81.141.3.32,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/english/,1492199172
+トップページ,host81-141-3-32.in-addr.btcentralplus.com,81.141.3.32,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/,1492199147

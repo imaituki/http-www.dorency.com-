@@ -1,0 +1,2 @@
+トップページ,broadband.actcorp.in,202.83.19.190,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.100 Safari/537.36,http://www.dorency.com/,1562669040
+Contact,23.231.34.223,23.231.34.223,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1562630113

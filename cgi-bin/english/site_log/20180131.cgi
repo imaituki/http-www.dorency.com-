@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,ipb6ab4da2.ap.nuro.jp,182.171.77.162,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B202 Safari/604.1,http://www.dorency.com/english/,1517367035
+トップページ,ipb6ab4da2.ap.nuro.jp,182.171.77.162,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B202 Safari/604.1,http://www.dorency.com/,1517367000

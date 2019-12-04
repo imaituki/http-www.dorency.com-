@@ -1,0 +1,1 @@
+トップページ,KD182250246010.au-net.ne.jp,182.250.246.10,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Mobile/11D201,http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%20%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&rs=1&ei=UTF-8&aq=-1&fr=yjapp2_hp,1403151198

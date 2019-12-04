@@ -1,0 +1,1 @@
+トップページ,lan-70-051.users.mns.ru,178.162.70.51,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C),http://www.dorency.com/,1295374072

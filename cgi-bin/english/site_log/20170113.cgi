@@ -1,0 +1,1 @@
+トップページ,gd163159.gd31.kcv.ne.jp,157.112.163.159,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1484260782

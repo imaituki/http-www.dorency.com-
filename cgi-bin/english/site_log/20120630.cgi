@@ -1,0 +1,2 @@
+Contact,msnbot-157-55-112-229.search.msn.com,157.55.112.229,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607),http://dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1341059542
+Equipments(Machines) for environmental maintenance,crawl-66-249-72-164.googlebot.com,66.249.72.164,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1340984877

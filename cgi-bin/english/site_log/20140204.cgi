@@ -1,0 +1,1 @@
+トップページ,sndr6.vert.securewg.jp,118.151.184.177,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1391509857

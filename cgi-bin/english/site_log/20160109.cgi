@@ -1,0 +1,4 @@
+Contact,baiduspider-220-181-108-187.crawl.baidu.com,220.181.108.187,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1452318037
+OxygenAbsorber　HandWarmers,182.30.186.170,182.30.186.170,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/english/,1452298856
+トップページ,182.30.186.170,182.30.186.170,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://dorency.com/,1452298787
+トップページ,105.193.149.20,105.193.149.20,Mozilla/5.0 (Linux; Android 4.1.2; GT-I9082 Build/JZO54K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,http://dorency.com/,1452269629

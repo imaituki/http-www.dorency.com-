@@ -1,0 +1,4 @@
+トップページ,softbank220019243158.bbtec.net,220.19.243.158,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1451049316
+Contact,42.112.178.175,42.112.178.175,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1451016982
+Equipments(Machines) for environmental maintenance,42.112.178.175,42.112.178.175,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari/537.36,http://www.dorency.com/english/,1451016974
+トップページ,42.112.178.175,42.112.178.175,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.98 Chrome/46.2.2490.98 Safari/537.36,http://dorency.com/,1451016926

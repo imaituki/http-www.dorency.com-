@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,softbank126013107027.bbtec.net,126.13.107.27,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1409803245
+Company,softbank126013107027.bbtec.net,126.13.107.27,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1409803221
+トップページ,softbank126013107027.bbtec.net,126.13.107.27,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,https://www.google.com/,1409803173

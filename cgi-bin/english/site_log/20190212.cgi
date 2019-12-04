@@ -1,0 +1,3 @@
+トップページ,cable-178-148-170-59.dynamic.sbb.rs,178.148.170.59,Mozilla/5.0 (Linux; Android 8.0.0; RNE-L21) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1549956247
+OxygenAbsorber　HandWarmers,om126208155167.22.openmobile.ne.jp,126.208.155.167,Mozilla/5.0 (Linux; Android 9; MI 8 Explorer Edition) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,https://www.google.com/,1549951360
+トップページ,IN-84-15-191-238.bitemobile.lt,84.15.191.238,Mozilla/5.0 (Linux; Android 9; EML-L29) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.96 Mobile Safari/537.36,http://www.dorency.com/,1549910944

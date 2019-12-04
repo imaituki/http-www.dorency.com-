@@ -1,0 +1,5 @@
+トップページ,bc01.pref.okayama.jp,210.236.108.4,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.4; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1266825660
+トップページ,p2175-ipbf502kobeminato.hyogo.ocn.ne.jp,58.92.77.175,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1266812614
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,dra13-2-82-237-247-67.fbx.proxad.net,82.237.247.67,Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8,http://www.dorency.com/english/,1266783926
+トップページ,dra13-2-82-237-247-67.fbx.proxad.net,82.237.247.67,Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8,http://www.dorency.com/,1266783919
+トップページ,77.70.124.118,77.70.124.118,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (.NET CLR 3.5.30729),http://www.dorency.com/,1266773142

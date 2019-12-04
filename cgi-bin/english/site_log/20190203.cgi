@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,x59cc89d3.dyn.telefonica.de,89.204.137.211,Mozilla/5.0 (Android 7.0; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1549174261
+Company,x59cc89d3.dyn.telefonica.de,89.204.137.211,Mozilla/5.0 (Android 7.0; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0,http://www.dorency.com/english/,1549174143
+トップページ,x59cc89d3.dyn.telefonica.de,89.204.137.211,Mozilla/5.0 (Android 7.0; Mobile; rv:64.0) Gecko/64.0 Firefox/64.0,http://dorency.com/,1549174122
+OxygenAbsorber　HandWarmers,softbank126071249081.bbtec.net,126.71.249.81,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1549153004
+Company,softbank126071249081.bbtec.net,126.71.249.81,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,http://www.dorency.com/english/,1549152996
+トップページ,softbank126071249081.bbtec.net,126.71.249.81,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1549152989

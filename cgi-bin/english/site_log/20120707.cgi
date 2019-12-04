@@ -1,0 +1,2 @@
+トップページ,hprm-26167.enjoy.ne.jp,202.222.124.67,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%88%B1&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1341643039
+Company,pc14139.ibara.ne.jp,117.18.24.139,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://search.yahoo.co.jp/search?p=dorencykabushikigaisya&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1341593053

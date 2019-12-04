@@ -1,0 +1,1 @@
+トップページ,s2003242.xgsspn.imtp.tachikawa.spmode.ne.jp,49.97.3.242,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,https://www.google.co.jp/,1416047638

@@ -1,0 +1,2 @@
+トップページ,p5164-adsau08doujib4-acca.osaka.ocn.ne.jp,221.191.248.164,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; YTB730; .NET4.0C),http://www.dorency.com/,1358428920
+トップページ,u657065.xgsbsn70.imtp.tachikawa.mopera.net,1.66.157.65,Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; F-01D Build/V28R43A) AppleWebKit/534.13 (KHTML like Gecko) Version/4.0 Safari/534.13,http://www.dorency.com/english/,1358399861

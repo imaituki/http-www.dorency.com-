@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,222-153-65-237.jetstream.xtra.co.nz,222.153.65.237,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1407921056
+OxygenAbsorber　HandWarmers,222-153-65-237.jetstream.xtra.co.nz,222.153.65.237,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/english/,1407920708
+トップページ,222-153-65-237.jetstream.xtra.co.nz,222.153.65.237,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/,1407920663

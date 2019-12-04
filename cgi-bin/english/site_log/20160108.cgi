@@ -1,0 +1,5 @@
+トップページ,1.46.96.223,1.46.96.223,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/11.1.66360 Mobile/13C75 Safari/600.1.4,http://www.dorency.com/,1452233228
+OxygenAbsorber　HandWarmers,200.202.49.122-static.velocitynet.com.au,122.49.202.200,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/english/,1452225694
+トップページ,200.202.49.122-static.velocitynet.com.au,122.49.202.200,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://dorency.com/,1452225652
+OxygenAbsorber　HandWarmers,1.209.172.3,1.209.172.3,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.106 Safari/537.36,http://www.dorency.com/english/,1452214529
+トップページ,1.209.172.3,1.209.172.3,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.106 Safari/537.36,http://www.dorency.com/,1452214516

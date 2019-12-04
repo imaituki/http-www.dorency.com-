@@ -1,0 +1,2 @@
+トップページ,p651223-ipbf1004kokuryo.gunma.ocn.ne.jp,60.32.33.223,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,https://search.yahoo.co.jp/,1563198759
+Company,61.202.243.99,61.202.243.99,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.100 Safari/537.36,https://www.google.com/,1563178427

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,106.215.229.13,106.215.229.13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0.2 Safari/602.3.12,http://www.dorency.com/english/,1495597725
+トップページ,106.215.229.13,106.215.229.13,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0.2 Safari/602.3.12,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1495597714

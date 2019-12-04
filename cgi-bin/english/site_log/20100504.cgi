@@ -1,0 +1,3 @@
+Company,122.248.9.2,122.248.9.2,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.google.com.bd/search?hl=bn&source=hp&q=Japan+Dorency+Company%2C+Japan&btnG=Google+%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8&meta=&aq=f&aqi=&aql=&oq=&gs_rfai=,1272972073
+Contact,61.153.228.10,61.153.228.10,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Apache),http://www.dorency.com/english/,1272945937
+トップページ,61.153.228.10,61.153.228.10,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Apache),http://www.dorency.com/,1272945843

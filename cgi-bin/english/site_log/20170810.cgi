@@ -1,0 +1,1 @@
+トップページ,om126212165027.14.openmobile.ne.jp,126.212.165.27,Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; 202F Build/V23R53C) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1502357634

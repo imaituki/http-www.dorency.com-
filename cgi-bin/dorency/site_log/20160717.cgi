@@ -1,0 +1,10 @@
+脱酸素剤・カイロ,115-38-52-66.gifu1.commufa.jp,115.38.52.66,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,https://www.google.co.jp/,1468748950
+トップページ,obs-dmz.e-obs.com,218.224.251.58,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML like Gecko) Version/5.1.1 Safari/534.51.22,http://www.dorency.com/,1468748640
+脱酸素剤・カイロ,sp49-98-74-78.mse.spmode.ne.jp,49.98.74.78,Mozilla/5.0 (Linux; Android 5.0; SC-04F Build/LRX21T) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36,http://www.dorency.com/,1468742252
+トップページ,sp49-98-74-78.mse.spmode.ne.jp,49.98.74.78,Mozilla/5.0 (Linux; Android 5.0; SC-04F Build/LRX21T) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36,http://www.dorency.com/,1468742237
+脱酸素剤・カイロ,KD111103171022.ppp-bb.dion.ne.jp,111.103.171.22,Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL24 Build/S8190) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.google.co.jp,1468737440
+会社概要,pw126186080237.7.panda-world.ne.jp,126.186.80.237,Mozilla/5.0 (iPad; CPU OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13E238 Safari/601.1,https://www.google.co.jp/,1468713045
+脱酸素剤・カイロ,178.149.13.160.dy.iij4u.or.jp,160.13.149.178,Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.81 Safari/537.36,https://www.google.co.jp/,1468709107
+脱酸素剤・カイロ,sp49-96-22-109.mse.spmode.ne.jp,49.96.22.109,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13F69 Safari/601.1,https://www.google.co.jp/,1468689392
+会社概要,114.111.166.52,114.111.166.52,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1468682611
+トップページ,114.111.166.52,114.111.166.52,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.pinghu.com/cn/readxx.asp?lm=402&lm2=419,1468682592

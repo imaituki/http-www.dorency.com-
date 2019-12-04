@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,p1215-ipbfp2202osakakita.osaka.ocn.ne.jp,123.219.21.215,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88+%EF%BC%B9%EF%BC%A6&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1395123080
+OxygenAbsorber　HandWarmers,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/english/,1395112471
+トップページ,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1395111190
+Company,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1395111176
+Equipments(Machines) for environmental maintenance,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1395111168
+OxygenAbsorber　HandWarmers,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/english/,1395111051
+トップページ,86.102.92.130,86.102.92.130,Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/,1395111014
+トップページ,dns3.mitsubishicorp.com,165.241.31.254,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET CLR 1.1.4322; .NET4.0C),http://www.dorency.com/,1395103745

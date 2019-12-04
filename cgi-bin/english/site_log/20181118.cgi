@@ -1,0 +1,1 @@
+トップページ,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (Linux; Android 8.0.0; VS988) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://dorency.com/,1542538235

@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,89-78-213-178.dynamic.chello.pl,89.78.213.178,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1,http://www.dorency.com/english/,1340544248
+トップページ,89-78-213-178.dynamic.chello.pl,89.78.213.178,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1,http://www.dorency.com/,1340544211
+OxygenAbsorber　HandWarmers,crawl-66-249-67-68.googlebot.com,66.249.67.68,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1340532393

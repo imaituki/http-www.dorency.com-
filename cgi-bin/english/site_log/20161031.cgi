@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,36-2-35-245.tokyo.fdn.vectant.ne.jp,36.2.35.245,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.71 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1477843490
+OxygenAbsorber　HandWarmers,36-2-35-245.tokyo.fdn.vectant.ne.jp,36.2.35.245,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.71 Safari/537.36,http://www.dorency.com/english/,1477843486
+トップページ,36-2-35-245.tokyo.fdn.vectant.ne.jp,36.2.35.245,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.71 Safari/537.36,https://www.google.co.jp/,1477843471

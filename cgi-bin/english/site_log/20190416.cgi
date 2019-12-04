@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,dynamicip-188-235-48-59.pppoe.voronezh.ertelecom.ru,188.235.48.59,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1555380176
+トップページ,om126193149226.23.openmobile.ne.jp,126.193.149.226,Mozilla/5.0 (Linux; Android 7.0; 606SH Build/S0020; wv) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/3.3.8,https://search.yahoo.co.jp/,1555367105

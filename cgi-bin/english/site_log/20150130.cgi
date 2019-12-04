@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,122x216x8x162.ap122.ftth.ucom.ne.jp,122.216.8.162,Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 920) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1422575332
+Company,122x216x8x162.ap122.ftth.ucom.ne.jp,122.216.8.162,Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 920) like Gecko,https://www.bing.com/search?q=dorency&input=1&form=MB1024&mkt=en-US&setlang=en-US,1422575321

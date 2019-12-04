@@ -1,0 +1,2 @@
+トップページ,175.red-79-156-219.staticip.rima-tde.net,79.156.219.175,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1469774699
+Company,175.red-79-156-219.staticip.rima-tde.net,79.156.219.175,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,https://www.google.es/,1469774672

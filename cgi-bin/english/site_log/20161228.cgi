@@ -1,0 +1,4 @@
+トップページ,178.34.203.160,178.34.203.160,Mozilla/5.0 (Linux; Android 4.4.2; IQ4415 Quad Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1482933890
+Company,178.34.203.160,178.34.203.160,Mozilla/5.0 (Linux; Android 4.4.2; IQ4415 Quad Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36,https://www.google.ru/,1482933878
+OxygenAbsorber　HandWarmers,p5552002-ipngn11302marunouchi.tokyo.ocn.ne.jp,220.104.81.2,Mozilla/5.0 (iPad; CPU OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,https://www.google.co.jp/,1482923040
+Company,61.202.243.99,61.202.243.99,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,https://www.google.co.jp/,1482861783

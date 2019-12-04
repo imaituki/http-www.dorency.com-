@@ -1,0 +1,1 @@
+トップページ,KD124210212150.ppp-bb.dion.ne.jp,124.210.212.150,Mozilla/5.0 (Linux; Android 7.0; SCV33 Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1506163381

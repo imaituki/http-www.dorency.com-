@@ -1,0 +1,2 @@
+Company,f067139.dynamic.ppp.asahi-net.or.jp,211.120.67.139,Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1391654089
+トップページ,f067139.dynamic.ppp.asahi-net.or.jp,211.120.67.139,Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDsQjBAwAg&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=dfTyUoHkLYn4lAWF0YGACw&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ,1391654009

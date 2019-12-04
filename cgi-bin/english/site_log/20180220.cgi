@@ -1,0 +1,3 @@
+OxygenAbsorberÅ@HandWarmers,pa49-180-166-152.pa.nsw.optusnet.com.au,49.180.166.152,Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1519114518
+Company,pa49-180-166-152.pa.nsw.optusnet.com.au,49.180.166.152,Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.google.co.jp/,1519114479
+OxygenAbsorberÅ@HandWarmers,123.21.101.98,123.21.101.98,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/42.0.183854831 Mobile/15D60 Safari/604.1,https://www.google.com.vn/,1519052462

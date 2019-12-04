@@ -1,0 +1,2 @@
+トップページ,203080231234.static.ctinets.com,203.80.231.234,Mozilla/5.0 (Linux; Android 9; ASUS_Z01RD) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1567501127
+トップページ,google-proxy-66-249-82-105.google.com,66.249.82.105,Mozilla/5.0 (Linux; Android 9; ASUS_Z01RD) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1567501127

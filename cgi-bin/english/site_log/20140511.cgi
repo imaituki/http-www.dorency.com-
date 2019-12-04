@@ -1,0 +1,1 @@
+トップページ,55.208.161.222.adsl-pool.jlccptt.net.cn,222.161.208.55,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/,1399777415

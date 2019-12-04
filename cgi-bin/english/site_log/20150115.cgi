@@ -1,0 +1,7 @@
+Equipments(Machines) for environmental maintenance,120.199.159.102,120.199.159.102,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1421328524
+Company,120.199.159.102,120.199.159.102,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1421327899
+トップページ,120.199.159.102,120.199.159.102,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1421327894
+OxygenAbsorber　HandWarmers,agw2.sc.mufg.jp,192.51.228.102,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/english/,1421295418
+トップページ,agw2.sc.mufg.jp,192.51.228.102,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0,http://www.dorency.com/notify-none_Notify?aHR0cDovL3d3dy5kb3JlbmN5LmNvbS9lbmdsaXNoLw==,1421294442
+Company,pb6abeb1a.tokyff01.ap.so-net.ne.jp,182.171.235.26,Mozilla/5.0 (Linux; Android 4.4.2; th-th; SAMSUNG SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36,http://www.dorency.com/english/,1421251524
+トップページ,pb6abeb1a.tokyff01.ap.so-net.ne.jp,182.171.235.26,Mozilla/5.0 (Linux; Android 4.4.2; th-th; SAMSUNG SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36,http://www.dorency.com/,1421251429

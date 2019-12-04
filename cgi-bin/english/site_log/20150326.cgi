@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,47-60-39-97.red-acceso.airtel.net,47.60.39.97,Mozilla/5.0 (Linux; Android 5.0.1; HTC One_M8 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36,http://www.dorency.com/english/,1427301495
+トップページ,47-60-39-97.red-acceso.airtel.net,47.60.39.97,Mozilla/5.0 (Linux; Android 5.0.1; HTC One_M8 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36,http://www.dorency.com/,1427301451

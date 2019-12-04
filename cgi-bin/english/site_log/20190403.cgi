@@ -1,0 +1,1 @@
+トップページ,i118-21-102-9.s30.a048.ap.plala.or.jp,118.21.102.9,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1554292931

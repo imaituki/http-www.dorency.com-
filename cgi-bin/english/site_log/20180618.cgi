@@ -1,0 +1,4 @@
+トップページ,host-62-245-234-12.customer.m-online.net,62.245.234.12,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.181 Safari/537.36,http://www.dorency.com/,1529321253
+トップページ,M014010133161.v4.enabler.ne.jp,14.10.133.161,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.1 Safari/605.1.15,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1529312572
+OxygenAbsorber　HandWarmers,M014010133161.v4.enabler.ne.jp,14.10.133.161,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.1 Safari/605.1.15,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1529312518
+Company,M014010133161.v4.enabler.ne.jp,14.10.133.161,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.1 Safari/605.1.15,https://www.google.co.jp/,1529312513

@@ -1,0 +1,4 @@
+Company,123.23.49.54,123.23.49.54,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://www.dorency.com/english/,1525509223
+Equipments(Machines) for environmental maintenance,123.23.49.54,123.23.49.54,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://www.dorency.com/english/,1525509195
+OxygenAbsorber　HandWarmers,123.23.49.54,123.23.49.54,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://www.dorency.com/english/,1525508831
+トップページ,123.23.49.54,123.23.49.54,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://dorency.com/,1525508790

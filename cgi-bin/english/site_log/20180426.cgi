@@ -1,0 +1,3 @@
+トップページ,LFbn-1-4535-244.w92-170.abo.wanadoo.fr,92.170.32.244,Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0,https://www.google.com/,1524724533
+Company,122-56-199-246.mobile.spark.co.nz,122.56.199.246,Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1524682257
+トップページ,122-56-199-246.mobile.spark.co.nz,122.56.199.246,Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://dorency.com/,1524682214

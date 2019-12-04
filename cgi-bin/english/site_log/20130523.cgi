@@ -1,0 +1,3 @@
+トップページ,p2177-ipbf1004kokuryo.gunma.ocn.ne.jp,123.224.75.177,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1369309698
+トップページ,202.4.4.26,202.4.4.26,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.93 Safari/537.36,http://www.dorency.com/,1369289446
+トップページ,103.246.38.196,103.246.38.196,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1369289446

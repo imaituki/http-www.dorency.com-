@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,softbank126050176100.bbtec.net,126.50.176.100,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/2.9.16),http://search.fenrir-inc.com/?q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88+YF&hl=ja&safe=off&lr=all&channel=sleipnir_2_w&span=&spelling=fef6df25949a4400d4c2d585e5ff4283,1370927945

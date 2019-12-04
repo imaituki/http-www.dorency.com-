@@ -1,0 +1,3 @@
+トップページ,KD119104085047.au-net.ne.jp,119.104.85.47,Mozilla/5.0 (Linux; Android 8.0.0; SOV33 Build/41.3.C.1.89) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36,http://www.dorency.com/,1540687684
+トップページ,google-proxy-66-249-82-140.google.com,66.249.82.140,Mozilla/5.0 (Linux; Android 8.0.0; SOV33 Build/41.3.C.1.89) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36,http://www.dorency.com/,1540687684
+トップページ,210.234.127.148,210.234.127.148,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.dorency.com/,1540668618

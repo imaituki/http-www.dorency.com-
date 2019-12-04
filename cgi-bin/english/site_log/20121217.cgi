@@ -1,0 +1,1 @@
+トップページ,210.190.121.199,210.190.121.199,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C),http://search.yahoo.co.jp/search?p=dorency&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=-1&oq=dorency,1355730372

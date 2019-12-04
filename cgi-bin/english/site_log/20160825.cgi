@@ -1,0 +1,1 @@
+Company,nttkyo089026.tkyo.nt.ngn2.ppp.infoweb.ne.jp,218.226.195.26,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.116 Safari/537.36,https://www.google.co.jp/,1472131960

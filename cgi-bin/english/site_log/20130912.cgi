@@ -1,0 +1,2 @@
+トップページ,p9095-ipngn100201oomichi.oita.ocn.ne.jp,180.49.0.95,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; YTB730),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1378973977
+トップページ,p2094-ipbfpfx02sasajima.aichi.ocn.ne.jp,58.92.247.94,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MALC),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1378940276

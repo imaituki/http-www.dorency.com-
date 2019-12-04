@@ -1,0 +1,12 @@
+脱酸素剤・カイロ,KD106168011226.ppp-bb.dion.ne.jp,106.168.11.226,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1565520681
+トップページ,111.206.198.76,111.206.198.76,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1565515973
+脱酸素剤・カイロ,180-199-189-32.nagoya1.commufa.jp,180.199.189.32,Mozilla/5.0 (Linux; Android 9; 801SO) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1565509011
+会社概要,KD111239176065.au-net.ne.jp,111.239.176.65,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.100 Safari/537.36,https://www.google.com/,1565503559
+トップページ,23.129.64.212,23.129.64.212,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://dorency.com/,1565488136
+脱酸素剤・カイロ,KD036008042191.ppp-bb.dion.ne.jp,36.8.42.191,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.100 Safari/537.36,https://www.google.com/,1565487782
+トップページ,111.206.198.47,111.206.198.47,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1565487199
+脱酸素剤・カイロ,p185.net059086143.tokai.or.jp,59.86.143.185,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) GSA/79.0.259819395 Mobile/16F203 Safari/604.1,https://www.google.com/,1565486775
+脱酸素剤・カイロ,softbank126207063069.bbtec.net,126.207.63.69,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1565478889
+トップページ,ONI-202-70-249-130.oninet.ne.jp,202.70.249.130,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,http://www.choinavi.net/shop/0081/001/04000953.html,1565473356
+脱酸素剤・カイロ,KD182249242004.au-net.ne.jp,182.249.242.4,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1565459378
+トップページ,baiduspider-111-206-221-42.crawl.baidu.com,111.206.221.42,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1565458657

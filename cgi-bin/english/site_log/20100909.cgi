@@ -1,0 +1,4 @@
+トップページ,proxy.dis.daiei.co.jp,202.25.169.3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.google.co.jp/search?hl=ja&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+KEEPIT&aq=f&aqi=&aql=&oq=&gs_rfai=,1284020595
+トップページ,210.13.74.222,210.13.74.222,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.9) Gecko/20100824 Firefox/3.6.9 GTB7.1 ( .NET CLR 3.5.30729; .NET4.0E),http://www.dorency.com/,1284019137
+トップページ,61.202.227.209,61.202.227.209,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&q=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=&aq=f&aqi=&aql=&oq=&gs_rfai=,1284000740
+トップページ,115.228.236.85,115.228.236.85,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Foxy/1),http://www.dorency.com/,1284000680

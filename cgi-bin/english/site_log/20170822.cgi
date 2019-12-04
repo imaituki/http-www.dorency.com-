@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,49.230.223.155,49.230.223.155,Mozilla/5.0 (Linux; Android 4.3; SM-N900 Build/JSS15J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1503388825
+Company,49.230.223.155,49.230.223.155,Mozilla/5.0 (Linux; Android 4.3; SM-N900 Build/JSS15J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36,https://www.google.co.th/,1503388797

@@ -1,0 +1,1 @@
+Company,122-118-84-75.dynamic.hinet.net,122.118.84.75,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML like Gecko) Chrome/26.0.1410.64 Safari/537.31,http://search.yahoo.co.jp/search?p=DORENCY+CO.%2C+LTD&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1367233416

@@ -1,0 +1,13 @@
+脱酸素剤・カイロ,125.125.206.211,125.125.206.211,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1241531332
+会社概要,125.125.206.211,125.125.206.211,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6),http://www.dorency.com/,1241531280
+トップページ,125.125.206.211,125.125.206.211,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6),http://www.pinghu.com/,1241531270
+脱酸素剤・カイロ,EM114-48-57-38.pool.e-mobile.ne.jp,114.48.57.38,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1241519515
+会社概要,EM114-48-57-38.pool.e-mobile.ne.jp,114.48.57.38,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1241519454
+トップページ,EM114-48-57-38.pool.e-mobile.ne.jp,114.48.57.38,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=0&oq=,1241519442
+脱酸素剤・カイロ,w4d254.BN4.vectant.ne.jp,124.110.61.254,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1241512037
+トップページ,w4d254.BN4.vectant.ne.jp,124.110.61.254,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&btnG=%E6%A4%9C%E7%B4%A2&lr=,1241512026
+脱酸素剤・カイロ,softbank218139000015.bbtec.net,218.139.0.15,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.google.co.jp/search?hl=ja&q=%E8%84%B1%E9%85%B8%E7%B4%A0&lr=lang_ja&aq=f&oq=,1241510461
+トップページ,122.225.12.146,122.225.12.146,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.pinghu.com/,1241502390
+トップページ,123.155.232.127,123.155.232.127,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ),http://www.pinghu.com/index.asp,1241502140
+トップページ,210.82.87.233,210.82.87.233,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Poco 0.31;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.50727; MAXTHON 2.0),http://www.dorency.com.cn/contact.htm,1241494115
+トップページ,p927fd3.okymnt01.ap.so-net.ne.jp,59.146.127.211,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-jp) AppleWebKit/312.9 (KHTML like Gecko) Safari/312.6,http://www.google.com/search?client=safari&rls=ja-jp&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89&ie=UTF-8&oe=UTF-8,1241475688

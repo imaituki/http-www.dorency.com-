@@ -1,0 +1,3 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,p2086-ipbf7404marunouchi.tokyo.ocn.ne.jp,114.164.245.86,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6,http://www.dorency.com/english/,1267006164
+トップページ,p2086-ipbf7404marunouchi.tokyo.ocn.ne.jp,114.164.245.86,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6,http://www.dorency.com/,1267006109
+トップページ,115.192.214.200,115.192.214.200,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Maxthon 2.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1266975516

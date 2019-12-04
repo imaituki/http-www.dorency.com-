@@ -1,0 +1,1 @@
+トップページ,zaqdadc1f81.zaq.ne.jp,218.220.31.129,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.83 Safari/535.11,http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&tid=top_ga1_sa&ei=UTF-8&pstart=1&fr=top_ga1_sa&b=11,1333027069

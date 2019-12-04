@@ -1,0 +1,4 @@
+トップページ,p386094-ipngn200303sasajima.aichi.ocn.ne.jp,122.23.177.94,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1483093301
+OxygenAbsorber　HandWarmers,176.204.55.203,176.204.55.203,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1483033974
+OxygenAbsorber　HandWarmers,bba78871.alshamil.net.ae,217.164.147.131,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/english/,1483027614
+トップページ,bba78871.alshamil.net.ae,217.164.147.131,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://dorency.com/,1483027591

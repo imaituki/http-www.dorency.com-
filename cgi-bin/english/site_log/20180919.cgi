@@ -1,0 +1,3 @@
+Company,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,https://www.google.co.in/,1537347293
+OxygenAbsorber　HandWarmers,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.dorency.com/english/,1537337993
+トップページ,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.dorency.com/,1537337897

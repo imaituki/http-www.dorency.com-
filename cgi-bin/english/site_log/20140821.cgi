@@ -1,0 +1,6 @@
+Equipments(Machines) for environmental maintenance,197-83-234-42.dbn.mweb.co.za,197.83.234.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.143 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1408619726
+Contact,197-83-234-42.dbn.mweb.co.za,197.83.234.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.143 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1408619718
+Company,197-83-234-42.dbn.mweb.co.za,197.83.234.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.143 Safari/537.36,http://www.dorency.com/english/,1408619686
+OxygenAbsorber　HandWarmers,197-83-234-42.dbn.mweb.co.za,197.83.234.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.143 Safari/537.36,http://www.dorency.com/english/,1408619449
+トップページ,197-83-234-42.dbn.mweb.co.za,197.83.234.42,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.143 Safari/537.36,http://www.dorency.com/,1408619337
+トップページ,171.39.107.214,171.39.107.214,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1408589950

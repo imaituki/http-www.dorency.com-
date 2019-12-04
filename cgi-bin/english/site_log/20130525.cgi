@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,ppp121-44-175-137.lns20.syd7.internode.on.net,121.44.175.137,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.90 Safari/537.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1369455146
+Company,ppp121-44-175-137.lns20.syd7.internode.on.net,121.44.175.137,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.90 Safari/537.1,http://www.dorency.com/english/,1369455128
+トップページ,ppp121-44-175-137.lns20.syd7.internode.on.net,121.44.175.137,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.90 Safari/537.1,http://dorency.com/,1369455088

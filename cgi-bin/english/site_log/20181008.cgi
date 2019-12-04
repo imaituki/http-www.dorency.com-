@@ -1,0 +1,1 @@
+Company,ppp-124-120-113-214.revip2.asianet.co.th,124.120.113.214,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,https://www.google.co.th/,1538982213

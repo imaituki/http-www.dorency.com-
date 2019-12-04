@@ -1,0 +1,1 @@
+トップページ,finarl.st.wakwak.ne.jp,61.205.234.206,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1332478924

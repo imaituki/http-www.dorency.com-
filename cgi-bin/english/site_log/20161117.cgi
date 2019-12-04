@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1479384228
+Company,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,https://www.google.co.uk/,1479384185
+Company,14.37.217.63,14.37.217.63,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1479361001
+Equipments(Machines) for environmental maintenance,14.37.217.63,14.37.217.63,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1479360997
+OxygenAbsorber　HandWarmers,14.37.217.63,14.37.217.63,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1479360995
+トップページ,14.37.217.63,14.37.217.63,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1479360917
+OxygenAbsorber　HandWarmers,i114-185-208-65.s41.a019.ap.plala.or.jp,114.185.208.65,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0.1 Safari/602.2.14,https://www.google.co.jp/,1479349811

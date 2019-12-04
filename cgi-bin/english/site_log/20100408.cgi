@@ -1,0 +1,3 @@
+トップページ,61.197.184.89,61.197.184.89,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; ja-jp) AppleWebKit/531.22.7 (KHTML like Gecko) Version/4.0.5 Safari/531.22.7,http://www.google.co.jp/search?client=safari&rls=en&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80keepit&ie=UTF-8&oe=UTF-8&redir_esc=&ei=IHG9S524NsyGkAWy1pnJBQ,1270706468
+トップページ,gd052246.gd.kcv.ne.jp,219.103.52.246,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1270705157
+トップページ,msnbot-207-46-12-158.search.msn.com,207.46.12.158,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648),http://www.dorency.com/english/,1270696319

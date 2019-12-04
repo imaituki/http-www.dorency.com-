@@ -1,0 +1,2 @@
+Company,120.89.109.48,120.89.109.48,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/35.0.167640935 Mobile/14G60 Safari/602.1,http://www.dorency.com/english/,1506589914
+トップページ,120.89.109.48,120.89.109.48,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/35.0.167640935 Mobile/14G60 Safari/602.1,http://dorency.com/,1506589864

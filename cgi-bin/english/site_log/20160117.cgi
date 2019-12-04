@@ -1,0 +1,6 @@
+Company,89.196.166.35,89.196.166.35,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1453033340
+OxygenAbsorber　HandWarmers,89.196.166.35,89.196.166.35,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/english/,1453033021
+トップページ,89.196.166.35,89.196.166.35,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/,1453032982
+OxygenAbsorber　HandWarmers,124.82.78.99,124.82.78.99,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1453027650
+トップページ,124.82.78.99,124.82.78.99,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1453027624
+OxygenAbsorber　HandWarmers,j104018.ppp.asahi-net.or.jp,61.213.104.18,Mozilla/5.0 (Linux; Android 5.1.1; SM-N915G Build/LMY47X) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36,https://www.google.co.jp/,1452988137

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,KD182249117252.au-net.ne.jp,182.249.117.252,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.dorency.com/english/,1359595504
+トップページ,KD182249117252.au-net.ne.jp,182.249.117.252,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.google.co.jp/search?q=rakuraku+kairo&ie=UTF-8&oe=UTF-8&hl=en&client=safari&redir_esc=&ei=1McJUfnpAcnNkwXNjYHwAQ,1359595486

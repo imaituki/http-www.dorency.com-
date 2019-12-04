@@ -1,0 +1,2 @@
+Company,p80202-ipbffx02marunouchi.tokyo.ocn.ne.jp,211.129.87.202,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.72 Safari/537.36,https://www.google.co.jp/,1375330704
+Company,ip091.user.xsp.fenics.jp,202.248.21.91,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MALC; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; YTB730),http://search.yahoo.co.jp/search?fr=slv1-tbtop&p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%E3%80%8050&ei=UTF-8,1375320204

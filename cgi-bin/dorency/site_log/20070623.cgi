@@ -1,0 +1,13 @@
+会社概要,p2188-ipbf207niigatani.niigata.ocn.ne.jp,122.17.16.188,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1182602662
+脱酸素剤・カイロ,p2188-ipbf207niigatani.niigata.ocn.ne.jp,122.17.16.188,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/,1182602613
+トップページ,p2188-ipbf207niigatani.niigata.ocn.ne.jp,122.17.16.188,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%B3%F4%BC%B0%B2%F1%BC%D2&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1182602571
+脱酸素剤・カイロ,cb8a1d-096.dynamic.tiki.ne.jp,203.138.29.96,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1182586385
+トップページ,cb8a1d-096.dynamic.tiki.ne.jp,203.138.29.96,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.yahoo.co.jp/search/dir?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&tid=top_v2&ei=UTF-8&search_x=1&pstart=1&fr=top_v2&h=s&b=11,1182586377
+ショッピング,Air1Aas090.ngn.mesh.ad.jp,219.107.242.90,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1182566098
+会社概要,Air1Aas090.ngn.mesh.ad.jp,219.107.242.90,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1182566014
+トップページ,Air1Aas090.ngn.mesh.ad.jp,219.107.242.90,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.live.com/spresults.aspx?q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC,1182565986
+お問合わせ,ZD221087.ppp.dion.ne.jp,220.214.221.87,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.dorency.com/,1182562095
+トップページ,ZD221087.ppp.dion.ne.jp,220.214.221.87,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%C2%E7%C7%FE%BC%E3%CD%D5%A1%A1%B2%AC%BB%B3%B8%A9&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=19&y=7,1182562091
+トップページ,186.208.184.222.broad.nt.js.dynamic.163data.com.cn,222.184.208.186,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.50727; TheWorld),http://www.dorency.com/,1182559137
+ショッピング,NIHfb-07p1-5.ppp11.odn.ad.jp,219.67.30.5,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1182554040
+トップページ,NIHfb-07p1-5.ppp11.odn.ad.jp,219.67.30.5,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%A1%A1%C2%E7%C7%FE%BC%E3%CD%D5&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1182554014

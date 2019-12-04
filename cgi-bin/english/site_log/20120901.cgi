@@ -1,0 +1,1 @@
+トップページ,p927f1f.okymnt01.ap.so-net.ne.jp,59.146.127.31,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1346505077

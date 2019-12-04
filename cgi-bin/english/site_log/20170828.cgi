@@ -1,0 +1,2 @@
+Equipments(Machines) for environmental maintenance,21.subnet110-138-3.speedy.telkom.net.id,110.138.3.21,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/60.0.3112.101 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1503901617
+OxygenAbsorberÅ@HandWarmers,21.subnet110-138-3.speedy.telkom.net.id,110.138.3.21,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/60.0.3112.101 Safari/537.36,https://www.google.co.id/,1503901515

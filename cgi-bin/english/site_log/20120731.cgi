@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,219.146.138.194,219.146.138.194,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; KB974488),http://www.dorency.com/english/,1343704890
+トップページ,219.146.138.194,219.146.138.194,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; KB974488),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1343704868

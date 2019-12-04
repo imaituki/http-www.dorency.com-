@@ -1,0 +1,3 @@
+トップページ,google-proxy-66-249-82-181.google.com,66.249.82.181,Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) CriOS/43.0.2357.61 Mobile/12F70 Safari/600.1.4,http://www.dorency.com/,1435669051
+OxygenAbsorber　HandWarmers,124x38x229x157.ap124.ftth.ucom.ne.jp,124.38.229.157,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.130 Safari/537.36,http://www.dorency.com/english/,1435666805
+トップページ,124x38x229x157.ap124.ftth.ucom.ne.jp,124.38.229.157,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.130 Safari/537.36,http://www.dorency.com/,1435666784

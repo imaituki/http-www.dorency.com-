@@ -1,0 +1,1 @@
+トップページ,ip98-176-140-116.sd.sd.cox.net,98.176.140.116,Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LG-D415 Build/KOT49I.D41510c) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36,http://www.dorency.com/,1419992299

@@ -1,0 +1,2 @@
+トップページ,msnbot-131-253-27-116.search.msn.com,131.253.27.116,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b,http://dorency.com/english/,1508190948
+Company,msnbot-65-55-210-83.search.msn.com,65.55.210.83,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b,http://dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1508176557

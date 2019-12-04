@@ -1,0 +1,12 @@
+Contact,119.73.130.242,119.73.130.242,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1459760757
+OxygenAbsorber　HandWarmers,119.73.130.242,119.73.130.242,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1459760144
+トップページ,119.73.130.242,119.73.130.242,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1459760110
+Equipments(Machines) for environmental maintenance,119.73.130.242,119.73.130.242,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.8.9 (KHTML like Gecko) Version/6.2.8 Safari/537.85.17,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1459755000
+Contact,119.73.130.242,119.73.130.242,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.8.9 (KHTML like Gecko) Version/6.2.8 Safari/537.85.17,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1459754981
+Company,119.73.130.242,119.73.130.242,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.8.9 (KHTML like Gecko) Version/6.2.8 Safari/537.85.17,http://www.dorency.com/english/,1459754966
+トップページ,119.73.130.242,119.73.130.242,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.8.9 (KHTML like Gecko) Version/6.2.8 Safari/537.85.17,http://www.dorency.com/,1459754906
+トップページ,26.77.239.49.rev.vmobile.jp,49.239.77.26,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Mobile/13E233,http://www.dorency.com/,1459739858
+Company,122x209x123x10.ap122.ftth.ucom.ne.jp,122.209.123.10,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1459728590
+トップページ,122x209x123x10.ap122.ftth.ucom.ne.jp,122.209.123.10,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1459728550
+OxygenAbsorber　HandWarmers,152-250-148-237.user.vivozap.com.br,152.250.148.237,Mozilla/5.0 (Linux; Android 6.0; XT1068 Build/MPB24.65-34) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36,http://www.dorency.com/english/,1459700501
+トップページ,152-250-148-237.user.vivozap.com.br,152.250.148.237,Mozilla/5.0 (Linux; Android 6.0; XT1068 Build/MPB24.65-34) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.105 Mobile Safari/537.36,http://www.dorency.com/,1459700486

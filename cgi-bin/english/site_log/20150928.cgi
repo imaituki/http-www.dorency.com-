@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,KD182249245170.au-net.ne.jp,182.249.245.170,Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4,http://www.dorency.com/english/,1443407075
+トップページ,KD182249245170.au-net.ne.jp,182.249.245.170,Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1443407068
+Company,baiduspider-123-125-71-60.crawl.baidu.com,123.125.71.60,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1443404203

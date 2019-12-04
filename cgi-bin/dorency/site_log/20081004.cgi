@@ -1,0 +1,28 @@
+トップページ,74.125.74.37,74.125.74.37,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;Google Wireless Transcoder;),,1223121490
+トップページ,p1010-ipbf901souka.saitama.ocn.ne.jp,122.25.80.10,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1223119944
+会社概要,p1010-ipbf901souka.saitama.ocn.ne.jp,122.25.80.10,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1223119941
+お問合わせ,p1010-ipbf901souka.saitama.ocn.ne.jp,122.25.80.10,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1223119938
+脱酸素剤・カイロ,p1010-ipbf901souka.saitama.ocn.ne.jp,122.25.80.10,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17,http://www.dorency.com/,1223119927
+トップページ,p1010-ipbf901souka.saitama.ocn.ne.jp,122.25.80.10,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17,http://www.google.co.jp/search?q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=lang_ja&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:ja:official&client=firefox-a,1223119631
+トップページ,67.192.122.76,67.192.122.76,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),http://www.dorency.com/,1223115280
+脱酸素剤・カイロ,p1149-ipad13okayamaima.okayama.ocn.ne.jp,220.105.80.149,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/,1223103976
+トップページ,p1149-ipad13okayamaima.okayama.ocn.ne.jp,220.105.80.149,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&ei=UTF-8&fr=top_ga1&x=wrt,1223103944
+トップページ,61.247.222.48,61.247.222.48,Yeti/1.0 (+http://help.naver.com/robots/),,1223092196
+メール送信（ショッピングカート）,menet71.rcn.ne.jp,210.143.241.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi,1223092100
+脱酸素剤・カイロ,menet71.rcn.ne.jp,210.143.241.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322),http://www.dorency.com/,1223091029
+ショッピング,menet71.rcn.ne.jp,210.143.241.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322),http://www.dorency.com/,1223090897
+トップページ,menet71.rcn.ne.jp,210.143.241.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8,1223090886
+会社概要,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1223086857
+お問合わせ,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1223086843
+ショッピング,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1223086837
+脱酸素剤・カイロ,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1223086811
+会社概要,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1223086734
+トップページ,EATcf-399p228.ppp15.odn.ne.jp,61.116.48.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://odn.excite.co.jp/search.gw?search=%83h%83%8C%83%93%83V%81%5B&target=combined&look=odn_jp&pref=,1223086716
+脱酸素剤・カイロ,p1170-ipbf307niho.hiroshima.ocn.ne.jp,122.23.64.170,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1223084183
+トップページ,p1170-ipbf307niho.hiroshima.ocn.ne.jp,122.23.64.170,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.msn.co.jp/results.aspx?q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&FORM=MSNH,1223084110
+トップページ,fw.chubyoin.pref.ibaraki.jp,210.148.87.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.co.jp/search?sourceid=navclient&aq=t&hl=ja&ie=UTF-8&rlz=1T4GFRC_jaJP205JP205&q=%e8%84%b1%e9%85%b8%e7%b4%a0%e5%89%a4+%e8%b3%bc%e5%85%a5,1223079468
+通販法の表記,fw.chubyoin.pref.ibaraki.jp,210.148.87.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1223079412
+ショッピング,fw.chubyoin.pref.ibaraki.jp,210.148.87.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1223079397
+脱酸素剤・カイロ,fw.chubyoin.pref.ibaraki.jp,210.148.87.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/,1223079346
+トップページ,fw.chubyoin.pref.ibaraki.jp,210.148.87.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.co.jp/search?sourceid=navclient&aq=t&hl=ja&ie=UTF-8&rlz=1T4GFRC_jaJP205JP205&q=%e8%84%b1%e9%85%b8%e7%b4%a0%e5%89%a4+%e8%b3%bc%e5%85%a5,1223079329
+脱酸素剤・カイロ,host-B032.tcl.ne.jp,210.251.95.32,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&c2coff=1&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&lr=,1223078854

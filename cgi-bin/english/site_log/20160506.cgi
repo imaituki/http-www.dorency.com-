@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.94 Safari/537.36,http://www.dorency.com/english/,1462506271
+トップページ,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.94 Safari/537.36,http://www.dorency.com/,1462506263
+トップページ,36-232-140-241.dynamic-ip.hinet.net,36.232.140.241,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1462504030
+Contact,36-232-140-241.dynamic-ip.hinet.net,36.232.140.241,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1462504024
+OxygenAbsorber　HandWarmers,36-232-140-241.dynamic-ip.hinet.net,36.232.140.241,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1462504012
+Equipments(Machines) for environmental maintenance,36-232-140-241.dynamic-ip.hinet.net,36.232.140.241,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1462503912
+Company,36-232-140-241.dynamic-ip.hinet.net,36.232.140.241,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:45.0) Gecko/20100101 Firefox/45.0,https://www.google.com.tw,1462503875

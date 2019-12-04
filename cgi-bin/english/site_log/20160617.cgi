@@ -1,0 +1,4 @@
+トップページ,p5015-ipngnfx01okayamaima.okayama.ocn.ne.jp,114.160.220.143,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1466145613
+OxygenAbsorber　HandWarmers,node-hmv.pool-125-24.dynamic.totbb.net,125.24.89.71,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.84 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1466141670
+Company,node-hmv.pool-125-24.dynamic.totbb.net,125.24.89.71,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.84 Safari/537.36,https://www.google.co.th/,1466141642
+Company,p5DCEEFA0.dip0.t-ipconnect.de,93.206.239.160,Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 550) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1466111343

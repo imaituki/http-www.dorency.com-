@@ -1,0 +1,3 @@
+Company,168.235.195.207,168.235.195.207,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML like Gecko) Mobile/14E277 UCBrowser/10.8.5.876 Mobile,http://www.dorency.com/english/,1492439324
+トップページ,168.235.195.207,168.235.195.207,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML like Gecko) Mobile/14E277 UCBrowser/10.8.5.876 Mobile,http://www.dorency.com/,1492439256
+トップページ,p258187-ipngn200207okayamahigasi.okayama.ocn.ne.jp,153.176.95.187,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1492438780

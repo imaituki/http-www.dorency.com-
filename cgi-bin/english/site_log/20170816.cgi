@@ -1,0 +1,4 @@
+トップページ,KD182251255006.au-net.ne.jp,182.251.255.6,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1502869092
+トップページ,KD182251255018.au-net.ne.jp,182.251.255.18,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1502867139
+OxygenAbsorber　HandWarmers,183.12.222.146,183.12.222.146,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36,http://www.dorency.com/english/,1502865948
+トップページ,183.12.222.146,183.12.222.146,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.75 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1502865936

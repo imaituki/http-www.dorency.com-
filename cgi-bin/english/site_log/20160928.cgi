@@ -1,0 +1,2 @@
+Company,k165245.dynamic.ppp.asahi-net.or.jp,218.45.165.245,Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1475037542
+トップページ,k165245.dynamic.ppp.asahi-net.or.jp,218.45.165.245,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.bing.com/search?q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&src=IE-SearchBox&FORM=IENTTR&conversationid=,1475037163

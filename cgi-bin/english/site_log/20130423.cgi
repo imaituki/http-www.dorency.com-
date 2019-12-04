@@ -1,0 +1,1 @@
+トップページ,218.228.195.68,218.228.195.68,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.google.co.jp/url?sa=t&rct=j&q=oomugiwakaba%20english&source=web&cd=10&ved=0CHYQFjAJ&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=HTx2UcDUNIGpiAeRooGoDA&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&bvm=bv.45512109&#44;d.aGc,1366703135

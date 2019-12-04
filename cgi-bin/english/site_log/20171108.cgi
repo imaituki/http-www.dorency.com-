@@ -1,0 +1,3 @@
+トップページ,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A432 Safari/604.1,http://www.dorency.com/,1510138998
+OxygenAbsorber　HandWarmers,p546195-ipngn200604kobeminato.hyogo.ocn.ne.jp,114.161.135.195,Mozilla/5.0 (Linux; Android 6.0.1; SM-G925T Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36,http://www.dorency.com/english/,1510137226
+トップページ,p546195-ipngn200604kobeminato.hyogo.ocn.ne.jp,114.161.135.195,Mozilla/5.0 (Linux; Android 6.0.1; SM-G925T Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36,http://www.dorency.com/,1510137168

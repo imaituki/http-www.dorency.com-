@@ -1,0 +1,1 @@
+トップページ,KD182251249044.au-net.ne.jp,182.251.249.44,Mozilla/5.0 (Linux; Android 7.1.1; SOV35 Build/41.2.C.0.228) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.google.co.jp/,1507174103

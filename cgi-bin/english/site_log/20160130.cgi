@@ -1,0 +1,3 @@
+トップページ,204.79.180.24,204.79.180.24,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0),http://www.dorency.com/english/,1454143398
+Company,bb220-255-30-216.singnet.com.sg,220.255.30.216,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/48.0.2564.97 Safari/537.36,https://www.google.com.sg/,1454138784
+トップページ,softbank126022118153.bbtec.net,126.22.118.153,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1454083939

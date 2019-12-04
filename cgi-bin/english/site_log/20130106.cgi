@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,softbank126112214022.biz.bbtec.net,126.112.214.22,Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25,http://www.dorency.com/english/,1357440011
+トップページ,softbank126112214022.biz.bbtec.net,126.112.214.22,Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25,http://dorency.com/,1357439975

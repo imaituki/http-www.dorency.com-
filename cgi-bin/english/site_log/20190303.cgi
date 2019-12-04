@@ -1,0 +1,3 @@
+トップページ,ai126146068249.53.access-internet.ne.jp,126.146.68.249,Mozilla/5.0 (Android 8.0.0; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0,http://dorency.com/,1551586421
+トップページ,KD106142240076.au-net.ne.jp,106.142.240.76,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://dorency.com/,1551580586
+Equipments(Machines) for environmental maintenance,msnbot-40-77-188-212.search.msn.com,40.77.188.212,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1551580415

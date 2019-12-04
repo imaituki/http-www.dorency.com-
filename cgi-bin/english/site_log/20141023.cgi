@@ -1,0 +1,1 @@
+トップページ,p21044-ipngnfx01marunouchi.tokyo.ocn.ne.jp,114.179.76.44,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://search.yahoo.co.jp/search?p=KEEPIT+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1414052326

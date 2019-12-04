@@ -1,0 +1,2 @@
+トップページ,58-70-162-175f1.wky1.eonet.ne.jp,58.70.162.175,Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SOL25 Build/17.1.1.C.1.64) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.google.co.jp,1415419942
+トップページ,91.sub-174-230-195.myvzw.com,174.230.195.91,Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; SCH-I110 Build/GA1) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://dorency.com/,1415402211

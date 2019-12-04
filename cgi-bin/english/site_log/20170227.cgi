@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,d108-180-193-58.bchsia.telus.net,108.180.193.58,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/english/,1488147303
+トップページ,d108-180-193-58.bchsia.telus.net,108.180.193.58,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/,1488147272

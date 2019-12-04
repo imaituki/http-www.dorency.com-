@@ -1,0 +1,1 @@
+トップページ,49.217.61.75,49.217.61.75,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML like Gecko) Mobile/15C153 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.2,https://search.yahoo.co.jp/,1545185824

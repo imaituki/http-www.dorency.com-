@@ -1,0 +1,2 @@
+トップページ,ip-177-79-9-88.user.vivozap.com.br,177.79.9.88,Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1499735352
+トップページ,google-proxy-66-249-85-4.google.com,66.249.85.4,Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1499735351

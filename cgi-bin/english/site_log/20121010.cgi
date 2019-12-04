@@ -1,0 +1,3 @@
+Company,211.216.141.66,211.216.141.66,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; InfoPath.2; .NET CLR 1.1.4322),http://www.dorency.com/english/,1349850585
+トップページ,211.216.141.66,211.216.141.66,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; InfoPath.2; .NET CLR 1.1.4322),http://www.dorency.com/,1349850579
+Company,dynamic-114-69-16-145.vips.gol.ne.jp,114.69.16.145,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1349850089

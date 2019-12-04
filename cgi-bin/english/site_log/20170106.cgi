@@ -1,0 +1,3 @@
+トップページ,cpe-23-243-10-255.socal.res.rr.com,23.243.10.255,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A403 Safari/602.1,http://www.dorency.com/,1483682679
+OxygenAbsorber　HandWarmers,14.100.136.201,14.100.136.201,Mozilla/5.0 (Linux; Android 5.1.1; SM-G920I Build/LMY47X) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1483674769
+Company,14.100.136.201,14.100.136.201,Mozilla/5.0 (Linux; Android 5.1.1; SM-G920I Build/LMY47X) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36,https://www.google.com.sg/,1483674760

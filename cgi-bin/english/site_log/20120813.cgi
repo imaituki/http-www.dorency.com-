@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,static-50-53-95-189.bvtn.or.frontiernet.net,50.53.95.189,Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5,http://www.google.com/search?q=keepit+oxygen+absorber&ie=UTF-8&oe=UTF-8&hl=en&client=safari,1344839271

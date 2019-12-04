@@ -1,0 +1,1 @@
+トップページ,softbank221087077122.bbtec.net,221.87.77.122,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.7.12 (KHTML like Gecko) Version/6.2.7 Safari/537.85.16,http://search.yahoo.co.jp/search;_ylt=A7dPgojx251VWg8ALHyJBtF7?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80KEEPIT&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=&afs=,1436408850

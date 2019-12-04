@@ -1,0 +1,15 @@
+ショッピング,pv02proxy05.ezweb.ne.jp,222.15.68.211,Mozilla/4.0 (compatible; MSIE 6.0; KDDI-TS3B) Opera 8.60 [ja],http://www.dorency.com/,1214146023
+ショッピング,pv02proxy01.ezweb.ne.jp,222.15.68.207,Mozilla/4.0 (compatible; MSIE 6.0; KDDI-TS3B) Opera 8.60 [ja],http://www.dorency.com/,1214146023
+トップページ,pv02proxy03.ezweb.ne.jp,222.15.68.209,Mozilla/4.0 (compatible; MSIE 6.0; KDDI-TS3B) Opera 8.60 [ja],http://search.auone.jp/?q=%91%E5%94%9E%8E%E1%97t%20%83h%83%8C%83%93%83V%81[&sr=0201,1214145995
+トップページ,softbank220062057140.bbtec.net,220.62.57.140,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://search.yahoo.co.jp/search?fr=slv1-adbe&p=%E9%80%9A%E8%B2%A9%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&ei=UTF-8,1214137468
+脱酸素剤・カイロ,softbank220062057140.bbtec.net,220.62.57.140,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://search.yahoo.co.jp/search?fr=slv1-adbe&p=%E9%80%9A%E8%B2%A9%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&ei=UTF-8,1214137302
+通販法の表記,zaq3d7d5536.zaq.ne.jp,61.125.85.54,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1214121838
+脱酸素剤・カイロ,zaq3d7d5536.zaq.ne.jp,61.125.85.54,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1214121823
+トップページ,220.65.198.218,220.65.198.218,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IPMS/9001A8C0-1485DE10C0C;  Embedded Web Browser from: http://bsalsa.com/),http://www.dorency.com,1214113276
+トップページ,110.153.163.60.broad.jx.zj.dynamic.163data.com.cn,60.163.153.110,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; KuGooSoft),http://www.pinghu.com/,1214110998
+お問合わせ,softbank220024101121.bbtec.net,220.24.101.121,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1214106441
+脱酸素剤・カイロ,softbank220024101121.bbtec.net,220.24.101.121,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1214106406
+トップページ,softbank220024101121.bbtec.net,220.24.101.121,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1214106377
+ショッピング,AI-117-46-99-70.kyo.access-internet.ne.jp,117.46.99.70,Mozilla/4.0 (compatible; MSIE 5.01; Windows 98),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1214091704
+通販法の表記,AI-117-46-99-70.kyo.access-internet.ne.jp,117.46.99.70,Mozilla/4.0 (compatible; MSIE 5.01; Windows 98),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1214091679
+脱酸素剤・カイロ,AI-117-46-99-70.kyo.access-internet.ne.jp,117.46.99.70,Mozilla/4.0 (compatible; MSIE 5.01; Windows 98),http://search.yahoo.co.jp/search?fr=top_table&tid=top_table&ei=UTF-8&p=%E8%84%B1%E9%85%B8%E7%B4%A0&search.x=37&search.y=9,1214091420

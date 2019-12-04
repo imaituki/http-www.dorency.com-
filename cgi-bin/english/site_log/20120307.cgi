@@ -1,0 +1,12 @@
+トップページ,115.228.186.83,115.228.186.83,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2),http://www.dorency.com,1331096373
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1331057788
+OxygenAbsorber　HandWarmers,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1331057719
+Contact,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1331057718
+Equipments(Machines) for environmental maintenance,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1331057718
+Company,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1331057718
+OxygenAbsorber　HandWarmers,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1331057563
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1331057563
+Equipments(Machines) for environmental maintenance,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1331057562
+Contact,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1331057562
+Company,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1331057561
+トップページ,204.11.219.88,204.11.219.88,Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/532.4 (KHTML like Gecko) Qt/4.6.3 Safari/532.4,http://www.dorency.com/english/,1331057508

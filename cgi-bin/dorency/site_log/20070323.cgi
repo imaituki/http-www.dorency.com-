@@ -1,0 +1,23 @@
+トップページ,softbank219054088160.bbtec.net,219.54.88.160,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?fr=slv1-yjmsg&p=%c3%a6%bb%c0%c1%c7%ba%de,1174650766
+会社概要,gd057191.gd.kcv.ne.jp,219.103.57.191,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1174650424
+トップページ,gd057191.gd.kcv.ne.jp,219.103.57.191,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%B3%F4%BC%B0%B2%F1%BC%D2&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=22&y=6,1174650398
+脱酸素剤・カイロ,125x100x80x114.ap125.ftth.ucom.ne.jp,125.100.80.114,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.0.11) Gecko/20070312 Firefox/1.5.0.11,http://www.dorency.com/,1174648027
+トップページ,125x100x80x114.ap125.ftth.ucom.ne.jp,125.100.80.114,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.0.11) Gecko/20070312 Firefox/1.5.0.11,http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&btnG=Google+%E6%A4%9C%E7%B4%A2&lr=lang_ja,1174648009
+会社概要,h045.rios.co.jp,210.172.124.109,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1174642180
+トップページ,h045.rios.co.jp,210.172.124.109,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1174642146
+脱酸素剤・カイロ,p1064-ipbfp401motosinmat.mie.ocn.ne.jp,222.148.146.64,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1174640719
+脱酸素剤・カイロ,219.127.253.94,219.127.253.94,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.3) Gecko/20070309 Firefox/2.0.0.3,http://www.google.co.jp/search?sourceid=navclient-ff&ie=UTF-8&rls=GGGL&#44;GGGL:2006-23&#44;GGGL:ja&q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88,1174635304
+脱酸素剤・カイロ,58-188-102-65.eonet.ne.jp,58.188.102.65,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/,1174634908
+トップページ,58-188-102-65.eonet.ne.jp,58.188.102.65,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rls=DVXA&#44;DVXA:2005-10&#44;DVXA:ja&q=%e3%83%89%e3%83%ac%e3%83%b3%e3%82%b7%e3%83%bc,1174634891
+脱酸素剤・カイロ,221x252x65x170.ap221.ftth.ucom.ne.jp,221.252.65.170,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MathPlayer 2.0; SV1),http://www.dorency.com/,1174623977
+トップページ,221x252x65x170.ap221.ftth.ucom.ne.jp,221.252.65.170,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MathPlayer 2.0; SV1),http://search.yahoo.co.jp/search?p=%C3%A6%BB%C0%C1%C7%BA%DE&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1174623929
+ショッピング,219.111.223.218,219.111.223.218,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1174623172
+会社概要,219.111.223.218,219.111.223.218,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.google/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=,1174623141
+ショッピング,219.128.182.228,219.128.182.228,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1174621839
+トップページ,125.123.162.182,125.123.162.182,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/,1174620628
+トップページ,p3239-ipadfx21funabasi.chiba.ocn.ne.jp,61.126.196.239,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1174618084
+会社概要,p3239-ipadfx21funabasi.chiba.ocn.ne.jp,61.126.196.239,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rls=DVXA&#44;DVXA:2005-03&#44;DVXA:ja&q=0865%2d44%2d6655,1174618076
+脱酸素剤・カイロ,gd-dm41-0453.lcv.ne.jp,203.191.215.197,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/,1174612699
+トップページ,gd-dm41-0453.lcv.ne.jp,203.191.215.197,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=28&y=12,1174612692
+脱酸素剤・カイロ,59-190-164-31.eonet.ne.jp,59.190.164.31,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.goo.ne.jp/web.jsp?PT=stickdynabook&MT=%BB%C0%C1%C7%B5%DB%BC%FD%BA%DE&FR=20&from=pager,1174607575
+脱酸素剤・カイロ,EATcf-538p27.ppp15.odn.ne.jp,210.197.250.27,Mozilla/4.0 (compatible; MSIE 6.0; Windows 98),http://www.google.co.jp/search?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&hl=ja&lr=&start=20&sa=N,1174582383

@@ -1,0 +1,3 @@
+Company,152.64.35.58.broad.xw.sh.dynamic.163data.com.cn,58.35.64.152,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1428329342
+トップページ,175.136.240.194,175.136.240.194,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.101 Safari/537.36,http://www.dorency.com/,1428286012
+トップページ,211.12.28.130,211.12.28.130,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E),http://www.dorency.com/,1428284214

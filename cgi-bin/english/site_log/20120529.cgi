@@ -1,0 +1,2 @@
+トップページ,58.247.179.178,58.247.179.178,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),http://www.dorency.com/,1338273383
+トップページ,FL1-125-199-79-179.oky.mesh.ad.jp,125.199.79.179,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0),http://websearch.rakuten.co.jp/Web?qt=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&col=OW&svx=101210&ref=top,1338246555

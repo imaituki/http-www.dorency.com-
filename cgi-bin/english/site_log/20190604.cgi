@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,http://www.dorency.com/english/,1559652991
+トップページ,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1559652952
+Company,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1559652889
+Equipments(Machines) for environmental maintenance,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1559652874
+OxygenAbsorber　HandWarmers,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,http://www.dorency.com/english/,1559652751
+トップページ,2.95.221.55,2.95.221.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0,https://yandex.ru/,1559652736
+OxygenAbsorber　HandWarmers,sp49-97-105-165.msc.spmode.ne.jp,49.97.105.165,Mozilla/5.0 (Linux; Android 7.1.2; F-03K Build/V25R055B; wv) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36,https://search.smt.docomo.ne.jp/result?MT=Oxygenabsorber&SID=010&IND=010&TPLID=&UNIT=&URANK=&SPAGE=&utm_source=dmenu_top&utm_medium=owned&utm_campaign=dmenu_top_201808_searchbox&_20190425=,1559618076
+トップページ,KD182251245019.au-net.ne.jp,182.251.245.19,Mozilla/5.0 (Linux; Android 8.0.0; SHV42) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36,https://sp-web.search.auone.jp/,1559614201

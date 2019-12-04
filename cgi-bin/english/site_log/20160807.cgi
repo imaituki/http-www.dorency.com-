@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,mx-ll-223.205.251-231.dynamic.3bb.co.th,223.205.251.231,Mozilla/5.0 (Linux; U; Android 4.4.2; th-th; GT-N7100 Build/KOT49H) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1470498232
+トップページ,mx-ll-223.205.251-231.dynamic.3bb.co.th,223.205.251.231,Mozilla/5.0 (Linux; U; Android 4.4.2; th-th; GT-N7100 Build/KOT49H) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1470498198

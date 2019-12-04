@@ -1,0 +1,1 @@
+トップページ,p1195-ipbf309sizuokaden.shizuoka.ocn.ne.jp,60.38.227.195,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://search.yahoo.co.jp/search?p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E8%8B%B1%E8%AA%9E&aq=-1&oq=&ei=UTF-8&fr=dic&x=wrt,1297556863

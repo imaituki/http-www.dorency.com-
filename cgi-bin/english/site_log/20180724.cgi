@@ -1,0 +1,2 @@
+トップページ,p715108-ipngn200303okayamahigasi.okayama.ocn.ne.jp,153.180.45.108,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) GSA/4.2.2.38484 Mobile/14B100 Safari/9537.53,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1532392304
+トップページ,111.206.198.101,111.206.198.101,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/english/,1532359101

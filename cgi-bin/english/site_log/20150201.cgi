@@ -1,0 +1,1 @@
+トップページ,ip70-191-88-250.sb.sd.cox.net,70.191.88.250,Mozilla/5.0 (Linux; Android 4.4.2; SCH-I545 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.89 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1422723635

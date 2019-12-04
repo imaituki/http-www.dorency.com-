@@ -1,0 +1,1 @@
+トップページ,msnbot-65-52-111-72.search.msn.com,65.52.111.72,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648),http://www.dorency.com/english/,1347315521

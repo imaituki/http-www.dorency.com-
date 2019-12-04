@@ -1,0 +1,2 @@
+Company,110.78.34.138,110.78.34.138,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,https://www.google.co.th/,1540191634
+Contact,brfron8902w-lp130-01-74-12-149-239.dsl.bell.ca,74.12.149.239,Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1540137075

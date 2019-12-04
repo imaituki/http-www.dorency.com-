@@ -1,0 +1,1 @@
+トップページ,gd160145.gd28.kcv.ne.jp,157.112.160.145,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML like Gecko) Mobile/14E304 YJApp-IOS jp.co.yahoo.ipn.appli/4.6.25,https://search.yahoo.co.jp/,1496055634

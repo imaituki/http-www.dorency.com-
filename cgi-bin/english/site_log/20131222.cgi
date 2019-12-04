@@ -1,0 +1,6 @@
+トップページ,softbank126028142012.bbtec.net,126.28.142.12,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/,1387710299
+トップページ,ppp-124-121-99-246.revip2.asianet.co.th,124.121.99.246,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1387690383
+OxygenAbsorber　HandWarmers,ppp-124-121-99-246.revip2.asianet.co.th,124.121.99.246,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53,https://www.google.co.th/,1387690375
+Contact,pool-96-255-18-36.washdc.fios.verizon.net,96.255.18.36,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1387672627
+Company,pool-96-255-18-36.washdc.fios.verizon.net,96.255.18.36,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/english/,1387672531
+トップページ,pool-96-255-18-36.washdc.fios.verizon.net,96.255.18.36,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/,1387672412

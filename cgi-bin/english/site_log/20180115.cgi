@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,mobile-access-5d6ae3-242.dhcp.inet.fi,93.106.227.242,Mozilla/5.0 (Linux; Android 7.1.1; F5321 Build/34.3.A.0.252) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1515944541
+Company,mobile-access-5d6ae3-242.dhcp.inet.fi,93.106.227.242,Mozilla/5.0 (Linux; Android 7.1.1; F5321 Build/34.3.A.0.252) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36,https://www.google.fi/,1515944509

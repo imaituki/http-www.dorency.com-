@@ -1,0 +1,3 @@
+トップページ,.,218.202.230.222,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/,1407311597
+トップページ,gw128.bureau.tohoku.ac.jp,130.34.15.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1407303766
+トップページ,p23032-ipngn1501sapodori.hokkaido.ocn.ne.jp,153.135.61.32,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://search.yahoo.co.jp/search?tid=top_ga1_sa&ei=UTF-8&fr=top_ga1_sa&p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC+%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&rs=3,1407295860

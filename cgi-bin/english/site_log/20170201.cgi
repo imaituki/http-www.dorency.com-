@@ -1,0 +1,1 @@
+トップページ,st1062.nas811.p-fukuoka.nttpc.ne.jp,210.136.142.198,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1485934710

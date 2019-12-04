@@ -1,0 +1,4 @@
+Company,219x123x70x20.ap219.ftth.ucom.ne.jp,219.123.70.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.dorency.com/english/,1530688316
+トップページ,219x123x70x20.ap219.ftth.ucom.ne.jp,219.123.70.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.99 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1530688309
+Company,59-124-88-155.HINET-IP.hinet.net,59.124.88.155,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.99 Safari/537.36,https://www.google.com.tw/,1530686602
+OxygenAbsorber　HandWarmers,132.191.3.111,132.191.3.111,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1530674875

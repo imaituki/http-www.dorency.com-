@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,41.222.181.138,41.222.181.138,Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I9105 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1389862162
+OxygenAbsorber　HandWarmers,ppp046.8x.pas.mobilenet.ne.jp,219.105.46.208,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,http://www.dorency.com/english/,1389859477
+トップページ,ppp046.8x.pas.mobilenet.ne.jp,219.105.46.208,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,http://dorency.com/,1389859471

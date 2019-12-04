@@ -1,0 +1,1 @@
+トップページ,p12005-ipbffx02okayamaima.okayama.ocn.ne.jp,122.20.254.5,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%20%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&rs=3&tid=top_ga1_sa&ei=UTF-8&aq=0&fr=top_ga1_sa,1362620526

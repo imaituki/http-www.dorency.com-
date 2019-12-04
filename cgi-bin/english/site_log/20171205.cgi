@@ -1,0 +1,8 @@
+トップページ,sp49-98-47-70.mse.spmode.ne.jp,49.98.47.70,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B202 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1512484838
+Contact,ip-45-55-54-196.fr.amsterdamresidential.com,196.54.55.45,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1512436813
+OxygenAbsorber　HandWarmers,ip-45-55-54-196.fr.amsterdamresidential.com,196.54.55.45,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1512436813
+Company,ip-45-55-54-196.fr.amsterdamresidential.com,196.54.55.45,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1512436813
+Equipments(Machines) for environmental maintenance,ip-45-55-54-196.fr.amsterdamresidential.com,196.54.55.45,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1512436813
+トップページ,ip-45-55-54-196.fr.amsterdamresidential.com,196.54.55.45,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1512436811
+Contact,net-130-25-219-220.cust.vodafonedsl.it,130.25.219.220,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/english/,1512417880
+トップページ,net-130-25-219-220.cust.vodafonedsl.it,130.25.219.220,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/,1512417834

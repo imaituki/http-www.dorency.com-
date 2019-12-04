@@ -1,0 +1,3 @@
+トップページ,KD182250248041.au-net.ne.jp,182.250.248.41,Mozilla/5.0 (Linux; Android 4.2.2; KYY22 Build/102.0.0f00) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1479044892
+Company,KD182250248041.au-net.ne.jp,182.250.248.41,Mozilla/5.0 (Linux; Android 4.2.2; KYY22 Build/102.0.0f00) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36,https://www.google.co.jp/,1479044880
+トップページ,c-69-242-34-84.hsd1.pa.comcast.net,69.242.34.84,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0 Mobile/14B100 Safari/602.1,http://dorency.com/,1478999616

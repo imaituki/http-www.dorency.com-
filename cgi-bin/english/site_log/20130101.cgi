@@ -1,0 +1,6 @@
+トップページ,localhost,117.4.125.214,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0,http://www.dorency.com/,1357048018
+Company,203.141.158.178.static.zoot.jp,203.141.158.178,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D0&ei=U9TiULuGIYiRkwW2zYDwAw&usg=AFQjCNGOle9nfPXxETYeklTPRW56noJKZw&bvm=bv.1355325884&#44;d.dGI,1357042787
+OxygenAbsorber　HandWarmers,203.141.158.178.static.zoot.jp,203.141.158.178,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.dorency.com/english/,1357042780
+トップページ,203.141.158.178.static.zoot.jp,203.141.158.178,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.dorency.com/,1357042771
+トップページ,localhost,117.4.125.214,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0,http://www.dorency.com/,1357035083
+トップページ,161.175.76.188.dynamic.jazztel.es,188.76.175.161,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML like Gecko) Chrome/23.0.1271.97 Safari/537.11,http://www.dorency.com/,1357001031

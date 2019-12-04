@@ -1,0 +1,3 @@
+トップページ,80-110-118-80.cgn.dynamic.surfer.at,80.110.118.80,Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36,http://dorency.com/,1571705230
+トップページ,google-proxy-66-249-93-211.google.com,66.249.93.211,Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36,http://dorency.com/,1571705229
+トップページ,185.215.54.187,185.215.54.187,Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1,http://dorency.com/,1571696981

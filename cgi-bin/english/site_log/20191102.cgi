@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,108-211-181-66.lightspeed.sntcca.sbcglobal.net,108.211.181.66,Mozilla/5.0 (Windows NT 68.ytr; Win4; 4re; rv:69.0.2) Gecko/20100101 Firefox/69.0 Waterfox/56.2.14,http://www.dorency.com/english/,1572642954
+トップページ,108-211-181-66.lightspeed.sntcca.sbcglobal.net,108.211.181.66,Mozilla/5.0 (Windows NT 68.ytr; Win4; 4re; rv:69.0.2) Gecko/20100101 Firefox/69.0 Waterfox/56.2.14,http://www.dorency.com/,1572642892
+Company,87-88-191-93.abo.bbox.fr,87.88.191.93,Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960F) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/english/,1572639656
+トップページ,87-88-191-93.abo.bbox.fr,87.88.191.93,Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960F) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36,http://dorency.com/,1572639629

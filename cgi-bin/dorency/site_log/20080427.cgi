@@ -1,0 +1,12 @@
+脱酸素剤・カイロ,softbank219020252071.bbtec.net,219.20.252.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; IEMB3; IEMB3),http://search.yahoo.co.jp/search?p=%C3%A6%BB%C0%C1%C7%BA%DE&fr=bb_top_v2&tid=bb_top_v2&search.x=1,1209303425
+トップページ,125.124.160.229,125.124.160.229,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler ; (R1 1.5)),http://www.pinghu.com/,1209295260
+会社概要,gd052088.gd.kcv.ne.jp,219.103.52.88,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.yahoo.co.jp/search?p=%E7%8E%89%E5%B3%B6%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB%E9%B4%A8%E6%96%B9%E6%94%AF%E5%BA%97&ei=UTF-8&fr=top_ga1&x=wrt,1209263958
+脱酸素剤・カイロ,203-124-67-75.parkcity.ne.jp,203.124.67.75,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14,http://www.google.co.jp/search?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&lr=lang_ja&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:ja:official&client=firefox,1209262930
+会社概要,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1209257003
+お問合わせ,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1209256995
+脱酸素剤・カイロ,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1209256933
+ショッピング,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1209256904
+通販法の表記,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1209256895
+会社概要,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.dorency.com/,1209256800
+トップページ,124.45.1.48,124.45.1.48,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727),http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=,1209256784
+トップページ,221x251x239x234.ap221.ftth.ucom.ne.jp,221.251.239.234,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1209254817

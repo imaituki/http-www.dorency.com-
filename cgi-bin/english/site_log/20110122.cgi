@@ -1,0 +1,1 @@
+トップページ,catgw2.hicat.ne.jp,202.171.80.150,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148a Safari/6533.18.5,http://search.yahoo.co.jp/search?x=wrt&aq=-1&oq=&ei=UTF-8&fr=applep2&p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89+%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC,1295691494

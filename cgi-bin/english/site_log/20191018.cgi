@@ -1,0 +1,4 @@
+トップページ,proxy-fra1-102.att.com,32.58.217.102,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/,1571409963
+Equipments(Machines) for environmental maintenance,111.61.101.97,111.61.101.97,Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1571328437
+Company,111.61.101.97,111.61.101.97,Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1571328432
+トップページ,111.61.101.97,111.61.101.97,Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1571328426

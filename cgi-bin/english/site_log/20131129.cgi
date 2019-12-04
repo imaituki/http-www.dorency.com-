@@ -1,0 +1,2 @@
+トップページ,em119-72-199-159.pool.e-mobile.ne.jp,119.72.199.159,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.57 Safari/537.36,https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0CGEQFjAG&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=wyuYUui-O4eXkgXSwIGoAQ&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&bvm=bv.57155469&#44;d.dGI,1385704427
+トップページ,39.188.138.235,39.188.138.235,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/,1385686148

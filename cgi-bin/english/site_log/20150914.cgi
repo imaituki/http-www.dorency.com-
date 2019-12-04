@@ -1,0 +1,1 @@
+トップページ,dsl-201-146-130-162-dyn.prod-infinitum.com.mx,201.146.130.162,Mozilla/5.0 (Linux; Android 4.4.2; SM-G355M Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36,https://www.google.com.mx/,1442190893

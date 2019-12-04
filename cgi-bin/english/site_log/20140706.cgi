@@ -1,0 +1,1 @@
+トップページ,p21164-ipngn100210osakachuo.osaka.ocn.ne.jp,153.189.64.164,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4KEPIT&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1404647613

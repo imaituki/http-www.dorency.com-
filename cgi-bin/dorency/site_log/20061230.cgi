@@ -1,0 +1,1 @@
+トップページ,dhcpn004.gctv.ne.jp,211.15.11.4,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%CC%DA%C3%BA%A5%AB%A5%A4%A5%ED&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=17&y=7,1167488965

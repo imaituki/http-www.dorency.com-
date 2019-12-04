@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,proxy-220-255-1-71.singnet.com.sg,220.255.1.71,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1387164617

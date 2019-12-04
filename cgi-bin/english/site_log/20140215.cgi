@@ -1,0 +1,3 @@
+Company,148-adsl.ntc.net.np,49.244.113.148,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1392447433
+トップページ,148-adsl.ntc.net.np,49.244.113.148,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://dorency.com/,1392447323
+Company,em1-115-196-100.pool.e-mobile.ne.jp,1.115.196.100,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10B143 Safari/8536.25,https://www.google.com.au/,1392434460

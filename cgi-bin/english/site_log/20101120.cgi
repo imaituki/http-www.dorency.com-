@@ -1,0 +1,1 @@
+トップページ,KD125054096023.ppp-bb.dion.ne.jp,125.54.96.23,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; ja-jp) AppleWebKit/533.18.1 (KHTML like Gecko) Version/4.0.3 Safari/531.9,http://search.yahoo.co.jp/search?p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E8%8B%B1%E8%AA%9E&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1290255597

@@ -1,0 +1,1 @@
+トップページ,softbank220048219231.bbtec.net,220.48.219.231,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; YTB720; BTRS130847; GTB7.4; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; OfficeLivePatch.1.3; BRI/2; .NET4.0C; OfficeLiveConnector.1.5),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1350345711

@@ -1,0 +1,7 @@
+トップページ,n27-02-12.opera-mini.net,82.145.220.182,Mozilla/5.0 (iPhone; CPU iPhone OS 10_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML like Gecko) OPiOS/16.0.14.122053 Mobile/14B72c Safari/9537.53,http://www.dorency.com/,1554124052
+OxygenAbsorber　HandWarmers,95-31-78-36.broadband.corbina.ru,95.31.78.36,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1554123392
+トップページ,113.227.111.134,113.227.111.134,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/,1554105906
+Company,84-114-240-80.cable.dynamic.surfer.at,84.114.240.80,Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1554053471
+Equipments(Machines) for environmental maintenance,84-114-240-80.cable.dynamic.surfer.at,84.114.240.80,Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1554053451
+OxygenAbsorber　HandWarmers,84-114-240-80.cable.dynamic.surfer.at,84.114.240.80,Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.dorency.com/english/,1554053433
+トップページ,84-114-240-80.cable.dynamic.surfer.at,84.114.240.80,Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0,http://www.dorency.com/,1554053419

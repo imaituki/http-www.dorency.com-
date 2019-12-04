@@ -1,0 +1,5 @@
+Contact,softbank126227252242.bbtec.net,126.227.252.242,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1532046250
+Equipments(Machines) for environmental maintenance,softbank126227252242.bbtec.net,126.227.252.242,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1532046247
+OxygenAbsorber　HandWarmers,softbank126227252242.bbtec.net,126.227.252.242,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1532046242
+Company,softbank126227252242.bbtec.net,126.227.252.242,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1532046218
+トップページ,softbank126227252242.bbtec.net,126.227.252.242,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1532046197

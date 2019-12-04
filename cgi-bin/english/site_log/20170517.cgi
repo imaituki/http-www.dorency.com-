@@ -1,0 +1,3 @@
+トップページ,dsl-189-180-91-227-dyn.prod-infinitum.com.mx,189.180.91.227,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1494987417
+OxygenAbsorber　HandWarmers,dsl-189-180-91-227-dyn.prod-infinitum.com.mx,189.180.91.227,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1494961253
+Company,dsl-189-180-91-227-dyn.prod-infinitum.com.mx,189.180.91.227,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,https://www.google.com.mx/,1494961236

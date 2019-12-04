@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,p8039-ipngn100106tottori.tottori.ocn.ne.jp,180.54.210.39,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.87 Safari/537.36,http://www.dorency.com/english/,1459057785
+トップページ,p8039-ipngn100106tottori.tottori.ocn.ne.jp,180.54.210.39,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.87 Safari/537.36,http://www.dorency.com/,1459057774

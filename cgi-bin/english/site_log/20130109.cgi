@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,211.114.22.85,211.114.22.85,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; IPMS/9F060F69-150ED269191),http://www.dorency.com/english/,1357723071
+トップページ,211.114.22.85,211.114.22.85,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; IPMS/9F060F69-150ED269191),http://www.dorency.com/,1357722985
+OxygenAbsorber　HandWarmers,dsl-135.pool5.4.sumt.ftc-i.net,216.218.71.135,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://search.mywebsearch.com/mywebsearch/GGmain.jhtml?searchfor=how+to+use+handwarmers+to+preserve+grains&st=hp&ptb=79926D4F-3F1C-4E6E-9DF2-90BCEED94ED1&p2=%5EJT%5Exdm008%5EYY%5Eus&n=77fc1b17&tpr=hpsb&ts=1357680423155,1357681161

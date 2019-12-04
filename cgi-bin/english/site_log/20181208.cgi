@@ -1,0 +1,8 @@
+トップページ,184-22-218-0.24.nat.sila1-cgn03.myaisfibre.com,184.22.218.27,Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1544264967
+トップページ,google-proxy-64-233-173-57.google.com,64.233.173.57,Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1544264967
+トップページ,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1544257164
+OxygenAbsorber　HandWarmers,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1544257163
+Equipments(Machines) for environmental maintenance,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/english/,1544257161
+Company,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1544257160
+Contact,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/english/,1544257158
+トップページ,x106019.dynamic.ppp.asahi-net.or.jp,122.249.106.19,Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/,1544257157

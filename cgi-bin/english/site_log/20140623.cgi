@@ -1,0 +1,2 @@
+トップページ,119-231-172-28f1.shg1.eonet.ne.jp,119.231.172.28,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53,http://search.yahoo.co.jp/search?ei=UTF-8&fr=applep1&x=wrt&p=KEEPIT+%E3%82%A8%E3%83%BC%E3%82%B8%E3%83%AC%E3%82%B9,1403529279
+トップページ,101.231.69.18,101.231.69.18,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/,1403503887

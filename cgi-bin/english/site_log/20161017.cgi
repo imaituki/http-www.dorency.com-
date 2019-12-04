@@ -1,0 +1,2 @@
+トップページ,p216035-ipngn200303takamatu.kagawa.ocn.ne.jp,153.186.10.35,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.143 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1476679292
+トップページ,mail.integr8it.com.au,203.176.184.140,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.143 Safari/537.36,http://www.dorency.com/,1476669081

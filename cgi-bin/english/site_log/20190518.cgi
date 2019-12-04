@@ -1,0 +1,4 @@
+Company,static.cmcti.vn,113.20.101.34,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1558145280
+Equipments(Machines) for environmental maintenance,static.cmcti.vn,113.20.101.34,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1558145271
+OxygenAbsorber　HandWarmers,static.cmcti.vn,113.20.101.34,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1558145265
+トップページ,static.cmcti.vn,113.20.101.34,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1558145246

@@ -1,0 +1,3 @@
+トップページ,p2137-ipad05fukuhanazo.fukushima.ocn.ne.jp,221.185.237.137,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB5; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.bing.com/search?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4KEEPIT&form=QBRE&filt=all,1269351146
+Contact,60.175.133.206,60.175.133.206,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; CIBA),http://www.dorency.com/english/,1269329851
+トップページ,60.175.133.206,60.175.133.206,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; CIBA),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1269329831

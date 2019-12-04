@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,cpe-66-91-248-3.hawaii.res.rr.com,66.91.248.3,Mozilla/5.0 (Linux; Android 8.0.0; SM-G950U Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36,https://www.google.com/,1524418016
+OxygenAbsorber　HandWarmers,71-53-146-181.cltn.centurylink.net,71.53.146.181,Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,http://www.dorency.com/english/,1524417851
+トップページ,71-53-146-181.cltn.centurylink.net,71.53.146.181,Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1524417805
+Company,71-53-146-181.cltn.centurylink.net,71.53.146.181,Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,https://www.google.com/,1524417764

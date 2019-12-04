@@ -1,0 +1,4 @@
+トップページ,96.180.75.138.unknown.m1.com.sg,138.75.180.96,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1421156277
+Company,proxy-220-255-1-49.singnet.com.sg,220.255.1.49,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,https://www.google.com.sg/,1421130832
+Company,proxy-220-255-1-56.singnet.com.sg,220.255.1.56,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,https://www.google.com.sg/,1421129369
+Company,proxy-220-255-1-18.singnet.com.sg,220.255.1.18,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,https://www.google.com.sg/,1421129307

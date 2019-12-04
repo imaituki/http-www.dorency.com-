@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,41.48.16.44,41.48.16.44,Mozilla/5.0 (Linux; Android 4.4.2; MYWIGO TURIA 2 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36,http://www.dorency.com/english/,1433195077
+トップページ,41.48.16.44,41.48.16.44,Mozilla/5.0 (Linux; Android 4.4.2; MYWIGO TURIA 2 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1433195025

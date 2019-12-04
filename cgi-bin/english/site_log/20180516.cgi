@@ -1,0 +1,5 @@
+Equipments(Machines) for environmental maintenance,46.226.61.118,46.226.61.118,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.139 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1526477930
+OxygenAbsorber　HandWarmers,46.226.61.118,46.226.61.118,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.139 Safari/537.36,http://www.dorency.com/english/,1526477882
+トップページ,46.226.61.118,46.226.61.118,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.139 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1526477870
+トップページ,157.82.102.123,157.82.102.123,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.170 Safari/537.36,https://www.google.co.jp/,1526455087
+トップページ,218-219-187-139.pool.mitene.or.jp,218.219.187.139,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.139 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1526444833

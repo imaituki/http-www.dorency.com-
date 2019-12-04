@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,cst2-39-88.cust.vodafone.cz,31.30.39.88,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.110 Safari/537.36,http://www.dorency.com/english/,1544955055
+トップページ,cst2-39-88.cust.vodafone.cz,31.30.39.88,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.110 Safari/537.36,http://www.dorency.com/,1544955023
+トップページ,ct.uk2techs.com,209.95.48.192,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1544888805
+OxygenAbsorber　HandWarmers,ct.uk2techs.com,209.95.48.192,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),http://www.google.com/search?q=hothands+hand+warmers&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1,1544888786

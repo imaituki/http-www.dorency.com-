@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,pa49-183-28-230.pa.vic.optusnet.com.au,49.183.28.230,Mozilla/5.0 (Linux; Android 4.4.4; GT-I9305 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.128 Mobile Safari/537.36,http://www.dorency.com/english/,1406342555
+トップページ,pa49-183-28-230.pa.vic.optusnet.com.au,49.183.28.230,Mozilla/5.0 (Linux; Android 4.4.4; GT-I9305 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.128 Mobile Safari/537.36,http://dorency.com/,1406342515
+OxygenAbsorber　HandWarmers,dynamic.vdc.vn,123.24.121.12,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.125 Safari/537.36,http://www.dorency.com/english/,1406333737
+トップページ,dynamic.vdc.vn,123.24.121.12,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.125 Safari/537.36,http://www.dorency.com/,1406333685

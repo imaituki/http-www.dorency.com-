@@ -1,0 +1,1 @@
+トップページ,107.18.249.224,107.18.249.224,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/51.0.198805899 Mobile/15G77 Safari/604.1,https://www.google.com/,1533202342

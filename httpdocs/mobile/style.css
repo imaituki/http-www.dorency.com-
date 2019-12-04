@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 基本設定　*/
+
+*{
+	padding:0px;
+	margin:0px;
+}
+
+img{
+	border:0px;
+}
+
+
+/* body設定　*/
+
+body{
+	font-family:arial, helvetica, "ヒラギノ角ゴ Pro W3", "メイリオ", "ＭＳ ゴシック", sans-serif;
+	text-align:center;
+	background-color:#ffffff;
+ 	line-height: 130%;
+	color:#000000;
+	font-size:12px;
+	letter-spacing:1px;
+}
+
+
+marquee{
+	font-size:12px;
+	color:#4CA433;
+}
+
+hr{
+	border-style:solid;
+	border-color:#4CA433;
+
+}
+
+a{
+	color::#FF0066;
+}
+
+/* footer設定 */
+
+#footer{
+	font-size:10px;
+	color:#000000;
+}
+
+/* 下層ページ用設定 */
+
+/* title設定 */
+
+/* タイトル */
+.title{
+	font-size:14px;
+	font-weight:bold;
+	color:#214914;
+	text-align:left;
+}
+
+.gaiyo{
+	font-size:12px;
+	color:#214914;
+	text-align:left;
+}
+
+.cairo{
+	font-size:14px;
+	font-weight:bold;
+	color:#214914;
+	text-align:left;
+}
+
+.comment{
+	font-size:10px;
+	color:#000000;
+	text-align:left;
+}
+
+/* table 設定 */
+
+table{
+	font-size:11px;
+	text-align:center;
+}

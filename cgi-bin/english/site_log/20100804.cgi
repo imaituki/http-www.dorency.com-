@@ -1,0 +1,3 @@
+トップページ,p4091-ipbfp1501kobeminato.hyogo.ocn.ne.jp,114.153.215.91,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; YTB730; GTB6.5; SLCC1; .NET CLR 2.0.50727; MDDS; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/,1280907498
+トップページ,urlfilter-v5.kamipa.co.jp,202.32.189.150,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1280905967
+トップページ,maccs04.mitsui-kinzoku.co.jp,202.219.81.147,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1280887154

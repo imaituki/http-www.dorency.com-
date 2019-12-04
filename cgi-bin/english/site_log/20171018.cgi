@@ -1,0 +1,8 @@
+トップページ,i60-47-152-122.s05.a015.ap.plala.or.jp,60.47.152.122,Mozilla/5.0 (Linux; Android 5.0.1; K00R Build/LRX22C; wv) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/49.0.2623.108 Safari/537.36,http://search.yahoo.co.jp/,1508322759
+Company,202.130.114.98,202.130.114.98,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,http://www.dorency.com/english/,1508320330
+トップページ,202.130.114.98,202.130.114.98,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.100 Safari/537.36,https://www.google.com.hk/,1508320296
+OxygenAbsorber　HandWarmers,112.36.91.106,112.36.91.106,Mozilla/5.0 (Linux; Android 7.0; HUAWEI CAZ-AL10 Build/HUAWEICAZ-AL10) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1508302086
+トップページ,112.36.91.106,112.36.91.106,Mozilla/5.0 (Linux; Android 7.0; HUAWEI CAZ-AL10 Build/HUAWEICAZ-AL10) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1508302083
+Company,223.73.61.180,223.73.61.180,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.dorency.com/english/,1508297493
+トップページ,223.73.61.180,223.73.61.180,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.dorency.com/,1508297487
+トップページ,ip-40-230-239-173.toronto.ca.northamericancoax.com,173.239.230.40,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/,1508254318

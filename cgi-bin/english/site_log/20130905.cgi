@@ -1,0 +1,3 @@
+トップページ,101.12.92.184,101.12.92.184,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/29.0.1547.66 Safari/537.36,https://www.google.com.tw/,1378372207
+OxygenAbsorber　HandWarmers,proxy-220-255-1-29.singnet.com.sg,220.255.1.29,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1378357098
+トップページ,p5165-ipbfp1805osakakita.osaka.ocn.ne.jp,122.31.65.165,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C),http://www.dorency.com/,1378335944

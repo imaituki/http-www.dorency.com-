@@ -1,0 +1,4 @@
+Company,next-210-167-94-18.harenet.ne.jp,210.167.94.18,Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1511865554
+Company,static.vnpt.vn,14.186.149.126,Mozilla/5.0 (Linux; Android 7.0; EVA-L19 Build/HUAWEIEVA-L19) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1511828979
+OxygenAbsorber　HandWarmers,static.vnpt.vn,14.186.149.126,Mozilla/5.0 (Linux; Android 7.0; EVA-L19 Build/HUAWEIEVA-L19) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36,http://www.dorency.com/english/,1511828930
+トップページ,static.vnpt.vn,14.186.149.126,Mozilla/5.0 (Linux; Android 7.0; EVA-L19 Build/HUAWEIEVA-L19) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36,http://www.dorency.com/,1511828910

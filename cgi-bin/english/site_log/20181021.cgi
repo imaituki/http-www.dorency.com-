@@ -1,0 +1,1 @@
+トップページ,FL1-122-133-13-249.chb.mesh.ad.jp,122.133.13.249,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,http://www.dorency.com/english/,1540119894

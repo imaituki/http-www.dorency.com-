@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,static-99-68-100-159.thenetworkfactory.nl,159.100.68.99,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,https://www.google.nl/,1493214730
+トップページ,k1159.kcnet.ne.jp,106.185.176.159,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/25.0.152548370 Mobile/14A456 Safari/602.1,https://www.google.co.jp/,1493198093
+トップページ,msnbot-65-55-210-105.search.msn.com,65.55.210.105,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b,http://dorency.com/english/,1493196673
+Company,tttb8-static-097.user.xsp.fenics.jp,202.219.93.97,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1493163845

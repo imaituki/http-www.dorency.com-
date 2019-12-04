@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,217.118.64.121,217.118.64.121,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1558096054
+Company,118.100.15.221,118.100.15.221,Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.com/,1558061932
+OxygenAbsorber　HandWarmers,200.49.55.66,200.49.55.66,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1558056030
+Equipments(Machines) for environmental maintenance,200.49.55.66,200.49.55.66,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Safari/537.36,http://www.dorency.com/english/,1558056018
+トップページ,200.49.55.66,200.49.55.66,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.157 Safari/537.36,http://dorency.com/,1558055687
+OxygenAbsorber　HandWarmers,217.118.64.5,217.118.64.5,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1558040937

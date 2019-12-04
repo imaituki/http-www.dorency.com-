@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,78.133.192.178.dynamic.wline.res.cust.swisscom.ch,178.192.133.78,Mozilla/5.0 (Linux; Android 9; POCOPHONE F1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36,http://www.dorency.com/english/,1563021855
+トップページ,78.133.192.178.dynamic.wline.res.cust.swisscom.ch,178.192.133.78,Mozilla/5.0 (Linux; Android 9; POCOPHONE F1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36,http://dorency.com/,1563021834

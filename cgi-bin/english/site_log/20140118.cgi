@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,e243155.upc-e.chello.nl,213.93.243.155,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1390051170
+トップページ,e243155.upc-e.chello.nl,213.93.243.155,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,http://www.dorency.com/,1390051159
+OxygenAbsorber　HandWarmers,190.234.105.154,190.234.105.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.66 Safari/535.11,http://www.dorency.com/english/,1390006698
+トップページ,190.234.105.154,190.234.105.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.66 Safari/535.11,http://www.dorency.com/,1390006683

@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,x108132.dynamic.ppp.asahi-net.or.jp,122.249.108.132,Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0,http://www.dorency.com/english/,1484920019
+OxygenAbsorber　HandWarmers,x108132.dynamic.ppp.asahi-net.or.jp,122.249.108.132,Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0,http://www.dorency.com/english/,1484920018
+トップページ,x108132.dynamic.ppp.asahi-net.or.jp,122.249.108.132,Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1484920017

@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,c-76-126-255-29.hsd1.ca.comcast.net,76.126.255.29,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML like Gecko) Version/8.0.2 Safari/600.2.5,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1418968818
+OxygenAbsorber　HandWarmers,c-76-126-255-29.hsd1.ca.comcast.net,76.126.255.29,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML like Gecko) Version/8.0.2 Safari/600.2.5,http://www.dorency.com/english/,1418968719
+トップページ,c-76-126-255-29.hsd1.ca.comcast.net,76.126.255.29,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML like Gecko) Version/8.0.2 Safari/600.2.5,http://dorency.com/,1418968705

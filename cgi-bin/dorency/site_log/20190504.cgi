@@ -1,0 +1,22 @@
+トップページ,23.100.232.233,23.100.232.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/,1556977987
+脱酸素剤・カイロ,KD106158041222.ppp-bb.dion.ne.jp,106.158.41.222,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1556976235
+脱酸素剤・カイロ,M106072173160.v4.enabler.ne.jp,106.72.173.160,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) GSA/72.0.243649956 Mobile/15E148 Safari/605.1,https://www.google.com/,1556974165
+脱酸素剤・カイロ,f21-pc84.cty-net.ne.jp,203.180.199.84,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1556970811
+トップページ,f21-pc84.cty-net.ne.jp,203.180.199.84,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,https://search.yahoo.co.jp/,1556970792
+トップページ,23.100.232.233,23.100.232.233,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/,1556967582
+トップページ,123.125.67.221,123.125.67.221,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556967432
+トップページ,baiduspider-111-206-221-47.crawl.baidu.com,111.206.221.47,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556967431
+脱酸素剤・カイロ,KD182251250049.au-net.ne.jp,182.251.250.49,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1556964327
+トップページ,c-68-32-143-18.hsd1.mi.comcast.net,68.32.143.18,Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36,http://dorency.com/,1556944469
+脱酸素剤・カイロ,sp1-75-213-207.msb.spmode.ne.jp,1.75.213.207,Mozilla/5.0 (Linux; Android 5.0.2; SO-03F Build/23.1.B.1.317) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36,https://www.google.com/,1556942978
+トップページ,sp49-98-48-28.mse.spmode.ne.jp,49.98.48.28,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1556939034
+脱酸素剤・カイロ,ntsitm412189.sitm.nt.ngn.ppp.infoweb.ne.jp,218.229.136.189,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.dorency.com/,1556937768
+トップページ,ntsitm412189.sitm.nt.ngn.ppp.infoweb.ne.jp,218.229.136.189,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,https://www.google.com/,1556937756
+トップページ,123.125.67.156,123.125.67.156,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556933797
+トップページ,111.206.198.4,111.206.198.4,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556933797
+会社概要,KD182251255038.au-net.ne.jp,182.251.255.38,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.com/,1556933612
+脱酸素剤・カイロ,241.254.3.110.ap.yournet.ne.jp,110.3.254.241,Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/15E148 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.25,https://search.yahoo.co.jp/,1556930868
+脱酸素剤・カイロ,210-158-189-68.iwk.ne.jp,210.158.189.68,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240,http://search.yahoo.co.jp/,1556918407
+トップページ,123.125.67.228,123.125.67.228,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556905093
+トップページ,111.206.198.35,111.206.198.35,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1556905093
+トップページ,msnbot-40-77-253-175.search.msn.com,40.77.253.175,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/,1556905048

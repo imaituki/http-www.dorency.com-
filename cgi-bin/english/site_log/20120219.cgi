@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,edq32.neoplus.adsl.tpnet.pl,83.21.2.32,Opera/9.80 (Windows NT 6.1; U; Edition Campaign 21; pl) Presto/2.10.229 Version/11.61,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1329662289
+OxygenAbsorberÅ@HandWarmers,c-98-243-70-201.hsd1.mi.comcast.net,98.243.70.201,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.27) Gecko/20120216 Firefox/3.6.27 (.NET CLR 3.5.30729),http://search.comcast.net/?cat=Web&con=ttsearch&q=preserving+food+with+handwarmers,1329629512

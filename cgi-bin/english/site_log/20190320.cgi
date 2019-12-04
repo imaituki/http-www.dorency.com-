@@ -1,0 +1,3 @@
+トップページ,softbank060129068114.bbtec.net,60.129.68.114,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36,https://search.yahoo.co.jp/,1553063477
+OxygenAbsorber　HandWarmers,124-47-76-50.cidr4.kct.ad.jp,124.47.76.50,Mozilla/5.0 (iPad; CPU OS 12_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1553059806
+OxygenAbsorber　HandWarmers,217.118.64.100,217.118.64.100,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1553058160

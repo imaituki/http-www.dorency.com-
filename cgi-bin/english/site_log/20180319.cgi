@@ -1,0 +1,2 @@
+トップページ,host-169-net-96-160-119.mobilinkinfinity.net.pk,119.160.96.169,Mozilla/5.0 (Linux; Android 6.0; LG-H961N Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36,http://www.dorency.com/,1521470717
+トップページ,118.191.122.138.lnksrl.com,138.122.191.118,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://dorency.com/,1521398570

@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,ip-213-49-240-158.dsl.scarlet.be,213.49.240.158,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.157 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1440491382
+Company,ip-213-49-240-158.dsl.scarlet.be,213.49.240.158,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.157 Safari/537.36,http://www.dorency.com/english/,1440491349
+トップページ,ip-213-49-240-158.dsl.scarlet.be,213.49.240.158,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.157 Safari/537.36,http://dorency.com/,1440491319
+トップページ,226.242.50.116.ids.service.eastern-tele.com,116.50.242.226,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1440483507
+トップページ,58.186.21.237,58.186.21.237,Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.125 Safari/537.36,http://www.dorency.com/,1440483008
+OxygenAbsorber　HandWarmers,61.39.130.227,61.39.130.227,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/english/,1440471184
+トップページ,61.39.130.227,61.39.130.227,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://dorency.com/,1440471175

@@ -1,0 +1,11 @@
+トップページ,106.120.188.163,106.120.188.163,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SE 2.X MetaSr 1.0; SE 2.X MetaSr 1.0; .NET CLR 2.0.50727; SE 2.X MetaSr 1.0),http://www.sogou.com/web?query=site%3Awww.dorency.com,1553350274
+脱酸素剤・カイロ,KD106132086082.au-net.ne.jp,106.132.86.82,Mozilla/5.0 (Linux; Android 8.0.0; SCV38 Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1553349335
+脱酸素剤・カイロ,p19189-ipngn6301hodogaya.kanagawa.ocn.ne.jp,124.84.194.189,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/16D57 YJApp-IOS jp.co.yahoo.ipn.appli/4.14.19,https://search.yahoo.co.jp/,1553339011
+トップページ,123.125.67.160,123.125.67.160,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1553333588
+トップページ,111.206.198.69,111.206.198.69,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1553333586
+会社概要,52.162.211.179,52.162.211.179,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1553325558
+脱酸素剤・カイロ,softbank126153119197.bbtec.net,126.153.119.197,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.co.in/,1553312952
+脱酸素剤・カイロ,fp8393f444.knge123.ap.nuro.jp,131.147.244.68,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1553310574
+トップページ,baiduspider-111-206-221-8.crawl.baidu.com,111.206.221.8,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1553305022
+トップページ,123.125.67.158,123.125.67.158,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1553276303
+トップページ,baiduspider-111-206-221-93.crawl.baidu.com,111.206.221.93,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1553276302

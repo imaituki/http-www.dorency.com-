@@ -1,0 +1,4 @@
+Company,its-W27401-eth-gw.ctnet.ad.jp,210.166.34.106,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1376967662
+トップページ,its-W27401-eth-gw.ctnet.ad.jp,210.166.34.106,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1376967657
+OxygenAbsorber　HandWarmers,nthkid137122.hkid.nt.ftth.ppp.infoweb.ne.jp,124.25.176.122,Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0,http://honyaku.yahoofs.jp/url_result?ctw_=sT&#44;een_ja&#44;bT&#44;uaHR0cDovL3d3dy5kb3JlbmN5LmNvbS9jZ2ktYmluL2VuZ2xpc2gvc2l0ZXVwLmNnaT9jYXRlZ29yeT0yJnBhZ2U9MQ==,1376963659
+トップページ,nthkid137122.hkid.nt.ftth.ppp.infoweb.ne.jp,124.25.176.122,Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0,http://search.yahoo.co.jp/search?p=keepit+%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1376963613

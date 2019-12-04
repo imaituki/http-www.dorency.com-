@@ -1,0 +1,1 @@
+トップページ,KD182250251202.au-net.ne.jp,182.250.251.202,Mozilla/5.0 (Linux; Android 4.4.4; SHF31 Build/SB181) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1494271005

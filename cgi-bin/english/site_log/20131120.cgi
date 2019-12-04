@@ -1,0 +1,4 @@
+トップページ,p2094-ipbfpfx02sasajima.aichi.ocn.ne.jp,58.92.247.94,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CFQQFjAD&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=t3yMUtTQDMvfkgXukoFw&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&sig2=7XMc5u360Is_RUuukj4CaA,1384938714
+Company,106.113.182.51,106.113.182.51,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/english/,1384918417
+トップページ,106.113.182.51,106.113.182.51,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/,1384918382
+トップページ,125x100x24x186.ap125.ftth.ucom.ne.jp,125.100.24.186,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/,1384912923

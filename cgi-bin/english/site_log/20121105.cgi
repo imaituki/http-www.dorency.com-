@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,66.119.84.21,66.119.84.21,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2; .NET4.0C; .NET4.0E; NSN),http://www.dorency.com/english/,1352119219
+トップページ,66.119.84.21,66.119.84.21,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2; .NET4.0C; .NET4.0E; NSN),http://www.dorency.com/,1352119188
+トップページ,dhcp180-66.tamatele.ne.jp,202.70.180.66,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1352110127

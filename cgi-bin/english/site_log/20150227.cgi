@@ -1,0 +1,2 @@
+トップページ,s864075.xgsspn.imtp.tachikawa.spmode.ne.jp,49.98.64.75,Mozilla/5.0 (Linux; Android 4.4.2; SH-04F Build/SB040) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36,http://www.google.co.jp,1425035521
+トップページ,gd85237.gd21.kcv.ne.jp,180.178.85.237,Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0; Sleipnir/2.9.19) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1425019762

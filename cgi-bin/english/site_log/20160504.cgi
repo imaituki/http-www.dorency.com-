@@ -1,0 +1,3 @@
+トップページ,116.226.99.9,116.226.99.9,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1462338927
+トップページ,95-44-179-56-dynamic.agg1.srd.blp-srl.eircom.net,95.44.179.56,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13E238 Safari/601.1,http://www.dorency.com/,1462295749
+OxygenAbsorber　HandWarmers,95-44-179-56-dynamic.agg1.srd.blp-srl.eircom.net,95.44.179.56,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13E238 Safari/601.1,https://www.google.ie/,1462295658

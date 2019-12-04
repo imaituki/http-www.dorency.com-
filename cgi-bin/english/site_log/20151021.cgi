@@ -1,0 +1,1 @@
+トップページ,61-220-69-195.HINET-IP.hinet.net,61.220.69.195,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.71 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1445393923

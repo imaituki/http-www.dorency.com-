@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,27.120.42.146,27.120.42.146,Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Mobile/12B440 DaumApps/5.2.3 DaumDevice/tablet,http://www.dorency.com/english/,1419147240
+トップページ,27.120.42.146,27.120.42.146,Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Mobile/12B440 DaumApps/5.2.3 DaumDevice/tablet,http://www.dorency.com/,1419147229

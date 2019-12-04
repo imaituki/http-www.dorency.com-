@@ -1,0 +1,4 @@
+Company,116.231.26.241,116.231.26.241,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.102 Safari/537.36,http://search.yahoo.co.jp/,1491881600
+OxygenAbsorberÅ@HandWarmers,36-239-235-127.dynamic.hinet.net,36.239.235.127,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1491880417
+Equipments(Machines) for environmental maintenance,36-239-235-127.dynamic.hinet.net,36.239.235.127,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1491880390
+Company,36-239-235-127.dynamic.hinet.net,36.239.235.127,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,https://www.google.com.tw/,1491880309

@@ -1,0 +1,1 @@
+トップページ,izu0038.izubr1.thn.ne.jp,61.206.76.38,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; GTB6.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; YJSG3),http://search.yahoo.co.jp/search?p=OxygenAbsorber&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1284652624

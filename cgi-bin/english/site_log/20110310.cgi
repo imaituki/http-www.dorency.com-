@@ -1,0 +1,3 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,14.37.151.197,14.37.151.197,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E),http://www.dorency.com/english/,1299732808
+トップページ,14.37.151.197,14.37.151.197,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1299732762
+トップページ,221.186.169.128,221.186.169.128,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://search.yahoo.co.jp/search?fr=slv1-tbtop&p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80OXYGEN%E3%80%80ABSORBER&ei=UTF-8,1299717148

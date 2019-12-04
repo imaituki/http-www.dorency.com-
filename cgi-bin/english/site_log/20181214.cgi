@@ -1,0 +1,3 @@
+Contact,107.161.85.246.static.quadranet.com,107.161.85.246,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1544798092
+トップページ,ec2-54-248-41-107.ap-northeast-1.compute.amazonaws.com,54.248.41.107,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/59.0.3071.104 Safari/537.36,http://www.dorency.com/english/,1544762268
+トップページ,196.pool85-57-25.dynamic.orange.es,85.57.25.196,Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A320FL Build/R16NW) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1544727465

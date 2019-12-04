@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,112.209.5.204.pldt.net,112.209.5.204,Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.78 Mobile Safari/537.36,http://www.dorency.com/english/,1433027634
+トップページ,112.209.5.204.pldt.net,112.209.5.204,Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.78 Mobile Safari/537.36,http://www.dorency.com/,1433027548

@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,p4FCF9341.dip0.t-ipconnect.de,79.207.147.65,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1392719735
+トップページ,p4FCF9341.dip0.t-ipconnect.de,79.207.147.65,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0,http://dorency.com/,1392719713
+OxygenAbsorber　HandWarmers,202.131.102.166,202.131.102.166,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B601 Safari/9537.53,http://www.dorency.com/english/,1392706480
+トップページ,202.131.102.166,202.131.102.166,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B601 Safari/9537.53,https://www.google.co.jp/,1392706472
+トップページ,123.21.149.138,123.21.149.138,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.64 CoRom/31.0.1650.64 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1392694062
+Contact,123.21.149.138,123.21.149.138,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.64 CoRom/31.0.1650.64 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1392693668
+Contact,118.69.69.19,118.69.69.19,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1392693608
+トップページ,118.69.69.19,118.69.69.19,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1392693597

@@ -1,0 +1,1 @@
+トップページ,p5133-ipngn3301souka.saitama.ocn.ne.jp,153.223.100.133,Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4,https://www.google.co.jp/,1428709363

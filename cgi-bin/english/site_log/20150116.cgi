@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,em117-55-68-162.emobile.ad.jp,117.55.68.162,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://www.dorency.com/english/,1421416723
+トップページ,em117-55-68-162.emobile.ad.jp,117.55.68.162,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://www.dorency.com/,1421416712

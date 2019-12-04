@@ -1,0 +1,2 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,softbank219045210075.bbtec.net,219.45.210.75,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13,http://www.dorency.com/english/,1296369179
+トップページ,softbank219045210075.bbtec.net,219.45.210.75,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13,http://www.dorency.com/,1296369159

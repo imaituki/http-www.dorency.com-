@@ -1,0 +1,1 @@
+トップページ,s1025101.xgsspn.imtp.tachikawa.spmode.ne.jp,1.75.225.101,Mozilla/5.0 (Linux; U; Android 2.3.7; ja-jp; SonyEricssonSO-03D Build/6.0.A.5.12) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1377607636

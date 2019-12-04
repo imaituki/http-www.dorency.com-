@@ -1,0 +1,4 @@
+トップページ,125.123.161.122,125.123.161.122,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; 360SE),http://www.dorency.com/,1282722207
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,113.105.187.58,113.105.187.58,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.dorency.com/english/,1282708624
+トップページ,113.105.187.58,113.105.187.58,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1282708605
+トップページ,96.220.12.221.megaegg.ne.jp,221.12.220.96,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.3; YTB730; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C),http://www.google.co.jp/search?hl=ja&q=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&aq=f&aqi=&aql=&oq=&gs_rfai=,1282695148

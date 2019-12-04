@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,c-71-194-206-77.hsd1.in.comcast.net,71.194.206.77,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.52.7 (KHTML like Gecko) Version/5.1.2 Safari/534.52.7,http://www.dorency.com/english/,1330196631
+トップページ,c-71-194-206-77.hsd1.in.comcast.net,71.194.206.77,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.52.7 (KHTML like Gecko) Version/5.1.2 Safari/534.52.7,http://www.dorency.com/,1330196600

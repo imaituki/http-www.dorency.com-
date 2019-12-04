@@ -1,0 +1,2 @@
+トップページ,p3049-ipbfp1403niho.hiroshima.ocn.ne.jp,180.5.202.49,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www2.inbox.com/search/resultsc.aspx?q=%e3%83%89%e3%83%ac%e3%83%b3%e3%82%b7%e3%83%bc&tbid=82026&tp=pts&lt=3&iwk=298,1407403003
+トップページ,user20-net218219016.ayu.ne.jp,218.219.16.20,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.125 Safari/537.36,https://www.google.co.jp/,1407387420

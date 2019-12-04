@@ -1,0 +1,4 @@
+Contact,hn.kd.ny.adsl,123.6.22.48,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/english/,1308032974
+トップページ,hn.kd.ny.adsl,123.6.22.48,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1308032901
+Company,hn.kd.ny.adsl,123.6.22.48,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.co.jp/search?q=DORENCY++LIMITED&hl=zh-CN&lr=&newwindow=1&prmd=ivns&ei=C__2Ta_ZI43xrQfZsJyTCA&start=10&sa=N,1308032800
+トップページ,p3157-ipbf1802hodogaya.kanagawa.ocn.ne.jp,123.220.48.157,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; GTB7.0; .NET CLR 1.1.4322; YJSG3),http://search.yahoo.co.jp/search?p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1308009363

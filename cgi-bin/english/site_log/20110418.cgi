@@ -1,0 +1,1 @@
+トップページ,60.190.140.230,60.190.140.230,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Apache; .NET CLR 2.0.50727; Media Center PC 6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1303096980

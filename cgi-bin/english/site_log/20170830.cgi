@@ -1,0 +1,1 @@
+トップページ,96.85.0.1.megaegg.ne.jp,1.0.85.96,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML like Gecko) Mobile/14F89 YJApp-IOS jp.co.yahoo.ipn.appli/4.7.10,https://search.yahoo.co.jp/,1504074030

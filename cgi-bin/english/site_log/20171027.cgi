@@ -1,0 +1,2 @@
+トップページ,KD027094157203.ppp-bb.dion.ne.jp,27.94.157.203,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML like Gecko) Version/10.0 Mobile/14G60 Safari/602.1,https://search.yahoo.co.jp/,1509097642
+トップページ,the67-3-88-180-46-112.fbx.proxad.net,88.180.46.112,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A432 Safari/604.1,http://dorency.com/,1509037805

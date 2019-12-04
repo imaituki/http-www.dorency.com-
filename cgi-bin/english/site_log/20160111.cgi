@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,dsl-189-169-92-219-dyn.prod-infinitum.com.mx,189.169.92.219,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/english/,1452490265
+トップページ,189.169.92.219,189.169.92.219,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1452490248
+Company,dsl-189-169-92-219-dyn.prod-infinitum.com.mx,189.169.92.219,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,https://www.google.com.mx/,1452490238

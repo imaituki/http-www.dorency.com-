@@ -1,0 +1,2 @@
+Company,168.59.30.117.broad.xm.fj.dynamic.163data.com.cn,117.30.59.168,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.108 Safari/537.36,https://www.google.com/,1533027852
+トップページ,p96f659bc.tokynt01.ap.so-net.ne.jp,150.246.89.188,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML like Gecko) PhantomJS/2.1.1 Safari/538.1,http://www.dorency.com/english/,1532963706

@@ -1,0 +1,1 @@
+トップページ,KD106154072126.au-net.ne.jp,106.154.72.126,Mozilla/5.0 (Linux; Android 6.0.1; LG-K535 Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36,http://www.dorency.com/,1481328598

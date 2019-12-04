@@ -1,0 +1,2 @@
+トップページ,pool-96-232-86-223.nycmny.fios.verizon.net,96.232.86.223,Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,http://www.dorency.com/,1415235181
+OxygenAbsorber　HandWarmers,msnbot-199-30-24-88.search.msn.com,199.30.24.88,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1415213141

@@ -1,0 +1,4 @@
+Contact,115.42.199.146,115.42.199.146,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1520496056
+トップページ,115.42.199.146,115.42.199.146,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com./,1520496045
+OxygenAbsorber　HandWarmers,115.42.199.146,115.42.199.146,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjVgsLfoNzZAhVCLo8KHTGbDBUQjRwIBg&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D1&psig=AOvVaw0H6BcEnU-SuEi3N_cvEcmS&ust=1520582296702387,1520495960
+トップページ,dellz04.exeter.ox.ac.uk,129.67.134.68,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2,1520437272

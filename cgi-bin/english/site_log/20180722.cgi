@@ -1,0 +1,4 @@
+トップページ,1.9.158.162,1.9.158.162,Mozilla/5.0 (Linux; Android 8.0.0; VTR-L29 Build/HUAWEIVTR-L29) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36,http://www.google.com/,1532228346
+トップページ,google-proxy-64-233-173-141.google.com,64.233.173.141,Mozilla/5.0 (Linux; Android 8.0.0; VTR-L29 Build/HUAWEIVTR-L29) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36,http://www.google.com/,1532228329
+OxygenAbsorber　HandWarmers,cpe-172-74-48-125.nc.res.rr.com,172.74.48.125,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1532200789
+Company,cpe-172-74-48-125.nc.res.rr.com,172.74.48.125,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.com/,1532200777

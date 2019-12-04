@@ -1,0 +1,4 @@
+Company,167.219.48.10,167.219.48.10,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; MS-RTC S; MS-RTC LM 8; .NET CLR 3.5.30729; .NET CLR 3.0.30618; USPortal),http://www.google.co.in/search?hl=en&source=hp&q=Tamashima+Shinyoukinko&aq=f&aqi=&aql=&oq=&gs_rfai=&safe=active,1293543977
+Company,bcout.hikari.co.jp,210.229.155.62,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML like Gecko) Chrome/8.0.552.224 Safari/534.10,http://www.dorency.com/english/,1293512251
+トップページ,bcout.hikari.co.jp,210.229.155.62,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML like Gecko) Chrome/8.0.552.224 Safari/534.10,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1293512231
+トップページ,69-77-201-76.pub.gwtc.net,69.77.201.76,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML like Gecko) Chrome/8.0.552.224 Safari/534.10,http://dorency.com/,1293498743

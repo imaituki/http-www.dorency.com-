@@ -1,0 +1,5 @@
+トップページ,114-34-93-99.HINET-IP.hinet.net,114.34.93.99,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1337510567
+Equipments(Machines) for environmental maintenance,114-34-93-99.HINET-IP.hinet.net,114.34.93.99,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1337510557
+OxygenAbsorber　HandWarmers,114-34-93-99.HINET-IP.hinet.net,114.34.93.99,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1337510555
+Company,114-34-93-99.HINET-IP.hinet.net,114.34.93.99,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1337510552
+トップページ,114-34-93-99.HINET-IP.hinet.net,114.34.93.99,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1337510544

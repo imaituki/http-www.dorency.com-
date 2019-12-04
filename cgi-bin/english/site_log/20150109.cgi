@@ -1,0 +1,1 @@
+トップページ,202-229-167-53.ap-p23.canvas.ne.jp,202.229.167.53,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.95 Safari/537.36,http://translate.google.co.jp/translate_p?hl=en&prev=search&sl=ja&u=http://www.dorency.com/english/&depth=1&usg=ALkJrhj6hmrwvH_AQ7b2aR1xf7uckh7PrA,1420773953

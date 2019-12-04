@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,CPE-124-186-76-196.lns3.woo.bigpond.net.au,124.186.76.196,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.dorency.com/english/,1340224952
+トップページ,CPE-124-186-76-196.lns3.woo.bigpond.net.au,124.186.76.196,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3,http://www.dorency.com/,1340224924
+OxygenAbsorber　HandWarmers,200.28.129.157,200.28.129.157,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3),http://www.dorency.com/english/,1340204942
+トップページ,200.28.129.157,200.28.129.157,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1340204929

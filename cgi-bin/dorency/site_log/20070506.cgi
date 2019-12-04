@@ -1,0 +1,14 @@
+ショッピング,fb195-185.infoaomori.ne.jp,202.226.195.185,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-jp) AppleWebKit/419 (KHTML like Gecko) Safari/419.3,http://www.dorency.com/,1178451797
+トップページ,fb195-185.infoaomori.ne.jp,202.226.195.185,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-jp) AppleWebKit/419 (KHTML like Gecko) Safari/419.3,http://www.dorency.com/,1178451787
+トップページ,60.191.68.10,60.191.68.10,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.pinghu.com/,1178448596
+脱酸素剤・カイロ,softbank218180214065.bbtec.net,218.180.214.65,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/,1178442232
+トップページ,softbank218180214065.bbtec.net,218.180.214.65,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E8%B2%A9%E5%A3%B2&ei=UTF-8&fr=bb_top_v2&x=wrt,1178442225
+トップページ,p2157-ipbfp202okayamaima.okayama.ocn.ne.jp,125.200.165.157,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1178434778
+会社概要,219x120x169x7.ap219.ftth.ucom.ne.jp,219.120.169.7,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1178420672
+ショッピング,219x120x169x7.ap219.ftth.ucom.ne.jp,219.120.169.7,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1178420657
+脱酸素剤・カイロ,219x120x169x7.ap219.ftth.ucom.ne.jp,219.120.169.7,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1178420512
+トップページ,219x120x169x7.ap219.ftth.ucom.ne.jp,219.120.169.7,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%B3%F4%BC%B0%B2%F1%BC%D2&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=27&y=7,1178420507
+トップページ,124.91.48.178,124.91.48.178,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.pinghu.com/,1178412028
+脱酸素剤・カイロ,127.200.12.221.megaegg.ne.jp,221.12.200.127,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://cgi.search.biglobe.ne.jp/cgi-bin/search_bl_top?q=%A5%AD%A1%BC%A5%D4%A5%C3%A5%C8&num=10&start=0,1178404857
+脱酸素剤・カイロ,p1240-ipbf209niho.hiroshima.ocn.ne.jp,222.149.122.240,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&ei=UTF-8&fr=top_v2&x=wrt,1178386034
+トップページ,eatkyo202053.adsl.ppp.infoweb.ne.jp,218.226.131.53,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.live.com/spresults.aspx?q=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89,1178379739

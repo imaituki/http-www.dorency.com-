@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,EM114-48-114-61.pool.e-mobile.ne.jp,114.48.114.61,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0),http://www.dorency.com/english/,1323150014
+トップページ,EM114-48-114-61.pool.e-mobile.ne.jp,114.48.114.61,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1323150005
+トップページ,123.150.179.136,123.150.179.136,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1323142127
+トップページ,p25138-ipngn801marunouchi.tokyo.ocn.ne.jp,114.162.180.138,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML like Gecko) Chrome/15.0.874.121 Safari/535.2,http://www.dorency.com/,1323098308

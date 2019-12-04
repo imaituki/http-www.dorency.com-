@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,27.147.203.143,27.147.203.143,Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13A452 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1458726876

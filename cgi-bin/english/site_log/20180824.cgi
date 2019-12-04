@@ -1,0 +1,3 @@
+Company,202.170.216.51,202.170.216.51,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.dorency.com/english/,1535099888
+トップページ,202.170.216.51,202.170.216.51,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1535099871
+Company,fixed-187-189-92-249.totalplay.net,187.189.92.249,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.15.2840.71 Safari/537.36,https://www.google.com.mx/,1535062476

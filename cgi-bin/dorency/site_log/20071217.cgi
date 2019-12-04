@@ -1,0 +1,43 @@
+お問合わせ,60-56-147-193.eonet.ne.jp,60.56.147.193,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1197891550
+脱酸素剤・カイロ,60-56-147-193.eonet.ne.jp,60.56.147.193,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/,1197891476
+トップページ,60-56-147-193.eonet.ne.jp,60.56.147.193,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&sp=1&ei=UTF-8&fr=slv1-tbtop&SpellState=n-3833568221_q-SL8.r3mzyusRw1RbuA3rcQAAAA%40%40,1197891466
+お問合わせ,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1197884019
+会社概要,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/,1197883982
+トップページ,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?&category=1&page=0&view=&detail=on&no=1,1197883962
+脱酸素剤・カイロ,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?&category=1&page=0&view=&detail=on&no=1,1197883922
+通販法の表記,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?&category=1&page=0&view=&detail=on&no=1,1197883889
+ショッピング,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://www.dorency.com/,1197883858
+トップページ,59-190-54-50.eonet.ne.jp,59.190.54.50,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%A1%A1%C2%E7%C7%FE%BC%E3%CD%D5&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1197883839
+トップページ,206.86.2.218.broad.ha.js.dynamic.163data.com.cn,218.2.86.206,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.desiccantshow.com/desiccant.asp?id=42,1197882249
+脱酸素剤・カイロ,202.248.100.1,202.248.100.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1197882183
+トップページ,202.248.100.1,202.248.100.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1197882163
+トップページ,124.77.141.141,124.77.141.141,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1197881803
+会社概要,141.141.77.124.broad.xw.sh.dynamic.163data.com.cn,124.77.141.141,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1197881747
+トップページ,141.141.77.124.broad.xw.sh.dynamic.163data.com.cn,124.77.141.141,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1197881704
+お問合わせ,141.141.77.124.broad.xw.sh.dynamic.163data.com.cn,124.77.141.141,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1197881666
+トップページ,124.77.141.141,124.77.141.141,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.desiccantshow.com/desiccant.asp?id=42,1197881643
+会社概要,158.205.147.36,158.205.147.36,Mozilla/4.7 [ja] (WinNT; U),http://www.google.co.jp/search?hl=ja&inlang=ja&ie=Shift_JIS&q=%83h%83%8C%83%93%83V%81%5B%81%40%89%AA%8ER%8C%A7&btnG=%8C%9F%8D%F5&lr=,1197881310
+トップページ,p6166-ipbf502hodogaya.kanagawa.ocn.ne.jp,124.85.167.166,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.broval.jp/c3sc0_3.html,1197872606
+トップページ,202.43.147.66,202.43.147.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/,1197869671
+脱酸素剤・カイロ,p2249-ipad204niigatani.niigata.ocn.ne.jp,58.91.198.249,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&ei=UTF-8&meta=vc%3D&fl=0&pstart=1&fr=top_v2&b=11,1197868762
+トップページ,170.106.79.218.broad.xw.sh.dynamic.163data.com.cn,218.79.106.170,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1),http://www.desiccantshow.com/desiccant.asp?id=13,1197865431
+トップページ,58.246.3.174,58.246.3.174,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; GreenBrowser),http://www.dorency.com/,1197860398
+会社概要,p6041-ipad01sasajima.aichi.ocn.ne.jp,61.214.70.41,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=21&y=7,1197856799
+お問合わせ,p6041-ipad01sasajima.aichi.ocn.ne.jp,61.214.70.41,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1197856773
+脱酸素剤・カイロ,p6041-ipad01sasajima.aichi.ocn.ne.jp,61.214.70.41,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506),http://www.dorency.com/,1197856724
+トップページ,p6041-ipad01sasajima.aichi.ocn.ne.jp,61.214.70.41,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=21&y=7,1197856693
+会社概要,202.221.246.207,202.221.246.207,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; WOW64; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.google.com/search?hl=en&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC,1197856534
+脱酸素剤・カイロ,mta04.sline.kddi.ne.jp,211.5.5.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1197855286
+会社概要,mta04.sline.kddi.ne.jp,211.5.5.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&q=%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E6%8F%AE%E7%99%BA%E5%89%A4&lr=,1197855245
+脱酸素剤・カイロ,cb.asask.co.jp,203.99.241.36,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1197854562
+トップページ,cb.asask.co.jp,203.99.241.36,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1),http://www.dorency.com/,1197854550
+トップページ,209.134.177.60.broad.hz.zj.dynamic.163data.com.cn,60.177.134.209,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/moreurl.asp?page=1,1197850587
+ショッピング,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1197850069
+通販法の表記,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1197850061
+お問合わせ,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1197850058
+会社概要,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1197850054
+脱酸素剤・カイロ,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1197850052
+ショッピング,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1197850046
+通販法の表記,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://dorency.com/,1197850033
+トップページ,211.199.52.172,211.199.52.172,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; BESAGENT; .NET CLR 1.1.4322; BESAGENT; .NET CLR 2.0.50727),http://dorency.com/,1197850010
+会社概要,sv1.bts.dos-osaka.co.jp,58.159.78.123,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727) Sleipnir/2.6.1,http://www.google.co.jp/hws/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&client=fenrir&adsafe=off&safe=off&lr=lang_ja,1197849229

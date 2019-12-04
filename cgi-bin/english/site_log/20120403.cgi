@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,c-174-49-112-130.hsd1.ga.comcast.net,174.49.112.130,Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B179 Safari/7534.48.3,http://www.google.com/search?q=are+hand+warmers+the+same+as+oxygen+absorbers&ie=UTF-8&oe=UTF-8&hl=en&client=safari,1333428633

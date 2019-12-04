@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,76-219-209-223.lightspeed.irvnca.sbcglobal.net,76.219.209.223,Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1473310441
+Company,76-219-209-223.lightspeed.irvnca.sbcglobal.net,76.219.209.223,Mozilla/5.0 (Linux; Android 6.0.1; SM-N910T Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36,https://www.google.com/,1473310427

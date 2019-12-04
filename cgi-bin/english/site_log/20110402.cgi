@@ -1,0 +1,1 @@
+トップページ,softbank219177087024.bbtec.net,219.177.87.24,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%20%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&sp=1&aq=-1&ei=UTF-8&fr=top_ga1_sa&SpellState=,1301738913

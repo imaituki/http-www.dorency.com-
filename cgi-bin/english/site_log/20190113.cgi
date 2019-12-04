@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,static.vnpt.vn,14.170.94.115,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1547362100
+OxygenAbsorber　HandWarmers,200.68.137.216,200.68.137.216,Mozilla/5.0 (Linux; Android 8.0.0; SM-J400M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/english/,1547319021
+OxygenAbsorber　HandWarmers,google-proxy-64-233-172-183.google.com,64.233.172.183,Mozilla/5.0 (Linux; Android 8.0.0; SM-J400M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/english/,1547319021
+トップページ,200.68.137.216,200.68.137.216,Mozilla/5.0 (Linux; Android 8.0.0; SM-J400M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1547319012
+トップページ,google-proxy-64-233-172-185.google.com,64.233.172.185,Mozilla/5.0 (Linux; Android 8.0.0; SM-J400M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1547319011
+トップページ,1.179.240.89,1.179.240.89,Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1547308613
+トップページ,google-proxy-64-233-173-59.google.com,64.233.173.59,Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1547308613

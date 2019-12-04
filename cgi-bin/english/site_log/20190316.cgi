@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,h095195142110.dynamic.dsl.sakhalin.ru,95.159.142.110,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1552726768
+トップページ,h095195142110.dynamic.dsl.sakhalin.ru,95.159.142.110,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://yandex.ru/,1552726736
+OxygenAbsorber　HandWarmers,om126200124009.15.openmobile.ne.jp,126.200.124.9,Mozilla/5.0 (Linux; Android 7.1.1; handy_T2_EU Build/N4F26M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.dorency.com/english/,1552712935
+トップページ,om126200124009.15.openmobile.ne.jp,126.200.124.9,Mozilla/5.0 (Linux; Android 7.1.1; handy_T2_EU Build/N4F26M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36,http://www.dorency.com/,1552712893

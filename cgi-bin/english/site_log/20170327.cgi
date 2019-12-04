@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,ai126198028245.60.access-internet.ne.jp,126.198.28.245,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://www.dorency.com/english/,1490624525
+トップページ,ai126198028245.60.access-internet.ne.jp,126.198.28.245,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://www.dorency.com/,1490624498
+トップページ,116.230.236.173,116.230.236.173,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1490591423

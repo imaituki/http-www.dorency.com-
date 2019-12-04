@@ -1,0 +1,1 @@
+トップページ,223.81.145.69,223.81.145.69,Mozilla/5.0 (Linux; Android 9; ALP-AL00 Build/HUAWEIALP-AL00) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Mobile Safari/537.36,http://www.dorency.com/,1564750147

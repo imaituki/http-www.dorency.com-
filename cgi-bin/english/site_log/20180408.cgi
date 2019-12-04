@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,170-41.dynamic.well-comm.ru,62.78.41.170,Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) CriOS/65.0.3325.152 Mobile/15E216 Safari/604.1,http://www.dorency.com/english/,1523174952
+トップページ,170-41.dynamic.well-comm.ru,62.78.41.170,Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) CriOS/65.0.3325.152 Mobile/15E216 Safari/604.1,https://yandex.ru/,1523174913

@@ -1,0 +1,1 @@
+トップページ,i125-205-164-213.s41.a033.ap.plala.or.jp,125.205.164.213,Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1571525920

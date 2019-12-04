@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,112.134.7.156,112.134.7.156,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.116 Safari/537.36 OPR/40.0.2308.81,http://www.dorency.com/english/,1476455974
+OxygenAbsorber　HandWarmers,112.134.7.8,112.134.7.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.116 Safari/537.36 OPR/40.0.2308.81,http://www.dorency.com/english/,1476417221
+トップページ,112.134.7.8,112.134.7.8,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/53.0.2785.116 Safari/537.36 OPR/40.0.2308.81,http://www.dorency.com/,1476417201

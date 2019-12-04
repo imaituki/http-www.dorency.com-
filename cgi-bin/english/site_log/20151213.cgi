@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,bb116-14-230-87.singnet.com.sg,116.14.230.87,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.80 Safari/537.36,http://www.dorency.com/english/,1450014379
+トップページ,bb116-14-230-87.singnet.com.sg,116.14.230.87,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.80 Safari/537.36,http://www.dorency.com/,1450014360
+OxygenAbsorber　HandWarmers,14-132-28-28.aichiwest1.commufa.jp,14.132.28.28,Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL22 Build/S8202) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://sp-web.search.auone.jp/search?client=mobile-kddi&channel=android&sr=0000&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E6%9D%90oxygen++absorber,1450002618

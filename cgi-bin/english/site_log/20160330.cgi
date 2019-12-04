@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,net-93-146-244-83.cust.vodafonedsl.it,93.146.244.83,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/english/,1459319777
+トップページ,net-93-146-244-83.cust.vodafonedsl.it,93.146.244.83,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0,http://www.dorency.com/,1459319766
+OxygenAbsorber　HandWarmers,p382152-ipngn200403matuyama.ehime.ocn.ne.jp,114.153.244.152,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/english/,1459284611
+トップページ,p382152-ipngn200403matuyama.ehime.ocn.ne.jp,114.153.244.152,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13D15 Safari/601.1,http://www.dorency.com/,1459284569
+Equipments(Machines) for environmental maintenance,rrcs-108-178-176-50.west.biz.rr.com,108.178.176.50,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1459272168
+OxygenAbsorber　HandWarmers,rrcs-108-178-176-50.west.biz.rr.com,108.178.176.50,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1459272165
+Company,rrcs-108-178-176-50.west.biz.rr.com,108.178.176.50,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1459272147
+トップページ,rrcs-108-178-176-50.west.biz.rr.com,108.178.176.50,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1459272143

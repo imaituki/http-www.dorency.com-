@@ -1,0 +1,3 @@
+トップページ,impacthomes.com.au,203.217.12.123,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) CriOS/57.0.2987.137 Mobile/14E304 Safari/602.1,http://dorency.com/,1491986426
+OxygenAbsorber　HandWarmers,impacthomes.com.au,203.217.12.123,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML like Gecko) Version/10.0 Mobile/14E277 Safari/602.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1491985500
+Company,impacthomes.com.au,203.217.12.123,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML like Gecko) Version/10.0 Mobile/14E277 Safari/602.1,https://www.google.com.au/,1491985489

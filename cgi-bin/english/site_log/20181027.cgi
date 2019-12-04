@@ -1,0 +1,1 @@
+トップページ,softbank126021142032.bbtec.net,126.21.142.32,Mozilla/5.0 (Linux; Android 6.0.1; 503KC Build/104.3.2f50; wv) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/3.30.0,https://search.yahoo.co.jp/,1540601285

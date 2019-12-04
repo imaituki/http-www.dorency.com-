@@ -1,0 +1,2 @@
+トップページ,ppxc090.enti.cli.wbs.ne.jp,210.146.98.90,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.so-net.ne.jp/search/web/?query=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E5%90%AB%E6%9C%89%E9%A3%9F%E5%93%81+%E3%80%80%E8%8B%B1%E8%AA%9E&from=gp,1351825490
+トップページ,bfpre-210-167-89-22.harenet.ne.jp,210.167.89.22,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/,1351819901

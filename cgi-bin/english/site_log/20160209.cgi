@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,ppp-27-55-172-105.revip3.asianet.co.th,27.55.172.105,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36,http://www.dorency.com/english/,1454999469
+トップページ,ppp-27-55-172-105.revip3.asianet.co.th,27.55.172.105,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36,http://dorency.com/,1454999445

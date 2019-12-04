@@ -1,0 +1,3 @@
+トップページ,ZF024084.ppp.dion.ne.jp,222.1.24.84,Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B651 Safari/9537.53,https://www.google.co.jp/,1393074851
+OxygenAbsorber　HandWarmers,p041207.ppp.asahi-net.or.jp,221.113.41.207,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/33.0.1750.117 Safari/537.36,http://www.dorency.com/english/,1393056925
+トップページ,p041207.ppp.asahi-net.or.jp,221.113.41.207,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/33.0.1750.117 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1393056919

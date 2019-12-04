@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,mx-ll-180.183.61-10.dynamic.3bb.co.th,180.183.61.10,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4,http://www.dorency.com/english/,1424596978
+トップページ,mx-ll-180.183.61-10.dynamic.3bb.co.th,180.183.61.10,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4,http://dorency.com/,1424596930

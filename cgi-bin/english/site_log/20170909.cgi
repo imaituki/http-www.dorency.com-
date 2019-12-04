@@ -1,0 +1,1 @@
+トップページ,50-26-197-50.abilcmtk01.res.dyn.suddenlink.net,50.26.197.50,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://dorency.com/,1504930393

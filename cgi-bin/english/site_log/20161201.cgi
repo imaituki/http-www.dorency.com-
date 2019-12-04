@@ -1,0 +1,3 @@
+Company,50.111.91.208,50.111.91.208,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.2.14 (KHTML like Gecko) Version/10.0.1 Safari/602.2.14,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1480599952
+OxygenAbsorber　HandWarmers,50.111.91.208,50.111.91.208,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/english/,1480599314
+トップページ,50.111.91.208,50.111.91.208,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/,1480599267

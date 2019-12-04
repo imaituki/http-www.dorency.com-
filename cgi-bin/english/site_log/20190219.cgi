@@ -1,0 +1,5 @@
+Equipments(Machines) for environmental maintenance,p836154-ipngn200610kyoto.kyoto.ocn.ne.jp,153.133.211.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1550554539
+Company,p836154-ipngn200610kyoto.kyoto.ocn.ne.jp,153.133.211.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1550554502
+OxygenAbsorber　HandWarmers,p836154-ipngn200610kyoto.kyoto.ocn.ne.jp,153.133.211.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.dorency.com/english/,1550554469
+トップページ,p836154-ipngn200610kyoto.kyoto.ocn.ne.jp,153.133.211.154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1550554463
+Company,62.57.100.218.dyn.user.ono.com,62.57.100.218,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.109 Safari/537.36,https://www.google.com/,1550502727

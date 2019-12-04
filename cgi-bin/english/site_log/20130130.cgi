@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,Mahmoud-PC.vetmed.hokudai.ac.jp,133.87.224.121,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.56 Safari/537.17,http://www.dorency.com/english/,1359536257
+トップページ,Mahmoud-PC.vetmed.hokudai.ac.jp,133.87.224.121,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.56 Safari/537.17,http://www.dorency.com/,1359536221

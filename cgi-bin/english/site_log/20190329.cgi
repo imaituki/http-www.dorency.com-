@@ -1,0 +1,4 @@
+トップページ,37.26.149.184,37.26.149.184,Mozilla/5.0 (Linux; Android 8.0.0; LG-H990) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36,http://dorency.com/,1553860369
+Company,msnbot-40-77-189-94.search.msn.com,40.77.189.94,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1553855624
+Company,110.77.132.233,110.77.132.233,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,https://search.yahoo.co.jp/,1553853198
+トップページ,i118-21-102-9.s30.a048.ap.plala.or.jp,118.21.102.9,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,https://www.google.com/,1553849505

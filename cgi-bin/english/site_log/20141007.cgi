@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,93-143-100-82.adsl.net.t-com.hr,93.143.100.82,Mozilla/5.0 (Linux; U; Android 4.1.2; hr-hr; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1412624133
+トップページ,93-143-100-82.adsl.net.t-com.hr,93.143.100.82,Mozilla/5.0 (Linux; U; Android 4.1.2; hr-hr; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1412624113
+トップページ,002128032081.mbb.telenor.dk,2.128.32.81,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://dorency.com/,1412618436

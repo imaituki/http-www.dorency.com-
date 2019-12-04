@@ -1,0 +1,1 @@
+トップページ,enode.176.59.104.218.tele2.ru,176.59.104.218,Mozilla/5.0 (Linux; Android 4.4.4; D2203 Build/18.5.C.0.19) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36,http://yandex.ru/search/touch/?text=dorency%20%D1%87%D1%82%D0%BE%20%D1%8D%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20&lr=47&suggest_reqid=43978372143548247411323177013026,1442911198

@@ -1,0 +1,3 @@
+トップページ,ec2-34-211-225-181.us-west-2.compute.amazonaws.com,34.211.225.181,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.109 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1562559569
+トップページ,nttkyo1136167.tkyo.nt.ngn.ppp.infoweb.ne.jp,61.124.140.167,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1562559488
+トップページ,static.vnpt.vn,14.181.92.243,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.100 Safari/537.36,http://dorency.com/,1562517543

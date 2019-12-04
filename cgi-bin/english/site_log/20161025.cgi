@@ -1,0 +1,1 @@
+トップページ,107.77.109.19,107.77.109.19,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/19.0.133715217 Mobile/14A456 Safari/600.1.4,http://dorency.com/,1477356422

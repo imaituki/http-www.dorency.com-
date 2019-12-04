@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,g1-223-25-160-13.bmobile.ne.jp,223.25.160.13,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G35 Safari/601.1,http://www.dorency.com/english/,1517645567
+トップページ,g1-223-25-160-57.bmobile.ne.jp,223.25.160.57,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G35 Safari/601.1,http://dorency.com/,1517645549
+トップページ,204.79.180.4,204.79.180.4,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0),http://www.dorency.com/english/,1517644665

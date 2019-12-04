@@ -1,0 +1,5 @@
+トップページ,fm-dyn-118-137-160-56.fast.net.id,118.137.160.56,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36,http://www.dorency.com/,1439816221
+Company,baiduspider-220-181-108-114.crawl.baidu.com,220.181.108.114,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1439806622
+OxygenAbsorber　HandWarmers,115.92.168.2,115.92.168.2,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1439803255
+トップページ,115.92.168.2,115.92.168.2,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1439803246
+OxygenAbsorber　HandWarmers,baiduspider-123-125-71-107.crawl.baidu.com,123.125.71.107,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1439737870

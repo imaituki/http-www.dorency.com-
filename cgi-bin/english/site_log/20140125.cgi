@@ -1,0 +1,7 @@
+Company,46.46.38.98,46.46.38.98,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1390631264
+Equipments(Machines) for environmental maintenance,46.46.38.98,46.46.38.98,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1390631245
+OxygenAbsorber　HandWarmers,46.46.38.98,46.46.38.98,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1390631184
+トップページ,46.46.38.98,46.46.38.98,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1390631181
+トップページ,ntkngw314199.kngw.nt.ngn.ppp.infoweb.ne.jp,61.124.154.199,Mozilla/5.0 (Linux; Android 4.4.2; Nexus 7 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.99 Safari/537.36,https://www.google.co.jp/,1390627282
+OxygenAbsorber　HandWarmers,108-161-114-60.dsl.teksavvy.com,108.161.114.60,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,https://www.google.ca/,1390612734
+トップページ,66-214-167-178.dhcp.mtpk.ca.charter.com,66.214.167.178,Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A407 Safari/8536.25,http://www.dorency.com/,1390598603

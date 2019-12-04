@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,cpc21-wiga12-2-0-cust156.18-3.cable.virginm.net,80.192.132.157,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.116 Safari/537.36,http://www.dorency.com/english/,1472975284
+トップページ,cpc21-wiga12-2-0-cust156.18-3.cable.virginm.net,80.192.132.157,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/52.0.2743.116 Safari/537.36,http://www.dorency.com/,1472975251

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,zz20164308586ABADE64.userreverse.dion.ne.jp,106.186.222.100,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1551519455
+トップページ,zz20164308586ABADE65.userreverse.dion.ne.jp,106.186.222.101,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1551519437

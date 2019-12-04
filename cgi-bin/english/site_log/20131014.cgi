@@ -1,0 +1,5 @@
+Company,pool-108-0-184-223.lsanca.fios.verizon.net,108.0.184.223,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1381685029
+Equipments(Machines) for environmental maintenance,pool-108-0-184-223.lsanca.fios.verizon.net,108.0.184.223,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1381685008
+OxygenAbsorber　HandWarmers,pool-108-0-184-223.lsanca.fios.verizon.net,108.0.184.223,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1381684903
+トップページ,pool-108-0-184-223.lsanca.fios.verizon.net,108.0.184.223,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1381684890
+トップページ,p16064-ipngn100403kyoto.kyoto.ocn.ne.jp,153.181.46.64,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; YTB730),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+KEEPIT&aq=-1&oq=&ei=UTF-8&fr=slv1-necpc8&x=wrt,1381681273

@@ -1,0 +1,3 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,ABTS-North-Dynamic-183.163.161.122.airtelbroadband.in,122.161.163.183,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML like Gecko) Chrome/6.0.472.63 Safari/534.3,http://www.dorency.com/english/,1285315417
+トップページ,ABTS-North-Dynamic-183.163.161.122.airtelbroadband.in,122.161.163.183,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML like Gecko) Chrome/6.0.472.63 Safari/534.3,http://www.dorency.com/,1285315380
+トップページ,222.69.92.209,222.69.92.209,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1285303073

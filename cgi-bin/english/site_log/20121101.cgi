@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,27.78.92.86,27.78.92.86,Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3,http://www.dorency.com/english/,1351754916
+トップページ,27.78.92.86,27.78.92.86,Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1351754901
+トップページ,xdsl-78-34-144-57.netcologne.de,78.34.144.57,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.94 Safari/537.4,http://www.dorency.com/,1351701752

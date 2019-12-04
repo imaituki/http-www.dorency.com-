@@ -1,0 +1,8 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,210.13.116.74,210.13.116.74,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.5),http://www.dorency.com/english/,1279797082
+トップページ,210.13.116.74,210.13.116.74,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.5),http://www.dorency.com/,1279797065
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,ppp-124-121-229-65.revip2.asianet.co.th,124.121.229.65,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML like Gecko) Chrome/5.0.375.99 Safari/533.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1279796166
+Company,ppp-124-121-229-65.revip2.asianet.co.th,124.121.229.65,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML like Gecko) Chrome/5.0.375.99 Safari/533.4,http://www.google.co.th/url?sa=t&source=web&cd=8&ved=0CDoQFjAH&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D0&rct=j&q=DORENCY&ei=oiJITLPPGIyycbefgecM&usg=AFQjCNGOle9nfPXxETYeklTPRW56noJKZw,1279796139
+トップページ,125.124.74.216,125.124.74.216,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.5),http://www.dorency.com/,1279781160
+Company,121.229.196.134,121.229.196.134,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; TencentTraveler 4.0; yie8),http://www.dorency.com/english/,1279779511
+トップページ,121.229.196.134,121.229.196.134,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; TencentTraveler 4.0; yie8),http://www.dorency.com/,1279779505
+トップページ,120.199.156.126,120.199.156.126,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; okhy10.05254; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; okhy10.05254),http://www.dorency.com/,1279724990

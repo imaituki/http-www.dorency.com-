@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,122x219x74x23.ap122.ftth.ucom.ne.jp,122.219.74.23,Mozilla/5.0 (Linux; Android 4.2.1; Micromax A117 Build/JOP40D) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36,http://www.dorency.com/english/,1418220617
+トップページ,122x219x74x23.ap122.ftth.ucom.ne.jp,122.219.74.23,Mozilla/5.0 (Linux; Android 4.2.1; Micromax A117 Build/JOP40D) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36,http://dorency.com/,1418220606
+トップページ,115.228.227.118,115.228.227.118,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0),http://www.dorency.com/,1418191642

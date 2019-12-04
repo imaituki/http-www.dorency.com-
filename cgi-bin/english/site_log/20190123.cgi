@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,host-79-165-77-126.qwerty.ru,79.165.77.126,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64 (Edition Campaign 67),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1548180348
+Company,host-79-165-77-126.qwerty.ru,79.165.77.126,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64 (Edition Campaign 67),http://adguard.com/referrer.html,1548180307

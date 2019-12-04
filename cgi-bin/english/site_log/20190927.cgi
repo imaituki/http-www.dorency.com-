@@ -1,0 +1,1 @@
+トップページ,mm-28-42-120-178.brest.dynamic.pppoe.byfly.by,178.120.42.28,Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1569516744

@@ -1,0 +1,1 @@
+トップページ,p3126-ipbf1709marunouchi.tokyo.ocn.ne.jp,124.102.114.126,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; YTB730; GTB6.6; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?fr=slv1-tbtop&p=COPYRIGHT%28C%29%20%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F&ei=UTF-8,1301656937

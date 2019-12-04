@@ -1,0 +1,1 @@
+トップページ,125.119.255.70,125.119.255.70,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1408435769

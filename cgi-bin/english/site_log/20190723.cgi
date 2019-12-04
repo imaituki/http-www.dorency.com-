@@ -1,0 +1,3 @@
+Company,175.136.168.218,175.136.168.218,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/75.0.3770.142 Safari/537.36,https://www.google.com/,1563866130
+OxygenAbsorber　HandWarmers,adsl-83-100-157-87.karoo.KCOM.COM,83.100.157.87,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.dorency.com/english/,1563812792
+トップページ,adsl-83-100-157-87.karoo.KCOM.COM,83.100.157.87,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.121 Safari/537.36,http://www.dorency.com/,1563812770

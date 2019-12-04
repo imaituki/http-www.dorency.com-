@@ -1,0 +1,4 @@
+トップページ,78-60-131-225.static.zebra.lt,78.60.131.225,Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 sputnik 2.5.3.6,http://www.dorency.com/,1366123818
+Equipments(Machines) for environmental maintenance,r186-48-200-252.dialup.adsl.anteldata.net.uy,186.48.200.252,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML like Gecko) Chrome/26.0.1410.64 Safari/537.31,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1366079896
+Company,r186-48-200-252.dialup.adsl.anteldata.net.uy,186.48.200.252,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML like Gecko) Chrome/26.0.1410.64 Safari/537.31,http://www.dorency.com/english/,1366079827
+トップページ,r186-48-200-252.dialup.adsl.anteldata.net.uy,186.48.200.252,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML like Gecko) Chrome/26.0.1410.64 Safari/537.31,http://www.dorency.com/,1366079805

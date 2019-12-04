@@ -1,0 +1,3 @@
+トップページ,p6148-ipad201niho.hiroshima.ocn.ne.jp,58.90.12.148,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1423124370
+OxygenAbsorber　HandWarmers,google-proxy-66-249-83-139.google.com,66.249.83.139,Mozilla/5.0 (Linux; Android 4.4.4; SM-T337V Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.89 Safari/537.36,http://www.dorency.com/english/,1423094728
+トップページ,google-proxy-66-249-83-133.google.com,66.249.83.133,Mozilla/5.0 (Linux; Android 4.4.4; SM-T337V Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.89 Safari/537.36,http://www.dorency.com/,1423094669

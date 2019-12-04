@@ -1,0 +1,4 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,mail.teatang.com,123.231.22.207,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1282209674
+Company,mail.teatang.com,123.231.22.207,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.google.lk/search?hl=en&source=hp&q=DORENCY&meta=&aq=f&aqi=g1&aql=&oq=&gs_rfai=,1282209663
+Company,235.119.217.203.static.tcol.com.tw,203.217.119.235,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.5; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30),http://tw.search.yahoo.com/search?p=DORENCY&fr=yfp&ei=utf-8&v=0,1282205517
+Contact,msnbot-207-46-204-210.search.msn.com,207.46.204.210,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1282166796

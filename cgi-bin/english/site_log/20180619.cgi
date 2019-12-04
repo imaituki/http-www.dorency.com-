@@ -1,0 +1,3 @@
+Company,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.87 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1529409598
+Equipments(Machines) for environmental maintenance,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.87 Safari/537.36,http://www.dorency.com/english/,1529409585
+トップページ,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/67.0.3396.87 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1529409302

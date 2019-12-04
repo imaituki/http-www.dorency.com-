@@ -1,0 +1,4 @@
+Equipments(Machines) for environmental maintenance,client.yota.ru,94.25.169.160,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1522335578
+OxygenAbsorber　HandWarmers,client.yota.ru,94.25.169.160,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/english/,1522335565
+トップページ,client.yota.ru,94.25.169.160,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/,1522335551
+トップページ,E210196233157.ec-userreverse.dion.ne.jp,210.196.233.157,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1522310764

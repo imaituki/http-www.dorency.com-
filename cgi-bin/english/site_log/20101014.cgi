@@ -1,0 +1,1 @@
+トップページ,ntnigt124216.nigt.nt.ftth.ppp.infoweb.ne.jp,116.81.19.216,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; InfoPath.1),http://search.yahoo.co.jp/search?p=KEEPIT+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1287017017

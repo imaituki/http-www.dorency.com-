@@ -1,0 +1,12 @@
+トップページ,123.155.198.137,123.155.198.137,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322),http://www.pinghu.com/,1237128969
+トップページ,125.124.101.47,125.124.101.47,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5),http://www.pinghu.com/,1237123586
+脱酸素剤・カイロ,12.53.150.220.ap.yournet.ne.jp,220.150.53.12,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.google.co.jp/search?hl=ja&rlz=1T4ADBR_jaJP256JP256&q=%E9%85%B8%E7%B4%A0%E9%99%A4%E5%8E%BB%E6%9D%90&start=210&sa=N,1237106904
+脱酸素剤・カイロ,p6071-ipbfp802kobeminato.hyogo.ocn.ne.jp,118.10.108.71,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30),http://search.goo.ne.jp/web.jsp?SGT=0&DC=10&PT=OCNTOP&MT=%C3%A6%BB%C0%C1%C7%BA%DE&FR=10&from=pager,1237101412
+トップページ,61.189.51.222,61.189.51.222,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/,1237100770
+会社概要,210-1-145-239.catv.tees.ne.jp,210.1.145.239,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&ei=UTF-8&fr=top_ga1_sa&x=wrt,1237091808
+脱酸素剤・カイロ,210-1-145-239.catv.tees.ne.jp,210.1.145.239,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1237091625
+トップページ,210-1-145-239.catv.tees.ne.jp,210.1.145.239,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&ei=UTF-8&fr=top_ga1_sa&x=wrt,1237091611
+会社概要,softbank218183236096.bbtec.net,218.183.236.96,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1237079454
+脱酸素剤・カイロ,softbank218183236096.bbtec.net,218.183.236.96,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1237079382
+トップページ,softbank218183236096.bbtec.net,218.183.236.96,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.shokokai.or.jp/33/3344310006/index.htm,1237079369
+脱酸素剤・カイロ,softbank219001246011.bbtec.net,219.1.246.11,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E3%82%AB%E3%82%A4%E3%83%AD%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&search.x=1&fr=top_ga1&tid=top_ga1&ei=UTF-8,1237047615

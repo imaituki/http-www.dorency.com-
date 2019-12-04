@@ -1,0 +1,4 @@
+Company,220.191.180.54,220.191.180.54,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2),http://www.dorency.com/english/,1366621214
+トップページ,220.191.180.54,220.191.180.54,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1366621210
+トップページ,112-137-60-14.dc.ctc.ad.jp,112.137.60.14,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1366586806
+トップページ,c-98-192-233-150.hsd1.de.comcast.net,98.192.233.150,Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; VS840 4G Build/GRK39F) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/,1366580931

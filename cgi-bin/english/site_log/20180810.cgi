@@ -1,0 +1,3 @@
+Company,ip-188-94-122-25.in-addr.as49289.com,188.94.122.25,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.google.it/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiy_4q35-HcAhUB0BoKHTPAB0QQFjAAegQICRAB&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D0&usg=AOvVaw3bnNiROSAI08AlC-CnPolu,1533880851
+Company,nsrvt.freund.co.jp,114.160.66.210,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1533862117
+トップページ,nsrvt.freund.co.jp,114.160.66.210,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1533862112

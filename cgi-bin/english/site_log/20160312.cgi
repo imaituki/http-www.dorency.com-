@@ -1,0 +1,1 @@
+トップページ,softbank060122076057.bbtec.net,60.122.76.57,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,https://www.google.co.jp/,1457784364

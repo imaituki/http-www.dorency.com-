@@ -1,0 +1,1 @@
+OxygenAbsorberÅ@HandWarmers,front02.takii.co.jp,101.110.59.210,Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiax9u13Z_lAhUsBKYKHbTNClYQFjABegQIABAB&url=http%3A%2F%2Fwww.dorency.com%2Fcgi-bin%2Fenglish%2Fsiteup.cgi%3Fcategory%3D2%26page%3D1&usg=AOvVaw1bbUUdOb4M6Pe0LuUOCFEN,1571192844

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.130 Safari/537.36,http://www.dorency.com/english/,1436321292
+トップページ,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/43.0.2357.130 Safari/537.36,http://www.dorency.com/,1436320776

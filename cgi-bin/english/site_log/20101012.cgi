@@ -1,0 +1,4 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,122.140.142.200,122.140.142.200,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TheWorld),http://www.dorency.com/english/,1286855106
+トップページ,122.140.142.200,122.140.142.200,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TheWorld),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1286855101
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,AmandaBarker-PC.toolik.uaf.edu,137.229.91.201,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.3 (KHTML like Gecko) Chrome/6.0.472.63 Safari/534.3,http://www.dorency.com/english/,1286853353
+トップページ,AmandaBarker-PC.toolik.uaf.edu,137.229.91.201,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.3 (KHTML like Gecko) Chrome/6.0.472.63 Safari/534.3,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1286853340

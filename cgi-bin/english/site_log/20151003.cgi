@@ -1,0 +1,3 @@
+OxygenAbsorberÅ@HandWarmers,218-161-51-104.HINET-IP.hinet.net,218.161.51.104,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,https://www.google.com.tw/,1443876345
+OxygenAbsorberÅ@HandWarmers,agrgate.agr.ca,192.197.71.189,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1443807154
+Company,agrgate.agr.gc.ca,192.197.71.189,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.bing.com/search?q=Dorency&src=IE-TopResult&FORM=IE10TR&adlt=strict,1443807129

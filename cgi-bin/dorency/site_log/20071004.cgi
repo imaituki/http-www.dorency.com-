@@ -1,0 +1,61 @@
+脱酸素剤・カイロ,123.113.239.221,123.113.239.221,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1191509845
+トップページ,123.113.239.221,123.113.239.221,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.google.co.jp/search?hl=ja&lr=&newwindow=1&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+%E4%BE%A1%E6%A0%BC&suggest=5&sa=X&oi=cjkrefinements&resnum=1&ct=result&cd=6,1191509811
+脱酸素剤・カイロ,ntsitm145020.sitm.nt.ftth.ppp.infoweb.ne.jp,58.0.163.20,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://news-flash.jp/search/%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4/,1191505847
+脱酸素剤・カイロ,softbank219178054026.bbtec.net,219.178.54.26,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-jp) AppleWebKit/419.3 (KHTML like Gecko) Safari/419.3,http://www.dorency.com/,1191495996
+トップページ,softbank219178054026.bbtec.net,219.178.54.26,Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-jp) AppleWebKit/419.3 (KHTML like Gecko) Safari/419.3,http://search.yahoo.co.jp/search?p=%A5%AD%A1%BC%A5%D4%A5%C3%A5%C8&x=0&y=0&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1191495985
+トップページ,mx02.fcc-net.co.jp,218.216.182.246,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%C3%A6%BB%C0%C1%C7%BA%DE&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1191490097
+お問合わせ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1191484625
+トップページ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1191484610
+会社概要,p2243-ipbf2107hodogaya.kanagawa.ocn.ne.jp,123.220.175.243,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1191484358
+お問合わせ,p2243-ipbf2107hodogaya.kanagawa.ocn.ne.jp,123.220.175.243,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191484352
+脱酸素剤・カイロ,p2243-ipbf2107hodogaya.kanagawa.ocn.ne.jp,123.220.175.243,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com,1191484292
+トップページ,p2243-ipbf2107hodogaya.kanagawa.ocn.ne.jp,123.220.175.243,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com,1191484275
+会社概要,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1191484215
+お問合わせ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi,1191484212
+ショッピング,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1191484199
+通販法の表記,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191484187
+脱酸素剤・カイロ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1191484168
+トップページ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1191484152
+会社概要,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1191484147
+ショッピング,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191484052
+脱酸素剤・カイロ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.dorency.com/,1191484041
+トップページ,p2115-ipbf301niho.hiroshima.ocn.ne.jp,122.23.53.115,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1191484034
+脱酸素剤・カイロ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191483265
+会社概要,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191482234
+トップページ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=21&y=10,1191482198
+ショッピング,FL1-122-130-35-157.aic.mesh.ad.jp,122.130.35.157,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191481047
+脱酸素剤・カイロ,FL1-122-130-35-157.aic.mesh.ad.jp,122.130.35.157,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1191480989
+会社概要,FL1-122-130-35-157.aic.mesh.ad.jp,122.130.35.157,Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC%B3%F4%BC%B0%B2%F1%BC%D2&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=22&y=9,1191480970
+脱酸素剤・カイロ,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com,1191480644
+トップページ,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191478236
+ショッピング,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191478235
+会社概要,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191478218
+脱酸素剤・カイロ,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=1,1191478025
+通販法の表記,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1191478023
+ショッピング,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191478017
+トップページ,121.138.223.201,121.138.223.201,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191478007
+脱酸素剤・カイロ,145.246.214.202.bf.2iij.net,202.214.246.145,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191475999
+トップページ,145.246.214.202.bf.2iij.net,202.214.246.145,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E3%80%80%E3%82%AB%E3%82%A4%E3%83%AD&ei=UTF-8&fr=top_v2&x=wrt,1191475991
+ショッピング,cb8aa0-186.dynamic.tiki.ne.jp,203.138.160.186,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.dorency.com/,1191474592
+トップページ,cb8aa0-186.dynamic.tiki.ne.jp,203.138.160.186,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rlz=1T4GGIH_jaJP236JP237&q=%e5%a4%a7%e9%ba%a6%e8%8b%a5%e8%91%89+%e9%9d%92%e6%b1%81%e3%80%80%e3%83%89%e3%83%ac%e3%83%b3%e3%82%b7%e3%83%bc,1191474545
+会社概要,61.215.205.6,61.215.205.6,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1191468787
+トップページ,61.215.205.6,61.215.205.6,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1191468779
+脱酸素剤・カイロ,133.5.142.99,133.5.142.99,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1),http://www.google.co.jp/search?hl=ja&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80%E9%89%84&lr=,1191467163
+脱酸素剤・カイロ,219.127.152.189,219.127.152.189,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://www.dorency.com/,1191466161
+トップページ,219.127.152.189,219.127.152.189,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),http://search.yahoo.co.jp/search?p=%E9%AE%AE%E5%BA%A6%E4%BF%9D%E6%8C%81%E5%89%A4%E3%80%80%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&ei=UTF-8&fr=top_v2&x=wrt,1191466146
+トップページ,61.215.205.6,61.215.205.6,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1191464377
+通販法の表記,218.224.234.230,218.224.234.230,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191463202
+脱酸素剤・カイロ,218.224.234.230,218.224.234.230,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/index.html,1191463171
+トップページ,218.224.234.230,218.224.234.230,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/index.html,1191463152
+脱酸素剤・カイロ,124x33x119x90.ap124.ftth.ucom.ne.jp,124.33.119.90,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1191461721
+通販法の表記,124x33x119x90.ap124.ftth.ucom.ne.jp,124.33.119.90,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; IEMB3; IEMB3),http://www.dorency.com/,1191461662
+ショッピング,124x33x119x90.ap124.ftth.ucom.ne.jp,124.33.119.90,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; IEMB3; IEMB3),http://www.dorency.com/,1191461613
+トップページ,124x33x119x90.ap124.ftth.ucom.ne.jp,124.33.119.90,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; IEMB3; IEMB3),http://www.broval.jp/c3sc0_2.html,1191461602
+脱酸素剤・カイロ,ns.oguchi.ed.jp,220.110.195.242,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1191459683
+トップページ,ns.oguchi.ed.jp,220.110.195.242,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%C3%A6%BB%C0%C1%C7%BA%DE&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1&x=26&y=11,1191459674
+会社概要,p3014-ipbfpfx02sasajima.aichi.ocn.ne.jp,125.207.175.78,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.com/ie?q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&hl=ja&start=0&sa=N,1191456821
+トップページ,p3014-ipbfpfx02sasajima.aichi.ocn.ne.jp,125.207.175.78,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.com/ie?q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&hl=ja&btnG=%E6%A4%9C%E7%B4%A2,1191456774
+脱酸素剤・カイロ,p3014-ipbfpfx02sasajima.aichi.ocn.ne.jp,125.207.175.78,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.com/ie?q=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&hl=ja&btnG=%E6%A4%9C%E7%B4%A2,1191456747
+お問合わせ,p45064-adsao12honb4-acca.tokyo.ocn.ne.jp,219.114.52.64,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1191452153
+脱酸素剤・カイロ,p45064-adsao12honb4-acca.tokyo.ocn.ne.jp,219.114.52.64,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1191452067
+トップページ,p45064-adsao12honb4-acca.tokyo.ocn.ne.jp,219.114.52.64,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&lr=,1191452047

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,mobile-166-137-139-060.mycingular.net,166.137.139.60,Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36,http://www.dorency.com/english/,1496112966
+トップページ,mobile-166-137-139-060.mycingular.net,166.137.139.60,Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N920A Build/MMB29K) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36,http://www.dorency.com/,1496112919

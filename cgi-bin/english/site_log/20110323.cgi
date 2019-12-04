@@ -1,0 +1,2 @@
+トップページ,p120086-ffoma1yoyogi.tokyo.ocn.ne.jp,180.7.164.86,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; YTB730; GTB6.6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rlz=1T4SUNC_jaJP357JP358&q=%e5%a4%a7%e9%ba%a6%e8%8b%a5%e8%91%89%e8%8b%b1%e8%aa%9e,1300868478
+トップページ,112.243.34.152,112.243.34.152,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; CIBA),http://www.dorency.com/,1300850856

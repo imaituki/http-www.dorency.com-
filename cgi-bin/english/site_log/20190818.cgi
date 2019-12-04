@@ -1,0 +1,2 @@
+トップページ,210-246-25-254.dsl.dyn.ihug.co.nz,210.246.25.254,Mozilla/5.0 (Linux; Android 6.0.1; NX551J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1566089265
+トップページ,google-proxy-64-233-173-43.google.com,64.233.173.43,Mozilla/5.0 (Linux; Android 6.0.1; NX551J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1566089265

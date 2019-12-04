@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,asy255.asy232.tellcom.com.tr,92.45.232.255,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.57 Safari/537.17,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1360672934
+Equipments(Machines) for environmental maintenance,asy255.asy232.tellcom.com.tr,92.45.232.255,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.57 Safari/537.17,http://www.dorency.com/english/,1360672914
+トップページ,asy255.asy232.tellcom.com.tr,92.45.232.255,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML like Gecko) Chrome/24.0.1312.57 Safari/537.17,http://www.dorency.com/,1360672847
+トップページ,p020.bc.secure-ict.net,138.243.217.43,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1360626206

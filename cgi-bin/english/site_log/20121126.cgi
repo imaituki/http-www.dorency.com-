@@ -1,0 +1,6 @@
+トップページ,host212-199-dynamic.7-79-r.retail.telecomitalia.it,79.7.199.212,Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10A403,http://www.dorency.com/,1353934781
+トップページ,s802211.xgsspn.imtp.tachikawa.spmode.ne.jp,183.74.2.211,Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; P-05D Build/GRJ90) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://search.smt.docomo.ne.jp/result?MT=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&SID=000&IND=000&TPLID=&UNIT=&URANK=&SPAGE=&PAGE=1,1353933645
+OxygenAbsorber　HandWarmers,115.92.168.5,115.92.168.5,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1353921093
+トップページ,115.92.168.5,115.92.168.5,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1353921073
+OxygenAbsorber　HandWarmers,174-24-7-213.clsp.qwest.net,174.24.7.213,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.dorency.com/english/,1353865195
+トップページ,174-24-7-213.clsp.qwest.net,174.24.7.213,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.dorency.com/,1353865167

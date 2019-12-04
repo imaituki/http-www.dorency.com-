@@ -1,0 +1,2 @@
+Company,baiduspider-220-181-108-174.crawl.baidu.com,220.181.108.174,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1422178334
+OxygenAbsorberÅ@HandWarmers,24-212-146-10.cable.teksavvy.com,24.212.146.10,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4,https://www.google.ca/,1422124047

@@ -1,0 +1,3 @@
+トップページ,v54-07.opera-mini.net,217.212.231.120,Opera/9.80 (Android; Opera Mini/7.5.32193/28.3392; U; en) Presto/2.8.119 Version/11.10,http://www.dorency.com/english/,1356531571
+OxygenAbsorber　HandWarmers,V33-14.opera-mini.net,217.212.230.47,Opera/9.80 (Android; Opera Mini/7.5.32193/28.3392; U; en) Presto/2.8.119 Version/11.10,http://www.dorency.com/english/,1356464885
+トップページ,V33-14.opera-mini.net,217.212.230.47,Opera/9.80 (Android; Opera Mini/7.5.32193/28.3392; U; en) Presto/2.8.119 Version/11.10,http://translate.googleusercontent.com/translate_c?depth=1&hl=en&ie=UTF8&prev=_m&rurl=translate.google.com&sl=auto&tl=en&u=http://www.dorency.com/&usg=ALkJrhiMSSIKYnIAyn02fNemYqMNlnIaCg,1356464755

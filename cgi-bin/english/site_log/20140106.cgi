@@ -1,0 +1,7 @@
+トップページ,node-14q3.pool-125-25.dynamic.totbb.net,125.25.206.43,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1389001060
+トップページ,nttkyo366154.tkyo.nt.ngn.ppp.infoweb.ne.jp,116.81.133.154,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1388997058
+Equipments(Machines) for environmental maintenance,75.0.180.197,75.0.180.197,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1388978403
+OxygenAbsorber　HandWarmers,75.0.180.197,75.0.180.197,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1388978216
+トップページ,75.0.180.197,75.0.180.197,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1388978206
+OxygenAbsorber　HandWarmers,x1-6-00-18-4d-e8-6f-ec.cpe.webspeed.dk,87.60.161.54,Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1388942413
+トップページ,x1-6-00-18-4d-e8-6f-ec.cpe.webspeed.dk,87.60.161.54,Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/,1388942361

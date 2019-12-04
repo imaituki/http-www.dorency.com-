@@ -1,0 +1,3 @@
+Company,58.141.127.35,58.141.127.35,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/english/,1292846414
+トップページ,58.141.127.35,58.141.127.35,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/,1292846408
+トップページ,121.164.135.189,121.164.135.189,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; EmbeddedWB 14.52 from: http://www.bsalsa.com/ EmbeddedWB 14.52; InfoPath.1; .NET CLR 2.0.50727),http://www.dorency.com/,1292829280

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,msnbot-40-77-253-241.search.msn.com,40.77.253.241,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1555498664
+トップページ,hnt10.ueno-fc.co.jp,118.22.9.49,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi3856G69XhAhWFdHAKHVBkA-UQ0gIoAjAAegQIAxAJ&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&usg=AOvVaw0WAIGNs71YH_mOQ_zruo4h,1555459862

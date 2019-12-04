@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,o63-hfw-1-nat-0-1-1.extel-gsm.com,85.115.224.129,Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML like Gecko) Version/10.0 Mobile/14G60 Safari/602.1,http://www.dorency.com/english/,1524566283
+トップページ,o63-hfw-1-nat-0-1-1.extel-gsm.com,85.115.224.129,Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML like Gecko) Version/10.0 Mobile/14G60 Safari/602.1,http://www.dorency.com/,1524566245

@@ -1,0 +1,4 @@
+トップページ,113x37x97x77.ap113.ftth.ucom.ne.jp,113.37.97.77,Mozilla/5.0 (Linux; U; Android 7.1.2; es-es; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.3.6-g,http://dorency.com/,1546936694
+Company,61-226-147-98.dynamic-ip.hinet.net,61.226.147.98,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:64.0) Gecko/20100101 Firefox/64.0,https://www.google.com/,1546932246
+トップページ,54.174.56.72,54.174.56.72,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/537.36 (KHTML like Gecko) Chrome/27.0.1453.116 Safari/537.36 HubSpot Webcrawler - web-crawlers@hubspot.com,http://www.dorency.com/english/,1546929640
+トップページ,host-80-156-66-217.spbmts.ru,217.66.156.80,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,http://dorency.com/,1546875959

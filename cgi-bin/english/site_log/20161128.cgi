@@ -1,0 +1,5 @@
+Equipments(Machines) for environmental maintenance,sndr2.inet-jp-proxy1.toshiba.co.jp,118.151.157.9,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1480299259
+OxygenAbsorber　HandWarmers,sndr14.inet-jp-proxy2b.toshiba.co.jp,203.180.185.139,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/english/,1480299178
+トップページ,sndr14.inet-jp-proxy2b.toshiba.co.jp,203.180.185.139,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/,1480299167
+OxygenAbsorber　HandWarmers,mtrlpq2718w-lp130-04-70-26-184-181.dsl.bell.ca,70.26.184.181,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/english/,1480290618
+トップページ,mtrlpq2718w-lp130-04-70-26-184-181.dsl.bell.ca,70.26.184.181,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://dorency.com/,1480290608

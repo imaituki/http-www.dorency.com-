@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,79.141.118.225,79.141.118.225,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1389541942
+トップページ,79.141.118.225,79.141.118.225,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1389541888
+OxygenAbsorber　HandWarmers,nat4.academ.org,89.31.118.251,Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1389539523
+トップページ,nat4.academ.org,89.31.118.251,Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.google.com/url?sa=t&rct=j&q=raku%20raku%20kairo&source=web&cd=4&ved=0CEAQFjAD&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=cLDSUpCFMovU4QSs64CIAQ&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&sig2=YD9lUB_h68DhXae38V5QDw&bvm=bv.59026428&#44;d.bGE&cad=rja,1389539459

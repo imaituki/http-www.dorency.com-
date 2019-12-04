@@ -1,0 +1,2 @@
+Equipments(Machines) for environmental maintenance,rt.core01.7604.metrocps.metrotel,190.12.99.166,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.dorency.com/english/,1460762662
+トップページ,rt.core01.7604.metrocps.metrotel,190.12.99.166,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://dorency.com/,1460762624

@@ -1,0 +1,2 @@
+Contact,114.187.86.116.starhub.net.sg,116.86.187.114,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://www.dorency.com/english/,1493259028
+トップページ,114.187.86.116.starhub.net.sg,116.86.187.114,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://www.dorency.com/,1493259008

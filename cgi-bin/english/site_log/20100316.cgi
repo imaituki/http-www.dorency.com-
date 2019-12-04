@@ -1,0 +1,3 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,gd052246.gd.kcv.ne.jp,219.103.52.246,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1268703973
+Company,gd052246.gd.kcv.ne.jp,219.103.52.246,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; .NET CLR 1.1.4322),http://www.dorency.com/english/,1268703967
+トップページ,gd052246.gd.kcv.ne.jp,219.103.52.246,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1268703958

@@ -1,0 +1,4 @@
+トップページ,gd186215.gd10.kcv.ne.jp,220.247.186.215,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/16B92 Baito iPhone App 1.37,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1544360285
+OxygenAbsorber　HandWarmers,static.vnpt.vn,123.16.148.194,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/62.1.220348572 Mobile/16A404 Safari/604.1,http://www.dorency.com/english/,1544346252
+トップページ,static.vnpt.vn,123.16.148.194,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/62.1.220348572 Mobile/16A404 Safari/604.1,http://www.dorency.com/,1544346224
+トップページ,ec2-13-114-241-20.ap-northeast-1.compute.amazonaws.com,13.114.241.20,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1544307682

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,91-158-56-89.elisa-laajakaista.fi,91.158.56.89,Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,http://www.dorency.com/english/,1398273340
+トップページ,91-158-56-89.elisa-laajakaista.fi,91.158.56.89,Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53,http://www.dorency.com/,1398273280

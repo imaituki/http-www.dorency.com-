@@ -1,0 +1,4 @@
+トップページ,dslb-002-206-121-119.002.206.pools.vodafone-ip.de,2.206.121.119,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) GSA/65.0.225212226 Mobile/15E148 Safari/605.1,http://www.dorency.com/,1545922514
+トップページ,125x102x110x10.ap125.ftth.ucom.ne.jp,125.102.110.10,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://dorency.com/,1545891559
+OxygenAbsorber　HandWarmers,ppp-93-104-1-253.dynamic.mnet-online.de,93.104.1.253,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1545852522
+トップページ,ppp-93-104-1-253.dynamic.mnet-online.de,93.104.1.253,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1545852442

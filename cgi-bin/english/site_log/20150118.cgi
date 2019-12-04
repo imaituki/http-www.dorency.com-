@@ -1,0 +1,1 @@
+トップページ,mairport-shir13-wifi.cust.dsi.ru,195.206.41.63,MT6572/V1 Linux/3.4.5 Android/4.2.2 Release/12.19.2013 Browser/AppleWebKit534.30 Profile/MIDP-2.0 Configuration/CLDC-1.1 Mobile Safari/534.30 Android 4.2.2;,http://www.dorency.com/english/,1421566909

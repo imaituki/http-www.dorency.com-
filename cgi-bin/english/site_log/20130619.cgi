@@ -1,0 +1,1 @@
+トップページ,112.205.78.106.pldt.net,112.205.78.106,Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0,http://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=0CD4QFjAE&url=http%3A%2F%2Fwww.dorency.com%2Fenglish%2F&ei=TJDBUZTrHYbYkgX9x4G4DQ&usg=AFQjCNFmI8DQt0JO-u2Kcekvz64NiHfLXQ&bvm=bv.47883778&#44;d.dGI,1371639960

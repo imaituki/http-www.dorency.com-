@@ -1,0 +1,1 @@
+トップページ,s1452198.xgsspn.imtp.tachikawa.spmode.ne.jp,49.98.52.198,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/5.2.43972 Mobile/12B440 Safari/600.1.4,http://www.google.co.jp/,1430898200

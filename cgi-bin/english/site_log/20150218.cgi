@@ -1,0 +1,1 @@
+Company,222-228-200-173.saitama.otk.vectant.ne.jp,222.228.200.173,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=disposable+hand+warmer+import&tid=top_ga1_sa&ei=UTF-8&pstart=1&fr=top_ga1_sa&b=21,1424242206

@@ -1,0 +1,1 @@
+トップページ,93-34-93-60.ip49.fastwebnet.it,93.34.93.60,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML like Gecko) Version/5.1.9 Safari/534.59.10,http://www.dorency.com/english/,1456167505

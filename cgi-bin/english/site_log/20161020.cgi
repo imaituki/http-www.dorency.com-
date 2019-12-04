@@ -1,0 +1,2 @@
+Company,119.165.85.102,119.165.85.102,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.80 Safari/537.36 Core/1.47.933.400 QQBrowser/9.4.8699.400,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1476941692
+トップページ,72-185-194-161.res.bhn.net,72.185.194.161,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Safari/602.1.50,http://dorency.com/,1476916643

@@ -1,0 +1,1 @@
+トップページ,ngn-exp-west-025-232-181-183.enjoy.ne.jp,183.181.232.25,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; YTB730),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1379710507

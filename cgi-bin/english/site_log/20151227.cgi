@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,a24-05-12.opera-mini.net,107.167.108.63,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25,http://www.dorency.com/english/,1451175758
+トップページ,a24-05-12.opera-mini.net,107.167.108.63,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25,http://dorency.com/,1451175691

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,42-67-92-38.dynamic-ip.hinet.net,42.67.92.38,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B146,http://www.dorency.com/english/,1377829163
+トップページ,42-67-92-38.dynamic-ip.hinet.net,42.67.92.38,Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Mobile/10B146,http://www.dorency.com/,1377829148

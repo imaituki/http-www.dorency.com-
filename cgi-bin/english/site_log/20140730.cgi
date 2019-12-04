@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,p4FC1B0D6.dip0.t-ipconnect.de,79.193.176.214,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.125 Safari/537.36,https://www.google.de/,1406715633
+トップページ,p4FC1B0D6.dip0.t-ipconnect.de,79.193.176.214,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/36.0.1985.125 Safari/537.36,http://www.dorency.com/,1406715547
+トップページ,KD182250250037.au-net.ne.jp,182.250.250.37,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53,http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&x=wrt&aq=-1&oq=&lq=&clone=&ei=UTF-8&fr=applep2,1406680130

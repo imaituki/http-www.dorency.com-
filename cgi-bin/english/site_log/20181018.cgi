@@ -1,0 +1,3 @@
+Contact,brfron8902w-lp130-01-74-12-149-239.dsl.bell.ca,74.12.149.239,Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1539810828
+OxygenAbsorber　HandWarmers,brfron8902w-lp130-01-74-12-149-239.dsl.bell.ca,74.12.149.239,Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1539810267
+トップページ,brfron8902w-lp130-01-74-12-149-239.dsl.bell.ca,74.12.149.239,Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1539810223

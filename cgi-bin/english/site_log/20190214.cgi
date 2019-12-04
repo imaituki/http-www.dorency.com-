@@ -1,0 +1,2 @@
+トップページ,139.155.185.35.bc.googleusercontent.com,35.185.155.139,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/70.0.3508.0 Safari/537.36,http://www.dorency.com/english/,1550155439
+トップページ,182.200.109.56,182.200.109.56,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.98 Safari/537.36 LBBROWSER,http://www.dorency.com/,1550129783

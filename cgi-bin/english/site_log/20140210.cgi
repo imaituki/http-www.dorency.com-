@@ -1,0 +1,7 @@
+Company,223.62.173.228,223.62.173.228,Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; IM-A870S Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1392043411
+Contact,223.62.173.228,223.62.173.228,Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; IM-A870S Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1392043398
+トップページ,223.62.173.228,223.62.173.228,Mozilla/5.0 (Linux; U; Android 4.1.2; ko-kr; IM-A870S Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1392043385
+OxygenAbsorber　HandWarmers,z29-03.opera-mini.net,82.145.209.66,Opera/9.80 (Android; Opera Mini/7.5.33361/34.1153; U; en) Presto/2.8.119 Version/11.10,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1392029025
+トップページ,z29-03.opera-mini.net,82.145.209.66,Opera/9.80 (Android; Opera Mini/7.5.33361/34.1153; U; en) Presto/2.8.119 Version/11.10,http://dorency.com/,1392028951
+トップページ,p3238-ipbfp903okayamaima.okayama.ocn.ne.jp,114.168.166.238,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MDDS),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1391991244
+トップページ,cm-84.208.159.245.getinternet.no,84.208.159.245,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/,1391965106

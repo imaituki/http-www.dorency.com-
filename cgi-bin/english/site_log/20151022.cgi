@@ -1,0 +1,2 @@
+Company,69-4-235-219.wifi.seattlecaffeine.com,69.4.235.219,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/english/,1445500147
+トップページ,69-4-235-219.wifi.seattlecaffeine.com,69.4.235.219,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1445500131

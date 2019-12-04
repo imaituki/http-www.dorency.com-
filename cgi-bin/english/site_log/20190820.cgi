@@ -1,0 +1,2 @@
+Contact,dynamic-196-196-235-99.nationinternet.net,196.196.235.99,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=3,1566303491
+トップページ,117.148.150.190,117.148.150.190,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/,1566274432

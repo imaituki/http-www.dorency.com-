@@ -1,0 +1,2 @@
+トップページ,p9693ad91.hyognt01.ap.so-net.ne.jp,150.147.173.145,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1548846377
+トップページ,eka-193-239-192-122.ftto.ovea.com,193.239.192.122,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/,1548839690

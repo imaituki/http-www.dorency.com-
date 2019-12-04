@@ -1,0 +1,20 @@
+トップページ,61.247.222.47,61.247.222.47,Yeti/1.0 (+http://help.naver.com/robots/),,1221403163
+脱酸素剤・カイロ,124.241.169.23,124.241.169.23,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.google.co.jp/search?hl=ja&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&lr=&aq=f&oq=,1221393410
+お問合わせ,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1221386533
+脱酸素剤・カイロ,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1221386495
+ショッピング,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1221386492
+会社概要,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1221386484
+お問合わせ,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1221386477
+脱酸素剤・カイロ,60-56-104-182.eonet.ne.jp,60.56.104.182,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; IEMB3; IEMB3),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&ei=UTF-8&fr=top_ga1&x=wrt,1221386401
+会社概要,u047115.dynamic.ppp.asahi-net.or.jp,203.212.47.115,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1221379483
+お問合わせ,u047115.dynamic.ppp.asahi-net.or.jp,203.212.47.115,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1221379478
+脱酸素剤・カイロ,u047115.dynamic.ppp.asahi-net.or.jp,203.212.47.115,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1,http://www.dorency.com/,1221379432
+トップページ,u047115.dynamic.ppp.asahi-net.or.jp,203.212.47.115,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1,http://craftec_firefox.jword.jp/search?q=%92E%8E_%91f%8D%DC%20%83L%81[%83s%83b%83g&ienc=SJIS,1221379426
+トップページ,pc66.ncr-service.co.jp,202.234.128.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&ei=EUC-JP&fr=ush-jp_quotes,1221368899
+会社概要,pc66.ncr-service.co.jp,202.234.128.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1221368837
+通販法の表記,pc66.ncr-service.co.jp,202.234.128.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1221368745
+ショッピング,pc66.ncr-service.co.jp,202.234.128.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1221368650
+トップページ,pc66.ncr-service.co.jp,202.234.128.66,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&ei=EUC-JP&fr=ush-jp_quotes,1221368590
+トップページ,125.123.171.152,125.123.171.152,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/index.asp,1221365488
+会社概要,softbank220048223168.bbtec.net,220.48.223.168,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648),http://www.dorency.com/,1221318624
+トップページ,softbank220048223168.bbtec.net,220.48.223.168,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648),http://www.google.co.jp/search?hl=ja&q=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&lr=&aq=f&oq=,1221318610

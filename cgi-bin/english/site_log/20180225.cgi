@@ -1,0 +1,2 @@
+トップページ,60.187.195.56,60.187.195.56,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.87 Safari/537.36,http://www.dorency.com/,1519556227
+Company,p2096116-ipngn200608osakachuo.osaka.ocn.ne.jp,153.181.219.116,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,https://www.google.com.au/,1519515390

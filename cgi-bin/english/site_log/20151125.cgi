@@ -1,0 +1,6 @@
+Equipments(Machines) for environmental maintenance,42.116.90.100,42.116.90.100,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.90 Chrome/46.2.2490.90 Safari/537.36,http://www.dorency.com/english/,1448444939
+トップページ,sndr8.vert.securewg.jp,118.151.184.179,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729),http://www.dorency.com/,1448444875
+OxygenAbsorber　HandWarmers,42.116.90.100,42.116.90.100,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.90 Chrome/46.2.2490.90 Safari/537.36,http://www.dorency.com/english/,1448444706
+Company,42.116.90.100,42.116.90.100,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.90 Chrome/46.2.2490.90 Safari/537.36,http://www.dorency.com/english/,1448444649
+トップページ,42.116.90.100,42.116.90.100,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/52.2.90 Chrome/46.2.2490.90 Safari/537.36,http://dorency.com/,1448444577
+トップページ,i153-144-20-206.s41.a033.ap.plala.or.jp,153.144.20.206,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML like Gecko) Version/9.0 Safari/601.1.56,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1448430719

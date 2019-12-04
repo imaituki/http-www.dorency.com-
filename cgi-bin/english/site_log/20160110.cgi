@@ -1,0 +1,3 @@
+トップページ,adsl-99-30-176-249.dsl.sfldmi.sbcglobal.net,99.30.176.249,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13C75 Safari/601.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1452397425
+トップページ,fs76eed85d.tkyc406.ap.nuro.jp,118.238.216.93,Mozilla/5.0 (Android 5.0.1; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0,http://www.dorency.com/,1452385802
+トップページ,42.114.54.237,42.114.54.237,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) coc_coc_browser/53.2.109 Chrome/47.2.2526.109 Safari/537.36,http://www.dorency.com/,1452362355

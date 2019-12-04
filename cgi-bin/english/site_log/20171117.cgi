@@ -1,0 +1,1 @@
+トップページ,pw126161073050.11.panda-world.ne.jp,126.161.73.50,Mozilla/5.0 (iPad; CPU OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML like Gecko) Version/10.0 Mobile/14F89 Safari/602.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1510895847

@@ -1,0 +1,3 @@
+トップページ,180-147-141-34f1.kyt1.eonet.ne.jp,180.147.141.34,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1385907557
+Company,ppp-58-8-155-17.revip2.asianet.co.th,58.8.155.17,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/english/,1385873220
+トップページ,ppp-58-8-155-17.revip2.asianet.co.th,58.8.155.17,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0,http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Ddorency.com%26biw%3D1320%26bih%3D669&rurl=translate.google.co.th&sl=ja&u=http://www.dorency.com/&usg=ALkJrhjPoTdXFrBE22bhh1XLD-uA8tv-eA,1385873204

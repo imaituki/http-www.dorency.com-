@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,softbank219028020004.bbtec.net,219.28.20.4,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B411 Safari/600.1.4,http://www.dorency.com/english/,1414496277
+トップページ,softbank219028020004.bbtec.net,219.28.20.4,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B411 Safari/600.1.4,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1414496252

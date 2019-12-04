@@ -1,0 +1,5 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,localhost,113.179.1.86,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.google.com.vn/search?hl=vi&source=hp&q=www.dorency.com&btnG=T%C3%ACm+v%E1%BB%9Bi+Google&meta=&aq=f&aqi=&aql=&oq=,1306901624
+トップページ,localhost,113.179.1.86,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1306901303
+Company,localhost,113.179.1.86,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.google.com.vn/search?hl=vi&source=hp&q=www.dorency.com&btnG=T%C3%ACm+v%E1%BB%9Bi+Google&meta=&aq=f&aqi=&aql=&oq=,1306901264
+トップページ,softbank221097210227.bbtec.net,221.97.210.227,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 1.1.4322; msn OptimizedIE8;JAJP),http://www.dorency.com/,1306880632
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,175.142.180.90,175.142.180.90,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12,http://www.google.com.my/search?q=oxygen+absorbers+vitamin+c&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a,1306872578

@@ -1,0 +1,2 @@
+トップページ,221.0.150.149,221.0.150.149,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727),http://www.dorency.com/,1326765428
+トップページ,100.187.251.210.cc9.ne.jp,210.251.187.100,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; YTB730; GTB7.2; .NET CLR 1.1.4322; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1326764658

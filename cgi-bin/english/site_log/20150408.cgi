@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,122x208x117x227.ap122.ftth.ucom.ne.jp,122.208.117.227,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1428492307
+トップページ,122x208x117x227.ap122.ftth.ucom.ne.jp,122.208.117.227,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1428492300
+OxygenAbsorber　HandWarmers,proxy-220-255-1-57.singnet.com.sg,220.255.1.57,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1428477406
+Equipments(Machines) for environmental maintenance,proxy-220-255-1-72.singnet.com.sg,220.255.1.72,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.dorency.com/english/,1428477389
+トップページ,proxy-220-255-1-33.singnet.com.sg,220.255.1.33,Mozilla/5.0 (Windows NT 6.2; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0,http://www.dorency.com/,1428477384
+トップページ,175-28-218-247.ppp.bbiq.jp,175.28.218.247,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.118 Safari/537.36,https://www.google.co.jp/,1428454121

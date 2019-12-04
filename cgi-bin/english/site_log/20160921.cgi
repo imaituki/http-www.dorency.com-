@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,172.56.17.46,172.56.17.46,Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G386T1 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36,http://www.dorency.com/english/,1474397685
+トップページ,172.56.17.46,172.56.17.46,Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G386T1 Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36,http://dorency.com/,1474397639

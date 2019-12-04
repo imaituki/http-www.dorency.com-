@@ -1,0 +1,2 @@
+Company,crawl-66-249-67-68.googlebot.com,66.249.67.68,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1340893941
+トップページ,211.7.234.130,211.7.234.130,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648),http://www.dorency.com/,1340875317

@@ -1,0 +1,3 @@
+Equipments(Machines) for environmental maintenance,176.59.66.82,176.59.66.82,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1522850739
+OxygenAbsorber　HandWarmers,176.59.66.82,176.59.66.82,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,http://www.dorency.com/english/,1522850650
+トップページ,176.59.66.82,176.59.66.82,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/65.0.3325.181 Safari/537.36,https://www.google.ru/,1522850631

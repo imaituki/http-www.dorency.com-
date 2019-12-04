@@ -1,0 +1,3 @@
+トップページ,host-216-net-118-160-119.mobilinkinfinity.net.pk,119.160.118.216,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A432 Safari/604.1,http://www.dorency.com/,1513088401
+OxygenAbsorber　HandWarmers,122x219x84x229.ap122.ftth.ucom.ne.jp,122.219.84.229,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B202 Safari/604.1,http://www.dorency.com/english/,1513068832
+トップページ,122x219x84x229.ap122.ftth.ucom.ne.jp,122.219.84.229,Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML like Gecko) Version/11.0 Mobile/15B202 Safari/604.1,http://dorency.com/,1513068813

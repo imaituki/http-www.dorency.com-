@@ -1,0 +1,3 @@
+トップページ,211-75-79-85.HINET-IP.hinet.net,211.75.79.85,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.86 Safari/537.36,http://search.yahoo.co.jp/,1529458322
+Company,pool-176-226-187-42.is74.ru,176.226.187.42,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36 OPR/36.0.2130.80,http://www.dorency.com/english/,1529422629
+トップページ,pool-176-226-187-42.is74.ru,176.226.187.42,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36 OPR/36.0.2130.80,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1529422617

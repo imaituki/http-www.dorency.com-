@@ -1,0 +1,1 @@
+トップページ,ZJ125115.ppp.dion.ne.jp,222.4.125.115,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) GSA/25.0.152548370 Mobile/14E304 Safari/602.1,https://www.google.co.jp/,1493055619

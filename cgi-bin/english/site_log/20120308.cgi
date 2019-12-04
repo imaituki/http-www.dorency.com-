@@ -1,0 +1,5 @@
+トップページ,p1242-ipbf1805marunouchi.tokyo.ocn.ne.jp,122.16.124.242,Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2,http://dorency.com/,1331213611
+トップページ,252.120.231.222.megaegg.ne.jp,222.231.120.252,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1331193405
+Company,124-9-55-66.static.tfn.net.tw,124.9.55.66,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.66 Safari/535.11,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1331178658
+OxygenAbsorber　HandWarmers,124-9-55-66.static.tfn.net.tw,124.9.55.66,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.66 Safari/535.11,http://www.dorency.com/english/,1331178626
+トップページ,124-9-55-66.static.tfn.net.tw,124.9.55.66,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.66 Safari/535.11,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1331178618

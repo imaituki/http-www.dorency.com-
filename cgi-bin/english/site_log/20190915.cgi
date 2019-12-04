@@ -1,0 +1,5 @@
+トップページ,202.223.160.108,202.223.160.108,Mozilla/5.0 (Linux; Android 7.0; SM-G570Y) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36,http://www.dorency.com/,1568539948
+Company,37-219-171-160.nat.bb.dnainternet.fi,37.219.171.160,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) CriOS/75.0.3770.103 Mobile/15E148 Safari/605.1,https://www.google.com/,1568480896
+OxygenAbsorber　HandWarmers,83.139.167.237,83.139.167.237,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 YaBrowser/19.9.1.237 Yowser/2.5 Safari/537.36,http://www.dorency.com/english/,1568479889
+トップページ,83.139.167.237,83.139.167.237,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 YaBrowser/19.9.1.237 Yowser/2.5 Safari/537.36,http://dorency.com/,1568479879
+トップページ,91.236.143.25,91.236.143.25,Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.71 (Edition Yx),http://dorency.com/,1568479860

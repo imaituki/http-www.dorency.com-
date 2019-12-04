@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,ppp-58-11-242-32.revip2.asianet.co.th,58.11.242.32,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/english/,1389343617
+トップページ,ppp-58-11-242-32.revip2.asianet.co.th,58.11.242.32,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36,http://www.dorency.com/,1389343583

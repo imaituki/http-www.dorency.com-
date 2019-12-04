@@ -1,0 +1,6 @@
+トップページ,UE90.83.digi.net.my,115.164.83.90,Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36,http://www.dorency.com/,1553660285
+OxygenAbsorber　HandWarmers,110.77.132.233,110.77.132.233,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1553654299
+Company,110.77.132.233,110.77.132.233,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,https://search.yahoo.co.jp/,1553653639
+OxygenAbsorber　HandWarmers,119-231-69-248f1.hyg1.eonet.ne.jp,119.231.69.248,Mozilla/5.0 (iPad; CPU OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1553652451
+トップページ,75-6-176-127.lightspeed.mdsnwi.sbcglobal.net,75.6.176.127,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/73.0.3683.86 Safari/537.36,http://dorency.com/,1553649585
+トップページ,210.220.54.36.ap.yournet.ne.jp,36.54.220.210,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1553649207

@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,CPEbcc810103b6c-CMbcc810103b69.cpe.net.cable.rogers.com,174.115.253.203,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.3 (KHTML like Gecko) Version/8.0.1 Safari/600.2.3,http://www.dorency.com/english/,1437750138
+トップページ,CPEbcc810103b6c-CMbcc810103b69.cpe.net.cable.rogers.com,174.115.253.203,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.3 (KHTML like Gecko) Version/8.0.1 Safari/600.2.3,http://dorency.com/,1437750101

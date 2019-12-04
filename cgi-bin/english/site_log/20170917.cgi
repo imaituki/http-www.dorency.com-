@@ -1,0 +1,3 @@
+トップページ,pd284aa81.osaknt01.ap.so-net.ne.jp,210.132.170.129,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Mobile/14D27 Safari/7534.48.3 Find/1.9.3,http://www.dorency.com/english/,1505645622
+OxygenAbsorber　HandWarmers,cpe-181-47-66-96.telecentro-reversos.com.ar,181.47.66.96,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.dorency.com/english/,1505601350
+トップページ,cpe-181-47-66-96.telecentro-reversos.com.ar,181.47.66.96,Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,http://www.dorency.com/,1505601316

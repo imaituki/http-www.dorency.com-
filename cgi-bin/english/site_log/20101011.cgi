@@ -1,0 +1,1 @@
+トップページ,p5006-ipad201okayamaima.okayama.ocn.ne.jp,122.21.4.6,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.5; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rlz=1T4GGIK_jaJP281JP285&q=%e5%a4%a7%e9%ba%a6%e8%8b%a5%e8%91%89%e3%80%80%e8%8b%b1%e8%aa%9e,1286784633

@@ -1,0 +1,8 @@
+OxygenAbsorber　HandWarmers,static.vnpt.vn,14.231.179.244,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1541408767
+Equipments(Machines) for environmental maintenance,115.132.46.144,115.132.46.144,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1541406171
+OxygenAbsorber　HandWarmers,115.132.46.144,115.132.46.144,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1541406153
+Company,115.132.46.144,115.132.46.144,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,https://www.google.com/,1541406141
+トップページ,p403155-ipngn200103okayamahigasi.okayama.ocn.ne.jp,153.180.96.155,Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1541382656
+Company,static.vnpt.vn,14.231.179.244,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,https://www.google.com.vn/,1541381795
+OxygenAbsorber　HandWarmers,static.vnpt.vn,14.231.179.244,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/english/,1541381379
+トップページ,static.vnpt.vn,14.231.179.244,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.77 Safari/537.36,http://www.dorency.com/,1541381373

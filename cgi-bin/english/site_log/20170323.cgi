@@ -1,0 +1,2 @@
+トップページ,FL1-119-242-251-115.oky.mesh.ad.jp,119.242.251.115,Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1490258031
+Equipments(Machines) for environmental maintenance,msnbot-131-253-27-127.search.msn.com,131.253.27.127,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1490222982

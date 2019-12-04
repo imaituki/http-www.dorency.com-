@@ -1,0 +1,5 @@
+OxygenAbsorber　HandWarmers,159.255.50.60.brf03-home.tm.net.my,60.50.255.159,Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) GSA/3.2.1.25875 Mobile/10A523 Safari/8536.25,http://www.google.com/,1429087918
+OxygenAbsorber　HandWarmers,1.53.160.23,1.53.160.23,Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.118 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1429086149
+Company,1.53.160.23,1.53.160.23,Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/41.0.2272.118 Safari/537.36,https://www.google.com.vn/,1429085210
+OxygenAbsorber　HandWarmers,baiduspider-220-181-108-123.crawl.baidu.com,220.181.108.123,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1429045147
+OxygenAbsorber　HandWarmers,31-168-172-147.telavivwifi.com,31.168.172.147,Mozilla/5.0 (Linux; Android 4.2.2; GT-I9060 Build/JDQ39) AppleWebKit/537.36 (KHTML like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36,http://www.google.com,1429027419

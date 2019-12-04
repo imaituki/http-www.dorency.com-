@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,om126161118070.8.openmobile.ne.jp,126.161.118.70,Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36,http://www.dorency.com/english/,1551844581
+OxygenAbsorber　HandWarmers,google-proxy-66-249-82-107.google.com,66.249.82.107,Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36,http://www.dorency.com/english/,1551844580
+トップページ,om126161118070.8.openmobile.ne.jp,126.161.118.70,Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1551844487
+トップページ,google-proxy-66-249-82-105.google.com,66.249.82.105,Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1551844487
+OxygenAbsorber　HandWarmers,179.6.46.74,179.6.46.74,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1551811586
+Company,179.6.46.74,179.6.46.74,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0,https://www.google.com/,1551811554

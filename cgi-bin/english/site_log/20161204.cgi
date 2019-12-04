@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,c213-89-180-90.bredband.comhem.se,213.89.180.90,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1480794362
+Company,c213-89-180-90.bredband.comhem.se,213.89.180.90,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,https://www.google.se/,1480794345

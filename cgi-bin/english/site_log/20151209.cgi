@@ -1,0 +1,1 @@
+トップページ,25.92-221-153.customer.lyse.net,92.221.153.25,Mozilla/5.0 (Linux; Android 4.4.2; H60-L04 Build/HDH60-L04) AppleWebKit/537.36 (KHTML like Gecko) Chrome/47.0.2526.76 Mobile Safari/537.36,http://www.dorency.com/,1449625154

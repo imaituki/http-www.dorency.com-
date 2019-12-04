@@ -1,0 +1,2 @@
+Company,pw126205196098.3.panda-world.ne.jp,126.205.196.98,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53,http://www.dorency.com/english/,1400507360
+トップページ,pw126205196098.3.panda-world.ne.jp,126.205.196.98,Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53,http://www.dorency.com/,1400507350

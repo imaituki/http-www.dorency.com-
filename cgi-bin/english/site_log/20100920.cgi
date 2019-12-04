@@ -1,0 +1,3 @@
+トップページ,52.163.34.58.broad.xw.sh.dynamic.163data.com.cn,58.34.163.52,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.5; .NET CLR 2.0.50727; .NET CLR 1.1.4322),http://www.dorency.com/,1284968807
+トップページ,msnbot-207-46-199-22.search.msn.com,207.46.199.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648),http://www.dorency.com/english/,1284957792
+トップページ,115.195.179.186,115.195.179.186,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2),http://www.dorency.com/,1284948010

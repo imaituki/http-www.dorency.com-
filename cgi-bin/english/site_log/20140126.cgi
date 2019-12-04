@@ -1,0 +1,7 @@
+OxygenAbsorber　HandWarmers,5403E8FC.catv.pool.telekom.hu,84.3.232.252,Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520),http://www.dorency.com/english/,1390738557
+トップページ,5403E8FC.catv.pool.telekom.hu,84.3.232.252,Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520),http://dorency.com/,1390738514
+OxygenAbsorber　HandWarmers,24.114.59.64,24.114.59.64,Mozilla/5.0 (Linux; U; Android 2.3.3; en-ca; SAMSUNG-SGH-I997R Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/english/,1390685917
+トップページ,24.114.59.64,24.114.59.64,Mozilla/5.0 (Linux; U; Android 2.3.3; en-ca; SAMSUNG-SGH-I997R Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://dorency.com/,1390685890
+Company,FL1-122-131-122-210.stm.mesh.ad.jp,122.131.122.210,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,http://www.dorency.com/english/,1390663521
+OxygenAbsorber　HandWarmers,FL1-122-131-122-210.stm.mesh.ad.jp,122.131.122.210,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,http://www.dorency.com/english/,1390663304
+トップページ,FL1-122-131-122-210.stm.mesh.ad.jp,122.131.122.210,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.76 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1390663293

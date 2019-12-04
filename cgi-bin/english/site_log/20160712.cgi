@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,139.5.239.70,139.5.239.70,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1468323250
+Company,139.5.239.70,139.5.239.70,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.103 Safari/537.36,https://www.google.co.in/,1468323200
+OxygenAbsorber　HandWarmers,mir01-2-82-245-105-211.fbx.proxad.net,82.245.105.211,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) FxiOS/4.0 Mobile/13F69 Safari/601.1.46,http://www.dorency.com/english/,1468254109
+トップページ,mir01-2-82-245-105-211.fbx.proxad.net,82.245.105.211,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) FxiOS/4.0 Mobile/13F69 Safari/601.1.46,http://www.dorency.com/,1468254048

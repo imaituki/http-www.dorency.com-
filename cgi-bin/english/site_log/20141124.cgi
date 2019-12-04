@@ -1,0 +1,4 @@
+トップページ,211.162.34.194,211.162.34.194,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; QQBrowser/7.7.31732.400),http://www.dorency.com/,1416832619
+OxygenAbsorber　HandWarmers,d173-180-231-98.bchsia.telus.net,173.180.231.98,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/38.0.2125.111 Safari/537.36,http://www.dorency.com/english/,1416807878
+トップページ,d173-180-231-98.bchsia.telus.net,173.180.231.98,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/38.0.2125.111 Safari/537.36,http://dorency.com/,1416807845
+トップページ,AStrasbourg-651-1-156-24.w90-40.abo.wanadoo.fr,90.40.195.24,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1416760698

@@ -1,0 +1,34 @@
+トップページ,151-243-243-131.shatel.ir,151.243.243.131,Mozilla/5.0 (Linux; Android 7.0; SM-T815) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Safari/537.36,http://www.dorency.com/,1547120616
+脱酸素剤・カイロ,KD182250248010.au-net.ne.jp,182.250.248.10,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1547113664
+脱酸素剤・カイロ,96.71.239.49.rev.vmobile.jp,49.239.71.96,Mozilla/5.0 (Linux; Android 9; Pixel 3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,https://www.google.com/,1547113663
+トップページ,123.125.67.222,123.125.67.222,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547113009
+トップページ,111.206.198.96,111.206.198.96,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547113009
+脱酸素剤・カイロ,KD114016119081.ppp-bb.dion.ne.jp,114.16.119.81,Mozilla/5.0 (Linux; Android 8.0.0; SOV36) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1547109557
+脱酸素剤・カイロ,google-proxy-66-249-82-119.google.com,66.249.82.119,Mozilla/5.0 (Linux; Android 8.0.0; SOV36) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1547109557
+脱酸素剤・カイロ,KD121105135171.ppp-bb.dion.ne.jp,121.105.135.171,Mozilla/5.0 (Linux; Android 8.0.0; SHV39 Build/S1171) AppleWebKit/537.36 (KHTML like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1547108333
+採用情報(製造ｵﾍﾟﾚｰﾀｰ),gd057093.gd.kcv.ne.jp,219.103.57.93,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1547106808
+脱酸素剤・カイロ,y235064.ppp.asahi-net.or.jp,118.243.235.64,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/,1547106657
+トップページ,y235064.ppp.asahi-net.or.jp,118.243.235.64,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,https://search.yahoo.co.jp/,1547106627
+トップページ,52.162.211.179,52.162.211.179,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0),http://www.dorency.com/,1547102990
+脱酸素剤・カイロ,proxy-b3-1.dnp.co.jp,202.214.150.11,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1547102767
+トップページ,proxy-b3-1.dnp.co.jp,202.214.150.11,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1547102759
+脱酸素剤・カイロ,KD027095234141.ppp-bb.dion.ne.jp,27.95.234.141,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML like Gecko) GSA/65.0.225212226 Mobile/15E148 Safari/604.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1547102742
+会社概要,proxy-b3-1.dnp.co.jp,202.214.150.11,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1547102712
+脱酸素剤・カイロ,proxy-b3-1.dnp.co.jp,202.214.150.11,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1547102681
+会社概要,165.100.112.12,165.100.112.12,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1547102201
+会社概要,ip-74.124.193.31.eltl.ru,31.193.124.74,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0,http://www.dorency.com/,1547101865
+トップページ,ip-74.124.193.31.eltl.ru,31.193.124.74,Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0,https://yandex.ru,1547101821
+脱酸素剤・カイロ,219x113x246x34.ap219.ftth.ucom.ne.jp,219.113.246.34,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1547099141
+脱酸素剤・カイロ,KD182250246010.au-net.ne.jp,182.250.246.10,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1547095992
+トップページ,KD182250246010.au-net.ne.jp,182.250.246.10,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,https://www.google.co.jp/,1547095985
+脱酸素剤・カイロ,116-91-49-55.east.fdn.vectant.ne.jp,116.91.49.55,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,https://www.google.com/,1547095148
+トップページ,123.125.67.219,123.125.67.219,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547089016
+トップページ,111.206.198.95,111.206.198.95,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547089016
+脱酸素剤・カイロ,p2095254-ipngn200608osakachuo.osaka.ocn.ne.jp,153.181.218.254,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.dorency.com/,1547088816
+トップページ,p2095254-ipngn200608osakachuo.osaka.ocn.ne.jp,153.181.218.254,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML like Gecko) Version/6.0.2 Safari/536.26.17,http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiK5dv1muLfAhXX7GEKHYIIABkQFjAAegQIBBAB&url=http%3A%2F%2Fwww.dorency.com%2F&usg=AOvVaw1MRqFHi9dcbMx9_O0NoQ8_,1547088813
+トップページ,sndr2.swg-proxy.anritsu.com,118.151.184.235,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1547084140
+会社概要,sndr2.swg-proxy.anritsu.com,118.151.184.235,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1547084045
+会社概要,167.red-79-146-211.dynamicip.rima-tde.net,79.146.211.167,Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5 Plus) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/,1547056633
+トップページ,167.red-79-146-211.dynamicip.rima-tde.net,79.146.211.167,Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5 Plus) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1547056588
+トップページ,123.125.67.219,123.125.67.219,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547055932
+トップページ,baiduspider-111-206-221-112.crawl.baidu.com,111.206.221.112,Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/,1547055932

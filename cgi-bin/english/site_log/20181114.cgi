@@ -1,0 +1,4 @@
+Company,45.112.176.116,45.112.176.116,Mozilla/5.0 (Linux; Android 7.0; SM-J530Y) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/english/,1542205303
+Company,google-proxy-64-233-173-59.google.com,64.233.173.59,Mozilla/5.0 (Linux; Android 7.0; SM-J530Y) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/english/,1542205302
+トップページ,45.112.176.116,45.112.176.116,Mozilla/5.0 (Linux; Android 7.0; SM-J530Y) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1542205246
+トップページ,google-proxy-64-233-173-59.google.com,64.233.173.59,Mozilla/5.0 (Linux; Android 7.0; SM-J530Y) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1542205246

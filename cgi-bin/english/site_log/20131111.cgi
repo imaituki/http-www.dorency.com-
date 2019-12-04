@@ -1,0 +1,6 @@
+トップページ,117.136.26.43,117.136.26.43,Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML like Gecko)Version/4.0 MQQBrowser/4.5 Mobile Safari/533.1,http://www.dorency.com/?&sec_sig=6a5f0354720f4b8239e8c00ede7d46a859f110340d70d97c15f68733e6ad42e8b7d0b08a3b088f11,1384176223
+Equipments(Machines) for environmental maintenance,59.103.216.187,59.103.216.187,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1384165046
+OxygenAbsorber　HandWarmers,59.103.216.187,59.103.216.187,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/english/,1384164994
+トップページ,59.103.216.187,59.103.216.187,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=ja&tl=en&u=http://www.dorency.com/cgi-bin/dorency/siteup.cgi%3Fcategory%3D2%26page%3D1&usg=ALkJrhiIZHozjDLUiw0m20XczBL7HJne4A,1384164961
+OxygenAbsorber　HandWarmers,95.83.249.103,95.83.249.103,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/english/,1384117215
+トップページ,95.83.249.103,95.83.249.103,Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0,http://www.dorency.com/,1384117174

@@ -1,0 +1,5 @@
+Equipments(Machines) for environmental maintenance,ipb6ab49fd.ap.nuro.jp,182.171.73.253,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1514540415
+Company,ipb6ab49fd.ap.nuro.jp,182.171.73.253,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1514540404
+OxygenAbsorber　HandWarmers,ipb6ab49fd.ap.nuro.jp,182.171.73.253,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://www.dorency.com/english/,1514540377
+トップページ,ipb6ab49fd.ap.nuro.jp,182.171.73.253,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,http://dorency.com/,1514540346
+Company,156.79.106.158,156.79.106.158,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.84 Safari/537.36,https://www.google.com/,1514507770

@@ -1,0 +1,6 @@
+Contact,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/english/,1572851461
+トップページ,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1572851420
+Equipments(Machines) for environmental maintenance,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1572851401
+OxygenAbsorber　HandWarmers,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1572851398
+Company,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/english/,1572851342
+トップページ,adsl.viettel.vn,115.74.110.238,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.120 Safari/537.36,http://www.dorency.com/,1572851310

@@ -1,0 +1,1 @@
+トップページ,nv-iptv-184-7-79-88.dhcp.centurylinkservices.net,184.7.79.88,Mozilla/5.0 (Linux; Android 4.2.2; HTC One X Build/JDQ39) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36,http://www.dorency.com/,1451882655

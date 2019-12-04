@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,dsl.49.144.239.228.pldt.net,49.144.239.228,Mozilla/5.0 (Linux; Android 6.0.1; MI 3W Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36,https://www.google.com.ph/,1493545559
+OxygenAbsorberÅ@HandWarmers,google-proxy-66-249-82-195.google.com,66.249.82.195,Mozilla/5.0 (Linux; Android 6.0.1; MI 3W Build/MMB29M) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36,https://www.google.com.ph/,1493545558

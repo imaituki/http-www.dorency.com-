@@ -1,0 +1,1 @@
+トップページ,KD106156078096.ppp-bb.dion.ne.jp,106.156.78.96,Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML like Gecko) Version/11.0 Mobile/15A432 Safari/604.1,https://search.yahoo.co.jp/,1509713407

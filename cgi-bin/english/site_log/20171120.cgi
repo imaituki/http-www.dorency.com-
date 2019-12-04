@@ -1,0 +1,2 @@
+トップページ,no-data,111.160.8.62,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1511139134
+Company,95-55-80-216.dynamic.avangarddsl.ru,95.55.80.216,Mozilla/5.0 (Linux; Android 6.0.1; LG-K100 Build/MXB48T) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36,https://www.google.ru/,1511118397

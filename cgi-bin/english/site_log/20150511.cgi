@@ -1,0 +1,3 @@
+トップページ,114-179-45-46.okasci.or.jp,114.179.45.46,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/42.0.2311.135 Safari/537.36,https://www.google.co.jp/,1431306640
+OxygenAbsorber　HandWarmers,119.9.95.174,119.9.95.174,Mozilla/5.0 (Linux; Android 5.0.1; LG-D858HK Build/LRX22G) AppleWebKit/537.36 (KHTML like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1431274980
+Company,119.9.95.174,119.9.95.174,Mozilla/5.0 (Linux; Android 5.0.1; LG-D858HK Build/LRX22G) AppleWebKit/537.36 (KHTML like Gecko) Chrome/42.0.2311.108 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1431274541

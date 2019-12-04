@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,ppp-110-168-230-7.revip5.asianet.co.th,110.168.230.7,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1435426894
+Company,ppp-110-168-230-7.revip5.asianet.co.th,110.168.230.7,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/english/,1435426886
+トップページ,ppp-110-168-230-7.revip5.asianet.co.th,110.168.230.7,Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53,http://www.dorency.com/,1435426824

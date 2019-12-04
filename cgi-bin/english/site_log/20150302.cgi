@@ -1,0 +1,1 @@
+Company,host128-46-dynamic.27-79-r.retail.telecomitalia.it,79.27.46.128,Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4,https://www.google.it/,1425222022

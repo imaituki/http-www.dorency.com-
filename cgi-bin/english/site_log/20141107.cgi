@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,224.116.34.95.customer.cdi.no,95.34.116.224,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/38.0.2125.111 Safari/537.36,http://www.dorency.com/english/,1415287876
+トップページ,224.116.34.95.customer.cdi.no,95.34.116.224,Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/38.0.2125.111 Safari/537.36,http://www.dorency.com/,1415287776

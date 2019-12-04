@@ -1,0 +1,4 @@
+Company,msnbot-40-77-188-38.search.msn.com,40.77.188.38,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML like Gecko) BingPreview/1.0b,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1546866935
+Company,39-10-135-191.adsl.fetnet.net,39.10.135.191,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,https://www.google.com.tw/,1546859224
+トップページ,ppp78-37-129-213.pppoe.avangarddsl.ru,78.37.129.213,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D100 Safari/604.1,http://dorency.com/,1546848622
+トップページ,219x120x4x122.ap219.ftth.ucom.ne.jp,219.120.4.122,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1546821626

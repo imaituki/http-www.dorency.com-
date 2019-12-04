@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,pool-71-121-38-243.plspca.fios.verizon.net,71.121.38.243,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/english/,1454035793
+トップページ,pool-71-121-38-243.plspca.fios.verizon.net,71.121.38.243,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://dorency.com/,1454035724

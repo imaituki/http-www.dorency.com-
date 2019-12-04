@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,114-46-205-188.dynamic-ip.hinet.net,114.46.205.188,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36,http://www.dorency.com/english/,1568875733
+トップページ,114-46-205-188.dynamic-ip.hinet.net,114.46.205.188,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1568875732

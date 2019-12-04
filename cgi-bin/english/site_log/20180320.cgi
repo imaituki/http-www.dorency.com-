@@ -1,0 +1,3 @@
+トップページ,ec2-13-114-136-79.ap-northeast-1.compute.amazonaws.com,13.114.136.79,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1521536869
+Company,hnt10.ueno-fc.co.jp,118.22.9.49,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1521533416
+トップページ,182.239.122.11.hk.chinamobile.com,182.239.122.11,Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML like Gecko) Version/11.0 Mobile/15D60 Safari/604.1,https://www.google.com.hk/,1521472180

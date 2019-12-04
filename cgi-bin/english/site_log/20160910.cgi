@@ -1,0 +1,1 @@
+トップページ,61.245.81.96.er.eaccess.ne.jp,61.245.81.96,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?aq=-1&ei=UTF-8&fr=top_ga1_sa&p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC+%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&rs=3&spro=0,1473482040

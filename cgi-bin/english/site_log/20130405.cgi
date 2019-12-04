@@ -1,0 +1,2 @@
+Company,proxy8.messagelabs.net,103.9.96.227,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/english/,1365152947
+トップページ,proxy8.messagelabs.net,103.9.96.227,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1365152943

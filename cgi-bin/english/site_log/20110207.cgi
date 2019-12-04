@@ -1,0 +1,3 @@
+トップページ,226.154.185.123.broad.dl.ln.dynamic.163data.com.cn,123.185.154.226,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1297046639
+トップページ,fwsrv.mm-land.co.jp,219.103.63.157,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YTB720; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1297045759
+トップページ,219.122.45.203,219.122.45.203,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YTB720; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; YJSG3),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1297035328

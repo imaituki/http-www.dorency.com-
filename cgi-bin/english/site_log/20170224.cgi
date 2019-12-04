@@ -1,0 +1,5 @@
+トップページ,60.32.133.1,60.32.133.1,Mozilla/5.0 (Linux; Android 7.1.1; Pixel Build/NOF26V) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36,http://dorency.com/,1487934231
+Contact,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1487924753
+OxygenAbsorber　HandWarmers,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1487924751
+Company,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/english/,1487924750
+トップページ,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1487924746

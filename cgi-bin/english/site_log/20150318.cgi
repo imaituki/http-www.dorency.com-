@@ -1,0 +1,1 @@
+トップページ,e0109-106-188-227-132.uqwimax.jp,106.188.227.132,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53,https://www.google.co.jp/,1426654692

@@ -1,0 +1,3 @@
+Company,123.103.8.136-BJ-CNC,123.103.8.136,Mozilla/5.0 (Linux; U; Android 4.4.4; zh-cn; MI 3 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko)Version/4.0 MQQBrowser/5.7 Mobile Safari/537.36,http://www.dorency.com/english/,1427534622
+トップページ,123.103.8.136-BJ-CNC,123.103.8.136,Mozilla/5.0 (Linux; U; Android 4.4.4; zh-cn; MI 3 Build/KTU84P) AppleWebKit/537.36 (KHTML like Gecko)Version/4.0 MQQBrowser/5.7 Mobile Safari/537.36,http://www.dorency.com/,1427534608
+Company,baiduspider-220-181-108-147.crawl.baidu.com,220.181.108.147,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1427498497

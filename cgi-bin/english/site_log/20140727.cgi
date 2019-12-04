@@ -1,0 +1,1 @@
+トップページ,211.140.18.101,211.140.18.101,Mozilla/5.0 (Linux; U; Android 4.1.1; zh-cn; MI 2S Build/JRO03L) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30 XiaoMi/MiuiBrowser/1.0,http://www.dorency.com/english/,1406389074

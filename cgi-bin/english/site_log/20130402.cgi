@@ -1,0 +1,12 @@
+OxygenAbsorber　HandWarmers,119.110.67.184,119.110.67.184,Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25,http://www.dorency.com/english/,1364896313
+OxygenAbsorber　HandWarmers,nttkyo468053.tkyo.nt.ftth.ppp.infoweb.ne.jp,124.25.198.53,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0,http://www.dorency.com/english/,1364895162
+トップページ,nttkyo468053.tkyo.nt.ftth.ppp.infoweb.ne.jp,124.25.198.53,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0,http://www.dorency.com/english/,1364895121
+トップページ,180.175.187.30,180.175.187.30,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1364885822
+トップページ,s151036.ppp.asahi-net.or.jp,220.157.151.36,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1364878120
+Company,180.117.131.58,180.117.131.58,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/english/,1364875518
+トップページ,180.117.131.58,180.117.131.58,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1364875514
+トップページ,nttyma008207.tyma.nt.ngn.ppp.infoweb.ne.jp,211.2.76.207,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; YJTH3; YTB730),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1364868003
+Company,251.147.231.114.broad.nt.js.dynamic.163data.com.cn,114.231.147.251,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1364844129
+Equipments(Machines) for environmental maintenance,251.147.231.114.broad.nt.js.dynamic.163data.com.cn,114.231.147.251,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1364844110
+OxygenAbsorber　HandWarmers,251.147.231.114.broad.nt.js.dynamic.163data.com.cn,114.231.147.251,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/english/,1364843919
+トップページ,251.147.231.114.broad.nt.js.dynamic.163data.com.cn,114.231.147.251,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1364843915

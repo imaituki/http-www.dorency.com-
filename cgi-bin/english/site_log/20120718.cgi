@@ -1,0 +1,1 @@
+Company,124.236.194.49,124.236.194.49,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MALC; InfoPath.2; .NET4.0C),http://search.yahoo.co.jp/search?p=dorency+co.%2Cltd&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1342600779

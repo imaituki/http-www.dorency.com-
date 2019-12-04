@@ -1,0 +1,2 @@
+トップページ,203-140-88-149f1.osk2.eonet.ne.jp,203.140.88.149,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=KEEPIT+%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&aq=-1&oq=&ei=UTF-8&fr=slv1-necpc8&x=wrt,1463097386
+トップページ,p343069-ipngn200402yamaguchi.yamaguchi.ocn.ne.jp,180.27.7.69,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1463097361

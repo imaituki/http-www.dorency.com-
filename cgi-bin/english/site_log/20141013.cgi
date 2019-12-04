@@ -1,0 +1,1 @@
+トップページ,39.87.83.117.broad.sz.js.dynamic.163data.com.cn,117.83.87.39,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E),http://www.dorency.com/,1413183937

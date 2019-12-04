@@ -1,0 +1,1 @@
+トップページ,201-212-252-251.net.prima.net.ar,201.212.252.251,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1 (KHTML like Gecko) CriOS/49.0.2623.109 Mobile/13E238 Safari/601.1.46,http://www.dorency.com/,1460678773

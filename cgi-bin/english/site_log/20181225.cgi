@@ -1,0 +1,3 @@
+トップページ,118.103.64.67,118.103.64.67,Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/11.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1545696274
+OxygenAbsorber　HandWarmers,78-11-67-65.static.ip.netia.com.pl,78.11.67.65,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://www.dorency.com/english/,1545687586
+トップページ,78-11-67-65.static.ip.netia.com.pl,78.11.67.65,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/71.0.3578.98 Safari/537.36,http://dorency.com/,1545687564

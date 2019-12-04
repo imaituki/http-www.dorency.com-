@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1521002630
+トップページ,159.203.42.143,159.203.42.143,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0,http://www.dorency.com/cgi-bin/english/siteup.cgi,1521002593
+Company,nsg-static-034.127.72.182.airtel.in,182.72.127.34,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,https://www.google.co.in/,1521002528
+トップページ,cpe-74-66-31-147.nyc.res.rr.com,74.66.31.147,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/64.0.3282.186 Safari/537.36,http://www.dorency.com/,1520994430

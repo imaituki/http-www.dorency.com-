@@ -1,0 +1,6 @@
+ショッピング,125-25-191-154.adsl.totbb.net,125.25.191.154,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1180792359
+脱酸素剤・カイロ,125-25-191-154.adsl.totbb.net,125.25.191.154,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2,http://www.dorency.com/,1180792218
+トップページ,125-25-191-154.adsl.totbb.net,125.25.191.154,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2,http://ocnsearch.goo.ne.jp/ocn.jsp?UI=web&CK=1&HIS=1&MT=%C3%A6%BB%C0%C1%C7%BA%DE&web=%A1%A1%B8%A1%BA%F7%A1%A1&DC=50,1180792197
+脱酸素剤・カイロ,p4080-ipbfp203daianji.nara.ocn.ne.jp,124.97.116.80,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MSN 6.1; MSNbMSFT; MSNmja-jp; MSNc00; v5m),http://search.msn.co.jp/results.aspx?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%81%AE%E6%88%90%E5%88%86&form=QBRE&go.x=8&go.y=7,1180785042
+トップページ,64.213.203.55,64.213.203.55,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.1) Gecko/20070202 Firefox/2.0.0.1,http://dorency.com/,1180763286
+トップページ,61.153.236.150,61.153.236.150,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alexa Toolbar),http://www.pinghu.com/,1180754323

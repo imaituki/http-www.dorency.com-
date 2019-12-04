@@ -1,0 +1,1 @@
+トップページ,p860056-ipngn200313okayamahigasi.okayama.ocn.ne.jp,220.98.134.56,Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.102 Safari/537.36,https://www.google.co.jp/,1542417837

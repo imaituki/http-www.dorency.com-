@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,212-46-71-217.dyn.estpak.ee,217.71.46.212,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/english/,1479489269
+トップページ,212-46-71-217.dyn.estpak.ee,217.71.46.212,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/54.0.2840.99 Safari/537.36,http://www.dorency.com/,1479489158

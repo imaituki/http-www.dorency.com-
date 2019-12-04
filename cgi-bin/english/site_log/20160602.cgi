@@ -1,0 +1,5 @@
+OxygenAbsorber　HandWarmers,113.90.168.53,113.90.168.53,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1464858139
+Equipments(Machines) for environmental maintenance,113.90.168.53,113.90.168.53,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/english/,1464858124
+トップページ,113.90.168.53,113.90.168.53,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/45.0.2454.101 Safari/537.36,http://www.dorency.com/,1464858094
+トップページ,pw126253066007.6.panda-world.ne.jp,126.253.66.7,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Mobile/13F69 YJApp-IOS jp.co.yahoo.ipn.appli/4.4.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1464839150
+トップページ,203-74-56-116.HINET-IP.hinet.net,203.74.56.116,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1464831345

@@ -1,0 +1,1 @@
+トップページ,msnbot-207-46-204-221.search.msn.com,207.46.204.221,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729),http://www.dorency.com/english/,1278740443

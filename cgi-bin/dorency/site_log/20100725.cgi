@@ -1,0 +1,2 @@
+トップページ,122.225.25.82,122.225.25.82,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Apache; .NET CLR 2.0.50727),http://www.pinghu.com/,1280036536
+脱酸素剤・カイロ,y165021.dynamic.ppp.asahi-net.or.jp,118.243.165.21,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML like Gecko) Chrome/5.0.375.99 Safari/533.4,http://www.google.co.jp/search?num=100&hl=ja&newwindow=1&q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4%E3%80%80&aq=f&aqi=g10&aql=&oq=&gs_rfai=,1279997825

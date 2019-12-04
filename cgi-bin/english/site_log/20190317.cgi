@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,host238-202-dynamic.32-79-r.retail.telecomitalia.it,79.32.202.238,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1552830474
+トップページ,host238-202-dynamic.32-79-r.retail.telecomitalia.it,79.32.202.238,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1552830055
+OxygenAbsorber　HandWarmers,95-31-78-36.broadband.corbina.ru,95.31.78.36,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/english/,1552822267

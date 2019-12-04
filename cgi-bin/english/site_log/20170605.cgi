@@ -1,0 +1,1 @@
+トップページ,p1083-ipbf210niho.hiroshima.ocn.ne.jp,60.40.72.83,Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,https://search.yahoo.co.jp/,1496620100

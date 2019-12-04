@@ -1,0 +1,5 @@
+トップページ,87.241.189.104,87.241.189.104,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML like Gecko) Version/10.0 Mobile/14F89 Safari/602.1,http://dorency.com/,1497617983
+トップページ,87.241.184.245,87.241.184.245,Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML like Gecko) Version/10.0 Mobile/14F89 Safari/602.1,http://dorency.com/,1497601214
+Company,host-15.159.241.46.ucom.am,46.241.159.15,Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.dorency.com/english/,1497594899
+トップページ,host-15.159.241.46.ucom.am,46.241.159.15,Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.110 Safari/537.36,http://www.dorency.com/,1497594889
+トップページ,186.143.200.146,186.143.200.146,Mozilla/5.0 (Linux; Android 6.0.1; XT1563 Build/MPD24.107-52-1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36,http://www.dorency.com/,1497563646

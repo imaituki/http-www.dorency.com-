@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,agrgate.agr.ca,192.197.71.189,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1444073431
+Company,agrgate.agr.gc.ca,192.197.71.189,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0),http://www.bing.com/search?q=dorency&src=IE-TopResult&FORM=IE10TR&adlt=strict,1444073415

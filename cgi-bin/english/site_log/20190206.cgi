@@ -1,0 +1,2 @@
+トップページ,196.99.149.181,196.99.149.181,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) CriOS/71.0.3578.89 Mobile/15E148 Safari/605.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1549400030
+OxygenAbsorber　HandWarmers,p54816FA0.dip0.t-ipconnect.de,84.129.111.160,Mozilla/5.0 (Android 7.0; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1549393785

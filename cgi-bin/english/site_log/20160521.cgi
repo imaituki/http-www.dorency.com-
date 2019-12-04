@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,254C2DE8.nat.pool.telekom.hu,37.76.45.232,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13E238 Safari/601.1,http://www.dorency.com/english/,1463836600
+トップページ,254C2DE8.nat.pool.telekom.hu,37.76.45.232,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13E238 Safari/601.1,http://dorency.com/,1463836399
+OxygenAbsorber　HandWarmers,c-68-80-125-88.hsd1.pa.comcast.net,68.80.125.88,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.102 Safari/537.36,http://www.dorency.com/english/,1463835709
+トップページ,c-68-80-125-88.hsd1.pa.comcast.net,68.80.125.88,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/50.0.2661.102 Safari/537.36,http://www.dorency.com/,1463835685

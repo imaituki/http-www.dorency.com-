@@ -1,0 +1,2 @@
+トップページ,122.228.229.220,122.228.229.220,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML like Gecko) Version/8.0.7 Safari/600.7.12,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1438002580
+トップページ,msnbot-157-55-2-174.search.msn.com,157.55.2.174,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b,http://www.dorency.com/english/,1437977907

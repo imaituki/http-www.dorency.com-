@@ -1,0 +1,7 @@
+トップページ,221.209.203.191,221.209.203.191,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/,1295962059
+トップページ,pc210164190201.hot-cha.tv,210.164.190.201,Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; YTB730),http://search.yahoo.co.jp/search?fr=top_table&tid=top_table&ei=UTF-8&p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE,1295938452
+トップページ,115.197.35.149,115.197.35.149,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://www.dorency.com/,1295936310
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,218.189.231.79,218.189.231.79,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1295926154
+Company,218.189.231.79,218.189.231.79,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://hk.search.yahoo.com/search?p=Dorency+%28Shanghai%29+Co.%2C+Ltd&fr=FP-tab-web-t&ei=UTF-8&meta=rst%3Dhk,1295926141
+Company,gw.aobakasei.co.jp,113.42.217.50,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://www.dorency.com/english/,1295917455
+トップページ,gw.aobakasei.co.jp,113.42.217.50,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&rs=1&tid=top_ga1_sa&ei=UTF-8&fr=top_ga1_sa,1295917448

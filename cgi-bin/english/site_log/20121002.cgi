@@ -1,0 +1,2 @@
+Company,p5129-ipbfp605kyoto.kyoto.ocn.ne.jp,124.99.61.129,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML like Gecko) Version/6.0.1 Safari/536.26.14,http://www.dorency.com/english/,1349169087
+トップページ,p5129-ipbfp605kyoto.kyoto.ocn.ne.jp,124.99.61.129,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML like Gecko) Version/6.0.1 Safari/536.26.14,http://www.dorency.com/,1349169061

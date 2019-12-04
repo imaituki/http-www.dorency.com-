@@ -1,0 +1,1 @@
+Company,softbank221100070011.bbtec.net,221.100.70.11,Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),http://www.google.co.jp/search?num=100&hl=ja&safe=off&client=firefox-a&hs=ybV&rls=org.mozilla%3Aja-JP%3Aofficial&q=Kasaoka+Credit+Cooperative&aq=f&aqi=&aql=&oq=&gs_rfai=,1273029292

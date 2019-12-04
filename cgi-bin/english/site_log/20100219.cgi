@@ -1,0 +1,1 @@
+トップページ,c199108.ppp.asahi-net.or.jp,210.155.199.108,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP) AppleWebKit/531.9 (KHTML like Gecko) Version/4.0.3 Safari/531.9.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1266557874

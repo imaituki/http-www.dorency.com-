@@ -1,0 +1,3 @@
+トップページ,google-proxy-66-249-85-57.google.com,66.249.85.57,Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36,http://www.dorency.com/,1550709667
+トップページ,bfbd13ff.virtua.com.br,191.189.19.255,Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36,http://www.dorency.com/,1550709502
+トップページ,google-proxy-66-249-85-59.google.com,66.249.85.59,Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36,http://www.dorency.com/,1550709501

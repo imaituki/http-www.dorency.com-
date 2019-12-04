@@ -1,0 +1,4 @@
+OxygenAbsorber　HandWarmers,static.vnpt.vn,123.16.145.10,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/english/,1486821670
+トップページ,static.vnpt.vn,123.16.145.10,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML like Gecko) Version/10.0 Mobile/14C92 Safari/602.1,http://www.dorency.com/,1486821662
+OxygenAbsorber　HandWarmers,220-158-60-75.nagano.fdn.vectant.ne.jp,220.158.60.75,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/english/,1486805204
+トップページ,220-158-60-75.nagano.fdn.vectant.ne.jp,220.158.60.75,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/,1486805175

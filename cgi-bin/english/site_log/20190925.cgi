@@ -1,0 +1,2 @@
+Company,i118-21-102-9.s30.a048.ap.plala.or.jp,118.21.102.9,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36,http://www.dorency.com/english/,1569374592
+トップページ,i118-21-102-9.s30.a048.ap.plala.or.jp,118.21.102.9,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML like Gecko) Chrome/76.0.3809.132 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1569374590

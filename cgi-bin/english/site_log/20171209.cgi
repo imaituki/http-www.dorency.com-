@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,117.217.174.138,117.217.174.138,Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36,http://www.dorency.com/english/,1512820638
+トップページ,117.217.174.138,117.217.174.138,Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G935F Build/NRD90M) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36,http://www.dorency.com/,1512820599

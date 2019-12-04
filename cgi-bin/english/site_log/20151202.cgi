@@ -1,0 +1,2 @@
+Company,mobile-166-137-118-094.mycingular.net,166.137.118.94,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/english/,1449013108
+トップページ,mobile-166-137-118-094.mycingular.net,166.137.118.94,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://dorency.com/,1449013027

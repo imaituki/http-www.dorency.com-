@@ -1,0 +1,5 @@
+トップページ,dhcp-214-6.dhcp.monkeybrains.net,208.90.214.6,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.102 Safari/537.36,https://www.google.com/,1544166949
+OxygenAbsorber　HandWarmers,123.136.106.172,123.136.106.172,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) CriOS/70.0.3538.75 Mobile/15E148 Safari/605.1,http://www.dorency.com/english/,1544160642
+トップページ,123.136.106.172,123.136.106.172,Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) CriOS/70.0.3538.75 Mobile/15E148 Safari/605.1,http://www.dorency.com/,1544160612
+OxygenAbsorber　HandWarmers,176.166.200.136,176.166.200.136,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1544129613
+Company,176.166.200.136,176.166.200.136,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0,https://www.google.com/,1544129603

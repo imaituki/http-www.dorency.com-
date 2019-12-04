@@ -1,0 +1,3 @@
+トップページ,om126234124159.16.openmobile.ne.jp,126.234.124.159,Mozilla/5.0 (Linux; Android 6.0; Redmi Note 4 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36,http://www.dorency.com/,1508989258
+トップページ,google-proxy-66-249-82-109.google.com,66.249.82.109,Mozilla/5.0 (Linux; Android 6.0; Redmi Note 4 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36,http://www.dorency.com/,1508989258
+トップページ,f186180.mctv.ne.jp,219.105.186.180,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/,1508975665

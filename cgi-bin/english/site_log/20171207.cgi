@@ -1,0 +1,7 @@
+Contact,115.92.168.5,115.92.168.5,Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1512636891
+Equipments(Machines) for environmental maintenance,115.92.168.5,115.92.168.5,Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1512636884
+Company,115.92.168.5,115.92.168.5,Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/english/,1512636836
+OxygenAbsorber　HandWarmers,115.92.168.5,115.92.168.5,Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/english/,1512625991
+トップページ,115.92.168.5,115.92.168.5,Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1512625986
+トップページ,115.92.168.4,115.92.168.4,Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1512620420
+トップページ,ec2-13-115-46-99.ap-northeast-1.compute.amazonaws.com,13.115.46.99,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/59.0.3071.86 Safari/537.36,http://www.dorency.com/english/,1512591341

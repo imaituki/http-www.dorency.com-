@@ -1,0 +1,2 @@
+トップページ,62-210-142-128.rev.poneytelecom.eu,62.210.142.128,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML like Gecko) Qt/4.8.1 Safari/534.34,http://www.dorency.com/english/,1397798046
+OxygenAbsorber　HandWarmers,166-48-20-4.cable.yesup.net,166.48.20.4,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/34.0.1847.116 Safari/537.36,https://www.google.ca/,1397778383

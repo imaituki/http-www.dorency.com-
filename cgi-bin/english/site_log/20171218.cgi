@@ -1,0 +1,2 @@
+Contact,220-132-210-144.HINET-IP.hinet.net,220.132.210.144,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/english/,1513586261
+トップページ,220-132-210-144.HINET-IP.hinet.net,220.132.210.144,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/62.0.3202.94 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1513586255

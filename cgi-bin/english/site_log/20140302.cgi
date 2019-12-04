@@ -1,0 +1,3 @@
+トップページ,ai126250006011.11.tss.access-internet.ne.jp,126.250.6.11,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1393732349
+OxygenAbsorber　HandWarmers,95-91-192-190.cab.prima.net.ar,190.192.91.95,Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) CriOS/33.0.1750.14 Mobile/11B651 Safari/9537.53,http://www.dorency.com/english/,1393723478
+トップページ,95-91-192-190.cab.prima.net.ar,190.192.91.95,Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) CriOS/33.0.1750.14 Mobile/11B651 Safari/9537.53,http://www.dorency.com/,1393723428

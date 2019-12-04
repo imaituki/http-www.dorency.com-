@@ -1,0 +1,2 @@
+トップページ,KD125052086136.ppp-bb.dion.ne.jp,125.52.86.136,Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1300616319
+トップページ,ool-4a5aa31b.dyn.optonline.net,74.90.163.27,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1300578895

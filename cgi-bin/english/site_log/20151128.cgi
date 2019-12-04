@@ -1,0 +1,5 @@
+トップページ,host-79-165-16-157.qwerty.ru,79.165.16.157,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/28.0.1500.95 YaBrowser/13.10.1500.9323 Safari/537.36,http://www.dorency.com/english/,1448713082
+Equipments(Machines) for environmental maintenance,ngn1-ppp438.nagoya.sannet.ne.jp,219.106.65.184,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.80 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1448696155
+OxygenAbsorber　HandWarmers,ngn1-ppp438.nagoya.sannet.ne.jp,219.106.65.184,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.80 Safari/537.36,http://www.dorency.com/english/,1448696093
+トップページ,ngn1-ppp438.nagoya.sannet.ne.jp,219.106.65.184,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.80 Safari/537.36,http://www.dorency.com/,1448696070
+トップページ,aa029170.dynamic.ppp.asahi-net.or.jp,110.5.29.170,Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.1.200) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36,https://www.google.co.jp/,1448684796

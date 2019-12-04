@@ -1,0 +1,2 @@
+Company,host-20.net75.sol.az,178.237.75.20,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.131 Safari/537.36,https://www.google.ru/,1557922093
+トップページ,122.134.197.113.dy.bbexcite.jp,113.197.134.122,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.131 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=4,1557901874

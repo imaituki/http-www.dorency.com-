@@ -1,0 +1,1 @@
+トップページ,softbank126126149015.bbtec.net,126.126.149.15,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; ja-jp) AppleWebKit/533.19.4 (KHTML like Gecko) Version/4.1.3 Safari/533.19.4,http://www.google.co.jp/search?hl=ja&client=safari&rls=en&q=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89%E3%80%80%E8%8B%B1%E8%AA%9E&aq=f&aqi=g1&aql=&oq=,1302944403

@@ -1,0 +1,2 @@
+トップページ,78.190.234.64.static.ttnet.com.tr,78.190.234.64,Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36,http://www.dorency.com/,1545488592
+トップページ,p77081-ipngnfx01marunouchi.tokyo.ocn.ne.jp,153.142.247.81,Mozilla/5.0 (iPad; CPU OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.0 Mobile/15E148 Safari/604.1,http://www.dorency.com/,1545460241

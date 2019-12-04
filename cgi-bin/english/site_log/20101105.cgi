@@ -1,0 +1,4 @@
+Equipments(Machines) for environmental maintenance,210.0.215.131,210.0.215.131,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322),http://www.dorency.com/english/,1288923877
+トップページ,210.0.215.131,210.0.215.131,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322),http://www.dorency.com/,1288923859
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,210.0.215.131,210.0.215.131,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322),http://hk.search.yahoo.com/search?p=dorency&fr=FP-tab-web-t&ei=UTF-8&meta=rst%3Dhk,1288923836
+トップページ,112.146.167.197,112.146.167.197,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1288884794

@@ -1,0 +1,2 @@
+トップページ,s1738241.xgsspn.imtp.tachikawa.spmode.ne.jp,49.97.38.241,Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; F-05D Build/V22R41A) AppleWebKit/533.1 (KHTML like Gecko) Version/4.0 Mobile Safari/533.1,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1383010685
+トップページ,i118-21-157-131.s30.a048.ap.plala.or.jp,118.21.157.131,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1383005011

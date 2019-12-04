@@ -1,0 +1,1 @@
+トップページ,em117-55-68-160.emobile.ad.jp,117.55.68.160,Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53,http://www.dorency.com/,1388897353

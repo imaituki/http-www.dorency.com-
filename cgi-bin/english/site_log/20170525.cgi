@@ -1,0 +1,2 @@
+Equipments(Machines) for environmental maintenance,113.20.116.161,113.20.116.161,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1495689256
+Company,113.20.116.161,113.20.116.161,Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13G36 Safari/601.1,https://www.google.com.vn/,1495689240

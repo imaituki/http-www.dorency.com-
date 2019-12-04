@@ -1,0 +1,1 @@
+トップページ,google-proxy-66-249-80-86.google.com,66.249.80.86,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML like Gecko; Google Web Preview) Chrome/22.0.1229 Safari/537.4,http://www.google.com/search,1379331407

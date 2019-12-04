@@ -1,0 +1,1 @@
+トップページ,sp49-98-140-20.msd.spmode.ne.jp,49.98.140.20,Mozilla/5.0 (Linux; Android 6.0.1; SO-02G Build/23.5.B.0.396) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36,http://www.google.co.jp/,1511734479

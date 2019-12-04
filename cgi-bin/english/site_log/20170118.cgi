@@ -1,0 +1,3 @@
+Company,220-132-226-29.HINET-IP.hinet.net,220.132.226.29,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A346 Safari/602.1,https://www.google.com.tw/,1484746996
+Company,host-184-167-51-120.kls-mt.client.bresnan.net,184.167.51.120,Mozilla/5.0 (Linux; Android 6.0; RCT6303W87M7 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Safari/537.36,http://www.dorency.com/english/,1484705894
+トップページ,host-184-167-51-120.kls-mt.client.bresnan.net,184.167.51.120,Mozilla/5.0 (Linux; Android 6.0; RCT6303W87M7 Build/MRA58K) AppleWebKit/537.36 (KHTML like Gecko) Chrome/55.0.2883.91 Safari/537.36,http://www.dorency.com/,1484705816

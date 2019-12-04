@@ -1,0 +1,10 @@
+トップページ,bkq29.neoplus.adsl.tpnet.pl,83.28.184.29,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68,http://www.dorency.com/english/,1391253391
+OxygenAbsorber　HandWarmers,KHP222006030197.ppp-bb.dion.ne.jp,222.6.30.197,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.102 Safari/537.36,http://www.dorency.com/english/,1391251722
+トップページ,KHP222006030197.ppp-bb.dion.ne.jp,222.6.30.197,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/32.0.1700.102 Safari/537.36,http://www.dorency.com/,1391251711
+OxygenAbsorber　HandWarmers,220-110-237-220.ip1.george24.com,220.110.237.220,Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1391242590
+Company,220-110-237-220.ip1.george24.com,220.110.237.220,Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/english/,1391242576
+トップページ,bkq29.neoplus.adsl.tpnet.pl,83.28.184.29,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68,http://www.dorency.com/english/,1391242557
+トップページ,220-110-237-220.ip1.george24.com,220.110.237.220,Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0,http://www.dorency.com/,1391242513
+OxygenAbsorber　HandWarmers,adsl.viettel.vn,115.76.137.220,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) CriOS/32.0.1700.20 Mobile/11B554a Safari/9537.53,http://www.dorency.com/english/,1391240409
+トップページ,adsl.viettel.vn,115.76.137.220,Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML like Gecko) CriOS/32.0.1700.20 Mobile/11B554a Safari/9537.53,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1391240393
+Contact,35.net220148169.t-com.ne.jp,220.148.169.35,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://search.yahoo.co.jp/search?p=%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0&sp=1&aq=-1&ei=UTF-8&fr=top_ga1_sa&qrw=0,1391240131

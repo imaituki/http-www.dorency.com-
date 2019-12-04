@@ -1,0 +1,3 @@
+トップページ,14.100.132.44,14.100.132.44,Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4,https://www.google.co.uk/,1422361877
+トップページ,37.150.167.103.megaline.telecom.kz,37.150.167.103,Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4,http://www.dorency.com/,1422320852
+OxygenAbsorber　HandWarmers,baiduspider-220-181-108-175.crawl.baidu.com,220.181.108.175,Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1422317894

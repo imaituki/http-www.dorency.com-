@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,46.11.125.100,46.11.125.100,Mozilla/5.0 (Linux; Android 7.0; SM-T810) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.110 Safari/537.36,http://www.dorency.com/english/,1543133063
+トップページ,46.11.125.100,46.11.125.100,Mozilla/5.0 (Linux; Android 7.0; SM-T810) AppleWebKit/537.36 (KHTML like Gecko) Chrome/70.0.3538.110 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1543133035

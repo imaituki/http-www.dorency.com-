@@ -1,0 +1,6 @@
+OxygenAbsorber　HandWarmers,p620058-ipngn13501marunouchi.tokyo.ocn.ne.jp,153.202.163.58,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/english/,1494155565
+トップページ,p620058-ipngn13501marunouchi.tokyo.ocn.ne.jp,153.202.163.58,Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,http://www.dorency.com/,1494155551
+Company,181-160-117-10.baf.movistar.cl,181.160.117.10,Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-P3100 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30,http://www.dorency.com/english/,1494126587
+トップページ,181-160-117-10.baf.movistar.cl,181.160.117.10,Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-P3100 Build/JZO54K) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Safari/534.30,http://www.dorency.com/english/,1494126472
+Company,KD182250251197.au-net.ne.jp,182.250.251.197,Mozilla/5.0 (Linux; Android 4.4.4; SHF31 Build/SB181) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36,http://www.dorency.com/english/,1494117602
+トップページ,KD182250251197.au-net.ne.jp,182.250.251.197,Mozilla/5.0 (Linux; Android 4.4.4; SHF31 Build/SB181) AppleWebKit/537.36 (KHTML like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1494117566

@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,softbank126094211047.bbtec.net,126.94.211.47,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1445943285
+Equipments(Machines) for environmental maintenance,softbank126094211047.bbtec.net,126.94.211.47,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/english/,1445943276
+トップページ,softbank126094211047.bbtec.net,126.94.211.47,Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML like Gecko) Version/9.0 Mobile/13B143 Safari/601.1,http://www.dorency.com/,1445943248

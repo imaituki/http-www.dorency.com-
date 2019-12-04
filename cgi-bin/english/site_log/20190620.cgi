@@ -1,0 +1,1 @@
+Company,111-241-13-201.dynamic-ip.hinet.net,111.241.13.201,Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1,https://www.google.com.tw/,1561038627

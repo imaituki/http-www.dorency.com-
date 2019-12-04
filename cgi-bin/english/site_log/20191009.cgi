@@ -1,0 +1,9 @@
+OxygenAbsorber　HandWarmers,cpe-71-65-76-29.cinci.res.rr.com,71.65.76.29,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1570612843
+Company,cpe-71-65-76-29.cinci.res.rr.com,71.65.76.29,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Safari/537.36,https://www.google.com/,1570612754
+トップページ,185.8.2.246,185.8.2.246,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.90 Safari/537.36,http://dorency.com/,1570561453
+トップページ,host-75.81.252.37.ucom.am,37.252.81.75,Mozilla/5.0 (Linux; Android 8.0.0; SM-A530F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/,1570560106
+トップページ,google-proxy-66-249-81-39.google.com,66.249.81.39,Mozilla/5.0 (Linux; Android 8.0.0; SM-A530F) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/,1570560105
+Company,212.42.198.34,212.42.198.34,Mozilla/5.0 (Linux; Android 9; SM-A605FN) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1570559797
+Equipments(Machines) for environmental maintenance,212.42.198.34,212.42.198.34,Mozilla/5.0 (Linux; Android 9; SM-A605FN) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1570559780
+OxygenAbsorber　HandWarmers,212.42.198.34,212.42.198.34,Mozilla/5.0 (Linux; Android 9; SM-A605FN) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/english/,1570559723
+トップページ,212.42.198.34,212.42.198.34,Mozilla/5.0 (Linux; Android 9; SM-A605FN) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36,http://www.dorency.com/,1570559700

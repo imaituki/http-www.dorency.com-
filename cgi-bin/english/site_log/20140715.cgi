@@ -1,0 +1,2 @@
+トップページ,p5196-ipad201niho.hiroshima.ocn.ne.jp,58.90.11.196,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=5,1405411922
+トップページ,dhcp183-106.tamatele.ne.jp,202.70.183.106,Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.153 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1405381836

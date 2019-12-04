@@ -1,0 +1,5 @@
+OxygenAbsorber　HandWarmers,x4e36d192.dyn.telefonica.de,78.54.209.146,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1569499452
+Company,x4e36d192.dyn.telefonica.de,78.54.209.146,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0,http://www.dorency.com/english/,1569499375
+トップページ,x4e36d192.dyn.telefonica.de,78.54.209.146,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0,http://dorency.com/,1569499353
+Company,softbank060149031047.bbtec.net,60.149.31.47,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.90 Safari/537.36,http://www.dorency.com/english/,1569473422
+トップページ,softbank060149031047.bbtec.net,60.149.31.47,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/77.0.3865.90 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1569473418

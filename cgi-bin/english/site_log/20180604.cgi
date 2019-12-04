@@ -1,0 +1,2 @@
+トップページ,18.86.0.1.megaegg.ne.jp,1.0.86.18,Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML like Gecko) Mobile/15E302 YJApp-IOS jp.co.yahoo.ipn.appli/4.10.0,https://search.yahoo.co.jp/,1528103683
+Company,p609160-ipngn200607kobeminato.hyogo.ocn.ne.jp,114.155.106.160,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/63.0.3239.132 Safari/537.36,http://search.yahoo.co.jp/,1528079247

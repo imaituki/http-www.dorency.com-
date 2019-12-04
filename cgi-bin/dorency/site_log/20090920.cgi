@@ -1,0 +1,3 @@
+トップページ,61.153.236.142,61.153.236.142,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; icafe8),http://www.pinghu.com/moreurl.asp?page=1,1253449642
+トップページ,125-31-107-46.ppp.bbiq.jp,125.31.107.46,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1253447320
+脱酸素剤・カイロ,65.55.109.92,65.55.109.92,Mozilla/4.0 (compatible;  MSIE 6.0;  Windows NT 5.1;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30707),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1253379290

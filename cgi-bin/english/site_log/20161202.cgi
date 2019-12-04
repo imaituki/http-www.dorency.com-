@@ -1,0 +1,3 @@
+OxygenAbsorberÅ@HandWarmers,50.111.91.208,50.111.91.208,Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML like Gecko) Version/10.0 Mobile/14A456 Safari/602.1,http://www.dorency.com/english/,1480652410
+OxygenAbsorberÅ@HandWarmers,51.37.144.55,51.37.144.55,Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/12.0.68608 Mobile/12H321 Safari/600.1.4,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1480615521
+Company,51.37.144.55,51.37.144.55,Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML like Gecko) GSA/12.0.68608 Mobile/12H321 Safari/600.1.4,https://www.google.ie/,1480615506

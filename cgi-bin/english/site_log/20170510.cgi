@@ -1,0 +1,5 @@
+トップページ,202.241.169.9.ap.gmobb-fix.jp,202.241.169.9,Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/57.0.2987.133 Safari/537.36,http://www.dorency.com/,1494383541
+OxygenAbsorber　HandWarmers,c-24-21-76-48.hsd1.wa.comcast.net,24.21.76.48,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.dorency.com/english/,1494373637
+トップページ,c-24-21-76-48.hsd1.wa.comcast.net,24.21.76.48,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0,http://www.dorency.com/english/,1494373476
+OxygenAbsorber　HandWarmers,smtp.safetycall.com,207.173.9.106,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.96 Safari/537.36,http://www.dorency.com/english/,1494371456
+トップページ,smtp.safetycall.com,207.173.9.106,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/58.0.3029.96 Safari/537.36,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1494371432

@@ -1,0 +1,22 @@
+脱酸素剤・カイロ,softbank219015059006.bbtec.net,219.15.59.6,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; ja-jp) AppleWebKit/418.9.1 (KHTML like Gecko) Safari/419.3,http://www.dorency.com/,1166450326
+トップページ,softbank219015059006.bbtec.net,219.15.59.6,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; ja-jp) AppleWebKit/418.9.1 (KHTML like Gecko) Safari/419.3,http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4+%E4%B9%BE%E7%87%A5%E5%89%A4&rs=3&ei=UTF-8&meta=vc%3D&fl=0&fr=top_v2&yuragi=off,1166450314
+脱酸素剤・カイロ,127.124.244.43.ap.highway.ne.jp,43.244.124.127,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://www.dorency.com/,1166449134
+トップページ,127.124.244.43.ap.highway.ne.jp,43.244.124.127,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&sp=1&tid=top_v2&ei=UTF-8&search_x=1&fr=top_v2&SpellState=n-3833568221_q-SL8.r3mzyusRw1RbuA3rcQAAAA%40%40,1166449126
+トップページ,gd053179.gd.kcv.ne.jp,219.103.53.179,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%A5%C9%A5%EC%A5%F3%A5%B7%A1%BC&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1166445759
+お問合わせ,gd053179.gd.kcv.ne.jp,219.103.53.179,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1166445706
+会社概要,gd053179.gd.kcv.ne.jp,219.103.53.179,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1166445689
+脱酸素剤・カイロ,softbank220020053016.bbtec.net,220.20.53.16,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/,1166441873
+トップページ,softbank220020053016.bbtec.net,220.20.53.16,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.google.co.jp/search?sourceid=navclient&hl=ja&ie=UTF-8&rls=GGLD&#44;GGLD:2004-24&#44;GGLD:ja&q=%e3%83%89%e3%83%ac%e3%83%b3%e3%82%b7%e3%83%bc,1166441861
+トップページ,195.52.0.218.broad.jx.zj.dynamic.163data.com.cn,218.0.52.195,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.pinghu.com/,1166433124
+会社概要,t542062.ipgw.phs.yoyogi.mopera.ne.jp,220.159.42.62,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://www.dorency.com/,1166429349
+トップページ,t542062.ipgw.phs.yoyogi.mopera.ne.jp,220.159.42.62,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),http://ric.shokokai.or.jp/oneokayama/html/3344310006/index.htm,1166429323
+会社概要,h045.rios.co.jp,210.172.124.109,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1166428535
+ショッピング,h045.rios.co.jp,210.172.124.109,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705),http://www.dorency.com/,1166428468
+トップページ,h045.rios.co.jp,210.172.124.109,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC&ei=UTF-8&fr=top_v2&x=wrt&meta=vc%3D,1166428398
+脱酸素剤・カイロ,aa2003030277005.userreverse.dion.ne.jp,210.249.82.156,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; ja-JP-mac; rv:1.8.1) Gecko/20061010 Firefox/2.0,http://www.dorency.com/,1166420397
+トップページ,aa2003030277005.userreverse.dion.ne.jp,210.249.82.156,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; ja-JP-mac; rv:1.8.1) Gecko/20061010 Firefox/2.0,http://www.dorency.com/,1166420384
+お問合わせ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=1,1166419562
+会社概要,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://www.dorency.com/,1166419550
+トップページ,hnt10.ueno-fc.co.jp,211.8.119.22,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%8E%C4%8E%DE%8E%DA%8E%DD%8E%BC%8E%B0&fr=top_v2&tid=top_v2&ei=euc-jp&search.x=1,1166419540
+トップページ,p24065-ipbffx02osakakita.osaka.ocn.ne.jp,61.207.167.65,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=1&page=0,1166418505
+ショッピング,p24065-ipbffx02osakakita.osaka.ocn.ne.jp,61.207.167.65,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2),http://localhost:11213/system/up/cgi-bin/siteup.cgi?category=0&page=0,1166418504

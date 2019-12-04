@@ -1,0 +1,2 @@
+Company,1.52.36.232,1.52.36.232,Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/49.0.2623.112 Safari/537.36,https://www.google.com/,1461127480
+トップページ,s514247.xgsspn.imtp.tachikawa.spmode.ne.jp,49.98.14.247,Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1 (KHTML like Gecko) CriOS/49.0.2623.109 Mobile/13D15 Safari/601.1.46,http://dorency.com/,1461100339

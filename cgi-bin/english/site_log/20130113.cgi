@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,adsl-71-141-96-174.dsl.snfc21.pacbell.net,71.141.96.174,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2,http://www.dorency.com/english/,1358043553
+トップページ,adsl-71-141-96-174.dsl.snfc21.pacbell.net,71.141.96.174,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2,http://dorency.com/,1358043532

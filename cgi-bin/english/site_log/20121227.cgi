@@ -1,0 +1,2 @@
+OxygenAbsorberÅ@HandWarmers,124.104.156.14.pldt.net,124.104.156.14,Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1356596616
+Company,124.104.156.14.pldt.net,124.104.156.14,Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0,http://ph.search.yahoo.com/search;_ylt=A0S0uPAlBdxQFVUA.2m1Rwx.?p=dorency%20fine%20chemical%20pinghu%20co.ltd&fr=yfp-t-711&fr2=piv-image,1356596538

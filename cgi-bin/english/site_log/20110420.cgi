@@ -1,0 +1,3 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,60-249-70-194.HINET-IP.hinet.net,60.249.70.194,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; InfoPath.2),http://www.dorency.com/english/,1303278977
+トップページ,60-249-70-194.HINET-IP.hinet.net,60.249.70.194,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; InfoPath.2),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1303278972
+トップページ,219.106.241.230,219.106.241.230,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1303266191

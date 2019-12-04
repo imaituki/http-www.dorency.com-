@@ -1,0 +1,3 @@
+OxygenAbsorber　HandWarmers,49.35.97.237,49.35.97.237,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1536143909
+Company,49.35.97.237,49.35.97.237,Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/68.0.3440.106 Safari/537.36,https://www.google.co.in/,1536143856
+トップページ,ec2-52-192-41-144.ap-northeast-1.compute.amazonaws.com,52.192.41.144,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36,http://www.dorency.com/english/,1536100129

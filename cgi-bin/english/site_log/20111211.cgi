@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,p1143-ipngn100104yamaguchi.yamaguchi.ocn.ne.jp,180.19.224.143,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML like Gecko) Chrome/15.0.874.121 Safari/535.2,http://www.dorency.com/english/,1323594833
+トップページ,p1143-ipngn100104yamaguchi.yamaguchi.ocn.ne.jp,180.19.224.143,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML like Gecko) Chrome/15.0.874.121 Safari/535.2,http://dorency.com/,1323594781

@@ -1,0 +1,1 @@
+トップページ,95-25-213-190.broadband.corbina.ru,95.25.213.190,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML like Gecko) Chrome/7.0.517.44 Safari/534.7,http://www.dorency.com/english/,1349333079

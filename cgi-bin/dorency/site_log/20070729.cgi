@@ -1,0 +1,7 @@
+ショッピング,softbank219201132148.bbtec.net,219.201.132.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.40607),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1185716361
+脱酸素剤・カイロ,softbank219201132148.bbtec.net,219.201.132.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.40607),http://www.dorency.com/,1185716129
+トップページ,softbank219201132148.bbtec.net,219.201.132.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.40607),http://search.yahoo.co.jp/search?p=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&sp=1&tid=bb_top_v2&search_x=1&ei=UTF-8&fr=bb_top_v2&SpellState=n-4058835585_q-%2FNDdILfuBzKWfaWRf8D5owAAAA%40%40,1185716110
+脱酸素剤・カイロ,f0497.gsk.ppp.u-netsurf.ne.jp,202.215.4.151,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727),http://www.google.co.jp/search?q=%E8%84%B1%E9%85%B8%E7%B4%A0%E5%89%A4&hl=ja&lr=&start=10&sa=N,1185714934
+トップページ,dhcp178-210.tamatele.ne.jp,202.70.178.210,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.dorency.com/,1185710208
+トップページ,219x120x169x135.ap219.ftth.ucom.ne.jp,219.120.169.135,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),http://search.msn.co.jp/spresults.aspx?q=%E5%A4%A7%E9%BA%A6%E8%8B%A5%E8%91%89100%EF%BC%85&FORM=QBPN,1185708120
+トップページ,dhcp180-172.tamatele.ne.jp,202.70.180.172,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322),http://www.b-b.ne.jp/rotary/html/5.html,1185681053

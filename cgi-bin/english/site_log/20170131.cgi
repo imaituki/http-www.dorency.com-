@@ -1,0 +1,10 @@
+Company,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/english/,1485858567
+トップページ,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1485858559
+Equipments(Machines) for environmental maintenance,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1485858524
+OxygenAbsorber　HandWarmers,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1485858381
+Company,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://www.dorency.com/english/,1485858304
+トップページ,213.6.3.131,213.6.3.131,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393,http://dorency.com/,1485858266
+Company,64.209.89.129,64.209.89.129,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/english/,1485830067
+トップページ,64.209.89.129,64.209.89.129,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1485830052
+トップページ,bd79b4b3.virtua.com.br,189.121.180.179,Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML like Gecko) Version/10.0 Mobile/14D27 Safari/602.1,http://dorency.com/,1485818651
+トップページ,p5798C6C1.dip0.t-ipconnect.de,87.152.198.193,Mozilla/5.0 (Linux; U; Android 4.3; de-de; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML like Gecko) Version/4.0 Mobile Safari/534.30,http://www.dorency.com/english/,1485800064

@@ -1,0 +1,1 @@
+トップページ,bcout.hikari.co.jp,210.229.155.62,Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=0,1395467546

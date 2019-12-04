@@ -1,0 +1,2 @@
+トップページ,201-1-170-201.dsl.telesp.net.br,201.1.170.201,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J320M Build/LMY47V) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1527204927
+Company,201-1-170-201.dsl.telesp.net.br,201.1.170.201,Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J320M Build/LMY47V) AppleWebKit/537.36 (KHTML like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36,https://www.google.com/,1527204910

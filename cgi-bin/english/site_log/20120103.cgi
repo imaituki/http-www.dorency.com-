@@ -1,0 +1,8 @@
+Company,p8019-ipbfp902okayamaima.okayama.ocn.ne.jp,114.168.99.19,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; Sleipnir/2.9.8),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%EF%BC%8D&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1325597202
+トップページ,p8019-ipbfp902okayamaima.okayama.ocn.ne.jp,114.168.99.19,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; Sleipnir/2.9.8),http://www.dorency.com/,1325597188
+トップページ,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/english/,1325563979
+Contact,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=2,1325561852
+Equipments(Machines) for environmental maintenance,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1325561840
+Company,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/english/,1325561595
+OxygenAbsorber　HandWarmers,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/english/,1325561532
+トップページ,175.139.134.221,175.139.134.221,Mozilla/5.0 (Windows NT 6.0; rv:8.0) Gecko/20100101 Firefox/8.0,http://www.dorency.com/,1325561354

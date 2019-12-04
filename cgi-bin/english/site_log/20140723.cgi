@@ -1,0 +1,2 @@
+トップページ,wd32.AFLd2.vectant.ne.jp,222.228.11.32,Mozilla/5.0 (Windows NT 6.0; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0,http://www.dorency.com/english/,1406095999
+トップページ,p9028-ipngn100108osakakita.osaka.ocn.ne.jp,114.174.248.28,Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC+%E3%82%AD%E3%83%BC%E3%83%94%E3%83%83%E3%83%88&aq=-1&oq=&ei=UTF-8&fr=top_ga1_sa&x=wrt,1406090081

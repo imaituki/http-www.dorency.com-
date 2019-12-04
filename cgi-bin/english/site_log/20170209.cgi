@@ -1,0 +1,6 @@
+Company,p181121-ipngn200304sinnagasak.nagasaki.ocn.ne.jp,180.9.242.121,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0,http://www.dorency.com/english/,1486638293
+OxygenAbsorber　HandWarmers,p181121-ipngn200304sinnagasak.nagasaki.ocn.ne.jp,180.9.242.121,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0,http://www.dorency.com/english/,1486638289
+トップページ,p181121-ipngn200304sinnagasak.nagasaki.ocn.ne.jp,180.9.242.121,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0,http://www.dorency.com/,1486638244
+Equipments(Machines) for environmental maintenance,223.73.135.143,223.73.135.143,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=1,1486627625
+OxygenAbsorber　HandWarmers,223.73.135.143,223.73.135.143,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.dorency.com/english/,1486627592
+トップページ,223.73.135.143,223.73.135.143,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586,http://www.dorency.com/,1486627535

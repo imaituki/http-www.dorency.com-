@@ -1,0 +1,4 @@
+トップページ,KD210196123253.ec-userreverse.dion.ne.jp,210.196.123.253,Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.7 (KHTML like Gecko) Ubuntu/11.10 Chromium/16.0.912.77 Chrome/16.0.912.77 Safari/535.7,http://www.dorency.com/,1330158137
+トップページ,crawl-66-249-67-57.googlebot.com,66.249.67.57,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),http://www.dorency.com/english/,1330157213
+トップページ,msnbot-207-46-12-166.search.msn.com,207.46.12.166,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729),http://www.dorency.com/english/,1330138232
+OxygenAbsorber　HandWarmers,ppp-69-217-127-237.dsl.chcgil.ameritech.net,69.217.127.237,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0),http://search.earthlink.net/search?area=earthlink-ws&q=hand+warmers+absorb+oxygen&style=,1330120980

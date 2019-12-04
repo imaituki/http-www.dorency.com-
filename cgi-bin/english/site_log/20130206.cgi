@@ -1,0 +1,3 @@
+Company,wmxp-130-068-122-027.kualnet.jp,27.122.68.130,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/english/,1360133848
+トップページ,wmxp-130-068-122-027.kualnet.jp,27.122.68.130,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0),http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=3,1360133839
+OxygenAbsorber　HandWarmers,74-124-97-177.sol.dsl.dynamic.acsalaska.net,74.124.97.177,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0,http://search.incredimail.com/search.php?q=Preserving+food+with+hand+warmers&lang=english&source=171051022105&u=92821952974166312&a=6R7MxasTG0&cid=1,1360130232

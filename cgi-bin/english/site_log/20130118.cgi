@@ -1,0 +1,2 @@
+トップページ,nycmspsrvz1ts206-dmz.mycingular.net,198.228.200.20,Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25,http://www.dorency.com/english/,1358518778
+トップページ,88.251.84.24,88.251.84.24,Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.12,http://translate.googleusercontent.com/translate_c?depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&tl=en&u=http://www.dorency.com/&usg=ALkJrhjZKUr8t5peSMTwr3JIRBppTKYbUg,1358450342

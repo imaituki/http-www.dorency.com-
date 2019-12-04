@@ -1,0 +1,1 @@
+Company,27-240-45-149.adsl.fetnet.net,27.240.45.149,Mozilla/5.0 (Linux; Android 4.3; GT-I9300 Build/JSS15J) AppleWebKit/537.36 (KHTML like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36,https://www.google.com.tw/,1421487550

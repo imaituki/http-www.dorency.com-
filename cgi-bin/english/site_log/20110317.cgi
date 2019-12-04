@@ -1,0 +1,2 @@
+トップページ,p8001-ipbfp2904tokaisakaetozai.aichi.ocn.ne.jp,114.171.39.1,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; YTB730; .NET CLR 1.1.4322),http://search.yahoo.co.jp/search?p=%E3%83%89%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&search.x=1&fr=top_ga1_sa&tid=top_ga1_sa&ei=UTF-8&aq=&oq=,1300356349
+トップページ,static-222-229-215-62.b-fam.svips.gol.ne.jp,222.229.215.62,Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13,http://www.dorency.com/cgi-bin/dorency/siteup.cgi?category=2&page=2,1300339701

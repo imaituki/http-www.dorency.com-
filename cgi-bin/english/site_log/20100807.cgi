@@ -1,0 +1,1 @@
+トップページ,122x218x111x154.ap122.ftth.ucom.ne.jp,122.218.111.154,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://www.dorency.com/,1281152810

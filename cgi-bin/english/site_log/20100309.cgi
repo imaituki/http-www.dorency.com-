@@ -1,0 +1,4 @@
+OxygenAbsorber 　　　　　　　　　　　　　　　　　　　　HandWarmers,dsl85.101-11010.ttnet.net.tr,85.101.43.2,Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729),http://www.dorency.com/cgi-bin/english/siteup.cgi?category=2&page=0,1268138621
+トップページ,dsl85.101-11010.ttnet.net.tr,85.101.43.2,Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729),http://www.dorency.com/,1268138614
+Company,dsl85.101-11010.ttnet.net.tr,85.101.43.2,Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8 (.NET CLR 3.5.30729),http://www.google.com/search?q=Dorency,1268138607
+トップページ,18.243.210.220.megaegg.ne.jp,220.210.243.18,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML like Gecko) Chrome/4.0.249.89 Safari/532.5,http://www.dorency.com/english/,1268111350

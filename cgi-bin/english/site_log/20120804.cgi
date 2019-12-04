@@ -1,0 +1,2 @@
+OxygenAbsorber　HandWarmers,212.129.66.133,212.129.66.133,Mozilla/5.0 (Linux; U; Android 2.1-update1; en-ie; SonyEricssonE15i Build/2.1.1.A.0.6) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17,http://www.dorency.com/english/,1344091583
+トップページ,212.129.66.142,212.129.66.142,Mozilla/5.0 (Linux; U; Android 2.1-update1; en-ie; SonyEricssonE15i Build/2.1.1.A.0.6) AppleWebKit/530.17 (KHTML like Gecko) Version/4.0 Mobile Safari/530.17,http://dorency.com/,1344091536
