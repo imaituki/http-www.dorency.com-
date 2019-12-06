@@ -30,20 +30,17 @@
 				<a href="#"><i class="fa fa-info-circle"></i><span class="nav-label">お知らせ管理</span><span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level collapse">
 					<li {if $manage == information}class="active"{/if}><a href="{$_ADMIN.home}/contents/information/">お知らせ一覧</a></li>
-					<li {if $manage == information_new}class="active"{/if}><a href="{$_ADMIN.home}/contents/information/php/new.php">お知らせ登録</a></li>
 					<li {if $manage == information_category}class="active"{/if}><a href="{$_ADMIN.home}/contents/information_category/">お知らせカテゴリ一覧</a></li>
-					<li {if $manage == information_category_new}class="active"{/if}><a href="{$_ADMIN.home}/contents/information_category/php/new.php">お知らせカテゴリ登録</a></li>
 				</ul>
 			</li>
-			<li {if $action == seminar}class="active"{/if}>
-				<a href="#"><i class="fa fa-pencil"></i><span class="nav-label">セミナー管理</span><span class="fa arrow"></span></a>
+			<li {if $action == product}class="active"{/if}>
+				<a href="#"><i class="fa fa-info-circle"></i><span class="nav-label">製品管理</span><span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level collapse">
-					<li {if $manage == seminar}class="active"{/if}><a href="{$_ADMIN.home}/contents/seminar/">セミナー一覧</a></li>
-					<li {if $manage == seminar_new}class="active"{/if}><a href="{$_ADMIN.home}/contents/seminar/php/new.php">セミナー登録</a></li>
-					<li {if $manage == seminar_category}class="active"{/if}><a href="{$_ADMIN.home}/contents/seminar_category/">セミナーカテゴリ一覧</a></li>
-					<li {if $manage == seminar_category_new}class="active"{/if}><a href="{$_ADMIN.home}/contents/seminar_category/php/new.php">セミナーカテゴリ登録</a></li>
+					<li {if $manage == product}class="active"{/if}><a href="{$_ADMIN.home}/contents/product/">製品一覧</a></li>
+					<li {if $manage == product_category}class="active"{/if}><a href="{$_ADMIN.home}/contents/product_category/">製品カテゴリ一覧</a></li>
 				</ul>
 			</li>
+			<li{if $manage == "base"} class="active"{/if}><a href="{$_ADMIN.home}/contents/base/"><i class="fa fa-gear"></i><span class="nav-label">拠点管理</span></a></li>
 			<li{if $manage == "siteconf"} class="active"{/if}><a href="{$_ADMIN.home}/contents/siteconf/"><i class="fa fa-gear"></i><span class="nav-label">サイト設定</span></a></li>
 		</ul>
 	</div>

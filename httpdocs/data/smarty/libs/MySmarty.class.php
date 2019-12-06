@@ -14,7 +14,7 @@ class MySmarty extends Smarty {
 		$this->force_compile = 0;
 		$this->compile_check = true;
 		$this->template_dir = "../template/";
-		$this->compile_dir  = _DOCUMENT_ROOT . "/..". _CGI_PATH. "/smarty/templates_c/";
+		$this->compile_dir  = _DOCUMENT_ROOT . _CGI_PATH. "/smarty/templates_c/";
 
 		// 共通配列
 		$this->assign( "arr_post", $_POST    );
@@ -57,7 +57,7 @@ class MySmarty extends Smarty {
 		global $OptionInfoCategory;
 
 		// ディレクトリ
-		$this->compile_dir  = _DOCUMENT_ROOT . "/..". _CGI_PATH. "/smarty/templates_c/admin/";
+		$this->compile_dir  = _DOCUMENT_ROOT . _CGI_PATH. "/smarty/templates_c/admin/";
 		$this->template_dir = "../template/";
 
 		// 変数
@@ -90,7 +90,7 @@ class MySmarty extends Smarty {
 		global $OptionInfoCategory;
 
 		// ディレクトリ
-		$this->compile_dir  = _DOCUMENT_ROOT . "/..". _CGI_PATH. "/smarty/templates_c/";
+		$this->compile_dir  = _DOCUMENT_ROOT . _CGI_PATH. "/smarty/templates_c/";
 		$this->template_dir = "./";
 
 		// 汎用配列
