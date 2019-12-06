@@ -16,9 +16,9 @@ sortableInit();
 				</thead>
 				<tbody>
 					{foreach from=$t_product_category item="product_category" name="loopproduct_category"}
-					<tr id="{$product_category.id_product_category}">
+					<tr id="{$product_category.id_prudoct_category}">
 						<td class="move_i">{if $arr_post.mode|default:"" == "search"}{else}<i class="fa fa-sort"><span></span></i>{/if}</td>
-						<td><a href="./edit.php?id={$product_category.id_product_category}">{$product_category.name}</a></td>
+						<td><a href="./edit.php?id={$product_category.id_prudoct_category}">{$product_category.name}</a></td>
 						<td class="pos_al">
 							<div class="lightBoxGallery">
 								{foreach from=$_ARR_IMAGE item=file name=file}
@@ -34,8 +34,8 @@ sortableInit();
 						<td class="pos_ac">
 							<div class="switch">
 								<div class="onoffswitch">
-									<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display{$product_category.id_product_category}" data-id="{$product_category.id_product_category}"{if $product_category.display_flg == 1} checked{/if}>
-									<label class="onoffswitch-label" for="display{$product_category.id_product_category}">
+									<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display{$product_category.id_prudoct_category}" data-id="{$product_category.id_prudoct_category}"{if $product_category.display_flg == 1} checked{/if}>
+									<label class="onoffswitch-label" for="display{$product_category.id_prudoct_category}">
 										<span class="onoffswitch-inner"></span>
 										<span class="onoffswitch-switch"></span>
 									</label>

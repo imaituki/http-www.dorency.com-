@@ -21,7 +21,7 @@
 </head>
 <body class="fixed-sidebar no-skin-config">
 <div id="wrapper">
-	{include file=$template_secondary action="case" manage="product_category"}
+	{include file=$template_secondary action="product" manage="product_category"}
 	<div id="page-wrapper" class="gray-bg">
 		{include file=$template_header}
 		<div class="row wrapper border-bottom white-bg page-heading">

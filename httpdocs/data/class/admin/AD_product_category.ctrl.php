@@ -320,13 +320,12 @@ class AD_product_category {
 								 "PageFileName"    => "javascript:changePage(%d);" );
 
 			// オプション
-			$option = array( "fetch" => _DB_FETCH_ALL,
-							 "page"  => $_PAGE_INFO );
+			$option = array( "fetch" => _DB_FETCH_ALL);
 
 		}
 
 		// データ取得
-		$res = $this->_DBconn->selectCtrl( $creation_kit, $option );
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL) );
 
 		// 戻り値
 		return $res;
@@ -341,7 +340,6 @@ class AD_product_category {
 	// 内  容：商品カテゴリマスタを1件取得する
 	//-------------------------------------------------------
 	function GetIdRow( $id ) {
-
 		// データチェック
 		if( !is_numeric( $id ) ) {
 			return null;

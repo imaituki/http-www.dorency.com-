@@ -3,17 +3,17 @@
 		<div class="hr-line-dashed"></div>
 		<div class="form-group required">
 			<label class="col-sm-2 control-label">製品カテゴリ名</label>
-			<div class="col-sm-3">
+			<div class="col-sm-9">
 				{if $message.ng.name|default:"" != NULL}<p class="error">{$message.ng.name}</p>{/if}
 				<input type="text" class="form-control" name="name" id="name" value="{$arr_post.name|default:""}" />
 			</div>
 		</div>
 		<div class="hr-line-dashed"></div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label class="col-sm-2 control-label">キャッチタイトル</label>
-			<div class="col-sm-3">
+			<div class="col-sm-9">
 				{if $message.ng.catchtitle|default:"" != NULL}<p class="error">{$message.ng.catchtitle}</p>{/if}
-				<input type="text" class="form-control" name="catchtitle" id="catchtitle" value="{$arr_post.catchtitle|default:""}" />
+				<input  type="text" class="form-control" name="catchtitle" id="catchtitle" value="{$arr_post.catchtitle|default:""}" />
 			</div>
 		</div>
 		<div class="hr-line-dashed"></div>
@@ -21,10 +21,10 @@
 			<label class="col-sm-2 control-label">コメント</label>
 			<div class="col-sm-9">
 				{if $message.ng.comment|default:"" != NULL}<p class="error">{$message.ng.comment}</p>{/if}
-				<input  type="text" class="form-control" name="comment" id="comment" value="{$arr_post.comment|default:""}" />
+				<textarea name="comment" id="comment" rows="7" class="form-control">{$arr_post.comment|default:""}</textarea>
 			</div>
 		</div>
-	<div class="hr-line-dashed"></div>
+		<div class="hr-line-dashed"></div>
 		{if $_ARR_IMAGE != NULL}
 			{include file=$template_image path=$_IMAGEFULLPATH dir=$_CONTENTS_DIR prefix="s_"}
 		{/if}

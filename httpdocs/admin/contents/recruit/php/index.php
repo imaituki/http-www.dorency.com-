@@ -1,14 +1,15 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2018/01/15
-// 作成者： 岡田
-// 内  容： 事例カテゴリマスタ 一覧表示
+// 作成日： 2019/10/07
+// 作成者： 福嶋
+// 内  容： 採用情報 一覧表示
 //-------------------------------------------------------------------
 
 //----------------------------------------
 //  設定ファイル
 //----------------------------------------
 require "./config.ini";
+
 
 //----------------------------------------
 //  メッセージ取得
@@ -19,10 +20,11 @@ $message = ( isset( $_SESSION["admin"][_CONTENTS_DIR]["message"] ) ) ? $_SESSION
 // クリア
 unset( $_SESSION["admin"][_CONTENTS_DIR]["message"] );
 
+
 //----------------------------------------
 //  SESSION取得
 //----------------------------------------
-$arr_post = ( isset($_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"]) ) ? $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] : null;
+$arr_post = ( isset( $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] ) ) ? $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] : null;
 
 
 //----------------------------------------
@@ -30,32 +32,30 @@ $arr_post = ( isset($_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"]) ) ? $_S
 //----------------------------------------
 // 操作クラス
 $objManage  = new DB_manage( _DNS );
-$mainObject = new $class_name( $objManage );
+$objRecruit = new AD_recruit( $objManage );
 
 // データ取得
-$t_product_category = $mainObject->GetSearchList( $arr_post );
+$t_recruit = $objRecruit->GetSearchList( $arr_post );
 
 // クラス削除
 unset( $objManage );
-unset( $mainObject );
+unset( $objRecruit );
 
 //----------------------------------------
 // 表示
 //----------------------------------------
 // smarty設定
 $smarty = new MySmarty("admin");
-$smarty->compile_dir .= _CONTENTS_DIR. "/";
+$smarty->compile_dir .= "recruit/";
 
 // テンプレートに設定
-$smarty->assign( "message"             , $message             );
-$smarty->assign( 't_product_category'  , $t_product_category  );
+$smarty->assign( "message"      , $message               );
+$smarty->assign( "page_navi"    , $t_recruit["page"] );
+$smarty->assign( "t_recruit", $t_recruit["data"] );
+$smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE            );
 
-if( !empty($_ARR_IMAGE) ){
-	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
-}
-if( !empty($_ARR_FILE) ){
-	$smarty->assign( '_ARR_FILE', $_ARR_FILE );
-}
+// オプション設定
+$smarty->assign( 'OptionEmployment', $OptionEmployment );
 
 // 表示
 $smarty->display("index.tpl");
