@@ -14,24 +14,24 @@
 		<link href="{$_ADMIN.home}/common/css/plugins/footable/footable.core.css" rel="stylesheet">
 		<link href="{$_ADMIN.home}/common/css/plugins/datapicker/datepicker3.css" rel="stylesheet">
 		{include file=$template_javascript}
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.tooltip.min.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.spline.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.resize.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.pie.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.symbol.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.time.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/jquery-ui/jquery-ui.min.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/easypiechart/jquery.easypiechart.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/sparkline/jquery.sparkline.min.js"></script> 
-		<script src="{$_ADMIN.home}/common/js/plugins/footable/footable.all.min.js"></script> 
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.spline.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.resize.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.pie.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.symbol.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/flot/jquery.flot.time.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/jquery-ui/jquery-ui.min.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/easypiechart/jquery.easypiechart.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/sparkline/jquery.sparkline.min.js"></script>
+		<script src="{$_ADMIN.home}/common/js/plugins/footable/footable.all.min.js"></script>
 		{literal}
-			<!-- Page-Level Scripts --> 
+			<!-- Page-Level Scripts -->
 			<script>
 				$(document).ready(function() {
 					$('.footable').footable();
 				});
-			</script> 
+			</script>
 		{/literal}
 	</head>
 	<body class="fixed-sidebar no-skin-config">
@@ -43,7 +43,7 @@
 					{if !empty($_CLIENT_NAME)}
 						<div class="alert alert-info" role="alert">
 							<h3>{$_CLIENT_NAME}</h3>
-							<p><a href="{$_ADMIN.home}" target="_blank">{$_CLIENT_NAME}のページはこちらです</a></p>
+							<p><a href="/" target="_blank">{$_CLIENT_NAME}のページはこちらです</a></p>
 						</div>
 					{/if}
 					{*if !empty($_ADMIN.google)}
@@ -60,7 +60,7 @@
 							{foreach $_ADMIN.sns item=sns}
 								<p>
 									{if !empty($sns.icon)}{$sns.icon} {/if}
-									{$sns.title}: 
+									{$sns.title}:
 									<a href="{$sns.url}" target="_blank">{$sns.url}</a>
 								</p>
 							{/foreach}
