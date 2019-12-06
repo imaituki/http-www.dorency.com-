@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2018/01/15
+// 作成日： 2019/11/01
 // 作成者： 岡田
-// 内  容： お知らせカテゴリマスタ 一覧表示
+// 内  容： グループ会社 一覧表示
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -19,37 +19,37 @@ $message = ( isset( $_SESSION["admin"][_CONTENTS_DIR]["message"] ) ) ? $_SESSION
 // クリア
 unset( $_SESSION["admin"][_CONTENTS_DIR]["message"] );
 
+
 //----------------------------------------
 //  SESSION取得
 //----------------------------------------
-$arr_post = ( isset($_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"]) ) ? $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] : null;
+$arr_post = ( isset( $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] ) ) ? $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] : null;
+
 
 //----------------------------------------
 //  データ一覧取得
 //----------------------------------------
 // 操作クラス
-$objManage  = new DB_manage( _DNS );
-$mainObject = new $class_name( $objManage );
+$objManage      = new DB_manage( _DNS );
+$objBase = new AD_base( $objManage );
 
 // データ取得
-$t_information_category = $mainObject->GetSearchList( $arr_post );
-
+$t_base = $objBase->GetSearchList( );
 
 // クラス削除
 unset( $objManage );
-unset( $mainObject );
-
+unset( $objBase );
 //----------------------------------------
 // 表示
 //----------------------------------------
 // smarty設定
 $smarty = new MySmarty("admin");
-$smarty->compile_dir .= _CONTENTS_DIR. "/";
+$smarty->compile_dir .= "base/";
 
 // テンプレートに設定
-$smarty->assign( "message"                 , $message                          );
-$smarty->assign( 't_information_category'  , $t_information_category["data"]   );
-$smarty->assign( 'page_navi'               , $t_information_category["page"]   );
+$smarty->assign( "message"      , $message    );
+$smarty->assign( "t_base"       , $t_base     );
+$smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE );
 
 // 表示
 $smarty->display("index.tpl");

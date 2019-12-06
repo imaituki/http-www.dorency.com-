@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日: 2016/11/01
-// 作成者: 鈴木
-// 内  容: サイト設定 編集
+// 作成日: 2019/06/20
+// 作成者: yamakawa
+// 内  容: case 編集
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -15,17 +15,17 @@ require "./config.ini";
 //  更新処理
 //----------------------------------------
 // 操作クラス
-$objManage  = new DB_manage( _DNS,1 );
-$mainObject = new $class_name( $objManage, $_ARR_IMAGE );
+$objManage  = new DB_manage( _DNS );
+$mainObject = new $class_name( $objManage, $_ARR_IMAGE, $_ARR_FILE );
 
 // データ変換
 $arr_post = $mainObject->convert( $arr_post );
 
 // データチェック
 $message = $mainObject->check( $arr_post, 'update' );
-disp_arr($message);
+
 // エラーチェック
-if( empty($message["ng"]) ) {
+if( empty( $message["ng"] ) ) {
 
 	// トランザクション
 	$mainObject->_DBconn->StartTrans();
@@ -52,16 +52,23 @@ unset( $mainObject );
 //----------------------------------------
 //  表示
 //----------------------------------------
-if( empty($message["ng"]) ) {
+if( empty( $message["ng"] ) ) {
 
 	// メッセージ保管
 	$_SESSION["admin"][_CONTENTS_DIR]["message"]["ok"] = "更新が完了しました。<br />";
 
 	// 表示
 	header( "Location: ./index.php" );
-	exit;
 
 } else {
+
+	// データ加工
+	if( !empty($arr_post["display_start"]) ){
+		$arr_post["display_start"] = date( "Y/m/d", strtotime($arr_post["display_start"]) );
+	}
+	if( !empty($arr_post["display_end"]) ){
+		$arr_post["display_end"] = date( "Y/m/d", strtotime($arr_post["display_end"]) );
+	}
 
 	// 写真
 	if( !empty($_ARR_IMAGE) && is_array($_ARR_IMAGE) ){
@@ -69,16 +76,24 @@ if( empty($message["ng"]) ) {
 			$arr_post[$val["name"]] = $arr_post["_" . $val["name"]."_now"];
 		}
 	}
+	if( !empty($_ARR_FILE) && is_array($_ARR_FILE) ){
+		foreach( $_ARR_FILE as $key => $val ) {
+			$arr_post[$val["name"]] = $arr_post["_" . $val["name"]."_now"];
+		}
+	}
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
-	$smarty->compile_dir .= _CONTENTS_DIR. "/";
+	$smarty->compile_dir .= _CONTENTS_DIR;
 
 	// テンプレートに設定
 	$smarty->assign( "message" , $message  );
 	$smarty->assign( "arr_post", $arr_post );
 	if( !empty($_ARR_IMAGE) ){
 		$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
+	}
+	if( !empty($_ARR_FILE) ){
+		$smarty->assign( '_ARR_FILE', $_ARR_FILE   );
 	}
 
 	// 表示

@@ -34,13 +34,13 @@
 				</ul>
 			</li>
 			<li {if $action == product}class="active"{/if}>
-				<a href="#"><i class="fa fa-info-circle"></i><span class="nav-label">製品管理</span><span class="fa arrow"></span></a>
+				<a href="#"><i class="fa fa-globe" aria-hidden="true"></i><span class="nav-label">製品管理</span><span class="fa arrow"></span></a>
 				<ul class="nav nav-second-level collapse">
 					<li {if $manage == product}class="active"{/if}><a href="{$_ADMIN.home}/contents/product/">製品一覧</a></li>
 					<li {if $manage == product_category}class="active"{/if}><a href="{$_ADMIN.home}/contents/product_category/">製品カテゴリ一覧</a></li>
 				</ul>
 			</li>
-			<li{if $manage == "base"} class="active"{/if}><a href="{$_ADMIN.home}/contents/base/"><i class="fa fa-gear"></i><span class="nav-label">拠点管理</span></a></li>
+			<li{if $manage == "base"} class="active"{/if}><a href="{$_ADMIN.home}/contents/base/"><i class="fa fa-map-pin" aria-hidden="true"></i><span class="nav-label">拠点管理</span></a></li>
 			<li{if $manage == "siteconf"} class="active"{/if}><a href="{$_ADMIN.home}/contents/siteconf/"><i class="fa fa-gear"></i><span class="nav-label">サイト設定</span></a></li>
 		</ul>
 	</div>
