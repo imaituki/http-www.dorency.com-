@@ -75,7 +75,7 @@
 								{if !empty($server.tel)}<p>TEL: {$server.tel}</p>{/if}
 							{/foreach}
 						</div>
-					{/if} 
+					{/if}
 					<div class="alert alert-info" role="alert">
 						<h3>制作会社連絡先</h3>
 						<h4>ウェブクリエイティブ株式会社</h4>
