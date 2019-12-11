@@ -6,6 +6,7 @@ class MySmarty extends Smarty {
 		// グローバル変数
 		global $_HTML_HEADER_DEFAULT;
 		global $_HTML_HEADER;
+		global $_RENEWAL_DIR;
 		global $_ADMIN;
 		global $_FRONT;
 
@@ -17,11 +18,12 @@ class MySmarty extends Smarty {
 		$this->compile_dir  = _DOCUMENT_ROOT . _CGI_PATH. "/smarty/templates_c/";
 
 		// 共通配列
-		$this->assign( "arr_post", $_POST    );
-		$this->assign( "arr_get" , $_GET     );
-		$this->assign( "_SERVER" , $_SERVER  );
-		$this->assign( "_SESSION", $_SESSION );
-		$this->assign( "_COOKIE" , $_COOKIE  );
+		$this->assign( "arr_post"     , $_POST         );
+		$this->assign( "arr_get"      , $_GET          );
+		$this->assign( "_SERVER"      , $_SERVER       );
+		$this->assign( "_SESSION"     , $_SESSION      );
+		$this->assign( "_RENEWAL_DIR" , $_RENEWAL_DIR  );
+		$this->assign( "_COOKIE"      , $_COOKIE       );
 
 		$this->assign( "_ADMIN", $_ADMIN ); // 詳しくはadmin.iniに記載
 		$this->assign( "_FRONT", $_FRONT ); // 詳しくはfront.iniに記載
