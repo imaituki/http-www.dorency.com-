@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-09 18:56:04
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 11:33:24
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/common/inc/secondary.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:11761253975dee1a3447c0b6-01166310%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7a2f9b7e5b81637de0b9e482f4d5ee97a103b3ae' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/common/inc/secondary.tpl',
-      1 => 1575626955,
+      1 => 1576117302,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5dee1a344e9a12_58928457',
   'variables' => 
   array (
     'manage' => 0,
@@ -22,8 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'action' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5dee1a344e9a12_58928457',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5dee1a344e9a12_58928457')) {function content_5dee1a344e9a12_58928457($_smarty_tpl) {?><nav class="navbar-default navbar-static-side" role="navigation">
 	<div class="sidebar-collapse">
@@ -54,7 +54,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<li<?php if ($_smarty_tpl->tpl_vars['manage']->value=="base") {?> class="active"<?php }?>><a href="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
 /contents/base/"><i class="fa fa-map-pin" aria-hidden="true"></i><span class="nav-label">拠点管理</span></a></li>
 			<li<?php if ($_smarty_tpl->tpl_vars['manage']->value=="recruit") {?> class="active"<?php }?>><a href="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
-/contents/rectuit/"><i class="fa fa-user" aria-hidden="true"></i><span class="nav-label">採用管理</span></a></li>
+/contents/recruit/"><i class="fa fa-user" aria-hidden="true"></i><span class="nav-label">採用管理</span></a></li>
 			<li<?php if ($_smarty_tpl->tpl_vars['manage']->value=="siteconf") {?> class="active"<?php }?>><a href="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
 /contents/siteconf/"><i class="fa fa-cog" aria-hidden="true"></i><span class="nav-label">サイト設定</span></a></li>
 		</ul>

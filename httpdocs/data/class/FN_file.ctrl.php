@@ -229,7 +229,7 @@ class FN_file {
 					$arr_post[$val["name"]] = $res[$val["name"]]["newImage"]["fileName"];
 					
 					// /tmpのファイルを削除
-					@unlink( $res[$val["name"]]["inputPath"] );
+					// @unlink( $res[$val["name"]]["inputPath"] );
 				}
 				
 			}else{

@@ -96,6 +96,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 
 								// ファイル名の分解
 								$pathInfo = pathinfo( $_FILES[$val["name"]]["tmp_name"][$key3] . $ext );
+								$pathInfo["dirname"] = _IMAGEROOTPATH. "/". $arr_post["_contents_dir"]. "/". $val["name"];
 
 								// アップロード
 								if( is_array( $val["option"] ) ) {
@@ -106,7 +107,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 
 										// 写真リサイズ
 										$ImageInfo = $FN_file->resizeImage( array( "inputPath" => $_FILES[$val["name"]]["tmp_name"][$key3], "resizeOption" => $val2, "originImage" => $originImage, "newImage" => $newImage ) );
-
+										
 									}
 
 									// ファイル名の置き換え
@@ -115,7 +116,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 								}
 
 								// 出力
-								$html  = "<img src=\"/admin/common/php/imageDisp.php?dir=" . $arr_post["_contents_dir"] . "&image=" . $val["name"] . "&time=" . strtotime("now") . "\" />&nbsp;";
+								$html  = "<img src=\"". $pathInfo["dirname"] . "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
 								$html .= "<span class=\"c_red\"> ※この画像はプレビュー用です。まだ保存されていません。 </span><br />";
 								$html .= "<input type=\"hidden\" name=\"imagelist[" . $key3 . "][_preview_" . $val["name"] . "]\" value=\"" . $val["name"]  . "\" />";
 								$html .= '<input type="hidden" name="imagelist[' . $key3 . '][_preview_image_' . $val["name"] . ']" value="' . $pathInfo["filename"] . $ext . '" />';
@@ -176,6 +177,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 
 							// ファイル名の分解
 							$pathInfo = pathinfo( $_FILES[$val["name"]]["tmp_name"] . $ext );
+							$pathInfo["dirname"] = _IMAGEROOTPATH. "/". $arr_post["_contents_dir"]. "/". $val["name"];
 
 							// アップロード
 							if( is_array( $val["option"] ) ) {
@@ -188,13 +190,12 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 									$ImageInfo = $FN_file->resizeImage( array( "inputPath" => $_FILES[$val["name"]]["tmp_name"], "resizeOption" => $val2, "originImage" => $originImage, "newImage" => $newImage ) );
 
 								}
-
 								// ファイル名の置き換え
 								$pathInfo["filename"] = $val["option"]["s"]["fileName"];
-
 							}
+
 							// 出力
-							$html  = "<img src=\"/admin/common/php/imageDisp.php?dir=" . $arr_post["_contents_dir"] . "&image=" . $val["name"] . "&time=" . strtotime("now") . "\" />&nbsp;";
+							$html  = "<img src=\"". $pathInfo["dirname"] . "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
 							$html .= "<span class=\"c_red\"> ※この画像はプレビュー用です。まだ保存されていません。 </span><br />";
 							$html .= "<input type=\"hidden\" name=\"_preview_" . $val["name"] . "\" value=\"" . $val["name"]  . "\" />";
 							$html .= '<input type="hidden" name="_preview_image_' . $val["name"] . '" value="' . $pathInfo["filename"] . $ext . '" />';

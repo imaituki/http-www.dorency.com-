@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-09 18:56:04
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 11:35:57
          compiled from "../template/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:7157906935dee1a3439a1c2-11119043%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6c39e247f385d95767962e1dac86ee8434c9a9c2' => 
     array (
       0 => '../template/index.tpl',
-      1 => 1575597295,
+      1 => 1576118123,
       2 => 'file',
     ),
   ),
@@ -15,27 +15,28 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5dee1a34448045_10901156',
   'variables' => 
   array (
+    '_CONTENTS_NAME' => 0,
     '_ADMIN' => 0,
     'template_javascript' => 0,
     'template_secondary' => 0,
     'template_header' => 0,
-    '_CONTENTS_NAME' => 0,
     '_SESSION' => 0,
     'arr_post' => 0,
     'message' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5dee1a34448045_10901156',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5dee1a34448045_10901156')) {function content_5dee1a34448045_10901156($_smarty_tpl) {?><!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>管理画面</title>
+	<title><?php echo $_smarty_tpl->tpl_vars['_CONTENTS_NAME']->value;?>
+｜管理画面</title>
 	<link href="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
 /common/css/import.css" rel="stylesheet" />
 	<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_javascript']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
