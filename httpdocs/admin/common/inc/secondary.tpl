@@ -41,7 +41,7 @@
 				</ul>
 			</li>
 			<li{if $manage == "base"} class="active"{/if}><a href="{$_ADMIN.home}/contents/base/"><i class="fa fa-map-pin" aria-hidden="true"></i><span class="nav-label">拠点管理</span></a></li>
-			<li{if $manage == "recruit"} class="active"{/if}><a href="{$_ADMIN.home}/contents/rectuit/"><i class="fa fa-user" aria-hidden="true"></i><span class="nav-label">採用管理</span></a></li>
+			<li{if $manage == "recruit"} class="active"{/if}><a href="{$_ADMIN.home}/contents/recruit/"><i class="fa fa-user" aria-hidden="true"></i><span class="nav-label">採用管理</span></a></li>
 			<li{if $manage == "siteconf"} class="active"{/if}><a href="{$_ADMIN.home}/contents/siteconf/"><i class="fa fa-cog" aria-hidden="true"></i><span class="nav-label">サイト設定</span></a></li>
 		</ul>
 	</div>

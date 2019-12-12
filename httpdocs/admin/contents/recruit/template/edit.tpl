@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>編集 | {$_CONTENTS_NAME}｜{$_HTML_HEADER_DEFAULT.title}</title>
+<title>{$_CONTENTS_NAME}｜管理画面</title>
 <link href="/admin/common/css/bootstrap.min.css" rel="stylesheet">
 <link href="/admin/common/font-awesome/css/font-awesome.css" rel="stylesheet">
 <link href="/admin/common/css/animate.css" rel="stylesheet">
@@ -15,9 +15,11 @@
 <link href="/admin/common/css/plugins/footable/footable.core.css" rel="stylesheet">
 {include file=$template_javascript}
 <script type="text/javascript" src="/admin/common/js/input.js"></script>
+<script type="text/javascript" src="/admin/common/js/preview.js"></script>
 <script src="/admin/common/js/plugins/jquery-ui/jquery-ui.min.js"></script>
 <script src="/admin/common/js/plugins/datapicker/bootstrap-datepicker-import.js"></script>
 <script type="text/javascript" src="/admin/common/js/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="../js/input.js"></script>
 <script src="https://ajaxzip3.github.io/ajaxzip3.js" charset="UTF-8"></script>
 </head>
 <body class="fixed-sidebar no-skin-config">
@@ -49,5 +51,6 @@
 			</div>
 		</div>
 	</div>
+</div>
 </body>
 </html>

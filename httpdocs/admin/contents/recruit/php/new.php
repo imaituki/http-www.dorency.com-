@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/10/07
-// 作成者： 福嶋
-// 内  容： 採用情報 新規登録
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 新規登録
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -20,9 +20,10 @@ $smarty->compile_dir .= "recruit/";
 // テンプレートに設定
 $smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
-// オプション設定
-$smarty->assign( 'OptionEmployment', $OptionEmployment );
-$smarty->assign( 'OptionSalaryUnit', $OptionSalaryUnit );
+// オプション配列
+$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
+$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+
 
 // 表示
 $smarty->display( "new.tpl" );

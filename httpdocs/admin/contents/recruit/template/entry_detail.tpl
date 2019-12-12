@@ -27,11 +27,11 @@
 		{include file=$template_header}
 		<div class="row wrapper border-bottom white-bg page-heading">
 			<div class="col-lg-10">
-				<h2>{$_CONTENTS_NAME}</h2>
+				<h2>エントリー確認</h2>
 				<ol class="breadcrumb">
 					<li><a href="{$_RENEWAL_DIR}/admin/">Home</a></li>
 					<li><a href="./">{$_CONTENTS_NAME}</a></li>
-					<li class="active"><strong>新規登録</strong></li>
+					<li class="active"><strong>エントリー確認</strong></li>
 				</ol>
 			</div>
 			<div class="col-lg-2"></div>
@@ -41,9 +41,79 @@
 				<div class="col-lg-12">
 					<div class="ibox float-e-margins">
 						<div class="ibox-title">
-							<h5>{$_CONTENTS_NAME}管理　新規登録 </h5>
+							<h5>{$_CONTENTS_NAME}管理　確認 </h5>
 						</div>
-						{include file="./form.tpl" mode="new"}
+						<section>
+							<div class="ibox">
+								<div class="ibox-title">
+									<h4>応募者情報</h4>
+								</div>
+								<div class="ibox-content">
+									<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15">
+										<tbody>
+											<tr>
+												<th width="120">募集職種</th>
+												<td>
+													{$t_recruit.recruitment}
+												</td>
+											</tr>
+											<tr>
+												<th width="120">別募集</th>
+												<td>
+													{if $t_recruit_contact.hope_flg}希望する{else}希望しない{/if}
+												</td>
+											</tr>
+											<tr>
+												<th width="120">お名前</th>
+												<td>
+													{$t_recruit_contact.name}
+												</td>
+											</tr>
+											<tr>
+												<th>ふりがな</th>
+												<td>
+													{$t_recruit_contact.ruby}
+												</td>
+											</tr>
+											<tr>
+												<th>性別</th>
+												<td>
+													{$t_recruit_contact.sex}
+												</td>
+											</tr>
+											<tr>
+												<th>メールアドレス</th>
+												<td>
+													{$t_recruit_contact.mail}
+												</td>
+											</tr>
+											<tr>
+												<th>電話番号</th>
+												<td>
+													{$t_recruit_contact.tel|default:"-"}
+												</td>
+											</tr>
+											
+											<tr>
+												<th>ご住所</th>
+												<td>
+													{$t_recruit_contact.address}
+												</td>
+											</tr>
+											<tr>
+												<th>自由項目（応募動機・自己PR・ご質問など）</th>
+												<td>
+													{$t_recruit_contact.comment|nl2br}
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+						</section>
+						<div class="pos_al">
+							<a href="./entry_list.php?id={$t_recruit_contact.id_recruit}" class="btn btn-default">一覧へ戻る</a>
+						</div>
 					</div>
 				</div>
 			</div>

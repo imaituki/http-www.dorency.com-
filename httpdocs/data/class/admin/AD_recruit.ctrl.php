@@ -1,7 +1,7 @@
 <?php
 //----------------------------------------------------------------------------
-// 作成日： 2019/10/07
-// 作成者： 福嶋
+// 作成日： 2019/05/30
+// 作成者： 牧
 // 内  容： 採用情報操作クラス
 //----------------------------------------------------------------------------
 
@@ -20,15 +20,15 @@ class AD_recruit {
 	var $_CtrTable   = "t_recruit";
 	var $_CtrTablePk = "id_recruit";
 
+	// 副テーブル
+	var $_CtrTable2   = "t_recruit_contact";
+	var $_CtrTablePk2 = "id_recruit_contact";
+
 	// コントロール機能（ログ用）
 	var $_CtrLogName = "採用情報";
 
-	// ファイル操作クラス
-	var $_FN_file = null;
-
 	// 画像設定
 	var $_ARR_IMAGE = null;
-
 
 	//-------------------------------------------------------
 	// 関数名：__construct
@@ -60,16 +60,6 @@ class AD_recruit {
 	//-------------------------------------------------------
 	function __destruct() {
 
-	}
-
-	//-------------------------------------------------------
-	// 関数名：setImageConfig
-	// 引  数：$conf - 画像設定
-	// 戻り値：なし
-	// 内  容：画像設定の設定を行う。
-	//-------------------------------------------------------
-	function setImageConfig( $conf ) {
-		$this->_ARR_IMAGE = $conf;
 	}
 
 
@@ -109,17 +99,22 @@ class AD_recruit {
 		$objInputCheck = new FN_input_check( "UTF-8" );
 
 		// チェックエントリー
-		$objInputCheck->entryData( "タイトル", "title", $arrVal["title"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "雇用形態", "employment", $arrVal["employment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "仕事内容", "job_description", $arrVal["job_description"], array( "CHECK_EMPTY", "CHECK_MIN_LEN" ), 30, null );
-		$objInputCheck->entryData( "賃金支払い形態", "salary_unit", $arrVal["salary_unit"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "賃金（最低）", "min_salary", $arrVal["min_salary"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
-		$objInputCheck->entryData( "賃金（最高）", "max_salary", $arrVal["max_salary"], array( "CHECK_NUM" ), null, null );
-		$objInputCheck->entryData( "勤務地 郵便番号", "zip", $arrVal["zip"], array( "CHECK_EMPTY", "CHECK_ZIP" ), null, null );
-		$objInputCheck->entryData( "勤務地 都道府県", "prefecture", $arrVal["prefecture"], array( "CHECK_EMPTY_ZERO", "CHECK_NUM" ), null, null );
-		$objInputCheck->entryData( "勤務地 市区郡町村", "address1", $arrVal["address1"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "勤務地 番地、町名、建物名", "address2", $arrVal["address2"], array( "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "リモートワーク", "remote_work", $arrVal["remote_work"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
+		$objInputCheck->entryData( "募集"    , "recruit_type" , $arrVal["recruit_type"] , array( "CHECK_EMPTY"), null, null );
+		$objInputCheck->entryData( "募集職種", "recruitment", $arrVal["recruitment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "エリア"    , "area" , $arrVal["area"] , array( "CHECK_EMPTY"), null, null );
+		if( $arrVal["recruit_type"] == 3 ){
+			$objInputCheck->entryData( "車種"    , "car_type" , $arrVal["car_type"] , array( "CHECK_EMPTY"), null, null );
+		}else{
+			$arrVal["car_type"] = NULL;
+		}
+		$objInputCheck->entryData( "働き方"   , "work_type" , $arrVal["work_type"] , array( "CHECK_EMPTY"), null, null );
+
+
+		$objInputCheck->entryData( "見出し", "title", $arrVal["title"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "勤務地", "worklocation", $arrVal["worklocation"], array( "CHECK_EMPTY" ), null, null );
+		$objInputCheck->entryData( "勤務時間", "work_time", $arrVal["work_time"], array( "CHECK_EMPTY" ), null, null );
+		$objInputCheck->entryData( "給与幅（最低）", "min_salary", $arrVal["min_salary"], array( "CHECK_NUM" ), null, null );
+		$objInputCheck->entryData( "給与幅（最高）", "max_salary", $arrVal["max_salary"], array( "CHECK_NUM" ), null, null );
 		if( $arrVal["display_indefinite_flg"] == 0 ) {
 			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_DATE" ), null, null );
 			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE" ), null, null );
@@ -135,10 +130,6 @@ class AD_recruit {
 		// チェック実行
 		$res["ng"] = $objInputCheck->execCheckAll();
 
-		if( empty( $res["ng"]["min_salary"] ) && empty( $res["ng"]["max_salary"] ) && $arrVal["min_salary"] > $arrVal["max_salary"] ){
-			$res["ng"]["min_salary"] = "賃金(最低)は賃金(最高)より小さい数字を入力してください。";
-		}
-
 		// データ加工
 		if( $arrVal["display_indefinite_flg"] == 0 ) {
 			$arrVal["display_start"] = ( !empty( $arrVal["display_start"] ) ) ? date( "Y-m-d 00:00:00", strtotime( $arrVal["display_start"] ) ) : NULL;
@@ -146,10 +137,6 @@ class AD_recruit {
 		} else {
 			$arrVal["display_start"] = null;
 			$arrVal["display_end"]   = null;
-		}
-		// 郵便番号ハイフン追加
-		if( !empty( $arrVal["zip"] ) && empty( $res["ng"]["zip"] ) && !preg_match( "/\-/", $arrVal["zip"] ) ){
-			$arrVal["zip"] = substr( $arrVal["zip"], 0, 3 ) . "-" . substr( $arrVal["zip"], 3 );
 		}
 
 		// 戻り値
@@ -172,6 +159,8 @@ class AD_recruit {
 
 		// 登録データの作成
 		$arrVal = $this->_DBconn->arrayKeyMatchFecth( $arrVal, "/^[^\_]/" );
+
+
 		$arrVal["entry_date"]  = date( "Y-m-d H:i:s" );
 		$arrVal["update_date"] = date( "Y-m-d H:i:s" );
 
@@ -225,25 +214,6 @@ class AD_recruit {
 		// 初期化
 		$res = false;
 
-		// ファイル設定ループ
-		if( !empty($this->_ARR_IMAGE) && is_array($this->_ARR_IMAGE) ){
-			foreach( $this->_ARR_IMAGE as $key => $val ) {
-				$select[] = $val["name"];
-			}
-
-			// SQL配列
-			$creation_kit  = array( "select" => implode( ",", $select ),
-									"from"   => $this->_CtrTable,
-									"where"  => $this->_CtrTablePk . " = " . $id );
-
-			// データ取得
-			$tmp = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );
-
-			// 画像削除
-			$this->_FN_file->delImage( $this->_ARR_IMAGE, $tmp );
-
-		}
-
 		// 更新
 		$res = $this->_DBconn->delete( $this->_CtrTable, $this->_CtrTablePk . " = " . $id );
 
@@ -287,7 +257,7 @@ class AD_recruit {
 		$creation_kit = array(  "select" => "*",
 								"from"   => $this->_CtrTable,
 								"where"  => "1 ",
-								"order"  => "update_date DESC"
+								"order"  => "id_recruit DESC"
 							);
 
 		// 検索条件
@@ -295,9 +265,66 @@ class AD_recruit {
 			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "title", "LIKE", "OR", "%string%" ) . " ) ";
 		}
 
-		if( !empty( $search["search_employment"] ) ) {
-			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_employment"], "employment", "LIKE", "OR", "string" ) . " ) ";
+		if( !empty( $search["search_date_start"] ) ) {
+			$creation_kit["where"] .= "AND " . $this->_DBconn->createWhereSql( "'" . $search["search_date_start"] . "'", $this->_CtrTable . ".date", " >= ", null, null ) . " ";
 		}
+		if( !empty( $search["search_date_end"] ) ) {
+			$creation_kit["where"] .= "AND " . $this->_DBconn->createWhereSql( "'" . $search["search_date_end"] . "'", $this->_CtrTable . ".date", " <= ", null, null ) . " ";
+		}
+
+		// 取得条件
+		if( empty( $option ) ) {
+
+			// ページ切り替え配列
+			$_PAGE_INFO = array( "PageNumber"      => ( !empty( $search["page"] ) ) ? $search["page"] : 1,
+								 "PageShowLimit"   => _PAGESHOWLIMIT,
+								 "PageNaviLimit"   => _PAGENAVILIMIT,
+								 "LinkSeparator"   => " | ",
+								 "PageUrlFreeMode" => 1,
+								 "PageFileName"    => "javascript:changePage(%d);" );
+
+			// オプション
+			$option = array( "fetch" => _DB_FETCH_ALL,
+							 "page"  => $_PAGE_INFO );
+
+		}
+
+		// データ取得
+		$res = $this->_DBconn->selectCtrl( $creation_kit, $option );
+
+		// 戻り値
+		return $res;
+
+	}
+
+	//-------------------------------------------------------
+	// 関数名：GetSearchList
+	// 引  数：$search - 検索条件
+	//       ：$option - 取得条件
+	// 戻り値：採用情報リスト
+	// 内  容：採用情報検索を行いデータを取得
+	//-------------------------------------------------------
+	function GetSearchContactList( $search, $option = null ) {
+
+		// SQL配列
+		$creation_kit = array(  "select" => "*",
+								"from"   => $this->_CtrTable2,
+								"where"  => "1 AND id_recruit = " . $search["search_id_recruit"],
+								"order"  => "id_recruit_contact DESC"
+							);
+
+		// 検索条件
+		if( !empty( $search["search_keyword"] ) ) {
+			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "title", "LIKE", "OR", "%string%" ) . " ) ";
+		}
+
+		if( !empty( $search["search_date_start"] ) ) {
+			$creation_kit["where"] .= "AND " . $this->_DBconn->createWhereSql( "'" . $search["search_date_start"] . "'", $this->_CtrTable2 . ".date", " >= ", null, null ) . " ";
+		}
+		if( !empty( $search["search_date_end"] ) ) {
+			$creation_kit["where"] .= "AND " . $this->_DBconn->createWhereSql( "'" . $search["search_date_end"] . "'", $this->_CtrTable2 . ".date", " <= ", null, null ) . " ";
+		}
+
 
 		// 取得条件
 		if( empty( $option ) ) {
@@ -342,6 +369,33 @@ class AD_recruit {
 		$creation_kit = array( "select" => "*",
 							   "from"   => $this->_CtrTable,
 							   "where"  => $this->_CtrTablePk . " = " . $id );
+
+		// データ取得
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );
+
+		// 戻り値
+		return $res;
+
+	}
+
+
+	//-------------------------------------------------------
+	// 関数名：GetContact
+	// 引  数：$id - 採用情報ID
+	// 戻り値：採用情報
+	// 内  容：採用情報を1件取得する
+	//-------------------------------------------------------
+	function GetContact( $id ) {
+
+		// データチェック
+		if( !is_numeric( $id ) ) {
+			return null;
+		}
+
+		// SQL配列
+		$creation_kit = array( "select" => "*",
+							   "from"   => $this->_CtrTable2,
+							   "where"  => $this->_CtrTablePk2 . " = " . $id );
 
 		// データ取得
 		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );

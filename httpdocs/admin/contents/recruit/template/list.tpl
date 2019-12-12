@@ -1,25 +1,21 @@
 			{include file=$template_pagenavi}
-			<table class="footable table table-stripped toggle-arrow-tiny tbl_1">
-				{capture name="Thead"}
-				<tr>
-					<th width="100">掲載期間</th>
-					<th width="150">雇用形態</th>
-					<th>タイトル</th>
-					<th width="70" class="showhide">表示</th>
-					<th width="70" class="delete">削除</th>
-				</tr>
-				{/capture}
+			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15">
 				<thead>
-					{$smarty.capture.Thead}
+					<tr>
+						<th>掲載期間</th>
+						<th>雇用形態</th>
+						<th>募集</th>
+						<th>エントリー</th>
+						<th class="photo">写真</th>
+						<th class="showhide">表示</th>
+						<th class="delete">削除</th>
+					</tr>
 				</thead>
-				<tfoot>
-					{$smarty.capture.Thead}
-				</tfoot>
 				<tbody>
 					{foreach from=$t_recruit item="recruit" name="loopRecruit"}
 					<tr>
 						<td>
-							{if $recruit.display_indefinite_flg == 0}
+							{if $recruit.display_indefinite == 0}
 								{$recruit.display_start|date_format:"%Y/%m/%d"}<br />
 								{$recruit.display_end|date_format:"%Y/%m/%d"}
 							{else}
@@ -27,7 +23,17 @@
 							{/if}
 						</td>
 						<td>{$OptionEmployment[$recruit.employment]}</td>
-						<td><a href="./edit.php?id={$recruit.id_recruit}">{$recruit.title}</a></td>
+						<td><a href="./edit.php?id={$recruit.id_recruit}">{$recruit.recruitment}</a></td>
+						<td><a href="./entry_list.php?id={$recruit.id_recruit}">一覧</a></td>
+						<td class="pos_al">
+							<div class="lightBoxGallery">
+								{foreach from=$_ARR_IMAGE item="file" name="file"}
+									{if $recruit[$file.name]}
+										<a href="{$_IMAGEFULLPATH}/recruit/{$file.name}/l_{$recruit[$file.name]}" title="{$file.comment|default:""}" data-gallery=""><img src="{$_IMAGEFULLPATH}/recruit/{$file.name}/s_{$recruit[$file.name]}" width="50" /></a>
+									{/if}
+								{/foreach}
+							</div>
+						</td>
 						<td class="pos_ac">
 							<div class="switch">
 								<div class="onoffswitch">
@@ -45,9 +51,24 @@
 					</tr>
 					{foreachelse}
 					<tr>
-						<td colspan="4">{$_CONTENTS_NAME}は見つかりません。</td>
+						<td colspan="6">{$_CONTENTS_NAME}は見つかりません。</td>
 					</tr>
 					{/foreach}
 				</tbody>
+				<tfoot>
+					<tr>
+						<td colspan="10"><ul class="pagination pull-right">
+							</ul></td>
+					</tr>
+				</tfoot>
 			</table>
+			<div id="blueimp-gallery" class="blueimp-gallery">
+				<div class="slides"></div>
+				<h3 class="title"></h3>
+				<a class="prev">‹</a>
+				<a class="next">›</a>
+				<a class="close">×</a>
+				<a class="play-pause"></a>
+				<ol class="indicator"></ol>
+			</div>
 			{include file=$template_pagenavi}

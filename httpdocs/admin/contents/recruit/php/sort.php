@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/10/07
-// 作成者： 福嶋
-// 内  容： 採用情報 ソート
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 ソート
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -15,14 +15,14 @@ require "./config.ini";
 //  ソート処理
 //----------------------------------------
 // 操作クラス
-$objManage  = new DB_manage( _DNS );
+$objManage = new DB_manage( _DNS );
 $objRecruit = new AD_recruit( $objManage, $_ARR_IMAGE );
 
 // トランザクション
 $objRecruit->_DBconn->StartTrans();
 
 // ソート
-$res = $objRecruit->sort( $arr_post["sort"], "id_recruit" );
+$res = $objRecruit->sort( $arr_post["sort"], "id_recruit " );
 
 // ロールバック
 if( $res == false ) {

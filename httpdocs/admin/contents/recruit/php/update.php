@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/10/07
-// 作成者： 福嶋
-// 内  容： 採用情報 編集
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 編集
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -15,7 +15,7 @@ require "./config.ini";
 //  更新処理
 //----------------------------------------
 // 操作クラス
-$objManage  = new DB_manage( _DNS );
+$objManage = new DB_manage( _DNS );
 $objRecruit = new AD_recruit( $objManage, $_ARR_IMAGE );
 
 // データ変換
@@ -45,7 +45,7 @@ if( empty( $message["ng"] ) ) {
 }
 
 // クラス削除
-unset( $objManage );
+unset( $objManage   );
 unset( $objRecruit   );
 
 //----------------------------------------
@@ -65,13 +65,6 @@ if( empty( $message["ng"] ) ) {
 	$arr_post["display_start"] = date( "Y/m/d", strtotime( $arr_post["display_start"] ) );
 	$arr_post["display_end"]   = date( "Y/m/d", strtotime( $arr_post["display_end"]   ) );
 
-	// 写真
-	if( !empty($_ARR_IMAGE) && is_array($_ARR_IMAGE) ){
-		foreach( $_ARR_IMAGE as $key => $val ) {
-			$arr_post[$val["name"]] = $arr_post["_" . $val["name"]."_now"];
-		}
-	}
-
 	// smarty設定
 	$smarty = new MySmarty("admin");
 	$smarty->compile_dir .= "recruit/";
@@ -81,9 +74,10 @@ if( empty( $message["ng"] ) ) {
 	$smarty->assign( "arr_post"  , $arr_post   );
 	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
-	// オプション設定
-	$smarty->assign( 'OptionEmployment', $OptionEmployment );
-	$smarty->assign( 'OptionSalaryUnit', $OptionSalaryUnit );
+	// オプション配列
+	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
+	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+
 
 	// 表示
 	$smarty->display( "edit.tpl" );

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>拠点情報｜管理画面</title>
+<title>{$_CONTENTS_NAME}｜管理画面</title>
 <link href="/admin/common/css/bootstrap.min.css" rel="stylesheet">
 <link href="/admin/common/font-awesome/css/font-awesome.css" rel="stylesheet">
 <link href="/admin/common/css/animate.css" rel="stylesheet">

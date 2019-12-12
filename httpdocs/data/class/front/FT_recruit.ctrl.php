@@ -1,8 +1,8 @@
 <?php
 //----------------------------------------------------------------------------
-// 作成日： 2019/10/10
-// 作成者： 福嶋
-// 内  容： 採用情報クラス
+// 作成日： 2019/05/30
+// 作成者： 牧
+// 内  容： 中途採用募集要項クラス
 //----------------------------------------------------------------------------
 
 //-------------------------------------------------------
@@ -21,7 +21,7 @@ class FT_recruit {
 	var $_CtrTablePk = "id_recruit";
 
 	// コントロール機能（ログ用）
-	var $_CtrLogName = "採用情報";
+	var $_CtrLogName = "中途採用募集要項";
 
 
 	//-------------------------------------------------------
@@ -65,61 +65,105 @@ class FT_recruit {
 		// SQL配列
 		$creation_kit = array(  "select" => "*",
 								"from"   => $this->_CtrTable,
-								"where"  => "display_flg = 1 AND 
-											 ( ( display_indefinite_flg = 1 ) OR 
-											   ( display_indefinite_flg = 0 AND display_start <= NOW() AND display_end >= NOW() ) ) ", 
-								"order"  => "update_date DESC"
+								"where"  => "display_flg = 1 AND
+											 ( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end  ) ) ",
+								"order"  => "id_recruit DESC"
 							);
-		
+
 		// 検索条件
-		if( !empty( $search["employment"] ) ) {
-			$creation_kit["where"] .= "AND employment = " . $search["employment"] . " ";
+		if( !empty( $search["search_recruit_type"] ) ) {
+			if( is_array( $search["search_recruit_type"] ) ){
+				$creation_kit["where"] .= "AND recruit_type IN( " . implode( ",", $search["search_recruit_type"] ) . " ) ";
+			}else{
+				$creation_kit["where"] .= "AND recruit_type = " . $search["search_recruit_type"] . " ";
+			}
 		}
-		
-		// 取得件数
-		if( !empty( $limit ) ) {
-			$creation_kit["limit"] = $limit;
+
+		if( !empty( $search["search_area"] ) ) {
+			if( is_array( $search["search_area"] ) ){
+				$creation_kit["where"] .= "AND area IN( " . implode( ",", $search["search_area"] ) . " ) ";
+			}else{
+				$creation_kit["where"] .= "AND area = " . $search["search_area"] . " ";
+			}
 		}
-		
+
+		if( !empty( $search["search_car_type"] ) ) {
+			if( is_array( $search["search_car_type"] ) ){
+				$creation_kit["where"] .= "AND car_type IN( " . implode( ",", $search["search_car_type"] ) . " ) ";
+			}else{
+				$creation_kit["where"] .= "AND car_type = " . $search["search_car_type"] . " ";
+			}
+		}
+
+		if( !empty( $search["search_work_type"] ) ) {
+			if( is_array( $search["search_work_type"] ) ){
+				$creation_kit["where"] .= "AND work_type IN( " . implode( ",", $search["search_work_type"] ) . " ) ";
+			}else{
+				$creation_kit["where"] .= "AND work_type = " . $search["search_work_type"] . " ";
+			}
+		}
+
+
+		if( !empty( $search["search_freeword"] ) ) {
+			$creation_kit["where"] .= "AND ( ( " . $this->_DBconn->createWhereSql( $search["search_freeword"], "title", "LIKE", "OR", "%string%" ) . " )
+			 OR ( " . $this->_DBconn->createWhereSql( $search["search_freeword"], "comment", "LIKE", "OR", "%string%" ) . " ) ) ";
+		}
+
+
 		// 取得条件
 		if( empty( $option ) ) {
 
 			// ページ切り替え配列
-			$_PAGE_INFO = array( "PageNumber"      => ( !empty( $search["page"] ) ) ? $search["page"] : 1, 
+			$_PAGE_INFO = array( "PageNumber"      => $search["page"],
 								 "PageShowLimit"   => _PAGESHOWLIMIT,
-								 "PageNaviLimit"   => _PAGENAVILIMIT, 
-								 "LinkSeparator"   => " ", 
-								 "LinkBackText"    => "&lt; 前へ", 
-								 "LinkNextText"    => "次へ &gt;", 
-								 "LinkBackClass"   => "next", 
-								 "LinkNextClass"   => "back", 
-								 "LinkSpanPref"    => "<li>", 
-								 "LinkSpanPost"    => "</li>", 
-								 "LinkSpanNowPref" => "<span>", 
-								 "LinkSpanNowPost" => "</span>" );
+								 "PageNaviLimit"   => _PAGENAVILIMIT,
+								 "LinkSeparator"   => " ",
+								 "LinkBackText"    => "&lt; 前へ",
+								 "LinkNextText"    => "次へ &gt;",
+								 "LinkBackClass"   => "next",
+								 "LinkNextClass"   => "back",
+								 "LinkSpanPref"    => "<li>",
+								 "LinkSpanPost"    => "</li>",
+								 "LinkSpanNowPref" => "<strong>",
+								 "LinkSpanNowPost" => "</strong>" );
 
 			// オプション
 			$option = array( "fetch" => _DB_FETCH_ALL,
 							 "page"  => $_PAGE_INFO );
+
+		} else {
+
+			// 取得件数制限
+			if( !empty( $limit ) ) {
+				$creation_kit["limit"] = $limit;
+			}
 
 		}
 
 		// データ取得
 		$res = $this->_DBconn->selectCtrl( $creation_kit, $option );
 
-		// if( !empty($res["data"]) ){
-		// 	foreach( $res["data"] as $key => $val ){
-		// 		if( !empty($val["comment"]) ){
-		// 			$res["data"][$key]["comment"] = html_entity_decode( $val["comment"] );
-		// 		}
-		// 	}
-		// }elseif( !empty($res) ){
-		// 	foreach( $res as $key => $val ){
-		// 		if( !empty($val["comment"]) ){
-		// 			$res[$key]["comment"] = html_entity_decode( $val["comment"] );
-		// 		}
-		// 	}
-		// }
+		// タグ許可
+		if( is_array( $res["data"] ) ) {
+			foreach( $res["data"] as $key => $val ) {
+				if( !empty( $res["data"][$key]["comment"] ) ) {
+					$res["data"][$key]["comment"] = html_entity_decode( $res["data"][$key]["comment"] );
+				}
+			}
+		} elseif( is_array( $res ) ) {
+			foreach( $res as $key => $val ) {
+				if( !empty( $res[$key]["comment"] ) ) {
+					$res[$key]["comment"] = html_entity_decode( $res[$key]["comment"] );
+				}
+			}
+		}
+
+
+		if( $res ){
+			$creation_kit["select"] = "MAX(update_date) as max";
+			$max = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );
+			$res["max"] = $max["max"];
+		}
 
 		// 戻り値
 		return $res;
@@ -129,8 +173,8 @@ class FT_recruit {
 
 	//-------------------------------------------------------
 	// 関数名：GetIdRow
-	// 引  数：$id - ID
-	// 戻り値：1件分のデータ
+	// 引  数：$id   - ID
+	// 戻り値：1件分
 	// 内  容：1件取得する
 	//-------------------------------------------------------
 	function GetIdRow( $id ) {
@@ -143,21 +187,65 @@ class FT_recruit {
 		// SQL配列
 		$creation_kit = array( "select" => "*",
 							   "from"   => $this->_CtrTable,
-							   "where"  => $this->_CtrTablePk . " = " . $id . " AND
-											 display_flg = 1 AND 
-											( ( display_indefinite_flg = 1 ) OR 
-											  ( display_indefinite_flg = 0 AND display_start <= NOW() AND display_end >= NOW() ) ) " );
+							   "where"  => "display_flg = 1 AND
+											( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end ) ) AND " .
+											$this->_CtrTablePk . " = " . $id );
 
 		// データ取得
 		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );
 
-		// if( !empty($res["comment"]) ){
-		// 	$res["comment"] = html_entity_decode( $res["comment"] );
-		// }
+		// タグ許可
+		if( !empty($res["comment"]) ){
+			$res["comment"] = html_entity_decode( $res["comment"] );
+		}
 
 		// 戻り値
 		return $res;
 
 	}
+
+	//-------------------------------------------------------
+	// 関数名：GetDetailPageNavi
+	// 引  数：$id   - 中途採用募集要項ID
+	// 戻り値：ページナビ
+	// 内  容：詳細ページ用のページナビを作成する
+	//-------------------------------------------------------
+	function GetDetailPageNavi( $id ) {
+
+		// データチェック
+		if( !is_numeric( $id ) ) {
+			return null;
+		}
+
+		// SQL配列
+		$creation_kit = array(  "select" => $this->_CtrTablePk,
+								"from"   => $this->_CtrTable,
+								"where"  => "display_flg = 1 AND
+											 ( display_indefinite = 1 OR
+										   ( NOW() BETWEEN display_start AND display_end ) ) ",
+								"order"  => "id_recruit DESC"
+							);
+
+		// データ取得
+		$aryId = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_COL ) );
+
+		// データチェック
+		if( is_array( $aryId ) ) {
+
+			// 現在のKey
+			$pageKey = array_search( $id, $aryId );
+
+			// ページング
+			$res["back"] = $aryId[$pageKey+1];
+			$res["now"]  = $aryId[$pageKey];
+			$res["next"] = $aryId[$pageKey-1];
+
+		}
+
+		// 戻り値
+		return $res;
+
+	}
+
 }
 ?>

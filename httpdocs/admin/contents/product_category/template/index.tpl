@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>管理画面</title>
+	<title>{$_CONTENTS_NAME}｜管理画面</title>
 	<link href="{$_ADMIN.home}/common/css/import.css" rel="stylesheet" />
 	{include file=$template_javascript}
 	<script src="{$_ADMIN.home}/common/js/lightbox/import.js"></script>
