@@ -15,7 +15,7 @@ require "./config.ini";
 //  更新処理
 //----------------------------------------
 // 操作クラス
-$objManage  = new DB_manage( _DNS,１ );
+$objManage  = new DB_manage( _DNS );
 $mainObject = new $class_name( $objManage, $_ARR_IMAGE, $_ARR_FILE );
 
 // データ変換

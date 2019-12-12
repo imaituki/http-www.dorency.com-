@@ -242,7 +242,7 @@ class AD_information {
 
 		// 更新
 		$res = $this->_DBconn->update( $this->_CtrTable, $arrVal, $arrSql, $where );
-
+disp_arr($ImageInfo);
 		// 戻り値
 		return $res;
 

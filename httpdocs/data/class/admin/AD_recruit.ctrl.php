@@ -99,22 +99,21 @@ class AD_recruit {
 		$objInputCheck = new FN_input_check( "UTF-8" );
 
 		// チェックエントリー
-		$objInputCheck->entryData( "募集"    , "recruit_type" , $arrVal["recruit_type"] , array( "CHECK_EMPTY"), null, null );
 		$objInputCheck->entryData( "募集職種", "recruitment", $arrVal["recruitment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "エリア"    , "area" , $arrVal["area"] , array( "CHECK_EMPTY"), null, null );
-		if( $arrVal["recruit_type"] == 3 ){
-			$objInputCheck->entryData( "車種"    , "car_type" , $arrVal["car_type"] , array( "CHECK_EMPTY"), null, null );
-		}else{
-			$arrVal["car_type"] = NULL;
+		$objInputCheck->entryData( "雇用形態", "employment", $arrVal["employment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "仕事内容", "job_description", $arrVal["job_description"], array( "CHECK_EMPTY", "CHECK_MIN_LEN" ), 30, null );
+		$objInputCheck->entryData( "賃金支払い形態", "salary_unit", $arrVal["salary_unit"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "賃金（最低）", "min_salary", $arrVal["min_salary"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
+		$objInputCheck->entryData( "賃金（最高）", "max_salary", $arrVal["max_salary"], array( "CHECK_NUM" ), null, null );
+		$objInputCheck->entryData( "勤務地 郵便番号", "zip", $arrVal["zip"], array( "CHECK_EMPTY", "CHECK_ZIP" ), null, null );
+		$objInputCheck->entryData( "勤務地 都道府県", "prefecture", $arrVal["prefecture"], array( "CHECK_EMPTY_ZERO", "CHECK_NUM" ), null, null );
+		$objInputCheck->entryData( "勤務地 市区郡町村", "address1", $arrVal["address1"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "勤務地 番地、町名、建物名", "address2", $arrVal["address2"], array( "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "リモートワーク", "remote_work", $arrVal["remote_work"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
+		
+		if( !empty( $arrVal["min_salary"] ) && $arrVal["min_salary"] > $arrVal["max_salary"] ){
+			$res["ng"]["min_salary"] = "賃金(最低)は賃金(最高)より小さい数字を入力してください。";
 		}
-		$objInputCheck->entryData( "働き方"   , "work_type" , $arrVal["work_type"] , array( "CHECK_EMPTY"), null, null );
-
-
-		$objInputCheck->entryData( "見出し", "title", $arrVal["title"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "勤務地", "worklocation", $arrVal["worklocation"], array( "CHECK_EMPTY" ), null, null );
-		$objInputCheck->entryData( "勤務時間", "work_time", $arrVal["work_time"], array( "CHECK_EMPTY" ), null, null );
-		$objInputCheck->entryData( "給与幅（最低）", "min_salary", $arrVal["min_salary"], array( "CHECK_NUM" ), null, null );
-		$objInputCheck->entryData( "給与幅（最高）", "max_salary", $arrVal["max_salary"], array( "CHECK_NUM" ), null, null );
 		if( $arrVal["display_indefinite_flg"] == 0 ) {
 			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_DATE" ), null, null );
 			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE" ), null, null );
@@ -127,8 +126,10 @@ class AD_recruit {
 			$objInputCheck->entryData( "採用情報ID", "all", $arrVal["id_recruit"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
 		}
 
+
 		// チェック実行
 		$res["ng"] = $objInputCheck->execCheckAll();
+
 
 		// データ加工
 		if( $arrVal["display_indefinite_flg"] == 0 ) {
@@ -137,6 +138,10 @@ class AD_recruit {
 		} else {
 			$arrVal["display_start"] = null;
 			$arrVal["display_end"]   = null;
+		}
+		// 郵便番号ハイフン追加
+		if( !empty( $arrVal["zip"] ) && empty( $res["ng"]["zip"] ) && !preg_match( "/\-/", $arrVal["zip"] ) ){
+			$arrVal["zip"] = substr( $arrVal["zip"], 0, 3 ) . "-" . substr( $arrVal["zip"], 3 );
 		}
 
 		// 戻り値
