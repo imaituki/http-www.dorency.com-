@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/11/01
-// 作成者： 岡田
-// 内  容： グループ会社 新規登録
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 新規登録
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -20,7 +20,7 @@ $message = NULL;
 //  新規登録処理
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS );
+$objManage = new DB_manage( _DNS,1 );
 $objBase = new AD_base( $objManage, $_ARR_IMAGE );
 
 // データ変換
@@ -28,15 +28,13 @@ $arr_post = $objBase->convert( $arr_post );
 
 // データチェック
 $message = $objBase->check( $arr_post, 'insert' );
-
+disp_arr($message);
 // エラーチェック
 if( empty( $message["ng"] ) ) {
 
 	// トランザクション
 	$objBase->_DBconn->StartTrans();
 
-	$arr_detail = $arr_post["detail"];
-	unset( $arr_post["detail"] );
 	// 登録処理
 	$res = $objBase->insert( $arr_post );
 
@@ -44,23 +42,6 @@ if( empty( $message["ng"] ) ) {
 	if( $res == false ) {
 		$objBase->_DBconn->RollbackTrans();
 		$message["ng"]["all"] = _ERRHEAD . "登録処理に失敗しました。（ブラウザの再起動を行って改善されない場合は、システム管理者へご連絡ください。）<br />";
-	}else{
-
-		if( !empty( $arr_detail ) && is_array( $arr_detail ) ){
-			$Id_Base = $objBase->_DBconn->Insert_ID();
-
-			foreach ( $arr_detail as $key => $val ) {
-				$val["id_base"] = $Id_Base;
-				// 登録処理
-				$res2 = $objBase->insert_detail( $val );
-			}
-		}
-
-		// ロールバック
-		if( $res2 == false ) {
-			$objBase->_DBconn->RollbackTrans();
-			$message["ng"]["all"] = _ERRHEAD . "登録処理に失敗しました。（ブラウザの再起動を行って改善されない場合は、システム管理者へご連絡ください。）<br />";
-		}
 	}
 
 	// コミット
@@ -69,9 +50,8 @@ if( empty( $message["ng"] ) ) {
 }
 
 // クラス削除
-unset( $objManage );
+unset( $objManage   );
 unset( $objBase   );
-
 //----------------------------------------
 //  表示
 //----------------------------------------
@@ -88,17 +68,17 @@ if( empty( $message["ng"] ) ) {
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
-	$smarty->compile_dir .= "mst_base/";
+	$smarty->compile_dir .= "base/";
 
 	// テンプレートに設定
 	$smarty->assign( "message"   , $message    );
 	$smarty->assign( "arr_post"  , $arr_post   );
 	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
-	// オプション設定
-	$smarty->assign( 'OptionBaseCategory', $OptionBaseCategory );
-	$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-	$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+	// オプション配列
+	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
+	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+
 
 	// 表示
 	$smarty->display( "new.tpl" );

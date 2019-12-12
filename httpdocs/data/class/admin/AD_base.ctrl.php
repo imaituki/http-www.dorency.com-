@@ -124,14 +124,8 @@ class AD_base {
 		$objInputCheck = new FN_input_check( "UTF-8" );
 
 		// チェックエントリー
-		$objInputCheck->entryData( "日付", "date" , $arrVal["date"] , array( "CHECK_EMPTY", "CHECK_DATE" ), null, null );
-		$objInputCheck->entryData( "カテゴリー", "base_category", $arrVal["base_category"][0], array( "CHECK_EMPTY_ZERO", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "タイトル", "title", $arrVal["title"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		if( $arrVal["display_indefinite"] == 0 ) {
-			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_DATE" ), null, null );
-			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE" ), null, null );
-			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE_START_TERM" ), $arrVal["display_start"], null );
-		}
+		$objInputCheck->entryData( "拠点名", "name", $arrVal["name"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+
 		$objInputCheck->entryData( "表示／非表示", "display_flg", $arrVal["display_flg"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
 
 		if( (strcmp($mode, "insert") == 0) ) {
@@ -155,20 +149,12 @@ class AD_base {
 
 		// チェックエントリー（UPDATE時）
 		if( ( strcmp( $mode, "update" ) == 0 ) ) {
-			$objInputCheck->entryData( "お知らせID", "all", $arrVal["id_base"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
+			$objInputCheck->entryData( "拠点ID", "all", $arrVal["id_base"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
 		}
 
 		// チェック実行
 		$res["ng"] = $objInputCheck->execCheckAll();
 
-		// データ加工
-		if( $arrVal["display_indefinite"] == 0 ) {
-			$arrVal["display_start"] = ( !empty( $arrVal["display_start"] ) ) ? date( "Y-m-d 00:00:00", strtotime( $arrVal["display_start"] ) ) : NULL;
-			$arrVal["display_end"]   = ( !empty( $arrVal["display_end"]   ) ) ? date( "Y-m-d 23:59:59", strtotime( $arrVal["display_end"]   ) ) : NULL;
-		} else {
-			$arrVal["display_start"] = null;
-			$arrVal["display_end"]   = null;
-		}
 
 		// 戻り値
 		return $res;
@@ -341,7 +327,7 @@ class AD_base {
 		$creation_kit = array(  "select" => "*",
 								"from"   => $this->_CtrTable,
 								"where"  => "1 ",
-								"order"  => "date DESC"
+								"order"  => "display_num ASC"
 							);
 
 		// 検索条件

@@ -54,10 +54,10 @@ sortableInit();
 foreach ($_from as $_smarty_tpl->tpl_vars["product_category"]->key => $_smarty_tpl->tpl_vars["product_category"]->value) {
 $_smarty_tpl->tpl_vars["product_category"]->_loop = true;
 ?>
-					<tr id="<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_prudoct_category'];?>
+					<tr id="<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_product_category'];?>
 ">
 						<td class="move_i"><?php if ((($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['mode'])===null||$tmp==='' ? '' : $tmp)=="search") {?><?php } else { ?><i class="fa fa-sort"><span></span></i><?php }?></td>
-						<td><a href="./edit.php?id=<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_prudoct_category'];?>
+						<td><a href="./edit.php?id=<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_product_category'];?>
 "><?php echo $_smarty_tpl->tpl_vars['product_category']->value['name'];?>
 </a></td>
 						<td class="pos_al">
@@ -90,10 +90,10 @@ $_smarty_tpl->tpl_vars['file']->_loop = true;
 						<td class="pos_ac">
 							<div class="switch">
 								<div class="onoffswitch">
-									<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_prudoct_category'];?>
-" data-id="<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_prudoct_category'];?>
+									<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_product_category'];?>
+" data-id="<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_product_category'];?>
 "<?php if ($_smarty_tpl->tpl_vars['product_category']->value['display_flg']==1) {?> checked<?php }?>>
-									<label class="onoffswitch-label" for="display<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_prudoct_category'];?>
+									<label class="onoffswitch-label" for="display<?php echo $_smarty_tpl->tpl_vars['product_category']->value['id_product_category'];?>
 ">
 										<span class="onoffswitch-inner"></span>
 										<span class="onoffswitch-switch"></span>

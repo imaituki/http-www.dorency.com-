@@ -1,22 +1,16 @@
-			{literal}
-			<script type="text/javascript">
-			sortableInit();
-			</script>
-			{/literal}
 			{include file=$template_pagenavi}
-			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15" id="sortable-table">
+			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15">
 				<thead>
 					<tr>
-						<th></th>
 						<th>拠点名</th>
+						<th class="photo">写真</th>
 						<th class="showhide">表示</th>
 						<th class="delete">削除</th>
 					</tr>
 				</thead>
 				<tbody>
-					{foreach from=$t_base item="base" name="loopInBase"}
-					<tr id="{$base.id_base}">
-						<td class="move_i">{if $arr_post.mode|default:"" == "search"}{else}<i class="fa fa-sort"><span></span></i>{/if}</td>
+					{foreach from=$t_base item="base" name="loopBase"}
+					<tr>
 						<td><a href="./edit.php?id={$base.id_base}">{$base.name}</a></td>
 						<td class="pos_al">
 							<div class="lightBoxGallery">
@@ -24,7 +18,6 @@
 									{if $base[$file.name]}
 										<a href="{$_IMAGEFULLPATH}/base/{$file.name}/l_{$base[$file.name]}" title="{$file.comment|default:""}" data-gallery=""><img src="{$_IMAGEFULLPATH}/base/{$file.name}/s_{$base[$file.name]}" width="50" /></a>
 									{/if}
-									{if $smarty.foreach.file.iteration % 3 == 0}<br />{/if}
 								{/foreach}
 							</div>
 						</td>
@@ -56,13 +49,4 @@
 					</tr>
 				</tfoot>
 			</table>
-			<div id="blueimp-gallery" class="blueimp-gallery">
-				<div class="slides"></div>
-				<h3 class="title"></h3>
-				<a class="prev">‹</a>
-				<a class="next">›</a>
-				<a class="close">×</a>
-				<a class="play-pause"></a>
-				<ol class="indicator"></ol>
-			</div>
 			{include file=$template_pagenavi}

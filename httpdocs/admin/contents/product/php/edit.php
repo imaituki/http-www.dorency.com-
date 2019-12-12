@@ -28,7 +28,7 @@ if( !empty( $_POST["id_product"] ) ) {
 // クラス削除
 unset( $objManage      );
 unset( $objProduct );
-disp_arr($_POST["detail"]);
+
 //----------------------------------------
 //  表示
 //----------------------------------------
@@ -44,8 +44,6 @@ if( !empty( $_POST["id_product"] ) ) {
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-	$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-	$smarty->assign( 'OptionDirector'     , $OptionDirector      );
 
 	// 表示
 	$smarty->display( "edit.tpl" );

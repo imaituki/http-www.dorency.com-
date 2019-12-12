@@ -116,7 +116,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 								}
 
 								// 出力
-								$html  = "<img src=\"". $pathInfo["dirname"] . "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
+								$html  = "<img src=\"". _IMAGEFULLPATH. "/". $arr_post["_contents_dir"]. "/". $val["name"]. "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
 								$html .= "<span class=\"c_red\"> ※この画像はプレビュー用です。まだ保存されていません。 </span><br />";
 								$html .= "<input type=\"hidden\" name=\"imagelist[" . $key3 . "][_preview_" . $val["name"] . "]\" value=\"" . $val["name"]  . "\" />";
 								$html .= '<input type="hidden" name="imagelist[' . $key3 . '][_preview_image_' . $val["name"] . ']" value="' . $pathInfo["filename"] . $ext . '" />';
@@ -195,7 +195,7 @@ if( empty( $_POST["_contents_conf_path"] ) || empty( $_FILES ) ) {
 							}
 
 							// 出力
-							$html  = "<img src=\"". $pathInfo["dirname"] . "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
+							$html  = "<img src=\"". _IMAGEFULLPATH. "/". $arr_post["_contents_dir"]. "/". $val["name"]. "/s_" . $pathInfo["filename"] . $ext. "\" />&nbsp;";
 							$html .= "<span class=\"c_red\"> ※この画像はプレビュー用です。まだ保存されていません。 </span><br />";
 							$html .= "<input type=\"hidden\" name=\"_preview_" . $val["name"] . "\" value=\"" . $val["name"]  . "\" />";
 							$html .= '<input type="hidden" name="_preview_image_' . $val["name"] . '" value="' . $pathInfo["filename"] . $ext . '" />';

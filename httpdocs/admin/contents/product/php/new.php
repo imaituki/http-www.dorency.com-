@@ -2,7 +2,7 @@
 //-------------------------------------------------------------------
 // 作成日： 2019/11/01
 // 作成者： 岡田
-// 内  容： グループ会社 新規登録
+// 内  容： 製品 新規登録
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -27,8 +27,6 @@ $smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-$smarty->assign( 'OptionDirector'     , $OptionDirector      );
 
 // 表示
 $smarty->display( "new.tpl" );

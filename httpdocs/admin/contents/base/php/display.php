@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/11/01
-// 作成者： 岡田
-// 内  容： グループ会社 一括表示切替
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 一括表示切替
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -15,8 +15,8 @@ require "./config.ini";
 //  表示切替
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS );
-$objBase = new AD_base( $objManage );
+$objManage = new DB_manage( _DNS );
+$objBase = new AD_base( $objManage, $_ARR_IMAGE );
 
 // トランザクション
 $objBase->_DBconn->StartTrans();
@@ -34,7 +34,7 @@ $objBase->_DBconn->CompleteTrans();
 
 // クラス削除
 unset( $objManage );
-unset( $objBase   );
+unset( $objBase );
 
 // 戻り値
 if( $res == false ) {

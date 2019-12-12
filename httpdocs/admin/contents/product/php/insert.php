@@ -97,8 +97,7 @@ if( empty( $message["ng"] ) ) {
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-	$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-	$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+
 
 	// 表示
 	$smarty->display( "new.tpl" );

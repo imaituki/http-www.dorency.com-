@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/11/01
-// 作成者： 岡田
-// 内  容： グループ会社 編集
+// 作成日： 2019/03/26
+// 作成者： 牧
+// 内  容： 中途採用募集要項 編集
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -15,25 +15,24 @@ require "./config.ini";
 //  編集データ取得
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS );
-$objBase = new AD_base( $objManage );
+$objManage  = new DB_manage( _DNS );
+$objBase  = new AD_base( $objManage, $_ARR_IMAGE );
 
 // データ取得
 $_POST = $objBase->GetIdRow( $arr_get["id"] );
 
-if( !empty( $_POST["id_base"] ) ) {
-	// 事業所取得
-	$_POST["detail"] = $objBase->GetSearchDetail( $_POST["id_base"] );
-}
 // クラス削除
-unset( $objManage      );
-unset( $objBase );
-disp_arr($_POST["detail"]);
+unset( $objManage  );
+unset( $objBase  );
+
 //----------------------------------------
 //  表示
 //----------------------------------------
 if( !empty( $_POST["id_base"] ) ) {
 
+	// データ加工
+	$_POST["display_start"] = ( !empty( $_POST["display_start"] ) ) ? date( "Y/m/d", strtotime( $_POST["display_start"] ) ) : NULL;
+	$_POST["display_end"]   = ( !empty( $_POST["display_end"]   ) ) ? date( "Y/m/d", strtotime( $_POST["display_end"]   ) ) : NULL;
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
@@ -42,10 +41,12 @@ if( !empty( $_POST["id_base"] ) ) {
 	// テンプレートに設定
 	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
-	// オプション設定
-	$smarty->assign( 'OptionBaseCategory', $OptionBaseCategory );
-	$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-	$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+	// オプション配列
+	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
+	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+
+
+
 
 	// 表示
 	$smarty->display( "edit.tpl" );
