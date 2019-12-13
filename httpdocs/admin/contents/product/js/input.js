@@ -25,67 +25,40 @@ $(function () {
 		});
 		var sirial = Math.max.apply(null, sirials) + 1;
 
-		ck.find('.product_parts_office').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][office]');
-			$(this).attr('id', 'product_parts_office_' + sirial);
+		ck.find('.product_parts_type').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][type]');
+			$(this).attr('id', 'product_parts_type_' + sirial);
 			$(this).val([]);
 		});
 
-		ck.find('.product_parts_office_name').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][office_name]');
-			$(this).attr('id', 'product_parts_office_name_' + sirial);
+		ck.find('.product_parts_feature').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][feature]');
+			$(this).attr('id', 'product_parts_feature_' + sirial);
 			$(this).val('');
 		});
 
-		ck.find('.product_parts_director').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][director]');
-			$(this).attr('id', 'product_parts_director_' + sirial);
+		ck.find('.product_parts_days').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][days]');
+			$(this).attr('id', 'product_parts_days_' + sirial);
 			$(this).val([]);
 		});
 
-		ck.find('.product_parts_director_name').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][director_name]');
-			$(this).attr('id', 'product_parts_director_name_' + sirial);
+		ck.find('.product_parts_time').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][time]');
+			$(this).attr('id', 'product_parts_time_' + sirial);
 			$(this).val('');
 		});
 
-		ck.find('.product_parts_zip').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][zip]');
-			$(this).attr('id', 'product_parts_zip_' + sirial);
+		ck.find('.product_parts_use').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][use]');
+			$(this).attr('id', 'product_parts_use_' + sirial);
 			$(this).val('');
 		});
 
-		ck.find('.ajax_zip').each(function () {
-			$(this).attr('href', "javascript:AjaxZip3.zip2addr('detail[" + sirial + "][zip]','','detail[" + sirial + "][prefecture]','detail[" + sirial + "][address]');");
-		});
 
-		ck.find('.product_parts_prefecture').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][prefecture]');
-			$(this).attr('id', 'product_parts_prefecture_' + sirial);
-			$(this).val([]);
-		});
-
-		ck.find('.product_parts_address').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][address]');
-			$(this).attr('id', 'product_parts_address_' + sirial);
-			$(this).val('');
-		});
-
-		ck.find('.product_parts_tel').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][tel]');
-			$(this).attr('id', 'product_parts_tel_' + sirial);
-			$(this).val('');
-		});
-
-		ck.find('.product_parts_fax').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][fax]');
-			$(this).attr('id', 'product_parts_fax_' + sirial);
-			$(this).val('');
-		});
-
-		ck.find('.product_parts_map').each(function () {
-			$(this).attr('name', 'detail[' + sirial + '][map]');
-			$(this).attr('id', 'product_parts_map_' + sirial);
+		ck.find('.product_parts_necessary_time').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][necessary_time]');
+			$(this).attr('id', 'product_parts_necessary_time_' + sirial);
 			$(this).val('');
 		});
 

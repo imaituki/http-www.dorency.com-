@@ -19,7 +19,7 @@ class AD_product {
 	var $_CtrTable2   = "t_product_parts";
 	var $_CtrTablePk2 = "id_product_parts";
 	// コントロール機能（ログ用）
-	var $_CtrLogName = "グループ会社";
+	var $_CtrLogName = "製品";
 	// ファイル操作クラス
 	var $_FN_file = null;
 	// 画像設定
@@ -96,34 +96,13 @@ class AD_product {
 		$objInputCheck = new FN_input_check( "UTF-8" );
 		// チェックエントリー
 		$objInputCheck->entryData( "カテゴリー", "id_product_category", $arrVal["id_product_category"][0], array( "CHECK_EMPTY_ZERO", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "会社名", "name", $arrVal["name"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "郵便番号", "zip", $arrVal["zip"], array( "CHECK_EMPTY", "CHECK_ZIP","CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "都道府県", "prefecture", $arrVal["prefecture"], array( "CHECK_EMPTY_ZERO", "CHECK_MIN_MAX_LEN" ), 0, 11 );
-		$objInputCheck->entryData( "住所", "address", $arrVal["address"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "電話番号", "tel", $arrVal["tel"], array( "CHECK_EMPTY", "CHECK_TEL", "CHECK_MAX_LEN" ), null, 14 );
-;
+		$objInputCheck->entryData( "種類", "name", $arrVal["name"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
 		$objInputCheck->entryData( "表示/非表示", "display_flg"   , $arrVal["display_flg"]    , array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
-		if( is_array( $arrVal["detail"] ) ){
-			// 入力確認
-			foreach ( $arrVal["detail"][0] as $key => $val ) {
-				if( !empty( $val ) ){
-					$check_flg = 1;
-				}
-			}
-			if( $check_flg == 1 ){
-				// detail チェック
-				foreach ($arrVal["detail"] as $key => $value) {
-					// チェックエントリー
-					$objInputCheck->entryData( "事業所・営業所・支店名"        , "detail_".$key."_office"     , $value["office"]    , array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-					$objInputCheck->entryData( "郵便番号"        , "detail_".$key."_zip"     , $value["zip"]         , array( "CHECK_EMPTY", "CHECK_ZIP" ), null, null );
-					$objInputCheck->entryData( "都道府県"        , "detail_".$key."_prefecture"  , $value["prefecture"]  , array( "CHECK_EMPTY_ZERO"), null, null );
-					$objInputCheck->entryData( "市区町村"        , "detail_".$key."_address"     , $value["address"]    , array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-				}
-			}
-		}
+
+
 		// チェックエントリー（UPDATE時）
 		if( ( strcmp( $mode, "update" ) == 0 ) ) {
-			$objInputCheck->entryData( "グループ会社ID", "id_product", $arrVal["id_product"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
+			$objInputCheck->entryData( "製品ID", "id_product", $arrVal["id_product"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
 		}
 		// チェック実行
 		$res["ng"] = $objInputCheck->execCheckAll();
@@ -135,19 +114,14 @@ class AD_product {
 	// 引  数：$arrVal - 登録データ（ 'カラム名' => '値' ）
 	//       ：$arrSql - 登録データ（ 'カラム名' => 'SQL' ）
 	// 戻り値：なし
-	// 内  容：グループ会社データ登録
+	// 内  容：製品データ登録
 	//-------------------------------------------------------
 	function insert( $arrVal, $arrSql = null ) {
 		// アップ処理
 		$ImageInfo = $this->_FN_file->copyImage( $_FILES, $this->_ARR_IMAGE, $arrVal );
 		// 登録データの作成
 		$arrVal = $this->_DBconn->arrayKeyMatchFecth( $arrVal, "/^[^\_]/" );
-		// zip整形
-		if( strpos( $arrVal["zip"], '-' ) === false ) {
-			$zip1 = mb_substr( $arrVal["zip"], 0, 3 );
-			$zip2 = mb_substr( $arrVal["zip"], -4   );
-			$arrVal["zip"] = $zip1 . "-" . $zip2;
-		}
+
 		$arrVal["entry_date"]  = date( "Y-m-d H:i:s" );
 		$arrVal["update_date"] = date( "Y-m-d H:i:s" );
 		// 登録
@@ -160,7 +134,7 @@ class AD_product {
 	// 引  数：$arrVal - 登録データ（ 'カラム名' => '値' ）
 	//       ：$arrSql - 登録データ（ 'カラム名' => 'SQL' ）
 	// 戻り値：なし
-	// 内  容：グループ会社データ登録
+	// 内  容：製品データ登録
 	//-------------------------------------------------------
 	function insert_detail( $arrVal, $arrSql = null ) {
 		// 登録データの作成
@@ -177,7 +151,7 @@ class AD_product {
 	// 引  数：$arrVal - 登録データ（ 'カラム名' => '値' ）
 	//       ：$arrSql - 登録データ（ 'カラム名' => 'SQL' ）
 	// 戻り値：なし
-	// 内  容：グループ会社データ更新
+	// 内  容：製品データ更新
 	//-------------------------------------------------------
 	function update( $arrVal, $arrSql = null ) {
 		// 写真削除
@@ -187,12 +161,7 @@ class AD_product {
 		// 登録データの作成
 		$arrVal = $this->_DBconn->arrayKeyMatchFecth( $arrVal, "/^[^\_]/" );
 		$arrVal["update_date"] = date( "Y-m-d H:i:s" );
-		// zip整形
-		if( strpos( $arrVal["zip"], '-' ) === false ) {
-			$zip1 = mb_substr( $arrVal["zip"], 0, 3 );
-			$zip2 = mb_substr( $arrVal["zip"], -4   );
-			$arrVal["zip"] = $zip1 . "-" . $zip2;
-		}
+
 		// 更新条件
 		$where = $this->_CtrTablePk . " = " . $arrVal["id_product"];
 		// 更新
@@ -205,7 +174,7 @@ class AD_product {
 		// 引  数：$arrVal - 登録データ（ 'カラム名' => '値' ）
 		//       ：$arrSql - 登録データ（ 'カラム名' => 'SQL' ）
 		// 戻り値：なし
-		// 内  容：グループ会社データ登録
+		// 内  容：製品データ登録
 		//-------------------------------------------------------
 		function update_detail( $arrVal, $arrSql = null ) {
 			// 登録データの作成
@@ -218,9 +187,9 @@ class AD_product {
 		}
 	//-------------------------------------------------------
 	// 関数名：delete
-	// 引  数：$id - 削除するグループ会社ID
+	// 引  数：$id - 削除する製品ID
 	// 戻り値：true - 正常, false - 異常
-	// 内  容：グループ会社データ削除
+	// 内  容：製品データ削除
 	//-------------------------------------------------------
 	function delete( $id ) {
 		// 初期化
@@ -297,8 +266,8 @@ class AD_product {
 	// 関数名：GetSearchList
 	// 引  数：$search - 検索条件
 	//       ：$option - 取得条件
-	// 戻り値：グループ会社リスト
-	// 内  容：グループ会社検索を行いデータを取得
+	// 戻り値：製品リスト
+	// 内  容：製品検索を行いデータを取得
 	//-------------------------------------------------------
 	function GetSearchList( $search ) {
 		// SQL配列
@@ -350,9 +319,9 @@ class AD_product {
 	}
 	//-------------------------------------------------------
 	// 関数名：GetIdRow
-	// 引  数：$id - グループ会社ID
-	// 戻り値：グループ会社
-	// 内  容：グループ会社を1件取得する
+	// 引  数：$id - 製品ID
+	// 戻り値：製品
+	// 内  容：製品を1件取得する
 	//-------------------------------------------------------
 	function GetIdRow( $id ) {
 		// データチェック

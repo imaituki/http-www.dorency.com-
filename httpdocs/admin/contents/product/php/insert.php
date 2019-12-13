@@ -10,7 +10,6 @@
 //----------------------------------------
 require "./config.ini";
 
-
 //----------------------------------------
 //  初期化
 //----------------------------------------
@@ -20,8 +19,8 @@ $message = NULL;
 //  新規登録処理
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS );
-$objProduct = new AD_product( $objManage, $_ARR_IMAGE );
+$objManage      = new DB_manage( _DNS,1 );
+$objProduct = new AD_product( $objManage );
 
 // データ変換
 $arr_post = $objProduct->convert( $arr_post );
@@ -37,6 +36,7 @@ if( empty( $message["ng"] ) ) {
 
 	$arr_detail = $arr_post["detail"];
 	unset( $arr_post["detail"] );
+
 	// 登録処理
 	$res = $objProduct->insert( $arr_post );
 
@@ -93,7 +93,6 @@ if( empty( $message["ng"] ) ) {
 	// テンプレートに設定
 	$smarty->assign( "message"   , $message    );
 	$smarty->assign( "arr_post"  , $arr_post   );
-	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
