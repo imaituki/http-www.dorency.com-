@@ -23,7 +23,7 @@ $arr_post = $objRecruit->convert( $arr_post );
 
 // データチェック
 $message = $objRecruit->check( $arr_post, 'update' );
-disp_arr($message);
+
 // エラーチェック
 if( empty( $message["ng"] ) ) {
 

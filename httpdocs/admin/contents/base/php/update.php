@@ -1,8 +1,8 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/03/26
-// 作成者： 牧
-// 内  容： 中途採用募集要項 編集
+// 作成日： 2019/11/01
+// 作成者： 岡田
+// 内  容： 拠点 編集
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -10,20 +10,24 @@
 //----------------------------------------
 require "./config.ini";
 
+//----------------------------------------
+//  初期化
+//----------------------------------------
+$message = NULL;
 
 //----------------------------------------
 //  更新処理
 //----------------------------------------
 // 操作クラス
 $objManage = new DB_manage( _DNS );
-$objBase = new AD_base( $objManage, $_ARR_IMAGE );
+$objBase   = new AD_base( $objManage, $_ARR_IMAGE );
 
 // データ変換
 $arr_post = $objBase->convert( $arr_post );
 
 // データチェック
 $message = $objBase->check( $arr_post, 'update' );
-disp_arr($message);
+
 // エラーチェック
 if( empty( $message["ng"] ) ) {
 
@@ -45,8 +49,9 @@ if( empty( $message["ng"] ) ) {
 }
 
 // クラス削除
-unset( $objManage   );
+unset( $objManage );
 unset( $objBase   );
+
 
 //----------------------------------------
 //  表示
@@ -61,9 +66,12 @@ if( empty( $message["ng"] ) ) {
 
 } else {
 
-	// データ加工
-	$arr_post["display_start"] = date( "Y/m/d", strtotime( $arr_post["display_start"] ) );
-	$arr_post["display_end"]   = date( "Y/m/d", strtotime( $arr_post["display_end"]   ) );
+	// 写真
+	if( !empty($_ARR_IMAGE) && is_array($_ARR_IMAGE) ){
+		foreach( $_ARR_IMAGE as $key => $val ) {
+			$arr_post[$val["name"]] = $arr_post["_" . $val["name"]."_now"];
+		}
+	}
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
@@ -73,11 +81,6 @@ if( empty( $message["ng"] ) ) {
 	$smarty->assign( "message"   , $message    );
 	$smarty->assign( "arr_post"  , $arr_post   );
 	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
-
-	// オプション配列
-	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
-	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
-
 
 	// 表示
 	$smarty->display( "edit.tpl" );

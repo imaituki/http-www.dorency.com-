@@ -1,14 +1,15 @@
 <?php
 //-------------------------------------------------------------------
-// 作成日： 2019/03/26
-// 作成者： 牧
-// 内  容： 中途採用募集要項 プレビュー
+// 作成日： 2019/11/01
+// 作成者： 岡田
+// 内  容： グループ会社 プレビュー
 //-------------------------------------------------------------------
 
 //----------------------------------------
 //  共通設定
 //----------------------------------------
 require "./config.ini";
+
 require $_SERVER["DOCUMENT_ROOT"] . "/../cgi-data/config/front.ini";
 
 //----------------------------------------
@@ -23,14 +24,12 @@ if( is_array( $_ARR_IMAGE ) ) {
 	}
 }
 
-// 日付
-//$arr_post["date"] = date( "Y-m-d", mktime(  0,  0,  0, $arr_post["date"]["Month"], $arr_post["date"]["Day"], $arr_post["date"]["Year"] ) );
 
 // タグ許可
 $arr_post["comment"] = html_entity_decode( $arr_post["comment"] );
 
 // 設定
-$t_base = $arr_post;
+$mst_base = $arr_post;
 
 //----------------------------------------
 //  表示
@@ -39,12 +38,12 @@ $smarty = new MySmarty("front");
 $smarty->compile_dir .= "base/";
 
 // テンプレート設定
-$smarty->assign( "t_base", $t_base );
+$smarty->assign( "mst_base", $mst_base );
 
-// オプション配列
-$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
-$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
-
+// オプション設定
+$smarty->assign( 'OptionBaseCategory', $OptionBaseCategory );
+$smarty->assign( 'OptionOffice'       , $OptionOffice        );
+$smarty->assign( 'OptionDirector'     , $OptionDirector      );
 
 // 表示
 $html = $smarty->fetch( _PREVIEW_TPL, "", _CONTENTS_DIR . "_preview" );
@@ -60,4 +59,5 @@ if( is_array( $_ARR_IMAGE ) ) {
 }
 
 echo $html;
+
 ?>
