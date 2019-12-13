@@ -2,7 +2,7 @@
 	<div class="ibox-content">
 		<div class="hr-line-dashed"></div>
 		<div class="form-group required">
-			<label class="col-sm-2 control-label">お知らせカテゴリ名</label>
+			<label class="col-sm-2 control-label">カテゴリ名</label>
 			<div class="col-sm-3">
 				{if $message.ng.name|default:"" != NULL}<p class="error">{$message.ng.name}</p>{/if}
 				<input type="text" class="form-control" name="name" id="name" value="{$arr_post.name|default:""}" />

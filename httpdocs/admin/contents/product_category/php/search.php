@@ -14,18 +14,7 @@ require "./config.ini";
 //----------------------------------------
 //  SESSION設定
 //----------------------------------------
-if( !empty($arr_post["search_date_start"]) ) {
-	$arr_post["search_date_start"] = date( "Y/m/d", strtotime($arr_post["search_date_start"]) );
-} else {
-	$arr_post["search_date_start"] = null;
-}
-if( !empty($arr_post["search_date_end"]) ) {
-	$arr_post["search_date_end"] = date( "Y/m/d", strtotime($arr_post["search_date_end"]) );
-} else {
-	$arr_post["search_date_end"] = null;
-}
 $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] = $arr_post;
-
 
 //----------------------------------------
 //  データ一覧取得
@@ -50,7 +39,7 @@ $smarty = new MySmarty("admin");
 $smarty->compile_dir .= _CONTENTS_DIR;
 
 // テンプレートに設定
-$smarty->assign( "page_navi"       , $t_product_category["page"] );
+$smarty->assign( "page_navi"          , $t_product_category["page"] );
 $smarty->assign( "t_product_category" , $t_product_category["data"] );
 if( !empty($_ARR_IMAGE) ){
 	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );

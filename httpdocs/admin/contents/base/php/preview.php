@@ -29,7 +29,7 @@ if( is_array( $_ARR_IMAGE ) ) {
 $arr_post["comment"] = html_entity_decode( $arr_post["comment"] );
 
 // 設定
-$mst_base = $arr_post;
+$t_base = $arr_post;
 
 //----------------------------------------
 //  表示
@@ -38,7 +38,7 @@ $smarty = new MySmarty("front");
 $smarty->compile_dir .= "base/";
 
 // テンプレート設定
-$smarty->assign( "mst_base", $mst_base );
+$smarty->assign( "t_base", $t_base );
 
 // オプション設定
 $smarty->assign( 'OptionBaseCategory', $OptionBaseCategory );

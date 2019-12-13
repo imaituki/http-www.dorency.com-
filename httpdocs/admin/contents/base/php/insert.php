@@ -69,7 +69,7 @@ if( empty( $message["ng"] ) ) {
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
-	$smarty->compile_dir .= "mst_base/";
+	$smarty->compile_dir .= "t_base/";
 
 	// テンプレートに設定
 	$smarty->assign( "message"   , $message    );

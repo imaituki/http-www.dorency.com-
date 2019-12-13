@@ -76,8 +76,9 @@ if( empty( $message["ng"] ) ) {
 	// テンプレートに設定
 	$smarty->assign( "message" , $message  );
 	$smarty->assign( "arr_post", $arr_post );
-
-
+	if( !empty($_ARR_IMAGE) ){
+		$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
+	}
 
 	// 表示
 	$smarty->display( "new.tpl" );

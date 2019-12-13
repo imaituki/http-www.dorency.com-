@@ -36,16 +36,25 @@
 		<input type="file" class="file" name="{$file.name}" id="{$file.name}" size="50" />
 	</div>
 </div>
+{if $file.column1|default:"" != NULL}
+<div class="form-group{if $file.notnull2|default:'' == 1} required{/if}">
+	<label class="col-sm-2 control-label">{$file.column1}</label>
+	<div class="col-sm-6">
+		{if $message.ng[$file.name1]|default:"" != NULL}<p class="error">{$message.ng[$file.name1]}</p>{/if}
+		{if !empty($type) && $type == "text"}
+		<textarea name="{$file.name1}" id="{$file.name1}" rows="3" class="form-control">{$arr_post[$file.name1]|default:""}</textarea>
+		{else}
+		<input type="text" class="form-control" name="{$file.name1}" id="{$file.name1}" value="{$arr_post[$file.name1]|default:""}" />
+		{/if}
+	</div>
+</div>
+{/if}
 {if $file.column2|default:"" != NULL}
 <div class="form-group{if $file.notnull2|default:'' == 1} required{/if}">
 	<label class="col-sm-2 control-label">{$file.column2}</label>
 	<div class="col-sm-6">
 		{if $message.ng[$file.name2]|default:"" != NULL}<p class="error">{$message.ng[$file.name2]}</p>{/if}
-		{if !empty($type) && $type == "text"}
 		<textarea name="{$file.name2}" id="{$file.name2}" rows="3" class="form-control">{$arr_post[$file.name2]|default:""}</textarea>
-		{else}
-		<input type="text" class="form-control" name="{$file.name2}" id="{$file.name2}" value="{$arr_post[$file.name2]|default:""}" />
-		{/if}
 	</div>
 </div>
 {/if}

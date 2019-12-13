@@ -8,7 +8,7 @@
 				<thead>
 					<tr>
 						<th></th>
-						<th>拠点名</th>
+						<th>製品名</th>
 						<th class="showhide">表示</th>
 						<th class="delete">削除</th>
 					</tr>
@@ -56,13 +56,5 @@
 					</tr>
 				</tfoot>
 			</table>
-			<div id="blueimp-gallery" class="blueimp-gallery">
-				<div class="slides"></div>
-				<h3 class="title"></h3>
-				<a class="prev">‹</a>
-				<a class="next">›</a>
-				<a class="close">×</a>
-				<a class="play-pause"></a>
-				<ol class="indicator"></ol>
-			</div>
+
 			{include file=$template_pagenavi}

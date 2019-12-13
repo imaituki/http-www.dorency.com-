@@ -35,7 +35,7 @@ $objManage      = new DB_manage( _DNS );
 $objBase = new AD_base( $objManage );
 
 // データ取得
-$mst_base = $objBase->GetSearchList( $arr_post );
+$t_base = $objBase->GetSearchList( $arr_post );
 
 // クラス削除
 unset( $objManage );
@@ -50,8 +50,8 @@ $smarty = new MySmarty("admin");
 $smarty->compile_dir .= "base/";
 
 // テンプレートに設定
-$smarty->assign( "page_navi"    , $mst_base["page"] );
-$smarty->assign( "mst_base"    , $mst_base["data"] );
+$smarty->assign( "page_navi"    , $t_base["page"]    );
+$smarty->assign( "t_base"       , $t_base["data"]    );
 $smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE        );
 
 // オプション設定

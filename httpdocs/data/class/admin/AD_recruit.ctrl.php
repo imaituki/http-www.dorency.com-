@@ -110,15 +110,17 @@ class AD_recruit {
 		$objInputCheck->entryData( "勤務地 市区郡町村", "address1", $arrVal["address1"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
 		$objInputCheck->entryData( "勤務地 番地、町名、建物名", "address2", $arrVal["address2"], array( "CHECK_MIN_MAX_LEN" ), 0, 255 );
 		$objInputCheck->entryData( "リモートワーク", "remote_work", $arrVal["remote_work"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
-		
+
 		if( !empty( $arrVal["min_salary"] ) && $arrVal["min_salary"] > $arrVal["max_salary"] ){
 			$res["ng"]["min_salary"] = "賃金(最低)は賃金(最高)より小さい数字を入力してください。";
 		}
-		if( $arrVal["display_indefinite_flg"] == 0 ) {
-			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_DATE" ), null, null );
-			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE" ), null, null );
+
+		if( $arrVal["display_indefinite"] == 0 ) {
+			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_EMPTY,CHECK_DATE" ), null, null );
+			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_EMPTY,CHECK_DATE" ), null, null );
 			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE_START_TERM" ), $arrVal["display_start"], null );
 		}
+
 		$objInputCheck->entryData( "表示／非表示", "display_flg", $arrVal["display_flg"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
 
 		// チェックエントリー（UPDATE時）
@@ -132,7 +134,7 @@ class AD_recruit {
 
 
 		// データ加工
-		if( $arrVal["display_indefinite_flg"] == 0 ) {
+		if( $arrVal["display_indefinite"] == 0 ) {
 			$arrVal["display_start"] = ( !empty( $arrVal["display_start"] ) ) ? date( "Y-m-d 00:00:00", strtotime( $arrVal["display_start"] ) ) : NULL;
 			$arrVal["display_end"]   = ( !empty( $arrVal["display_end"]   ) ) ? date( "Y-m-d 23:59:59", strtotime( $arrVal["display_end"]   ) ) : NULL;
 		} else {
@@ -267,7 +269,7 @@ class AD_recruit {
 
 		// 検索条件
 		if( !empty( $search["search_keyword"] ) ) {
-			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "title", "LIKE", "OR", "%string%" ) . " ) ";
+			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "recruitment", "LIKE", "OR", "%string%" ) . " ) ";
 		}
 
 		if( !empty( $search["search_date_start"] ) ) {
