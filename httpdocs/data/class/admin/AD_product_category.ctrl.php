@@ -259,32 +259,32 @@ class AD_product_category {
 
 	}
 	//-------------------------------------------------------
-	// 関数名：sort
-	// 引  数：$sortIds - ソート順 ID
-	//       ：$sortKey - 並び替えのフィールド名
-	// 戻り値：true - 正常, false - 異常
-	// 内  容：並び替え
-	//-------------------------------------------------------
-	function sort( $sortIds, $sortKey ) {
+		// 関数名：sort
+		// 引  数：$sortIds - ソート順 ID
+		//       ：$sortKey - 並び替えのフィールド名
+		// 戻り値：true - 正常, false - 異常
+		// 内  容：並び替え
+		//-------------------------------------------------------
+		function sort( $sortIds, $sortKey ) {
 
-		// 初期化
-		$res = false;
+			// 初期化
+			$res = false;
 
-		// データチェック
-		if( !empty( $sortIds ) ) {
+			// データチェック
+			if( !empty( $sortIds ) ) {
 
-			// 変数セット
-			$this->_DBconn->_ADODB->query("set @a = 0;");
+				// 変数セット
+				$this->_DBconn->_ADODB->query("set @a = 0;");
 
-			// ソート
-			$res = $this->_DBconn->update( $this->_CtrTable, null, array( "display_num" => "( @a := @a + 1 )" ), $this->_CtrTablePk . " IN( " . $sortIds . " ) ORDER BY FIELD( " . $sortKey . ", " . $sortIds . " ) " );
+				// ソート
+				$res = $this->_DBconn->update( $this->_CtrTable, null, array( "display_num" => "( @a := @a + 1 )" ), $this->_CtrTablePk . " IN( " . $sortIds . " ) ORDER BY FIELD( " . $sortKey . ", " . $sortIds . " ) " );
+
+			}
+
+			// 戻り値
+			return $res;
 
 		}
-
-		// 戻り値
-		return $res;
-
-	}
 
 	//-------------------------------------------------------
 	// 関数名：GetSearchList

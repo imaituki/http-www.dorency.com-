@@ -7,7 +7,6 @@
 		<link href="{$_ADMIN.home}/common/css/import.css" rel="stylesheet" />
 		<link href="{$_ADMIN.home}/common/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" rel="stylesheet" />
 		{include file=$template_javascript}
-		<script src="{$_ADMIN.home}/common/js/lightbox/import.js"></script>
 		<script type="text/javascript" src="{$_ADMIN.home}/common/js/input.js"></script>
 		<script type="text/javascript" src="{$_ADMIN.home}/common/js/ckeditor/ckeditor.js"></script>
 		<link rel="stylesheet" href="{$_ADMIN.home}/common/js/chosen/chosen.css" />
@@ -42,6 +41,5 @@
 				</div>
 			</div>
 		</div>
-	</div>
 	</body>
 </html>

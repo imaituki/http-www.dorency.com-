@@ -50,8 +50,7 @@ $smarty = new MySmarty("admin");
 $smarty->compile_dir .= "base/";
 
 // テンプレートに設定
-$smarty->assign( "page_navi"    , $t_base["page"]    );
-$smarty->assign( "t_base"       , $t_base["data"]    );
+$smarty->assign( "t_base"       , $t_base     );
 $smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE        );
 
 // オプション設定

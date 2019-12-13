@@ -360,7 +360,7 @@ class AD_base {
 
 		// 検索条件
 		if( !empty( $search["search_keyword"] ) ) {
-			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "title", "LIKE", "OR", "%string%" ) . " ) ";
+			$creation_kit["where"] .= "AND ( " . $this->_DBconn->createWhereSql( $search["search_keyword"], "name", "LIKE", "OR", "%string%" ) . " ) ";
 		}
 
 		// 取得条件

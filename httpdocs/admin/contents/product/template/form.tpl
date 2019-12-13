@@ -23,7 +23,7 @@
 					</div>
 					<div class="hr-line-dashed"></div>
 					<div class="form-group">
-						<label class="col-sm-2 control-label">追加</label>
+						<label class="col-sm-2 control-label">事業所追加</label>
 						<div class="col-sm-9">
 							<p class="mb10 x-large"> <a href="javascript:void(0);" class="add_product_parts btn btn-primary btn-s"><i class="fa fa-r fa-plus-circle"></i>追加</a></p>
 						</div>
