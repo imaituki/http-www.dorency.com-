@@ -42,8 +42,7 @@ $smarty->assign( "mst_product", $mst_product );
 
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+
 
 // 表示
 $html = $smarty->fetch( _PREVIEW_TPL, "", _CONTENTS_DIR . "_preview" );

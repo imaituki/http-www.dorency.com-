@@ -22,9 +22,6 @@ $_POST["detail"][0] = "";
 $smarty = new MySmarty("admin");
 $smarty->compile_dir .= "product/";
 
-// テンプレートに設定
-$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
-
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
 

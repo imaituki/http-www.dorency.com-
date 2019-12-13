@@ -49,12 +49,6 @@
 					</tr>
 					{/foreach}
 				</tbody>
-				<tfoot>
-					<tr>
-						<td colspan="10"><ul class="pagination pull-right">
-							</ul></td>
-					</tr>
-				</tfoot>
 			</table>
 
 			{include file=$template_pagenavi}

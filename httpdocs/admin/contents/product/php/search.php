@@ -14,16 +14,6 @@ require "./config.ini";
 //----------------------------------------
 //  SESSION設定
 //----------------------------------------
-if( !empty( $arr_post["search_date_start"] ) ) {
-	$arr_post["search_date_start"] = date( "Y/m/d", strtotime( $arr_post["search_date_start"] ) );
-} else {
-	$arr_post["search_date_start"] = null;
-}
-if( !empty( $arr_post["search_date_end"] ) ) {
-	$arr_post["search_date_end"] = date( "Y/m/d", strtotime( $arr_post["search_date_end"] ) );
-} else {
-	$arr_post["search_date_end"] = null;
-}
 $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] = $arr_post;
 
 
@@ -31,7 +21,7 @@ $_SESSION["admin"][_CONTENTS_DIR]["search"]["POST"] = $arr_post;
 //  データ一覧取得
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS );
+$objManage  = new DB_manage( _DNS );
 $objProduct = new AD_product( $objManage );
 
 // データ取得
@@ -50,14 +40,12 @@ $smarty = new MySmarty("admin");
 $smarty->compile_dir .= "product/";
 
 // テンプレートに設定
-$smarty->assign( "page_navi"    , $mst_product["page"] );
-$smarty->assign( "mst_product"    , $mst_product["data"] );
-$smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE        );
+$smarty->assign( "mst_product"    , $mst_product      );
+
 
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+
 
 // 表示
 $smarty->display("list.tpl");

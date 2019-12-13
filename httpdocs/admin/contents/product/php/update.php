@@ -97,12 +97,11 @@ if( empty( $message["ng"] ) ) {
 	// テンプレートに設定
 	$smarty->assign( "message"   , $message    );
 	$smarty->assign( "arr_post"  , $arr_post   );
-	$smarty->assign( '_ARR_IMAGE', $_ARR_IMAGE );
+
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-	$smarty->assign( 'OptionOffice'       , $OptionOffice        );
-	$smarty->assign( 'OptionDirector'     , $OptionDirector      );
+
 
 	// 表示
 	$smarty->display( "edit.tpl" );

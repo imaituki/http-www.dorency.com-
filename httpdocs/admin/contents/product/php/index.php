@@ -49,7 +49,6 @@ $smarty->compile_dir .= _CONTENTS_DIR. "/";
 // テンプレートに設定
 $smarty->assign( "message"      , $message       );
 $smarty->assign( "mst_product"  , $mst_product   );
-$smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE    );
 
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
