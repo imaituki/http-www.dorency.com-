@@ -28,7 +28,7 @@
 							<p class="mb10 x-large"> <a href="javascript:void(0);" class="add_product_parts btn btn-primary btn-s"><i class="fa fa-r fa-plus-circle"></i>追加</a></p>
 						</div>
 					</div>
-				{*	<div id="item_container">
+					<div id="item_container">
 						{foreach from=$arr_post.detail item="product_parts" key="key" name="loopParts"}
 						<div class="product_parts_loop" width="100%" data-sirial="{$key}">
 							<div class="form-group">
@@ -69,8 +69,8 @@
 							<div class="form-group">
 								<label class="col-sm-2 control-label">変化所要時間</label>
 								<div class="col-sm-6">
-									{if $message.ng[detail_|cat:$key|cat:"_	necessary_time"]|default:"" != NULL}<p class="error">{$message.ng[detail_|cat:$key|cat:"_	necessary_time"]}</p>{/if}
-									<input type="text" class="form-control product_parts_	necessary_time" name="detail[{$key}][	necessary_time]" id="product_parts_	necessary_time_{$key}"  size="60" value="{$product_parts.	necessary_time|default:""}" />
+									{if $message.ng[detail_|cat:$key|cat:"_necessary_time"]|default:"" != NULL}<p class="error">{$message.ng[detail_|cat:$key|cat:"_necessary_time"]}</p>{/if}
+									<input type="text" class="form-control product_parts_necessary_time" name="detail[{$key}][necessary_time]" id="product_parts_necessary_time_{$key}"  size="60" value="{$product_parts.necessary_time|default:""}" />
 								</div>
 							</div>
 							<div class="form-group">
@@ -82,7 +82,7 @@
 							<div class="hr-line-dashed mb50"></div>
 						</div>
 							{/foreach}
-					</div>*}
+					</div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label">表示／非表示</label>
 						<div class="col-sm-6">
