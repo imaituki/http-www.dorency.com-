@@ -84,6 +84,14 @@
 							{/foreach}
 					</div>
 					<div class="form-group">
+						<label class="col-sm-2 control-label">※表の下の注意書き</label>
+						<div class="col-sm-6">
+							{if $message.ng.notice|default:"" != NULL}<p class="error">{$message.ng.notice}</p>{/if}
+							<input type="text" class="form-control" name="notice" id="notice" value="{$arr_post.notice|default:""}" />
+						</div>
+					</div>
+					<div class="hr-line-dashed"></div>
+					<div class="form-group">
 						<label class="col-sm-2 control-label">表示／非表示</label>
 						<div class="col-sm-6">
 							{if $message.ng.display_flg|default:"" != NULL}<p class="error">{$message.ng.display_flg}</p>{/if}

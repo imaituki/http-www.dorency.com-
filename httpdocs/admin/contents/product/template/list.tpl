@@ -8,6 +8,7 @@
 				<thead>
 					<tr>
 						<th></th>
+						<th>カテゴリ</th>
 						<th>製品名</th>
 						<th class="showhide">表示</th>
 						<th class="delete">削除</th>
@@ -17,17 +18,10 @@
 					{foreach from=$mst_product item="product" name="loopInProduct"}
 					<tr id="{$product.id_product}">
 						<td class="move_i">{if $arr_post.mode|default:"" == "search"}{else}<i class="fa fa-sort"><span></span></i>{/if}</td>
-						<td><a href="./edit.php?id={$product.id_product}">{$product.name}</a></td>
-						<td class="pos_al">
-							<div class="lightBoxGallery">
-								{foreach from=$_ARR_IMAGE item="file" name="file"}
-									{if $product[$file.name]}
-										<a href="{$_IMAGEFULLPATH}/product/{$file.name}/l_{$product[$file.name]}" title="{$file.comment|default:""}" data-gallery=""><img src="{$_IMAGEFULLPATH}/product/{$file.name}/s_{$product[$file.name]}" width="50" /></a>
-									{/if}
-									{if $smarty.foreach.file.iteration % 3 == 0}<br />{/if}
-								{/foreach}
-							</div>
+						<td>
+							{$OptionProductCategory[$product.id_product_category]}
 						</td>
+						<td><a href="./edit.php?id={$product.id_product}">{$product.name}</a></td>
 						<td class="pos_ac">
 							<div class="switch">
 								<div class="onoffswitch">
