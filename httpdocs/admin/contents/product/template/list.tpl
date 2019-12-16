@@ -14,7 +14,7 @@
 					</tr>
 				</thead>
 				<tbody>
-					{foreach from=$t_product item="product" name="loopInProduct"}
+					{foreach from=$mst_product item="product" name="loopInProduct"}
 					<tr id="{$product.id_product}">
 						<td class="move_i">{if $arr_post.mode|default:"" == "search"}{else}<i class="fa fa-sort"><span></span></i>{/if}</td>
 						<td><a href="./edit.php?id={$product.id_product}">{$product.name}</a></td>

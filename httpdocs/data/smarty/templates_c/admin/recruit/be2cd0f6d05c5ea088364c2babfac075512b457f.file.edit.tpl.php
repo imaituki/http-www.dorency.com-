@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 17:45:41
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 13:15:37
          compiled from "../template/edit.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:4872792155df1fe18be0997-24502810%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be2cd0f6d05c5ea088364c2babfac075512b457f' => 
     array (
       0 => '../template/edit.tpl',
-      1 => 1576140340,
+      1 => 1576210435,
       2 => 'file',
     ),
   ),
@@ -54,7 +54,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</head>
 	<body class="fixed-sidebar no-skin-config">
 		<div id="wrapper">
-			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_secondary']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('action'=>'information','manage'=>$_smarty_tpl->tpl_vars['_CONTENTS_DIR']->value), 0);?>
+			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_secondary']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('action'=>'recruit','manage'=>$_smarty_tpl->tpl_vars['_CONTENTS_DIR']->value), 0);?>
 
 			<div id="page-wrapper" class="gray-bg">
 				<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_header']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>

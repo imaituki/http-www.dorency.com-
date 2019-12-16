@@ -23,7 +23,7 @@ sortableInit();
 				<div class="lightBoxGallery">
 					{foreach from=$_ARR_IMAGE item="file" name="file"}
 						{if $base[$file.name]}
-							<a href="{$_IMAGEFULLPATH}/base/{$file.name}/l_{$base[$file.name]}" title="{$file.comment|default:""}" data-gallery=""><img src="{$_IMAGEFULLPATH}/base/{$file.name}/s_{$base[$file.name]}" width="50" /></a>
+							<a href="{$_IMAGEFULLPATH}/base/{$file.name}/l_{$base[$file.name]}" title="{$file.comment|default:""}" rel="lightbox[]"><img src="{$_IMAGEFULLPATH}/base/{$file.name}/s_{$base[$file.name]}" width="50" /></a>
 						{/if}
 					{/foreach}
 				</div>

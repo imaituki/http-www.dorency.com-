@@ -86,8 +86,8 @@
 				{if $message.ng.max_salary|default:"" != NULL}<p class="error">{$message.ng.max_salary}</p>{/if}
 				{if $message.ng.salary|default:"" != NULL}<p class="error">{$message.ng.salary}</p>{/if}
 				<div class="input-group">
-					<input type="number" class="form-control" name="min_salary" id="min_salary" value="{$arr_post.min_salary|default:""}" /><span class="input-group-addon">～</span>
-					<input type="number" class="form-control" name="max_salary" id="max_salary" value="{$arr_post.max_salary|default:""}" /><span class="input-group-addon">円</span>
+					<input type="number" class="form-control" name="min_salary" id="min_salary" value="{$arr_post.min_salary|default:""}"  min="0"/><span class="input-group-addon">～</span>
+					<input type="number" class="form-control" name="max_salary" id="max_salary" value="{$arr_post.max_salary|default:""}" min="0" /><span class="input-group-addon">円</span>
 				</div>
 			</div>
 			<div class="col-sm-offset-2 col-sm-9">

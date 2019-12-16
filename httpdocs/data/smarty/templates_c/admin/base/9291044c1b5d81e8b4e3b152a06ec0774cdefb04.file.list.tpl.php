@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-09 18:56:09
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 18:52:34
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/list.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:15601791415dee1a3979f778-98362220%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '9291044c1b5d81e8b4e3b152a06ec0774cdefb04' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/list.tpl',
-      1 => 1575885096,
+      1 => 1576230752,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5dee1a39815203_58231377',
   'variables' => 
   array (
     'template_pagenavi' => 0,
@@ -27,104 +29,91 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_CONTENTS_NAME' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5dee1a39815203_58231377',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5dee1a39815203_58231377')) {function content_5dee1a39815203_58231377($_smarty_tpl) {?>			
-			<script type="text/javascript">
-			sortableInit();
-			</script>
-			
-			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+<?php if ($_valid && !is_callable('content_5dee1a39815203_58231377')) {function content_5dee1a39815203_58231377($_smarty_tpl) {?>
+<script type="text/javascript">
+sortableInit();
+</script>
 
-			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15" id="sortable-table">
-				<thead>
-					<tr>
-						<th></th>
-						<th>拠点名</th>
-						<th class="showhide">表示</th>
-						<th class="delete">削除</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php  $_smarty_tpl->tpl_vars["base"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["base"]->_loop = false;
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
+<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15" id="sortable-table">
+	<thead>
+		<tr>
+			<th></th>
+			<th>拠点名</th>
+			<th class="photo">写真</th>
+			<th class="showhide">表示</th>
+			<th class="delete">削除</th>
+		</tr>
+	</thead>
+	<tbody>
+		<?php  $_smarty_tpl->tpl_vars["base"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["base"]->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['t_base']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
 foreach ($_from as $_smarty_tpl->tpl_vars["base"]->key => $_smarty_tpl->tpl_vars["base"]->value) {
 $_smarty_tpl->tpl_vars["base"]->_loop = true;
 ?>
-					<tr id="<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
+		<tr id="<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 ">
-						<td class="move_i"><?php if ((($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['mode'])===null||$tmp==='' ? '' : $tmp)=="search") {?><?php } else { ?><i class="fa fa-sort"><span></span></i><?php }?></td>
-						<td><a href="./edit.php?id=<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
+			<td class="move_i"><?php if ((($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['mode'])===null||$tmp==='' ? '' : $tmp)=="search") {?><?php } else { ?><i class="fa fa-sort"><span></span></i><?php }?></td>
+			<td><a href="./edit.php?id=<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 "><?php echo $_smarty_tpl->tpl_vars['base']->value['name'];?>
 </a></td>
-						<td class="pos_al">
-							<div class="lightBoxGallery">
-								<?php  $_smarty_tpl->tpl_vars["file"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["file"]->_loop = false;
+			<td class="pos_al">
+				<div class="lightBoxGallery">
+					<?php  $_smarty_tpl->tpl_vars["file"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["file"]->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['_ARR_IMAGE']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
- $_smarty_tpl->tpl_vars['smarty']->value['foreach']["file"]['iteration']=0;
 foreach ($_from as $_smarty_tpl->tpl_vars["file"]->key => $_smarty_tpl->tpl_vars["file"]->value) {
 $_smarty_tpl->tpl_vars["file"]->_loop = true;
- $_smarty_tpl->tpl_vars['smarty']->value['foreach']["file"]['iteration']++;
 ?>
-									<?php if ($_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']]) {?>
-										<a href="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
+						<?php if ($_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']]) {?>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
 /base/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /l_<?php echo $_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
 " title="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['file']->value['comment'])===null||$tmp==='' ? '' : $tmp);?>
-" data-gallery=""><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
+" rel="lightbox[]"><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
 /base/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /s_<?php echo $_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
 " width="50" /></a>
-									<?php }?>
-									<?php if ($_smarty_tpl->getVariable('smarty')->value['foreach']['file']['iteration']%3==0) {?><br /><?php }?>
-								<?php } ?>
-							</div>
-						</td>
-						<td class="pos_ac">
-							<div class="switch">
-								<div class="onoffswitch">
-									<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
+						<?php }?>
+					<?php } ?>
+				</div>
+			</td>
+			<td class="pos_ac">
+				<div class="switch">
+					<div class="onoffswitch">
+						<input type="checkbox" value="1" class="onoffswitch-checkbox btn_display" id="display<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 " data-id="<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 "<?php if ($_smarty_tpl->tpl_vars['base']->value['display_flg']==1) {?> checked<?php }?>>
-									<label class="onoffswitch-label" for="display<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
+						<label class="onoffswitch-label" for="display<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 ">
-										<span class="onoffswitch-inner"></span>
-										<span class="onoffswitch-switch"></span>
-									</label>
-								</div>
-							</div>
-						</td>
-						<td class="pos_ac">
-							<a href="javascript:void(0)" class="btn btn-danger btn_delete" data-id="<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
+							<span class="onoffswitch-inner"></span>
+							<span class="onoffswitch-switch"></span>
+						</label>
+					</div>
+				</div>
+			</td>
+			<td class="pos_ac">
+				<a href="javascript:void(0)" class="btn btn-danger btn_delete" data-id="<?php echo $_smarty_tpl->tpl_vars['base']->value['id_base'];?>
 ">削除</a>
-						</td>
-					</tr>
-					<?php }
+			</td>
+		</tr>
+		<?php }
 if (!$_smarty_tpl->tpl_vars["base"]->_loop) {
 ?>
-					<tr>
-						<td colspan="6"><?php echo $_smarty_tpl->tpl_vars['_CONTENTS_NAME']->value;?>
+		<tr>
+			<td colspan="6"><?php echo $_smarty_tpl->tpl_vars['_CONTENTS_NAME']->value;?>
 は見つかりません。</td>
-					</tr>
-					<?php } ?>
-				</tbody>
-				<tfoot>
-					<tr>
-						<td colspan="10"><ul class="pagination pull-right">
-							</ul></td>
-					</tr>
-				</tfoot>
-			</table>
-			<div id="blueimp-gallery" class="blueimp-gallery">
-				<div class="slides"></div>
-				<h3 class="title"></h3>
-				<a class="prev">‹</a>
-				<a class="next">›</a>
-				<a class="close">×</a>
-				<a class="play-pause"></a>
-				<ol class="indicator"></ol>
-			</div>
-			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+		</tr>
+		<?php } ?>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="10"><ul class="pagination pull-right">
+				</ul></td>
+		</tr>
+	</tfoot>
+</table>
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 <?php }} ?>

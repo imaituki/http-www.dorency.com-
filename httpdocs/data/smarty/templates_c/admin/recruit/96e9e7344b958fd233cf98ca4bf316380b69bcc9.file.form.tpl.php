@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 17:54:06
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 18:41:26
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:5713087495df1ae08eeadd4-35954701%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '96e9e7344b958fd233cf98ca4bf316380b69bcc9' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/form.tpl',
-      1 => 1576140843,
+      1 => 1576230085,
       2 => 'file',
     ),
   ),
@@ -145,9 +145,9 @@ if (!is_callable('smarty_function_html_select_ken')) include '/var/www/vhosts/do
 </p><?php }?>
 				<div class="input-group">
 					<input type="number" class="form-control" name="min_salary" id="min_salary" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['min_salary'])===null||$tmp==='' ? '' : $tmp);?>
-" /><span class="input-group-addon">～</span>
+"  min="0"/><span class="input-group-addon">～</span>
 					<input type="number" class="form-control" name="max_salary" id="max_salary" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['max_salary'])===null||$tmp==='' ? '' : $tmp);?>
-" /><span class="input-group-addon">円</span>
+" min="0" /><span class="input-group-addon">円</span>
 				</div>
 			</div>
 			<div class="col-sm-offset-2 col-sm-9">
