@@ -2,13 +2,13 @@
 //----------------------------------------------------------------------------
 // 作成日: 2016/11/01
 // 作成者: 鈴木
-// 内  容: お知らせクラス
+// 内  容: 拠点クラス
 //----------------------------------------------------------------------------
 
 //-------------------------------------------------------
 //  クラス
 //-------------------------------------------------------
-class FT_information {
+class FT_base {
 
 	//-------------------------------------------------------
 	//  変数宣言
@@ -17,11 +17,11 @@ class FT_information {
 	var $_DBconn = null;
 
 	// 主テーブル
-	var $_CtrTable   = "t_information";
-	var $_CtrTablePk = "id_information";
+	var $_CtrTable   = "t_base";
+	var $_CtrTablePk = "id_base";
 
 	// コントロール機能（ログ用）
-	var $_CtrLogName = "お知らせ";
+	var $_CtrLogName = "拠点";
 
 
 	//-------------------------------------------------------
@@ -65,15 +65,14 @@ class FT_information {
 		// SQL配列
 		$creation_kit = array(  "select" => "*",
 								"from"   => $this->_CtrTable,
-								"where"  => "date <= NOW() AND
-											 display_flg = 1 AND
-											 ( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end  ) ) ",
-								"order"  => "date DESC"
+								"where"  => "display_flg = 1 ",
+								"order"  => "id_base ASC"
 							);
 
 		//-------------------------------------------
 		// 検索条件
 		//-------------------------------------------
+
 		// 取得条件
 		if( empty( $option ) ) {
 
@@ -92,8 +91,7 @@ class FT_information {
 								 "LinkSpanNowPost" => "</strong>" );
 
 			// オプション
-			$option = array( "fetch" => _DB_FETCH_ALL,
-							 "page"  => $_PAGE_INFO );
+			$option = array( "fetch" => _DB_FETCH_ALL);
 
 		} else {
 
@@ -105,7 +103,7 @@ class FT_information {
 		}
 
 		// データ取得
-		$res = $this->_DBconn->selectCtrl( $creation_kit, $option );
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL) );
 
 		// タグ許可
 		if( !empty($res["data"]) && is_array($res["data"]) ) {
@@ -144,9 +142,7 @@ class FT_information {
 		// SQL配列
 		$creation_kit = array( "select" => "*",
 							   "from"   => $this->_CtrTable,
-							   "where"  => "date <= NOW() AND
-											 display_flg = 1 AND
-											( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end ) ) AND " .
+							   "where"  => "display_flg = 1 " .
 											$this->_CtrTablePk . " = " . $id );
 
 		// データ取得
@@ -169,7 +165,7 @@ class FT_information {
 
 	//-------------------------------------------------------
 	// 関数名: GetDetailPageNavi
-	// 引  数: $id   - お知らせID
+	// 引  数: $id   - 拠点ID
 	// 戻り値: ページナビ
 	// 内  容: 詳細ページ用のページナビを作成する
 	//-------------------------------------------------------
@@ -215,8 +211,8 @@ class FT_information {
 	//-------------------------------------------------------
 	// 関数名: GetOption
 	// 引  数: なし
-	// 戻り値: お知らせカテゴリーオプション
-	// 内  容: お知らせカテゴリーをオプション化して取得
+	// 戻り値: 拠点カテゴリーオプション
+	// 内  容: 拠点カテゴリーをオプション化して取得
 	//-------------------------------------------------------
 	function GetOption() {
 

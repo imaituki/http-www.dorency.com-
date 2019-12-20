@@ -48,6 +48,14 @@
 			{include file=$template_image path=$_IMAGEFULLPATH dir=$_CONTENTS_DIR prefix="s_"}
 		{/if}
 		<div class="form-group">
+			<label class="col-sm-2 control-label">グーグルマップリンク</label>
+			<div class="col-sm-6">
+				{if $message.ng.map|default:"" != NULL}<p class="error">{$message.ng.map}</p>{/if}
+				<input type="text" class="form-control" name="map" id="map"  size="60" value="{$arr_post.map|default:""}" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
+		<div class="form-group">
 			<label class="col-sm-2 control-label">表示／非表示</label>
 			<div class="col-sm-6">
 				{if $message.ng.display_flg|default:"" != NULL}<p class="error">{$message.ng.display_flg}</p>{/if}

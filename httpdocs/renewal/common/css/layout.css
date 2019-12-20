@@ -135,10 +135,10 @@ body.pc #head:not(.fixed) #head_navi .main > li a:hover:after { width:100%; }
 	}
 
 /* pankuzu */
-#pankuzu { text-align:left; font-size:13px; padding:10px 0; color:#fff; }
-#pankuzu a { color:#fff; }
+#pankuzu { text-align:left; font-size:13px; padding:10px 0; color:#000; }
+#pankuzu a { color:#50A243; }
 #pankuzu li { display:inline-block; }
-#pankuzu li:before { content:"\f054"; font-family:"Font Awesome 5 Free"; -webkit-font-smoothing:antialiased; text-rendering:auto; font-variant:normal; font-weight:bold; font-size:0.85em; padding:0 10px; color:#fff; }
+#pankuzu li:before { content:"\f054"; font-family:"Font Awesome 5 Free"; -webkit-font-smoothing:antialiased; text-rendering:auto; font-variant:normal; font-weight:bold; font-size:0.85em; padding:0 10px; color:#D9D9D9; }
 #pankuzu ul > li:first-child:before { content:""; padding:0; }
 	@media (max-width: 575px){
 		#pankuzu { display:none; }
