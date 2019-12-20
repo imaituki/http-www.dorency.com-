@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-11 19:18:52
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-16 14:27:21
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/common/inc/image.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:20320322145df0c28c20b0e5-85257768%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c5d89d76c8a85de09897eabbc0b11dfb505c3f22' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/common/inc/image.tpl',
-      1 => 1575597285,
+      1 => 1576218741,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5df0c28c370a21_47677593',
   'variables' => 
   array (
     '_ARR_IMAGE' => 0,
@@ -32,8 +34,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'type' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df0c28c370a21_47677593',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5df0c28c370a21_47677593')) {function content_5df0c28c370a21_47677593($_smarty_tpl) {?><?php  $_smarty_tpl->tpl_vars['file'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['file']->_loop = false;
  $_smarty_tpl->tpl_vars['key'] = new Smarty_Variable;
@@ -99,6 +99,27 @@ _now" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_sm
 " size="50" />
 	</div>
 </div>
+<?php if ((($tmp = @$_smarty_tpl->tpl_vars['file']->value['column1'])===null||$tmp==='' ? '' : $tmp)!=null) {?>
+<div class="form-group<?php if ((($tmp = @$_smarty_tpl->tpl_vars['file']->value['notnull2'])===null||$tmp==='' ? '' : $tmp)==1) {?> required<?php }?>">
+	<label class="col-sm-2 control-label"><?php echo $_smarty_tpl->tpl_vars['file']->value['column1'];?>
+</label>
+	<div class="col-sm-6">
+		<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng'][$_smarty_tpl->tpl_vars['file']->value['name1']])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng'][$_smarty_tpl->tpl_vars['file']->value['name1']];?>
+</p><?php }?>
+		<?php if (!empty($_smarty_tpl->tpl_vars['type']->value)&&$_smarty_tpl->tpl_vars['type']->value=="text") {?>
+		<textarea name="<?php echo $_smarty_tpl->tpl_vars['file']->value['name1'];?>
+" id="<?php echo $_smarty_tpl->tpl_vars['file']->value['name1'];?>
+" rows="3" class="form-control"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_smarty_tpl->tpl_vars['file']->value['name1']])===null||$tmp==='' ? '' : $tmp);?>
+</textarea>
+		<?php } else { ?>
+		<input type="text" class="form-control" name="<?php echo $_smarty_tpl->tpl_vars['file']->value['name1'];?>
+" id="<?php echo $_smarty_tpl->tpl_vars['file']->value['name1'];?>
+" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_smarty_tpl->tpl_vars['file']->value['name1']])===null||$tmp==='' ? '' : $tmp);?>
+" />
+		<?php }?>
+	</div>
+</div>
+<?php }?>
 <?php if ((($tmp = @$_smarty_tpl->tpl_vars['file']->value['column2'])===null||$tmp==='' ? '' : $tmp)!=null) {?>
 <div class="form-group<?php if ((($tmp = @$_smarty_tpl->tpl_vars['file']->value['notnull2'])===null||$tmp==='' ? '' : $tmp)==1) {?> required<?php }?>">
 	<label class="col-sm-2 control-label"><?php echo $_smarty_tpl->tpl_vars['file']->value['column2'];?>
@@ -106,17 +127,10 @@ _now" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_sm
 	<div class="col-sm-6">
 		<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng'][$_smarty_tpl->tpl_vars['file']->value['name2']])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng'][$_smarty_tpl->tpl_vars['file']->value['name2']];?>
 </p><?php }?>
-		<?php if (!empty($_smarty_tpl->tpl_vars['type']->value)&&$_smarty_tpl->tpl_vars['type']->value=="text") {?>
 		<textarea name="<?php echo $_smarty_tpl->tpl_vars['file']->value['name2'];?>
 " id="<?php echo $_smarty_tpl->tpl_vars['file']->value['name2'];?>
 " rows="3" class="form-control"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_smarty_tpl->tpl_vars['file']->value['name2']])===null||$tmp==='' ? '' : $tmp);?>
 </textarea>
-		<?php } else { ?>
-		<input type="text" class="form-control" name="<?php echo $_smarty_tpl->tpl_vars['file']->value['name2'];?>
-" id="<?php echo $_smarty_tpl->tpl_vars['file']->value['name2'];?>
-" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value[$_smarty_tpl->tpl_vars['file']->value['name2']])===null||$tmp==='' ? '' : $tmp);?>
-" />
-		<?php }?>
 	</div>
 </div>
 <?php }?>

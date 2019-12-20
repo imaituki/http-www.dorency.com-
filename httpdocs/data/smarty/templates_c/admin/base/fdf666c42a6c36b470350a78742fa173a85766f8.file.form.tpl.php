@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 13:01:42
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-20 14:42:55
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1415413675df20b5cef9a99-48450984%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fdf666c42a6c36b470350a78742fa173a85766f8' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/form.tpl',
-      1 => 1576209687,
+      1 => 1576820572,
       2 => 'file',
     ),
   ),
@@ -93,6 +93,16 @@ if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorenc
 			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_image']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('path'=>$_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value,'dir'=>$_smarty_tpl->tpl_vars['_CONTENTS_DIR']->value,'prefix'=>"s_"), 0);?>
 
 		<?php }?>
+		<div class="form-group">
+			<label class="col-sm-2 control-label">グーグルマップリンク</label>
+			<div class="col-sm-6">
+				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['map'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['map'];?>
+</p><?php }?>
+				<input type="text" class="form-control" name="map" id="map"  size="60" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['map'])===null||$tmp==='' ? '' : $tmp);?>
+" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
 		<div class="form-group">
 			<label class="col-sm-2 control-label">表示／非表示</label>
 			<div class="col-sm-6">

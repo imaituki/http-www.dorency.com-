@@ -1,34 +1,78 @@
-<!DOCTYPE html>
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-20 16:16:03
+         compiled from "./index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:10057094835dfc75331d06a4-79383782%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
+    array (
+      0 => './index.tpl',
+      1 => 1576823161,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '10057094835dfc75331d06a4-79383782',
+  'function' => 
+  array (
+  ),
+  'variables' => 
+  array (
+    'template_meta' => 0,
+    '_RENEWAL_DIR' => 0,
+    'template_javascript' => 0,
+    'template_header' => 0,
+    't_information' => 0,
+    'information' => 0,
+    'OptionInformationCategory' => 0,
+    'template_footer' => 0,
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5dfc7533287837_29825958',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5dfc7533287837_29825958')) {function content_5dfc7533287837_29825958($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-{include file=$template_meta}
-<link rel="stylesheet" href="{$_RENEWAL_DIR}/common/css/import.css">
-{include file=$template_javascript}
-<script type="text/javascript" src="{$_RENEWAL_DIR}/common/js/top.js"></script>
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_meta']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
+<link rel="stylesheet" href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/css/import.css">
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_javascript']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
+<script type="text/javascript" src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/js/top.js"></script>
 </head>
 <body id="top">
 <div id="base">
-{include file=$template_header}
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_header']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
 <main>
 <div id="top_main">
 	<div id="main_image">
 		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main.jpg" alt="ドレンシー株式会社"></div>
+			<div class="img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main.jpg" alt="ドレンシー株式会社"></div>
 			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
+				<div class="center img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main_text1.png" alt=""></div>
 			</div>
 		</div>
 		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main2.jpg" alt="ドレンシー株式会社"></div>
+			<div class="img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main2.jpg" alt="ドレンシー株式会社"></div>
 			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
+				<div class="center img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main_text1.png" alt=""></div>
 			</div>
 		</div>
 		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main3.jpg" alt="ドレンシー株式会社"></div>
+			<div class="img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main3.jpg" alt="ドレンシー株式会社"></div>
 			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
+				<div class="center img_back"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/main_text1.png" alt=""></div>
 			</div>
 		</div>
 	</div>
@@ -38,84 +82,13 @@
 		<div id="development" class="wrapper">
 			<div class="center2">
 				<h2 class="hl_1">本社/生産/開発拠点<span class="sub">Development base</span></h2>
-				<p class="pos_ac mb50"><img src="{$_RENEWAL_DIR}/common/image/contents/top/image2.png" alt="本社/生産/開発拠点"></p>
+				<p class="pos_ac mb50"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/image2.png" alt="本社/生産/開発拠点"></p>
 			</div>
 			<div class="center">
 				<div class="row">
-					{foreach from=$t_base item="base" key="key" name="LoopBase"}
-					<div class="col-xs-6">
-						<div class="box bor10">
-							<div class="row no-gutters">
-								<div class="col-xs-7">
-									<div class="text height-1">
-										<h3>{$base.name}</h3>
-										<p>{$base.zip}{if $base.image1 != NULL}<br>{else}　{/if}
-											{$base.address1}{if $base.image1 != NULL}<br>{/if}{$base.address2}
-											<a href="{$base.map}" target="_blank" class="ga_link" data-text="{$base.name}GoogleMap">[GoogleMap]</a>
-										</p>
-									</div>
-								</div>
-								<div class="col-xs-5">
-									<div class="photo img_back height-1"><img src="{if $base.image1}{$_RENEWAL_DIR}/common/photo/base/image1/m_{$base.image1}{/if}" alt="{$base.name}"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					{/foreach}
-				{*	<div class="col-xs-6">
-						<div class="box bor10">
-							<div class="row no-gutters">
-								<div class="col-xs-7">
-									<div class="text height-1">
-										<h3>本社工場</h3>
-										<p>〒000-0000<br>
-											岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市<br>
-											<a href="###" target="_blank" class="ga_link" data-text="本社工場GoogleMap">[GoogleMap]</a>
-										</p>
-									</div>
-								</div>
-								<div class="col-xs-5">
-									<div class="photo img_back height-1"><img src="https://placehold.jp/800x600.png" alt="本社工場"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-xs-6">
-						<div class="box bor10">
-							<div class="row no-gutters">
-								<div class="col-xs-7">
-									<div class="text height-1">
-										<h3>本社工場</h3>
-										<p>〒000-0000<br>
-											岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市<br>
-											<a href="###" target="_blank" class="ga_link" data-text="本社工場GoogleMap">[GoogleMap]</a>
-										</p>
-									</div>
-								</div>
-								<div class="col-xs-5">
-									<div class="photo img_back height-1"><img src="https://placehold.jp/800x600.png" alt="本社工場"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-xs-6">
-						<div class="box bor10">
-							<div class="row no-gutters">
-								<div class="col-xs-7">
-									<div class="text height-1">
-										<h3>本社工場</h3>
-										<p>〒000-0000<br>
-											岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市岡山県浅口市<br>
-											<a href="###" target="_blank" class="ga_link" data-text="本社工場GoogleMap">[GoogleMap]</a>
-										</p>
-									</div>
-								</div>
-								<div class="col-xs-5">
-									<div class="photo img_back height-1"><img src="https://placehold.jp/800x600.png" alt="本社工場"></div>
-								</div>
-							</div>
-						</div>
-					</div>*}
+					
+				
 				</div>
 			</div>
 		</div>
@@ -134,15 +107,18 @@
 						<div class="col-xs-3-5">
 							<div class="row no-gutters">
 								<div class="col-xs-8">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d2.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d2.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-4">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d3.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d3.jpg" alt="研究開発">
 								</div>
 							</div>
 							<div class="row no-gutters">
 								<div class="col-xs-4">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d4.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d4.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-8">
 									<img src="https://placehold.jp/800x350.png" alt="">
@@ -159,15 +135,18 @@
 						<div class="col-xs-3-5">
 							<div class="row no-gutters">
 								<div class="col-xs-8">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d2.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d2.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-4">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d3.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d3.jpg" alt="研究開発">
 								</div>
 							</div>
 							<div class="row no-gutters">
 								<div class="col-xs-4">
-									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d4.jpg" alt="研究開発">
+									<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/r_d4.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-8">
 									<img src="https://placehold.jp/800x350.png" alt="">
@@ -192,10 +171,12 @@
 						</div>
 					</div>
 					<div class="col-xs-4">
-						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image5.png" alt="">
+						<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/image5.png" alt="">
 					</div>
 					<div class="col-xs-4">
-						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image6.png" alt="">
+						<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/image6.png" alt="">
 					</div>
 				</div>
 			</div>
@@ -208,7 +189,8 @@
 				<div class="box">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k1.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/brand_k1.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
@@ -217,14 +199,16 @@
 							</div>
 						</div>
 						<div class="col-xs-2-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/d1.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/d1.jpg" alt=""></div>
 						</div>
 					</div>
 				</div>
 				<div class="box">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k2.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/brand_k2.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
@@ -233,14 +217,16 @@
 							</div>
 						</div>
 						<div class="col-xs-2-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/d2.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/d2.jpg" alt=""></div>
 						</div>
 					</div>
 				</div>
 				<div class="box">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k1.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/brand_k1.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
@@ -249,7 +235,8 @@
 							</div>
 						</div>
 						<div class="col-xs-2-5">
-							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/d3.jpg" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/d3.jpg" alt=""></div>
 						</div>
 					</div>
 				</div>
@@ -291,14 +278,16 @@
 					<div class="pos_al">
 						<h2 class="hl_1 pos_al">楽々カイロ<span class="sub">Heat Pad</span></h2>
 						<p class="mb50">すぐに温まりたい人必携、常に高温を維持、即効性をアピールした文章</p>
-						<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
+						<div><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 						<div>
 							<a href="###" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-7 col-xs-pull-5">
-					<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo_p.jpg" alt="楽々カイロ"></div>
+					<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/cairo_p.jpg" alt="楽々カイロ"></div>
 				</div>
 			</div>
 		</div>
@@ -323,7 +312,9 @@
 		</div>
 		<div class="wrapper-t top_recruit_b">
 			<div class="center">
-				<a href="{$_RENEWAL_DIR}/recruit/" class="ov"><img src="{$_RENEWAL_DIR}/common/image/contents/top/recruit.jpg" alt="採用情報"></a>
+				<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/recruit/" class="ov"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/recruit.jpg" alt="採用情報"></a>
 			</div>
 		</div>
 	</section>
@@ -335,23 +326,38 @@
 					<div class="right"><a href="###">一覧を見る</a></div>
 				</div>
 				<div class="info_list">
-					{foreach from=$t_information item="information" key="key" name="LoopInfomation"}
-					<a href="{$_RENEWAL_DIR}/information/detail.php?id={$information.id_information}" class="fa_a">
+					<?php  $_smarty_tpl->tpl_vars["information"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["information"]->_loop = false;
+ $_smarty_tpl->tpl_vars["key"] = new Smarty_Variable;
+ $_from = $_smarty_tpl->tpl_vars['t_information']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+foreach ($_from as $_smarty_tpl->tpl_vars["information"]->key => $_smarty_tpl->tpl_vars["information"]->value) {
+$_smarty_tpl->tpl_vars["information"]->_loop = true;
+ $_smarty_tpl->tpl_vars["key"]->value = $_smarty_tpl->tpl_vars["information"]->key;
+?>
+					<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/information/detail.php?id=<?php echo $_smarty_tpl->tpl_vars['information']->value['id_information'];?>
+" class="fa_a">
 						<dl>
-							<dt><span class="tag_1">{$OptionInformationCategory[$information.information_category]}</span></dt>
-							<dd>{$information.date|date_format:"%Y/%m/%d"}　{$information.title}</dd>
+							<dt><span class="tag_1"><?php echo $_smarty_tpl->tpl_vars['OptionInformationCategory']->value[$_smarty_tpl->tpl_vars['information']->value['information_category']];?>
+</span></dt>
+							<dd><?php echo smarty_modifier_date_format($_smarty_tpl->tpl_vars['information']->value['date'],"%Y/%m/%d");?>
+　<?php echo $_smarty_tpl->tpl_vars['information']->value['title'];?>
+</dd>
 						</dl>
 					</a>
-					{foreachelse}
+					<?php }
+if (!$_smarty_tpl->tpl_vars["information"]->_loop) {
+?>
 						<div>お知らせはありません。</div>
-					{/foreach}
+					<?php } ?>
 				</div>
 			</div>
 		</div>
 	</section>
 </div>
 </main>
-{include file=$template_footer}
+<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_footer']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
 </div>
 </body>
 </html>
+<?php }} ?>

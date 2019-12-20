@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 18:53:46
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-16 17:39:50
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/list.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:16697167905df216991942f3-42738822%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8e5785170c02a8997415095076f33cb3753ce6e6' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/list.tpl',
-      1 => 1576230823,
+      1 => 1576485589,
       2 => 'file',
     ),
   ),
@@ -23,9 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'mst_product' => 0,
     'product' => 0,
     'arr_post' => 0,
-    '_ARR_IMAGE' => 0,
-    'file' => 0,
-    '_IMAGEFULLPATH' => 0,
+    'OptionProductCategory' => 0,
     '_CONTENTS_NAME' => 0,
   ),
   'has_nocache_code' => false,
@@ -41,6 +39,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				<thead>
 					<tr>
 						<th></th>
+						<th>カテゴリ</th>
 						<th>製品名</th>
 						<th class="showhide">表示</th>
 						<th class="delete">削除</th>
@@ -55,32 +54,13 @@ $_smarty_tpl->tpl_vars["product"]->_loop = true;
 					<tr id="<?php echo $_smarty_tpl->tpl_vars['product']->value['id_product'];?>
 ">
 						<td class="move_i"><?php if ((($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['mode'])===null||$tmp==='' ? '' : $tmp)=="search") {?><?php } else { ?><i class="fa fa-sort"><span></span></i><?php }?></td>
+						<td>
+							<?php echo $_smarty_tpl->tpl_vars['OptionProductCategory']->value[$_smarty_tpl->tpl_vars['product']->value['id_product_category']];?>
+
+						</td>
 						<td><a href="./edit.php?id=<?php echo $_smarty_tpl->tpl_vars['product']->value['id_product'];?>
 "><?php echo $_smarty_tpl->tpl_vars['product']->value['name'];?>
 </a></td>
-						<td class="pos_al">
-							<div class="lightBoxGallery">
-								<?php  $_smarty_tpl->tpl_vars["file"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["file"]->_loop = false;
- $_from = $_smarty_tpl->tpl_vars['_ARR_IMAGE']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
- $_smarty_tpl->tpl_vars['smarty']->value['foreach']["file"]['iteration']=0;
-foreach ($_from as $_smarty_tpl->tpl_vars["file"]->key => $_smarty_tpl->tpl_vars["file"]->value) {
-$_smarty_tpl->tpl_vars["file"]->_loop = true;
- $_smarty_tpl->tpl_vars['smarty']->value['foreach']["file"]['iteration']++;
-?>
-									<?php if ($_smarty_tpl->tpl_vars['product']->value[$_smarty_tpl->tpl_vars['file']->value['name']]) {?>
-										<a href="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
-/product/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
-/l_<?php echo $_smarty_tpl->tpl_vars['product']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
-" title="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['file']->value['comment'])===null||$tmp==='' ? '' : $tmp);?>
-" data-gallery=""><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
-/product/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
-/s_<?php echo $_smarty_tpl->tpl_vars['product']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
-" width="50" /></a>
-									<?php }?>
-									<?php if ($_smarty_tpl->getVariable('smarty')->value['foreach']['file']['iteration']%3==0) {?><br /><?php }?>
-								<?php } ?>
-							</div>
-						</td>
 						<td class="pos_ac">
 							<div class="switch">
 								<div class="onoffswitch">

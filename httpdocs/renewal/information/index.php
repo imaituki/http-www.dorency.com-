@@ -2,7 +2,7 @@
 //-------------------------------------------------------------------
 // 作成日：2019/10/11
 // 作成者：岡田
-// 内  容：トップページ
+// 内  容：ページ
 //-------------------------------------------------------------------
 
 //----------------------------------------
@@ -27,7 +27,7 @@ $_HTML_HEADER["description"] = "";
 //  データ取得
 //----------------------------------------
 // 操作クラス
-$objManage      = new DB_manage( _DNS,1 );
+$objManage      = new DB_manage( _DNS );
 $objInformation = new FT_information( $objManage );
 
 // 検索条件
@@ -47,6 +47,7 @@ unset( $objManage        );
 $smarty = new MySmarty("front");
 $smarty->compile_dir .= "information/";
 
+/*
 // テンプレートに設定
 $smarty->assign( "page_navi"    , $t_information["page"] );
 $smarty->assign( "t_information", $t_information["data"] );
@@ -54,7 +55,7 @@ $smarty->assign( "message"      , $message               );
 
 // オプション設定
 $smarty->assign( "OptionInformationCategory", $OptionInformationCategory );
-
+*/
 // 表示
 $smarty->display("index.tpl");
 

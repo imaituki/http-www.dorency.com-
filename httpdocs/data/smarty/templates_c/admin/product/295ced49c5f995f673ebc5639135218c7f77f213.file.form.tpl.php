@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 20:50:04
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-16 17:44:21
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:19490851015df2169faad5a4-03959593%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '295ced49c5f995f673ebc5639135218c7f77f213' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl',
-      1 => 1576151398,
+      1 => 1576485860,
       2 => 'file',
     ),
   ),
@@ -152,6 +152,16 @@ $_smarty_tpl->tpl_vars["product_parts"]->_loop = true;
 						</div>
 							<?php } ?>
 					</div>
+					<div class="form-group">
+						<label class="col-sm-2 control-label">※表の下の注意書き</label>
+						<div class="col-sm-6">
+							<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['notice'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['notice'];?>
+</p><?php }?>
+							<input type="text" class="form-control" name="notice" id="notice" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['notice'])===null||$tmp==='' ? '' : $tmp);?>
+" />
+						</div>
+					</div>
+					<div class="hr-line-dashed"></div>
 					<div class="form-group">
 						<label class="col-sm-2 control-label">表示／非表示</label>
 						<div class="col-sm-6">

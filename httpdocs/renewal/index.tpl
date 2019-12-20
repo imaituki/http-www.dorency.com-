@@ -42,26 +42,7 @@
 			</div>
 			<div class="center">
 				<div class="row">
-					{foreach from=$t_base item="base" key="key" name="LoopBase"}
-					<div class="col-xs-6">
-						<div class="box bor10">
-							<div class="row no-gutters">
-								<div class="col-xs-7">
-									<div class="text height-1">
-										<h3>{$base.name}</h3>
-										<p>{$base.zip}{if $base.image1 != NULL}<br>{else}　{/if}
-											{$base.address1}{if $base.image1 != NULL}<br>{/if}{$base.address2}
-											<a href="{$base.map}" target="_blank" class="ga_link" data-text="{$base.name}GoogleMap">[GoogleMap]</a>
-										</p>
-									</div>
-								</div>
-								<div class="col-xs-5">
-									<div class="photo img_back height-1"><img src="{if $base.image1}{$_RENEWAL_DIR}/common/photo/base/image1/m_{$base.image1}{/if}" alt="{$base.name}"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					{/foreach}
+					
 				{*	<div class="col-xs-6">
 						<div class="box bor10">
 							<div class="row no-gutters">
