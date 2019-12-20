@@ -134,6 +134,10 @@ body.pc #head:not(.fixed) #head_navi .main > li a:hover:after { width:100%; }
 		#page_title h2 .main { font-size:2.25em; }
 	}
 
+#page_title .page_title_wrap.common h2{ text-align: center;}
+#page_title .page_title_wrap.common h2 .main {font-size: 3.25em;}
+#page_title .page_title_wrap.common h2 .sub {display: block; color: #777777; padding: 0; margin:0; border-left:none;}
+
 /* pankuzu */
 #pankuzu { text-align:left; font-size:13px; padding:10px 0; color:#000; }
 #pankuzu a { color:#50A243; }
