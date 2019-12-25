@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-20 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:20964104535dfca5181dea51-10596918%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8166253105e0339163020b5-08573490%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '27068aebe26060c867fa9ba497382e5e0245fba5' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl',
-      1 => 1576809167,
+      1 => 1577263930,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '20964104535dfca5181dea51-10596918',
+  'nocache_hash' => '8166253105e0339163020b5-08573490',
   'function' => 
   array (
   ),
@@ -21,12 +21,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5dfca518201e90_16857750',
+  'unifunc' => 'content_5e03391632a511_20177067',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5dfca518201e90_16857750')) {function content_5dfca518201e90_16857750($_smarty_tpl) {?><header>
+<?php if ($_valid && !is_callable('content_5e03391632a511_20177067')) {function content_5e03391632a511_20177067($_smarty_tpl) {?><header>
 <div id="head">
 	<div class="center">
-		<h1 class="site_logo"><a class="ov" href="/"><img src="common/image/head/logo.png" alt="ドレンシー株式会社"></a></h1>
+		<h1 class="site_logo"><a class="ov" href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/head/logo.png" alt="ドレンシー株式会社"></a></h1>
 		<div id="head_contact">
 			<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /contact/" class="contact"><i class="fa fa-envelope"></i>お問い合わせ</a>

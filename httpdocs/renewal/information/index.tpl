@@ -14,7 +14,7 @@
 	<div id="page_title">
 		<div><img src="{$_RENEWAL_DIR}/common/image/contents/top.jpg" alt="お知らせ"></div>
 		<div class="page_title_wrap common">
-			<div class="center mincho cg1">
+			<div class="center mincho cg5">
 				<h2><span class="main">News</span><span class="sub">お知らせ</span></h2>
 			</div>
 		</div>

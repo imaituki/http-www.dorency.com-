@@ -14,7 +14,7 @@
 	<div id="page_title">
 		<div><img src="{$_RENEWAL_DIR}/common/image/contents/top.jpg" alt="お知らせ"></div>
 		<div class="page_title_wrap common">
-			<div class="center mincho cg1">
+			<div class="center mincho cg5">
 				<h2><span class="main">News</span><span class="sub">お知らせ</span></h2>
 			</div>
 		</div>
@@ -34,33 +34,33 @@
 				<div class="box_in">
 					<div class="mb20"><span class="date cg2">{$t_information.date|date_format:"%Y/%m/%d"}</span><span class="tag_1">{$OptionInformationCategory[$t_information.information_category]}</span></div>
 					<h2 class="title">{$t_information.title}</h2>
-					{if $t_information.image1}
+					{if $t_information.image1 != NULL}
 					<div class="pos_ac mb50"><img src="/common/photo/information/image1/l_{$t_information.image1}" alt="{$t_information.title}"></div>
 					{/if}
 					<div class="entry mb50">
 						{$t_information.comment}
 					</div>
-					{if $t_information.image2 || $t_information.image3 || $t_information.image4 || $t_information.image5}
+					{if $t_information.image2 != NULL || $t_information.image3 != NULL || $t_information.image4 != NULL || $t_information.image5 != NULL}
 					<div class="row">
-						{if $t_information.image2}
+						{if $t_information.image2 != NULL}
 						<div class="col-xs-3 col-6 height-1 mb20">
 							<a class="ov" href="/common/photo/information/image2/l_{$t_information.image2}" rel="lightbox">
 								<div class="img_rect"><img src="/common/photo/information/image2/m_{$t_information.image2}" alt="{$t_information.title}"></div></a>
 						</div>
 						{/if}
-						{if $t_information.image3}
+						{if $t_information.image3 != NULL}
 						<div class="col-xs-3 col-6 height-1 mb20">
 							<a class="ov" href="/common/photo/information/image3/l_{$t_information.image3}" rel="lightbox">
 								<div class="img_rect"><img src="/common/photo/information/image3/m_{$t_information.image3}" alt="{$t_information.title}"></div></a>
 						</div>
 						{/if}
-						{if $t_information.image4}
+						{if $t_information.image4 != NULL}
 						<div class="col-xs-3 col-6 height-1 mb20">
 							<a class="ov" href="/common/photo/information/image4/l_{$t_information.image4}" rel="lightbox">
 								<div class="img_rect"><img src="/common/photo/information/image4/m_{$t_information.image4}" alt="{$t_information.title}"></div></a>
 						</div>
 						{/if}
-						{if $t_information.image5}
+						{if $t_information.image5 != NULL}
 						<div class="col-xs-3 col-6 height-1 mb20">
 							<a class="ov" href="/common/photo/information/image5/l_{$t_information.image5}" rel="lightbox">
 								<div class="img_rect"><img src="/common/photo/information/image5/m_{$t_information.image5}" alt="{$t_information.title}"></div></a>

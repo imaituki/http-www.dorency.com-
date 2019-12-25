@@ -1,29 +1,30 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-20 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/footer.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:6713857455dfca5182064c9-19238116%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:659797325e033916330180-58999358%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'b9b693c1b276f9a36e0e72d49c11bb70a5f73159' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/footer.tpl',
-      1 => 1576809167,
+      1 => 1577258178,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '6713857455dfca5182064c9-19238116',
+  'nocache_hash' => '659797325e033916330180-58999358',
   'function' => 
   array (
   ),
   'variables' => 
   array (
     '_RENEWAL_DIR' => 0,
+    'mst_siteconf' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5dfca51820d6a8_17200107',
+  'unifunc' => 'content_5e033916349fc6_78822963',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5dfca51820d6a8_17200107')) {function content_5dfca51820d6a8_17200107($_smarty_tpl) {?><footer>
+<?php if ($_valid && !is_callable('content_5e033916349fc6_78822963')) {function content_5e033916349fc6_78822963($_smarty_tpl) {?><footer>
 <div id="foot">
 	<div class="bg_greeno">
 		<div class="center">
@@ -32,9 +33,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="height-1">
 						<h5 class="mb10"><a class="ov" href="/"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/foot/logo.png" alt="ドレンシー株式会社"></a></h5>
-						<address class="mb10">〒719-0251 岡山県浅口市鴨方町六条院西2320番地<br>
-							TEL：<span class="tel" data-tel="0865-44-6655">0865-44-6655</span><br>
-							FAX：0865-44-7634</address>
+						<address class="mb10">〒<?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['zip1'];?>
+ <?php echo nl2br($_smarty_tpl->tpl_vars['mst_siteconf']->value['address1']);?>
+<br>
+							TEL：<span class="tel" data-tel="<?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
+"><?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
+</span><br>
+							FAX：<?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['fax1'];?>
+</address>
 					</div>
 				</div>
 				<div class="col-xs-6">

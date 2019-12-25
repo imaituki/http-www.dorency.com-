@@ -56,6 +56,11 @@ $smarty->assign( "message" , $message  );
 $smarty->assign( "arr_post", $arr_post );
 
 
+// オプション設定
+$smarty->assign( "OptionContent"   , $OptionContent  );
+
+
+
 // エラーチェック
 if( empty( $message["ng"] ) ) {
 

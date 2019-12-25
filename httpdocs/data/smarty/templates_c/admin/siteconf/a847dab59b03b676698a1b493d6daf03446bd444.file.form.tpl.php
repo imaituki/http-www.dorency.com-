@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-12 18:41:12
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 16:Dec:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/siteconf/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:6317328315df20b38f22754-34788720%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1875061515e030c324f6055-29223404%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '6317328315df20b38f22754-34788720',
+  'nocache_hash' => '1875061515e030c324f6055-29223404',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df20b390b0730_04794673',
+  'unifunc' => 'content_5e030c325c6ee9_36323395',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df20b390b0730_04794673')) {function content_5df20b390b0730_04794673($_smarty_tpl) {?><form class="form-horizontal" action="./<?php if ($_smarty_tpl->tpl_vars['mode']->value=='edit') {?>update<?php } else { ?>insert<?php }?>.php" method="post" enctype="multipart/form-data">
+<?php if ($_valid && !is_callable('content_5e030c325c6ee9_36323395')) {function content_5e030c325c6ee9_36323395($_smarty_tpl) {?><form class="form-horizontal" action="./<?php if ($_smarty_tpl->tpl_vars['mode']->value=='edit') {?>update<?php } else { ?>insert<?php }?>.php" method="post" enctype="multipart/form-data">
 	<div class="ibox-content">
 		<div class="form-group required">
 			<label class="col-sm-2 control-label">デフォルトタイトル</label>

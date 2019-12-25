@@ -57,4 +57,5 @@ if( !empty( $t_information["id_information"] ) ){
 	header( "Location: ./" );
 	exit;
 }
+disp_arr($t_information);
 ?>

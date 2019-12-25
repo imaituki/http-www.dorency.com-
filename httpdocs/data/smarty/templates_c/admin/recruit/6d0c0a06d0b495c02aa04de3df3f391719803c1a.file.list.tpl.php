@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 13:15:08
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 17:Dec:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:11815209745df1a8e71767b0-52603641%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17070753985e032016dad2e2-68864946%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,12 +11,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '11815209745df1a8e71767b0-52603641',
+  'nocache_hash' => '17070753985e032016dad2e2-68864946',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df1a8e722bd78_35662286',
   'variables' => 
   array (
     'template_pagenavi' => 0,
@@ -29,8 +27,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_CONTENTS_NAME' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e032016e32a30_72038770',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df1a8e722bd78_35662286')) {function content_5df1a8e722bd78_35662286($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e032016e32a30_72038770')) {function content_5e032016e32a30_72038770($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?>			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15">
