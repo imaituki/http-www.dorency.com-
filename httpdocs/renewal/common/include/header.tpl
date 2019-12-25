@@ -1,7 +1,7 @@
 <header>
 <div id="head">
 	<div class="center">
-		<h1 class="site_logo"><a class="ov" href="/"><img src="common/image/head/logo.png" alt="ドレンシー株式会社"></a></h1>
+		<h1 class="site_logo"><a class="ov" href="{$_RENEWAL_DIR}/"><img src="{$_RENEWAL_DIR}/common/image/head/logo.png" alt="ドレンシー株式会社"></a></h1>
 		<div id="head_contact">
 			<a href="{$_RENEWAL_DIR}/contact/" class="contact"><i class="fa fa-envelope"></i>お問い合わせ</a>
 			<a href="{$_RENEWAL_DIR}/contact/" class="sitemap"><i class="fa fa-envelope"></i>サイトマップ</a>

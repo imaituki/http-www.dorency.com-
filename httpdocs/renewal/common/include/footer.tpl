@@ -6,9 +6,9 @@
 				<div class="col-xs-6">
 					<div class="height-1">
 						<h5 class="mb10"><a class="ov" href="/"><img src="{$_RENEWAL_DIR}/common/image/foot/logo.png" alt="ドレンシー株式会社"></a></h5>
-						<address class="mb10">〒719-0251 岡山県浅口市鴨方町六条院西2320番地<br>
-							TEL：<span class="tel" data-tel="0865-44-6655">0865-44-6655</span><br>
-							FAX：0865-44-7634</address>
+						<address class="mb10">〒{$mst_siteconf.zip1} {$mst_siteconf.address1|nl2br}<br>
+							TEL：<span class="tel" data-tel="{$mst_siteconf.tel1}">{$mst_siteconf.tel1}</span><br>
+							FAX：{$mst_siteconf.fax1}</address>
 					</div>
 				</div>
 				<div class="col-xs-6">

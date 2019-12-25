@@ -26,8 +26,7 @@ $_HTML_HEADER["description"] = "";
 //  smarty設定
 //----------------------------------------
 $smarty = new MySmarty("front");
-$smarty->compile_dir .= "privacy_policy/";
-
+$smarty->compile_dir .= "privacy/";
 
 // 表示
 $smarty->display("index.tpl");

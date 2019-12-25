@@ -10,14 +10,6 @@
 //----------------------------------------
 require "./config.ini";
 
-
-// 採用から
-if( !empty( $arr_get["comment"] ) ){
-	if( empty( $_POST["comment"] ) ){
-		$_POST["comment"] = $arr_get["comment"] . "\n-----\n";
-	}
-}
-
 //----------------------------------------
 //  ヘッダー情報
 //----------------------------------------
@@ -36,9 +28,6 @@ $_HTML_HEADER["description"] = "";
 //----------------------------------------
 $smarty = new MySmarty("front");
 $smarty->compile_dir .= "contact/";
-
-// オプション設定
-$smarty->assign( "OptionContent"   , $OptionContent  );
 
 // 表示
 $smarty->display("index.tpl");

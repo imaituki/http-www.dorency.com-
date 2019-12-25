@@ -17,11 +17,7 @@ $message = NULL;
 
 // 操作クラス
 $objManage  = new DB_manage( _DNS );
-if( $arr_post["content"] == 2 ) {
-	$objContact = new FT_contact($_ARR_MAIL["contact"]["savePath"] );
-} else{
-	$objContact = new FT_contact($_ARR_MAIL["recruit"]["savePath"] );
-}
+$objContact = new FT_contact($_ARR_MAIL["contact"]["savePath"] );
 
 //----------------------------------------
 //  メール送信
@@ -46,7 +42,6 @@ if( empty( $message["ng"] ) ) {
 	// 内部エンコーディング
 	mb_internal_encoding("UTF-8");
 
-
 	//----------------------------------------
 	//  メール生成
 	//----------------------------------------
@@ -58,10 +53,6 @@ if( empty( $message["ng"] ) ) {
 	$smarty->assign( "arr_post"  , $arr_post   );
 	$smarty->assign( "mail_conf" , $mail_conf  );
 	$smarty->assign( "message"   , $message    );
-
-	// オプション設定
-	$smarty->assign( "OptionContent"   , $OptionContent  );
-
 
 	// テンプレートの取得
 	$mail = $smarty->fetch( "mail.tpl" );
@@ -87,11 +78,11 @@ if( empty( $message["ng"] ) ) {
 	//  お客様用
 	//----------------------------------------
 	// ヘッダー
-	$header1  = "From: " . mb_encode_mimeheader( "株式会社親幸産業" ) . " <" . $mail_conf["info"]["admin_mail"] . ">\n";
+	$header1  = "From: " . mb_encode_mimeheader( "ドレンシー株式会社" ) . " <" . $mail_conf["info"]["admin_mail"] . ">\n";
 	$header1 .= "Bcc: "  . $mail_conf["info"]["bcc_mail"] . "\n";
 	$header1 .= "Content-Type: text/plain; charset=iso-2022-jp\n";
 	$header1 .= "Content-Transfer-Encoding: 7bit\n";
-	
+
 	// お客様へ
 	$error_flg1 = mb_send_mail( $arr_post["mail"], $mail_conf["user"]["title"], $mail1, $header1 );
 

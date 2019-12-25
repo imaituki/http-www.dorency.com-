@@ -5,6 +5,7 @@
 {include file=$template_meta}
 <link rel="stylesheet" href="{$_RENEWAL_DIR}/common/css/import.css">
 {include file=$template_javascript}
+<script src="https://ajaxzip3.github.io/ajaxzip3.js" charset="UTF-8"></script>
 </head>
 <body id="contact">
 <div id="base">
@@ -12,7 +13,7 @@
 <main>
 <div id="body">
 	<div id="page_title">
-		<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/form_top.jpg" alt="お問い合わせ"></div>
+		<div><img src="{$_RENEWAL_DIR}/common/image/contents/top.jpg" alt="お問い合わせ"></div>
 		<div class="page_title_wrap common">
 			<div class="center mincho cg5">
 				<h2><span class="main">お問い合わせ</span><span class="sub">Contact</span></h2>
@@ -35,22 +36,29 @@
 				<table class="tbl_form mb50">
 					<tbody>
 						<tr class="first">
-							<th scope="row">お問い合わせ項目</th>
-							<td>{$OptionContent[$arr_post.content]}<input type="hidden" name="content" value="{$arr_post.content}" ></td>
-						</tr>
-						{if $arr_post.company}
-						<tr>
 							<th scope="row">会社名</th>
 							<td>{$arr_post.company}<input type="hidden" name="company" value="{$arr_post.company}"></td>
 						</tr>
-						{/if}
 						<tr>
-							<th scope="row">名前</th>
+							<th scope="row">部署名</th>
+							<td>{$arr_post.post|default:"--"}<input type="hidden" name="post" value="{$arr_post.post}"></td>
+						</tr>
+						<tr>
+							<th scope="row">ご担当者様名</th>
 							<td>{$arr_post.name}<input type="hidden" name="name" value="{$arr_post.name}"></td>
 						</tr>
 						<tr>
 							<th scope="row">フリガナ</th>
-							<td>{$arr_post.ruby}<input type="hidden" name="ruby" value="{$arr_post.ruby}" ></td>
+							<td>{$arr_post.ruby|default:""}<input type="hidden" name="ruby" value="{$arr_post.ruby}"></td>
+						</tr>
+						<tr>
+							<th class="pos-vt">住所</th>
+							<td>〒{$arr_post.zip}<br>
+								{html_select_ken selected=$arr_post.prefecture|default:"" pre=1} {$arr_post.address}
+								<input type="hidden" name="zip" value="{$arr_post.zip}">
+								<input type="hidden" name="prefecture" value="{$arr_post.prefecture}">
+								<input type="hidden" name="address" value="{$arr_post.address}">
+							</td>
 						</tr>
 						<tr>
 							<th scope="row">電話番号</th>
@@ -64,7 +72,7 @@
 								<input type="hidden" name="mail" value="{$arr_post.mail}">
 							</td>
 						</tr>
-						<tr>
+						<tr class="last">
 							<th scope="row">お問い合わせ内容</th>
 							<td>{$arr_post.comment|nl2br}
 								<input type="hidden" name="comment" value="{$arr_post.comment}" />
@@ -73,10 +81,10 @@
 					</tbody>
 				</table>
 				<div class="row form_button">
-					<div class="col-xs-6 mb20 left">
+					<div class="col-xs-6 mb20 pos_al">
 						<button class="button _back" type="submit"><i class="arrow_cg2"></i>修正する</button>
 					</div>
-					<div class="col-xs-6 right">
+					<div class="col-xs-6 pos_ar">
 						<button id="send_button" class="button" type="submit">送信する<i class="arrow_cg"></i></button>
 					</div>
 				</div>

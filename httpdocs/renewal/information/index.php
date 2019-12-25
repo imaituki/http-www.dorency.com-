@@ -47,7 +47,7 @@ unset( $objManage        );
 $smarty = new MySmarty("front");
 $smarty->compile_dir .= "information/";
 
-/*
+
 // テンプレートに設定
 $smarty->assign( "page_navi"    , $t_information["page"] );
 $smarty->assign( "t_information", $t_information["data"] );
@@ -55,7 +55,7 @@ $smarty->assign( "message"      , $message               );
 
 // オプション設定
 $smarty->assign( "OptionInformationCategory", $OptionInformationCategory );
-*/
+
 // 表示
 $smarty->display("index.tpl");
 
