@@ -44,6 +44,22 @@
 			</div>
 		</div>
 		<div class="hr-line-dashed"></div>
+		<div class="form-group">
+			<label class="col-sm-2 control-label">電話番号</label>
+			<div class="col-sm-6">
+				{if $message.ng.tel|default:"" != NULL}<p class="error">{$message.ng.tel}</p>{/if}
+				<input type="text" class="form-control" name="tel" id="tel"  size="60" value="{$arr_post.tel|default:""}" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
+		<div class="form-group">
+			<label class="col-sm-2 control-label">FAX番号</label>
+			<div class="col-sm-6">
+				{if $message.ng.fax|default:"" != NULL}<p class="error">{$message.ng.fax}</p>{/if}
+				<input type="text" class="form-control" name="fax" id="fax"  size="60" value="{$arr_post.fax|default:""}" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
 		{if $_ARR_IMAGE != NULL}
 			{include file=$template_image path=$_IMAGEFULLPATH dir=$_CONTENTS_DIR prefix="s_"}
 		{/if}

@@ -1,5 +1,14 @@
 <form id="inputForm" name="inputForm" class="form-horizontal" action="./preview.php?preview=1" method="post" enctype="multipart/form-data">
 	<div class="ibox-content">
+		<div class="form-group required">
+			<label class="col-sm-2 control-label">採用種別</label>
+			<div class="col-sm-6">
+				{if $message.ng.recruit|default:"" != NULL}<p class="error">{$message.ng.recruit}</p>{/if}
+				<div class="radio m-r-xs inline">
+					{html_radios options=$OptionRecruit class="recruit" name="recruit" selected=$arr_post.recruit|default:"0" separator="&nbsp;&nbsp;"}
+				</div>
+			</div>
+		</div>
 		<div class="hr-line-dashed"></div>
 		<div class="form-group required">
 			<label class="col-sm-2 control-label">募集職種</label>
@@ -14,7 +23,10 @@
 			<div class="col-sm-6">
 				{if $message.ng.employment|default:"" != NULL}<p class="error">{$message.ng.employment}</p>{/if}
 				<div class="radio m-r-xs inline">
-					{html_radios options=$OptionEmployment class="employment" name="employment" selected=$arr_post.employment|default:"1" separator="&nbsp;&nbsp;"}
+					<select class="form-control" name="employment" id="employment">
+						<option value="0">選択してください</option>
+						{html_options options=$OptionEmployment selected=$arr_post.employment}
+					</select>
 				</div>
 			</div>
 		</div>

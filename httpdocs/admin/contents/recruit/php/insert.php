@@ -78,6 +78,7 @@ if( empty( $message["ng"] ) ) {
 	// オプション配列
 	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
 	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+	$smarty->assign( 'OptionRecruit'    , $OptionRecruit     );
 
 
 	// 表示

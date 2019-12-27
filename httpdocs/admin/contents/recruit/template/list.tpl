@@ -3,6 +3,7 @@
 				<thead>
 					<tr>
 						<th>掲載期間</th>
+						<th>採用種別</th>
 						<th>雇用形態</th>
 						<th>募集</th>
 						<th>エントリー</th>
@@ -22,6 +23,7 @@
 								無期限
 							{/if}
 						</td>
+						<td>{$OptionRecruit[$recruit.recruit]}</td>
 						<td>{$OptionEmployment[$recruit.employment]}</td>
 						<td><a href="./edit.php?id={$recruit.id_recruit}">{$recruit.recruitment}</a></td>
 						<td><a href="./entry_list.php?id={$recruit.id_recruit}">一覧</a></td>

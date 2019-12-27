@@ -3,61 +3,6 @@
 	Last Update:2019/12/04
 	Auther: iw
 */
-/*===================================================================
-	#common
-===================================================================*/
-/* hl */
-.hl_1 { font-weight:bold; text-align:center; margin-bottom:50px; }
-.hl_1 .sub { display:block; color:#74bfa5; font-size:18px; font-weight:normal; }
-.hl_1.pos_al { text-align:left; }
-	@media (max-width: 575px){
-		.hl_1 { font-size:1.75em; }
-	}
-	@media (min-width: 576px){
-		.hl_1 { font-size:2.5em; }
-	}
-
-.hl_2 { position:relative; border-bottom:2px solid #27ab0d; margin-bottom:50px; }
-.hl_2 h2 { font-weight:bold; }
-.hl_2 h2 .sub { font-size:16px; color:#999; vertical-align:middle; padding-left:15px; }
-.hl_2 .right { position:absolute; right:0; bottom:0.4em; }
-.hl_2 .right a { color:#444; }
-	@media (max-width: 767px){
-		.hl_2 h2 { font-size:1.75em; }
-	}
-	@media (min-width: 768px){
-		.hl_2 h2 { font-size:2em; }
-	}
-
-.hl_3{ margin-bottom: 30px; font-size: 1.5em; background: #50A243; padding: 15px 50px; font-weight: bold; border-radius: 5px; color: #FFF; box-shadow: 0px 5px 5px -4px rgba(112,112,112,0.6);}
-
-.button,
-a.button { display:inline-block; position:relative; text-align:center; line-height:100%; text-decoration:none; }
-.button i.fa { margin:0 5px; }
-.button i.arrow { background:url(../image/contents/arrow.png) no-repeat center right/ contain; width:25px; height:14px;
-					position:absolute; right:20px; }
-.button i.fa-chevron-right { position:absolute; right:10px; font-size:12px; }
-.button i.fa-chevron-left { position:absolute; left:10px; font-size:12px; }
-
-.button._green,
-a.button._green { width:100%; max-width:320px; color:#fff; border:2px solid #106b6c; background:#106b6c; border-radius:50px; overflow:hidden; padding:15px; }
-.button._green._large { font-size:1.5em; max-width:380px; padding:25px; }
-body.pc .button._green:hover { background:#fff; color:#106b6c; }
-
-.button._back { border:1px solid #999; background:#999; }
-.button._more { border:1px solid #fff; font-size:14px; }
-
-.box { background:#fff; box-shadow:0 0 5px #ccc; margin-bottom:20px; }
-.box .text { padding:25px; }
-.box h3 { border-bottom:1px solid #ddd; font-weight:bold; padding:0 0 5px; margin:0 0 10px; color:#106b6c; }
-.button i.arrow_cg { background: url(../image/contents/arrow_cg.png) no-repeat center right/ contain; width: 25px; height: 14px; position: absolute; right: 20px;}
-.button i.arrow_cg2 { background:url(../image/contents/arrow_cg2.png) no-repeat center right/ contain; width:25px; height:14px;position:absolute; left:20px; }
-
-.button._type_2,
-a.button._type_2 { position:relative; display:block; border:1px solid #0F6C6C; max-width:300px; margin:0 auto; color:#0F6C6C; }
-.button._type_2 a{ display: block; padding: 15px;}
-body.pc .button._type_2:hover { background:#106b6c; color:#fff; }
-body.pc .button._type_2:hover i { display:none; }
 
 /*===================================================================
 	#top
@@ -80,7 +25,7 @@ body.pc .button._type_2:hover i { display:none; }
 #contact_area .center {}
 #contact_area .contact_area { padding:50px; }
 #contact_area .tel_unit { text-align:right; padding-right:30px; border-right:1px solid #ddd; }
-#contact_area .tel_unit h4 { border:1px solid #106b6c; font-size:1.3em; line-height:150%; margin:0 0 5px auto; max-width:350px; text-align:center; }
+#contact_area .tel_unit h4 { border:1px solid #106b6c; font-size:1.3em; line-height:150%; margin:0 0 10px auto; max-width:350px; text-align:center; }
 #contact_area .tel_unit .tel { font-size:3em; font-weight:bold; line-height:100%; }
 #contact_area .tel_unit .tel i { font-size:0.9em; margin-right:5px; }
 
@@ -231,6 +176,33 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 ===================================================================*/
 #privacy .box{padding: 50px;}
 
+
+/*===================================================================
+	#company
+===================================================================*/
+#company a.map{text-decoration: none; border: 1px solid; border-radius: 5px; padding: 3px 40px; margin: 10px 0; display: inline-block;}
+#company table.tbl_1 dl{margin: 25px 0;}
+
+/*===================================================================
+	#recruit
+===================================================================*/
+#recruit .page_title_wrap h2.hl_6{ font-size: 2.25em!important;}
+#recruit .page_title_wrap p{border-top: 1px solid #EDEDED; padding-top: 10px; width: 50%;}
+#recruit .recruit .box{ border-radius: 10px;}
+#recruit .recruit .blank{ padding: 30px 0;}
+#recruit .recruit .box .name{ font-size: 3em; color: #0F6C6C; margin-bottom: 30px;}
+#recruit .recruit .box .name span{display: block; color: #526565; font-size: 0.5em;}
+
+
+/*===================================================================
+	#sitemap
+===================================================================*/
+#sitemap .sitemap h2 a{color: #000!important; text-decoration: none; display: block; padding: 15px 50px;}
+#sitemap .sitemap .hl_5{padding: 0;}
+#sitemap .sitemap p.link { margin: 0px 20px; font-size: 1.25em;}
+#sitemap .sitemap p.link a{text-decoration: none; color: #27AB0D;}
+#sitemap .sitemap p.link a::before{ content: "\f105"; color: #50A243; font-family: "Font Awesome 5 Free"; display: inline-block; font-weight: 900; font-style: normal; font-variant: normal; text-rendering: auto; line-height: 1 }{}
+
 /*===================================================================
 	contact
 ===================================================================*/
@@ -251,6 +223,10 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 /*===================================================================
 	common
 ===================================================================*/
+/*キーピット共通フッター*/
+#common_product_foot{}
+
+
 /* 各ページリンク */
 .page_link { position:relative; border:1px solid #ccc; margin-bottom:30px; }
 .page_link a { display:table; width:100%; text-decoration:none; color:#444; }
@@ -259,11 +235,70 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 .page_link .text { padding:0 0 0 25px; font-size:1.25em; }
 body.pc .page_link a:hover { background:#e8f1f1; }
 
+/*hl*/
+.hl_1 { font-weight:bold; text-align:center; margin-bottom:50px; }
+.hl_1 .sub { display:block; color:#74bfa5; font-size:18px; font-weight:normal; }
+.hl_1.pos_al { text-align:left; }
+	@media (max-width: 575px){
+		.hl_1 { font-size:1.75em; }
+	}
+	@media (min-width: 576px){
+		.hl_1 { font-size:2.5em; }
+	}
+
+.hl_2 { position:relative; border-bottom:2px solid #27ab0d; margin-bottom:50px; }
+.hl_2 h2 { font-weight:bold; }
+.hl_2 h2 .sub { font-size:16px; color:#999; vertical-align:middle; padding-left:15px; }
+.hl_2 .right { position:absolute; right:0; bottom:0.4em; }
+.hl_2 .right a { color:#444; }
+	@media (max-width: 767px){
+		.hl_2 h2 { font-size:1.75em; }
+	}
+	@media (min-width: 768px){
+		.hl_2 h2 { font-size:2em; }
+	}
+
+.hl_3{ margin-bottom: 30px; font-size: 1.5em; background: #50A243; padding: 15px 50px; font-weight: bold; border-radius: 5px; color: #FFF; box-shadow: 0px 5px 5px -4px rgba(112,112,112,0.6);}
+.hl_3 { position:relative;  line-height:100%; margin-bottom:50px; }
+.hl_3 > * { vertical-align:middle; position:relative; background:#fff; }
+.hl_3 .main { font-size:2.5em; }
+.hl_3 .sub { padding:5px 15px 0; color:#999; }
+
+
+.hl_4 { position: relative; line-height: 100%; border-bottom: 2px solid #D8D8D8; margin-bottom: 30px; padding: 15px 0px; font-weight: bold;}
+.hl_4:after {
+  content: "";
+  display: block;
+  line-height: 0;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 20%;
+  border-bottom:2px solid #27AB0D;
+}
+	@media (max-width: 575px){
+		.hl_4 { font-size:1.5em; }
+	}
+	@media (min-width: 576px){
+		.hl_4 { font-size:1.75em; }
+	}
+
+.hl_5 { position: relative; line-height: 100%; border-bottom: 1px solid #CBCBCB; padding: 15px 50px; font-weight: bold;}
+.hl_5:after { content: "\f105"; position: absolute; left: 20px; top: calc(50% - 0.4em); color: #50A243; font-family: "Font Awesome 5 Free"; display: inline-block; font-weight: 900; font-style: normal; font-variant: normal; text-rendering: auto; line-height: 1 }
+	@media (max-width: 575px){
+		.hl_5 { font-size:1.5em; }
+	}
+	@media (min-width: 576px){
+		.hl_5 { font-size:1.75em; }
+	}
+
+.hl_6{ color: #0F6C6C; font-size: 2.75em; }
+
 /* table */
 .tbl_1 { width:100%; }
 .tbl_1 tbody th, .tbl_1 tbody td { border-bottom:1px dotted #ccc; }
-.tbl_1 thead th { font-weight:bold; font-size:1.1em; }
-.tbl_1 tbody th { width:150px; }
+.tbl_1 thead th { font-weight:bold; font-size:1.1em; width:200px; background: #FAFAFA; }
 	@media (max-width: 575px){
 		.tbl_1 { font-size:0.9em; }
 		.tbl_1 th, .tbl_1 td { padding:10px; }
@@ -272,6 +307,21 @@ body.pc .page_link a:hover { background:#e8f1f1; }
 	@media (min-width: 576px){
 		.tbl_1 th, .tbl_1 td { padding:15px 30px; }
 	}
+
+.tbl_2 { width:100%; }
+.tbl_2 tbody th, .tbl_2 tbody td { border-bottom: 1px solid #D4D4D4; }
+.tbl_2 tbody th {    width: 200px; padding: 20px 50px; background: none; color: #0F6C6C; white-space: nowrap;}
+.tbl_2 tbody tr:nth-child(even) th,.tbl_2 tbody tr:nth-child(even) td{background: #FCFCFC;}
+	@media (max-width: 575px){
+		.tbl_2 { font-size:0.9em; }
+		.tbl_2 th, .tbl_2 td { padding:10px; }
+		#company .tbl_2 tbody th { width:90px; }
+	}
+	@media (min-width: 576px){
+		.tbl_2 th, .tbl_2 td { padding:15px 30px; }
+	}
+
+
 
 /* お知らせやなどbox */
 .box { box-shadow:0 0 5px #ccc; }
@@ -285,15 +335,38 @@ body.pc .page_link a:hover { background:#e8f1f1; }
 		.box_in { padding:50px; }
 		.box_title { font-size:2em; }
 	}
+/* button*/
 
-/*===================================================================
-	#company
-===================================================================*/
+	.button,
+	a.button { display:inline-block; position:relative; text-align:center; line-height:100%; text-decoration:none; }
+	.button i.fa { margin:0 5px; }
+	.button i.arrow { background:url(../image/contents/arrow.png) no-repeat center right/ contain; width:25px; height:14px;
+						position:absolute; right:20px; }
+	.button i.fa-chevron-right { position:absolute; right:10px; font-size:12px; }
+	.button i.fa-chevron-left { position:absolute; left:10px; font-size:12px; }
 
+	.button._green,
+	a.button._green { width:100%; max-width:320px; color:#fff; border:2px solid #106b6c; background:#106b6c; border-radius:50px; overflow:hidden; padding:15px; }
+	.button._green._large { font-size:1.5em; max-width:380px; padding:25px; }
+	body.pc .button._green:hover { background:#fff; color:#106b6c; }
 
-/*===================================================================
-	#recruit
-===================================================================*/
+	.button._back { border:1px solid #999; background:#999; }
+	.button._more { border:1px solid #fff; font-size:14px; }
+
+	.box { background:#fff; box-shadow:0 0 5px #ccc; margin-bottom:20px; }
+	.box .text { padding:25px; }
+	.box h3 { border-bottom:1px solid #ddd; font-weight:bold; padding:0 0 5px; margin:0 0 10px; color:#106b6c; }
+	.button i.arrow_cg { background: url(../image/contents/arrow_cg.png) no-repeat center right/ contain; width: 25px; height: 14px; position: absolute; right: 20px;}
+	.button i.arrow_cg2 { background:url(../image/contents/arrow_cg2.png) no-repeat center right/ contain; width:25px; height:14px;position:absolute; left:20px; }
+	.button i.arrow_cg3 { background: url(../image/contents/arrow_cg3.png) no-repeat center right/ contain; width: 25px; height: 14px; position: absolute; right: 20px;}
+
+	.button._type_2,
+	a.button._type_2 { position:relative; display:block; border:1px solid #0F6C6C; max-width:300px; margin:0 auto; color:#0F6C6C; }
+	.button._type_2 a{ display: block; padding: 15px; color: #0F6C6C!important;}
+	body.pc .button._type_2:hover { background:#106b6c; }
+	.button._type_2 a:hover{ color: #FFF!important;}
+
+	body.pc .button._type_2:hover i { display:none; }
 
 
 /*===================================================================
@@ -340,47 +413,6 @@ body.pc .page_link a:hover { background:#e8f1f1; }
 	.entry th, .entry td {padding: 25px 15px;}
 
 }
-
-/*===================================================================
-	hl
-===================================================================*/
-hl_2
-
-.hl_3 { position:relative;  line-height:100%; margin-bottom:50px; }
-.hl_3:before { content:""; position:absolute; top:calc(50% + 2px); left:0; width:100%; border-bottom:1px solid #eee; }
-.hl_3 > * { vertical-align:middle; position:relative; background:#fff; }
-.hl_3 .main { font-size:2.5em; }
-.hl_3 .sub { padding:5px 15px 0; color:#999; }
-.hl_4 { border-radius:5px; text-align:center; font-size:1.25em; padding:5px; margin-bottom:20px; }
-.hl_4_2 { border-radius: 5px; text-align: left; font-size: 1.5em; padding: 5px; font-weight: bold; margin-bottom: 20px; padding: 15px 20px; }
-.hl_5 {
-	position: relative;
-	line-height: 100%;
-	margin-bottom: 30px;
-	background: #F5F5F5;
-	padding:15px 50px;
-	font-weight:bold;
-	border-radius:30px;
-	color:#106b6c;
-	box-shadow:0px 5px 5px -4px rgba(112,112,112,0.6);
-}
-.hl_5:after {
-  position: absolute;
-  top:calc(50% - 0.3em);
-  left: 25px;
-  z-index: 2;
-  content: '';
-  width: 13px;
-  height: 13px;
-  background-color: #106b6c;
-}
-	@media (max-width: 575px){
-		.hl_5 { font-size:1.25em; }
-	}
-	@media (min-width: 576px){
-		.hl_5 { font-size:1.5em; }
-	}
-
 
 /*===================================================================
 	color

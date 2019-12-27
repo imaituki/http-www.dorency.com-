@@ -12,6 +12,7 @@
 		<script type="text/javascript" src="{$_ADMIN.home}/common/js/ckeditor/ckeditor.js"></script>
 		<link rel="stylesheet" href="{$_ADMIN.home}/common/js/chosen/chosen.css" />
 		<script type="text/javascript" src="{$_ADMIN.home}/common/js/chosen/chosen.jquery.min.js"></script>
+		<script src="https://ajaxzip3.github.io/ajaxzip3.js" charset="UTF-8"></script>
 	</head>
 	<body class="fixed-sidebar no-skin-config">
 		<div id="wrapper">

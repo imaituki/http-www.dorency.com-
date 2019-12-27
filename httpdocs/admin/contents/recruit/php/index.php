@@ -57,6 +57,8 @@ $smarty->assign( '_ARR_IMAGE'   , $_ARR_IMAGE        );
 // オプション配列
 $smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
 $smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+$smarty->assign( 'OptionRecruit'    , $OptionRecruit     );
+
 
 // 表示
 $smarty->display("index.tpl");

@@ -139,7 +139,7 @@
 						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
 							安全・安心を最優先に生産体制を整えています。</p>
 						<div>
-							<a href="###" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
+							<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 						</div>
 					</div>
 					<div class="col-xs-4">
@@ -224,12 +224,12 @@
 				<div class="row">
 					<div class="col-xs-6 col-6">
 						<div class="pos_ar">
-							<a href="###" class="button _green">鮮度保持剤<i class="arrow"></i></a>
+							<a href="{$_RENEWAL_DIR}/product/" class="button _green">鮮度保持剤<i class="arrow"></i></a>
 						</div>
 					</div>
 					<div class="col-xs-6 col-6">
 						<div class="pos_al">
-							<a href="###" class="button _green">用途のご紹介<i class="arrow"></i></a>
+							<a href="{$_RENEWAL_DIR}/way/" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
@@ -245,7 +245,7 @@
 						<p class="mb20">すぐに温まりたい人必携、常に高温を維持、即効性をアピールした文章</p>
 						<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 						<div>
-							<a href="###" class="button _green">用途のご紹介<i class="arrow"></i></a>
+							<a href="{$_RENEWAL_DIR}/cairo/" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
@@ -263,11 +263,11 @@
 						<div class="col-xs-6">
 							<div class="tel_unit cg">
 								<h4>お電話でのお問い合わせ</h4>
-								<span class="tel" data-tel="0865-44-6655"><i class="fa fa-phone-alt"></i>0865-44-6655</span>
+								<span class="tel" data-tel="{$mst_siteconf.tel1}"><i class="fa fa-phone-alt"></i>{$mst_siteconf.tel1}</span>
 							</div>
 						</div>
 						<div class="col-xs-6">
-							<a href="###" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
+							<a href="{$_RENEWAL_DIR}/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
 						</div>
 					</div>
 				</div>

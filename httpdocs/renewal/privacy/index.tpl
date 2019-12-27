@@ -13,7 +13,7 @@
 <div id="body">
 	<div id="page_title">
 		<div><img src="{$_RENEWAL_DIR}/common/image/contents/top.jpg" alt="お知らせ"></div>
-		<div class="page_title_wrap common">
+		<div class="page_title_wrap">
 			<div class="center mincho cg5">
 				<h2><span class="main">Privacy Policy</span><span class="sub">プライバシーポリシー</span></h2>
 			</div>
@@ -22,7 +22,7 @@
 	<div id="pankuzu" class="bg_gg">
 		<div class="center">
 			<ul>
-				<li><a href=""><i class="fa fa-home"></i></a></li>
+				<li><a href="{$_RENEWAL_DIR}/"><i class="fa fa-home"></i></a></li>
 				<li>個人情報保護方針</li>
 			</ul>
 		</div>

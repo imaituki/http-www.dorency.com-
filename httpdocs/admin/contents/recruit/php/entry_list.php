@@ -39,6 +39,7 @@ $smarty->assign( "t_recruit_contact" , $t_recruit_contact );
 // オプション配列
 $smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
 $smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+$smarty->assign( 'OptionRecruit'    , $OptionRecruit     );
 
 // 表示
 $smarty->display("entry_list.tpl");

@@ -65,13 +65,12 @@ class FT_recruit {
 		// SQL配列
 		$creation_kit = array(  "select" => "*",
 								"from"   => $this->_CtrTable,
-								"where"  => "display_flg = 1 AND
-											 ( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end  ) ) ",
-								"order"  => "id_recruit DESC"
+								"where"  => $search["search_display_site"] ." = recruit AND display_flg = 1 AND ( display_indefinite = 1 OR ( display_indefinite = 0 AND display_start <= NOW() AND  NOW() <= display_end  ) ) ",
+								"order"  => "id_recruit ASC"
 							);
 
 		// 検索条件
-		if( !empty( $search["search_recruit_type"] ) ) {
+		/*if( !empty( $search["search_recruit_type"] ) ) {
 			if( is_array( $search["search_recruit_type"] ) ){
 				$creation_kit["where"] .= "AND recruit_type IN( " . implode( ",", $search["search_recruit_type"] ) . " ) ";
 			}else{
@@ -108,7 +107,7 @@ class FT_recruit {
 			$creation_kit["where"] .= "AND ( ( " . $this->_DBconn->createWhereSql( $search["search_freeword"], "title", "LIKE", "OR", "%string%" ) . " )
 			 OR ( " . $this->_DBconn->createWhereSql( $search["search_freeword"], "comment", "LIKE", "OR", "%string%" ) . " ) ) ";
 		}
-
+*/
 
 		// 取得条件
 		if( empty( $option ) ) {
@@ -128,8 +127,7 @@ class FT_recruit {
 								 "LinkSpanNowPost" => "</strong>" );
 
 			// オプション
-			$option = array( "fetch" => _DB_FETCH_ALL,
-							 "page"  => $_PAGE_INFO );
+			$option = array( "fetch" => _DB_FETCH_ALL );
 
 		} else {
 
@@ -141,7 +139,7 @@ class FT_recruit {
 		}
 
 		// データ取得
-		$res = $this->_DBconn->selectCtrl( $creation_kit, $option );
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL ) );
 
 		// タグ許可
 		if( is_array( $res["data"] ) ) {
@@ -159,11 +157,11 @@ class FT_recruit {
 		}
 
 
-		if( $res ){
+	/*	if( $res ){
 			$creation_kit["select"] = "MAX(update_date) as max";
 			$max = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH ) );
 			$res["max"] = $max["max"];
-		}
+		}*/
 
 		// 戻り値
 		return $res;

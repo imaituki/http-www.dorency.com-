@@ -26,19 +26,19 @@ unset( $objInformation );
 
 
 if( !empty( $t_information["id_information"] ) ){
-	
+
 	//----------------------------------------
 	//  ヘッダー情報
 	//----------------------------------------
 	// タイトル
 	$_HTML_HEADER["title"] = $t_information["title"];
-	
+
 	// キーワード
 	$_HTML_HEADER["keyword"] = "";
-	
+
 	// ディスクリプション
 	$_HTML_HEADER["description"] = "";
-	
+
 	//----------------------------------------
 	//  smarty設定
 	//----------------------------------------
@@ -50,12 +50,11 @@ if( !empty( $t_information["id_information"] ) ){
 
     // オプション設定
     $smarty->assign( "OptionInformationCategory", $OptionInformationCategory );
-    
+
 	// 表示
 	$smarty->display("detail.tpl");
 }else{
 	header( "Location: ./" );
 	exit;
 }
-disp_arr($t_information);
 ?>

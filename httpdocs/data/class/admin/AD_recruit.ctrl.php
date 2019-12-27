@@ -99,6 +99,8 @@ class AD_recruit {
 		$objInputCheck = new FN_input_check( "UTF-8" );
 
 		// チェックエントリー
+		$objInputCheck->entryData( "求人", "recruit", $arrVal["recruit"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+
 		$objInputCheck->entryData( "募集職種", "recruitment", $arrVal["recruitment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
 		$objInputCheck->entryData( "雇用形態", "employment", $arrVal["employment"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
 		$objInputCheck->entryData( "仕事内容", "job_description", $arrVal["job_description"], array( "CHECK_EMPTY", "CHECK_MIN_LEN" ), 30, null );
@@ -112,8 +114,8 @@ class AD_recruit {
 		$objInputCheck->entryData( "リモートワーク", "remote_work", $arrVal["remote_work"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_NUM" ), 0, 1 );
 
 		if( $arrVal["display_indefinite"] == 0 ) {
-			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_EMPTY","CHECK_DATE" ), null, null );
-			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_EMPTY","CHECK_DATE" ), null, null );
+			$objInputCheck->entryData( "掲載開始", "display_start", $arrVal["display_start"], array( "CHECK_DATE","CHECK_EMPTY" ), null, null );
+			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE","CHECK_EMPTY" ), null, null );
 			$objInputCheck->entryData( "掲載終了", "display_end", $arrVal["display_end"], array( "CHECK_DATE_START_TERM" ), $arrVal["display_start"], null );
 		}
 

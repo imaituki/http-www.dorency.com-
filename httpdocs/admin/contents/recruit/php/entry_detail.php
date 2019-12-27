@@ -44,6 +44,8 @@ $smarty->assign( "t_recruit"          , $t_recruit         );
 // オプション配列
 $smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
 $smarty->assign( 'OptionEmployment' , $OptionEmployment  );
+$smarty->assign( 'OptionRecruit'    , $OptionRecruit     );
+
 
 // 表示
 $smarty->display("entry_detail.tpl");

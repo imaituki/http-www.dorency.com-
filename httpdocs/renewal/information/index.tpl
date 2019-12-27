@@ -22,7 +22,7 @@
 	<div id="pankuzu" class="bg_gg">
 		<div class="center">
 			<ul>
-				<li><a href=""><i class="fa fa-home"></i></a></li>
+				<li><a href="{$_RENEWAL_DIR}/"><i class="fa fa-home"></i></a></li>
 				<li>お知らせ</li>
 			</ul>
 		</div>
