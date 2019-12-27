@@ -39,6 +39,20 @@
 	<section>
 		<div class="wrapper-t center">
 			<h2 class="hl_4">楽々カイロの用途</h2>
+				<div class="row">
+					<div class="col-xs-6">
+						<div><img src="" alt=""></div>
+					</div>
+					<div class="col-xs-6">
+						<div><img src="" alt=""></div>
+					</div>
+					<div class="col-xs-6">
+						<div><img src="" alt=""></div>
+					</div>
+					<div class="col-xs-6">
+						<div><img src="" alt=""></div>
+					</div>
+				</div>
 		</div>
 	</section>
 	<section>

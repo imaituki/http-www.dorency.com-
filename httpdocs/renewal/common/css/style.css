@@ -242,7 +242,7 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 #common_product_foot .page_link .photo { }
 #common_product_foot .page_link .text { padding: 20px 0; text-align: center;}
 #common_product_foot .page_link:after { content: ""; position: absolute; bottom: 3px; right: 3px; border-style: solid; border-width: 5px; border-color: transparent #0F6C6C #0F6C6C transparent;}
-body.pc .page_link a:hover { background:#e8f1f1; }
+#common_product_foot .page_link:hover { background:#e8f1f1; }
 
 /*hl*/
 .hl_1 { font-weight:bold; text-align:center; margin-bottom:50px; }
