@@ -25,13 +25,31 @@
 		<div class="center">
 			<ul>
 				<li><a href="{$_RENEWAL_DIR}/"><i class="fa fa-home"></i></a></li>
-				<li>採用情報</li>
+				<li>使い捨てカイロ</li>
 			</ul>
 		</div>
 	</div>
 	<section>
-		<div class="wrapper center">
-
+		<div class="midashi_back"><img src="/renewal/common/image/contents/cairo/cairo_p.jpg" alt=""></div>
+		<div>
+			<p class="mb20">すぐに温まりたい人必携、常に高温を維持、即効性をアピールした文章</p>
+			<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
+		</div>
+	</section>
+	<section>
+		<div class="wrapper-t center">
+			<h2 class="hl_4">楽々カイロの用途</h2>
+		</div>
+	</section>
+	<section>
+		<div class="wrapper-t center">
+			<h2 class="hl_4">楽々カイロの種類</h2>
+		</div>
+	</section>
+	<section>
+		<div class="center wrapper">
+			<h2 class="hl_4">楽々カイロに関するお問い合わせ</h2>
+			{include file=$template_product_foot}
 		</div>
 	</section>
 </div>

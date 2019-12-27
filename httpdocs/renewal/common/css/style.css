@@ -144,6 +144,7 @@ body.pc .info_list a:hover { background:#e0ecec; }
 .top_recruit_b img{ckground: #fff;  box-shadow: 0 0 5px #ccc;  margin-bottom: 20px;}
 #top #top_info h2 .title_news{margin-right: 5px;}
 #top #top_info h2 .title_news img{padding-bottom: 15px;}
+
 /*===================================================================
 	information
 ===================================================================*/
@@ -175,6 +176,15 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 	privacy
 ===================================================================*/
 #privacy .box{padding: 50px;}
+
+/*===================================================================
+	product
+===================================================================*/
+
+
+/*===================================================================
+	cairo
+===================================================================*/
 
 
 /*===================================================================
@@ -224,15 +234,14 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 	common
 ===================================================================*/
 /*キーピット共通フッター*/
+.midashi_back{ box-shadow: 0 0 5px #ccc;}
+
 #common_product_foot{}
-
-
-/* 各ページリンク */
-.page_link { position:relative; border:1px solid #ccc; margin-bottom:30px; }
-.page_link a { display:table; width:100%; text-decoration:none; color:#444; }
-.page_link a > * { display:table-cell; vertical-align:middle; }
-.page_link .photo { width:35%; }
-.page_link .text { padding:0 0 0 25px; font-size:1.25em; }
+#common_product_foot .page_link { position:relative; border:1px solid #ccc; margin-bottom:30px; }
+#common_product_foot .page_link a { color: #000; text-decoration: none; font-weight: bold; }
+#common_product_foot .page_link .photo { }
+#common_product_foot .page_link .text { padding: 20px 0; text-align: center;}
+#common_product_foot .page_link:after { content: ""; position: absolute; bottom: 3px; right: 3px; border-style: solid; border-width: 5px; border-color: transparent #0F6C6C #0F6C6C transparent;}
 body.pc .page_link a:hover { background:#e8f1f1; }
 
 /*hl*/
