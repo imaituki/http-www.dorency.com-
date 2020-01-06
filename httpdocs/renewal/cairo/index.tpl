@@ -35,22 +35,43 @@
 			<p class="mb20">すぐに温まりたい人必携、常に高温を維持、即効性をアピールした文章</p>
 			<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 		</div>
+		<p>1986年鉄粉の酸化反応を利用した脱酸素剤の製造メーカーとして創業し、独自の技術を生かした製品開発により食品メーカー・製薬メーカーへ商品提供を行ってきました。この脱酸素剤事業で培った鉄粉、包材技術を使い捨てカイロに応用し、製造しております。</p>
 	</section>
 	<section>
 		<div class="wrapper-t center">
 			<h2 class="hl_4">楽々カイロの用途</h2>
 				<div class="row">
-					<div class="col-xs-6">
-						<div><img src="" alt=""></div>
+					<div class="col-xs-6 mb30">
+						<div>
+							<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way1.jpg" alt="冷え性対策に">
+							<div>
+								<p class="pos_ac">冷え性対策に</p>
+							</div>
+						</div>
 					</div>
-					<div class="col-xs-6">
-						<div><img src="" alt=""></div>
+					<div class="col-xs-6 mb30">
+						<div>
+							<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way2.jpg" alt="通勤・通学・屋外作業等の防寒対策に">
+							<div>
+								<p class="pos_ac">通勤・通学・屋外作業等の防寒対策に</p>
+							</div>
+						</div>
 					</div>
-					<div class="col-xs-6">
-						<div><img src="" alt=""></div>
+					<div class="col-xs-6 mb30">
+						<div>
+							<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way3.jpg" alt="冬場のスポーツやレジャーに">
+							<div>
+								<p class="pos_ac">冬場のスポーツやレジャーに</p>
+							</div>
+						</div>
 					</div>
-					<div class="col-xs-6">
-						<div><img src="" alt=""></div>
+					<div class="col-xs-6 mb30">
+						<div>
+							<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way4.jpg" alt="夏場のクーラーの冷えすぎに">
+							<div>
+								<p class="pos_ac">夏場のクーラーの冷えすぎに</p>
+							</div>
+						</div>
 					</div>
 				</div>
 		</div>
@@ -58,6 +79,12 @@
 	<section>
 		<div class="wrapper-t center">
 			<h2 class="hl_4">楽々カイロの種類</h2>
+			<div class="row">
+				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　レギュラー"></div>
+				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　レギュラー"></div>
+				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　ミニ"></div>
+				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　ミニ"></div>
+			</div>
 		</div>
 	</section>
 	<section>
