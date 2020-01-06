@@ -80,10 +80,18 @@
 		<div class="wrapper-t center">
 			<h2 class="hl_4">楽々カイロの種類</h2>
 			<div class="row">
-				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　レギュラー"></div>
-				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　レギュラー"></div>
-				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　ミニ"></div>
-				<div class="col-xs-3"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　ミニ"></div>
+				<div class="col-xs-3">
+					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　レギュラー">
+				</div>
+				<div class="col-xs-3">
+					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　レギュラー">
+				</div>
+				<div class="col-xs-3">
+					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　ミニ">
+				</div>
+				<div class="col-xs-3">
+					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　ミニ">
+				</div>
 			</div>
 		</div>
 	</section>
