@@ -185,8 +185,14 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 /*===================================================================
 	cairo
 ===================================================================*/
-
-
+#cairo .top .pos_ab{top:0; }
+#cairo .top .pos_ab .text{font-size: 1.75em; border-bottom: 1px solid #ccc; width: 50%; padding-bottom: 10px; margin-bottom: 10px;}
+#cairo .shadow{box-shadow: 0 0 5px #ccc;}
+#cairo .way_box{
+	box-shadow: 0 0 5px #ccc;
+    background: #fafafa;
+    padding: 15px 0;
+    font-weight: bold;}
 /*===================================================================
 	#company
 ===================================================================*/
@@ -376,8 +382,6 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 	.button._type_2 a:hover{ color: #FFF!important;}
 
 	body.pc .button._type_2:hover i { display:none; }
-
-
 /*===================================================================
 	#entry
 ===================================================================*/
