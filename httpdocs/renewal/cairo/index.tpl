@@ -36,7 +36,7 @@
 				<div class="disp_td fw_bold">
 					<div class="center">
 						<p>[カイロ]</p>
-						<p class="text">すぐに温まりたい人必携<br>常に高温を維持<br>即効性をアピールした文章がはいります。</p>
+						<p class="text cg6">すぐに温まりたい人必携<br>常に高温を維持<br>即効性をアピールした文章がはいります。</p>
 						<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 					<div>
 						<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way1.jpg" alt="冷え性対策に">
 						<div class="way_box">
-							<p class="pos_ac">冷え性対策に</p>
+							<p class="pos_ac cg6">冷え性対策に</p>
 						</div>
 					</div>
 				</div>
@@ -60,7 +60,7 @@
 					<div>
 						<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way2.jpg" alt="通勤・通学・屋外作業等の防寒対策に">
 						<div class="way_box">
-							<p class="pos_ac">通勤・通学・屋外作業等の防寒対策に</p>
+							<p class="pos_ac cg6">通勤・通学・屋外作業等の防寒対策に</p>
 						</div>
 					</div>
 				</div>
@@ -68,7 +68,7 @@
 					<div>
 						<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way3.jpg" alt="冬場のスポーツやレジャーに">
 						<div class="way_box">
-							<p class="pos_ac">冬場のスポーツやレジャーに</p>
+							<p class="pos_ac cg6">冬場のスポーツやレジャーに</p>
 						</div>
 					</div>
 				</div>
@@ -76,7 +76,7 @@
 					<div>
 						<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/way4.jpg" alt="夏場のクーラーの冷えすぎに">
 						<div class="way_box">
-							<p class="pos_ac">夏場のクーラーの冷えすぎに</p>
+							<p class="pos_ac cg6">夏場のクーラーの冷えすぎに</p>
 						</div>
 					</div>
 				</div>
@@ -86,24 +86,123 @@
 	<section>
 		<div class="wrapper-t center">
 			<h2 class="hl_4">楽々カイロの種類</h2>
-			<div class="row">
+			<div class="row mb50">
 				<div class="col-xs-3">
-					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　レギュラー">
+					<p class="mb10"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　レギュラー"></p>
+					<p class="pos_ac">貼るタイプ　レギュラー</p>
 				</div>
 				<div class="col-xs-3">
-					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　レギュラー">
+					<p class="mb10"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　レギュラー"></p>
+					<p class="pos_ac">貼らないタイプ　レギュラー</p>
 				</div>
 				<div class="col-xs-3">
-					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　ミニ">
+					<p class="mb10"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼るタイプ　ミニ"></p>
+					<p class="pos_ac">貼るタイプ　ミニ</p>
 				</div>
 				<div class="col-xs-3">
-					<img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　ミニ">
+					<p class="mb10"><img src="{$_RENEWAL_DIR}/common/image/contents/cairo/type1.jpg" alt="貼らないタイプ　ミニ"></p>
+					<p class="pos_ac">貼らないタイプ　ミニ</p>
 				</div>
+			</div>
+			<div class="hidden-only">
+				<table class="tbl_product mb10">
+					<thead>
+						<tr>
+							<th><span class="th">タイプ</span></th>
+							<th><span class="th">サイズ</span></th>
+							<th><span class="th">カイロ寸法</span></th>
+							<th><span class="th">持続時間</span></th>
+							<th><span class="th">最高温度</span></th>
+							<th><span class="th">平均温度</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td rowspan="2">貼るタイプ</td>
+							<td><a href="http://www.oroshistadium.com/shopbrand/harukairo-regular/" target="_blank">レギュラー</a></td>
+							<td>87×110mm</td>
+							<td>10時間40℃以上</td>
+							<td>63℃</td>
+							<td>52℃</td>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/harukairo-mini/" target="_blank">ミニ</a></td>
+							<td>70×95mm</td>
+							<td>8時間40℃以上</td>
+							<td>63℃</td>
+							<td>52℃</td>
+						</tr>
+						<tr>
+							<td rowspan="2">貼らないタイプ</td>
+							<td><a href="http://www.oroshistadium.com/shopbrand/haranaikairo-regular/" target="_blank">レギュラー</a></td>
+							<td>82×105mm</td>
+							<td>16時間40℃以上</td>
+							<td>70℃</td>
+							<td>56℃</td>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/haranaikairo-mini/" target="_blank">ミニ</a></td>
+							<td>60×90mm</td>
+							<td>8時間40℃以上</td>
+							<td>70℃</td>
+							<td>58℃</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="visible-only">
+				<table class="tbl_product mb10">
+					<thead>
+						<tr>
+							<th><span class="th">サイズ</span></th>
+							<th><span class="th">カイロ寸法</span></th>
+							<th><span class="th">持続時間</span></th>
+							<th><span class="th">最高温度</span></th>
+							<th><span class="th">平均温度</span></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class="visible-only">
+							<th colspan="5">貼るタイプ</th>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/harukairo-regular/" target="_blank">レギュラー</a></td>
+							<td>87×110mm</td>
+							<td>10時間40℃以上</td>
+							<td>63℃</td>
+							<td>52℃</td>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/harukairo-mini/" target="_blank">ミニ</a></td>
+							<td>70×95mm</td>
+							<td>8時間40℃以上</td>
+							<td>63℃</td>
+							<td>52℃</td>
+						</tr>
+						<tr class="visible-only">
+							<th colspan="5">貼らないタイプ</th>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/haranaikairo-regular/" target="_blank">レギュラー</a></td>
+							<td>82×105mm</td>
+							<td>16時間40℃以上</td>
+							<td>70℃</td>
+							<td>56℃</td>
+						</tr>
+						<tr>
+							<td><a href="http://www.oroshistadium.com/shopbrand/haranaikairo-mini/" target="_blank">ミニ</a></td>
+							<td>60×90mm</td>
+							<td>8時間40℃以上</td>
+							<td>70℃</td>
+							<td>58℃</td>
+						</tr>
+					</tbody>
+				</table>
 			</div>
 		</div>
 	</section>
 	<section>
-		<div class="center wrapper">
+		<div class="center wrapper-t">
 			<h2 class="hl_4">楽々カイロに関するお問い合わせ</h2>
 			{include file=$template_product_foot}
 		</div>

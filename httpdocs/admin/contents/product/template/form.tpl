@@ -15,7 +15,7 @@
 					</div>
 					<div class="hr-line-dashed"></div>
 					<div class="form-group required">
-						<label class="col-sm-2 control-label">種類</label>
+						<label class="col-sm-2 control-label">製品名</label>
 						<div class="col-sm-6">
 							{if $message.ng.name|default:"" != NULL}<p class="error">{$message.ng.name}</p>{/if}
 							<input type="text" class="form-control" name="name" id="name" value="{$arr_post.name|default:""}" />
@@ -23,7 +23,7 @@
 					</div>
 					<div class="hr-line-dashed"></div>
 					<div class="form-group">
-						<label class="col-sm-2 control-label">事業所追加</label>
+						<label class="col-sm-2 control-label">種類追加</label>
 						<div class="col-sm-9">
 							<p class="mb10 x-large"> <a href="javascript:void(0);" class="add_product_parts btn btn-primary btn-s"><i class="fa fa-r fa-plus-circle"></i>追加</a></p>
 						</div>

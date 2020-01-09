@@ -14,7 +14,7 @@ require "./config.ini";
 //  ヘッダー情報
 //----------------------------------------
 // タイトル
-$_HTML_HEADER["title"] = "カイロ";
+$_HTML_HEADER["title"] = "バーチャル工場見学";
 
 // キーワード
 $_HTML_HEADER["keyword"] = "";
@@ -23,12 +23,12 @@ $_HTML_HEADER["keyword"] = "";
 $_HTML_HEADER["description"] = "";
 
 // ページID
-$_HTML_HEADER["id"] = "cairo";
+$_HTML_HEADER["id"] = "virtual";
 //----------------------------------------
 //  smarty設定
 //----------------------------------------
 $smarty = new MySmarty("front");
-$smarty->compile_dir .= "cairo/";
+$smarty->compile_dir .= "virtual/";
 
 // 表示
 $smarty->display("index.tpl");
