@@ -43,9 +43,27 @@ $t_product = $objProduct->GetSearchList( $search );
 foreach ($t_product as $key => $val) {
     if( !empty( $t_product[$key]["id_product"] ) ) {
         $t_product[$key]["detail"] = $objProduct->GetSearchDetail( array( "search_id_product_parts" => $t_product[$key]["id_product"] ) );
+
+        // thead出力用
+        if( !empty( $t_product[$key]["detail"] ) && is_array( $t_product[$key]["detail"] ) ){
+            unset( $type, $feature, $days, $time, $use, $necessary_time, $html );
+            foreach ( $t_product[$key]["detail"] as $key2 => $val2 ) {
+                if( !empty( $val2["type"] ) ) $type = 1;
+                if( !empty( $val2["feature"] ) ) $feature = 1;
+                if( !empty( $val2["days"] ) ) $days = 1;
+                if( !empty( $val2["time"] ) ) $time = 1;
+                if( !empty( $val2["use"] ) ) $use = 1;
+                if( !empty( $val2["necessary_time"] ) ) $necessary_time = 1;
+            }
+            if( !empty( $type ) ) $t_product[$key]["type_flg"] = 1;
+            if( !empty( $feature ) ) $t_product[$key]["feature_flg"] = 1;
+            if( !empty( $days ) ) $t_product[$key]["days_flg"] = 1;
+            if( !empty( $time ) ) $t_product[$key]["time_flg"] = 1;
+            if( !empty( $use ) ) $t_product[$key]["use_flg"] = 1;
+            if( !empty( $necessary_time ) ) $t_product[$key]["necessary_time_flg"] = 1;
+        }
     }
 }
-disp_arr($t_product);
 
 // クラス削除
 unset( $objProductCategory);

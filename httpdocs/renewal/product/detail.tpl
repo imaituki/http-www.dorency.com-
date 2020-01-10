@@ -84,46 +84,58 @@
 					<table class="tbl_product mb10">
 						<thead>
 							<tr>
-								{if $product.detail.{$key}.type != NULL}
+								{if $product.type_flg == 1}
 								<th><span class="th">種類</span></th>
 								{/if}
-								{if $product.detail.{$key}.feature != NULL}
+								{if $product.feature_flg == 1}
 								<th><span class="th">特徴</span></th>
 								{/if}
-								{if $product.detail.{$key}.days != NULL}
+								{if $product.days_flg == 1}
 								<th><span class="th">脱酸素日数</span></th>
 								{/if}
-								{if $product.detail.{$key}.time != NULL}
+								{if $product.time_flg == 1}
 								<th><span class="th">放置可能時間</span></th>
 								{/if}
-								{if $product.detail.{$key}.use != NULL}
+								{if $product.use_flg == 1}
 								<th><span class="th">主な用途</span></th>
 								{/if}
-								{if $product.detail.{$key}.necessary_time != NULL}
+								{if $product.necessary_time_flg == 1}
 								<th><span class="th">変化所要時間</span></th>
 								{/if}
 							</tr>
 						</thead>
-						{foreach from=$product.detail item="product_parts" key="key" name="loopProductParts"}
+						{foreach from=$product.detail item="product_parts" key="key2" name="loopProductParts"}
 						<tbody>
 							<tr>
 								{if $product_parts.type != NULL}
 									<td>{$product_parts.type|nl2br}</td>
+								{elseif $product.type_flg == 1}
+									<td>―</td>
 								{/if}
 								{if $product_parts.feature != NULL}
 									<td>{$product_parts.feature|nl2br}</td>
+								{elseif $product.feature_flg == 1}
+									<td>―</td>
 								{/if}
 								{if $product_parts.days != NULL}
 									<td>{$product_parts.days|nl2br}</td>
+								{elseif $product.days_flg == 1}
+									<td>―</td>
 								{/if}
 								{if $product_parts.time != NULL}
 									<td>{$product_parts.time|nl2br}</td>
+								{elseif $product.time_flg == 1}
+									<td>―</td>
 								{/if}
 								{if $product_parts.use != NULL}
 									<td>{$product_parts.use|nl2br}</td>
+								{elseif $product.use_flg == 1}
+									<td>―</td>
 								{/if}
 								{if $product_parts.necessary_time != NULL}
 									<td>{$product_parts.necessary_time}</td>
+								{elseif $product.necessary_time_flg == 1}
+									<td>―</td>
 								{/if}
 							</tr>
 						</tbody>
@@ -135,28 +147,30 @@
 					<table class="tbl_product mb10">
 						<thead>
 							<tr>
-								{if $product.detail.{$key}.feature != NULL}
+								{if $product.feature_flg == 1}
 								<th><span class="th">特徴</span></th>
 								{/if}
-								{if $product.detail.{$key}.days != NULL}
+								{if $product.days_flg == 1}
 								<th><span class="th">脱酸素日数</span></th>
 								{/if}
-								{if $product.detail.{$key}.time != NULL}
+								{if $product.time_flg == 1}
 								<th><span class="th">放置可能時間</span></th>
 								{/if}
-								{if $product.detail.{$key}.use != NULL}
+								{if $product.use_flg == 1}
 								<th><span class="th">主な用途</span></th>
 								{/if}
-								{if $product.detail.{$key}.necessary_time != NULL}
+								{if $product.necessary_time_flg == 1}
 								<th><span class="th">変化所要時間</span></th>
 								{/if}
 							</tr>
 						</thead>
-						{foreach from=$product.detail item="product_parts" key="key" name="loopProductParts"}
+						{foreach from=$product.detail item="product_parts" key="key2" name="loopProductParts"}
 						<tbody>
+							{if $product_parts.type !=NULL}
 							<tr class="visible-only">
 								<th colspan="6">{$product_parts.type|nl2br}</th>
 							</tr>
+							{/if}
 							<tr>
 								{if $product_parts.feature != NULL}
 									<td>{$product_parts.feature|nl2br}</td>

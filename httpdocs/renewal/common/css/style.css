@@ -203,17 +203,54 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 		.cat_unit h3 { font-size:1.5em; }
 	}
 #product .d_tbl{display: table;}
+
+
+/*===================================================================
+	way
+===================================================================*/
+#way .life{background:url(../image/contents/way/back.jpg); background-position: center center; background-repeat: no-repeat; background-size: cover;}
+#way .life .living h2.hl_6{color: #008F4B!important;}
+#way .life .living .button{color: #50A243!important; border: 1px solid #50A243;}
+#way .life .living .button._type_2 a{color: #50A243!important;}
+#way .illust_unit p:first-child{background: #F8F8F8; padding: 10px 0; margin-top: 50px;}
+#way .illust_unit .illust .list a{text-decoration: none;}
+
+#way .illust_unit .illust .maru{height: 40px; width: 40px; font-size: 25px; border-radius:50%; text-align:center; font-weight: bold; background: #FFF; color: #52A83E; border: 2px green solid; font-family: Segoe UI;    line-height: 35px;}
+#way .illust_unit .illust ul.list li{position: absolute;}
+#way .illust_unit .illust ul.list li:nth-child(1){ top: 37%; left: 81%;}
+#way .illust_unit .illust ul.list li:nth-child(2){ top: 10%; left: 82%;}
+#way .illust_unit .illust ul.list li:nth-child(3){ top: 53%; left: 70%;}
+#way .illust_unit .illust ul.list li:nth-child(4){ top: 53%; left: 52%;}
+#way .illust_unit .illust ul.list li:nth-child(5){ top: 49%; left: 42%;}
+#way .illust_unit .illust ul.list li:nth-child(6){ top: 66%; left: 63%;}
+#way .illust_unit .illust ul.list li:nth-child(7){ top: 64%; left: 41%;;}
+#way .illust_unit .illust ul.list li:nth-child(8){ top: 10%; left: 38%;}
+
+#way .item_list .unit a{color: #000;}
+#way .item_list .unit a:hover{color: #008F4B;}
+#way .item_list .unit .text .cat{ color: #0F6C6C; border: 1px solid #0F6C6C; background: #FFF; text-align: center;}
+#way .item_list .unit .text h3.title span.name{text-decoration: underline;}
+#way .item_list .unit .text h3.title span.num{color: #008F4B; font-weight: bold; font-size: 25px; font-family: Segoe UI; margin-right: 10px;}
+
+/*===================================================================
+	popup
+===================================================================*/
+#iframe.popup .hl_3{    border-radius: 0px; padding: 20px;}
+#iframe.popup .hl_3 span{ border-left: 3px solid #FFF; padding-left: 10px;}
+#iframe.popup .item .hl_1{background: #F8F8F8; text-align: left; padding: 10px 30px; font-size: 2em;}
+#iframe.popup .item .hl_1 span{color: #52A83E; font-family: Segoe UI; margin-right: 15px;}
+#iframe.popup .item .feature p{ border: 2px solid; text-align: center; border-radius: 5px; padding: 8px 0; font-weight: bold;}
+
+#iframe.popup .product .bg_f{padding: 25px 0100px;}
+#iframe.popup .product p.type{font-weight: bold;}
 /*===================================================================
 	cairo
 ===================================================================*/
 #cairo .top .pos_ab{top:0; }
 #cairo .top .pos_ab .text{font-size: 1.75em; border-bottom: 1px solid #ccc; width: 50%; padding-bottom: 10px; margin-bottom: 10px;}
 #cairo .shadow{box-shadow: 0 0 5px #ccc;}
-#cairo .way_box{
-	box-shadow: 0 0 5px #ccc;
-    background: #fafafa;
-    padding: 15px 0;
-    font-weight: bold;}
+#cairo .way_box{box-shadow: 0 0 5px #ccc; background: #fafafa; padding: 15px 0; font-weight: bold;}
+
 /*===================================================================
 	#company
 ===================================================================*/
@@ -296,7 +333,6 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 
 .hl_3{ margin-bottom: 30px; font-size: 1.5em; background: #50A243; padding: 15px 50px; font-weight: bold; border-radius: 5px; color: #FFF; box-shadow: 0px 5px 5px -4px rgba(112,112,112,0.6);}
 .hl_3 { position:relative;  line-height:100%; margin-bottom:50px; }
-.hl_3 > * { vertical-align:middle; position:relative; background:#fff; }
 .hl_3 .main { font-size:2.5em; }
 .hl_3 .sub { padding:5px 15px 0; color:#999; }
 
@@ -468,6 +504,8 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 ===================================================================*/
 /* background */
 .bg0 { background-color:#fff; }
+.bg_1{background: #E5F4EC;}
+.bg_f{background: #FFF;}
 .bg_gray { background-color:#fafafa; }
 .bg_green { background-color:#106b6c; }
 .bg_green2 { background-color:#27AB0D; }
