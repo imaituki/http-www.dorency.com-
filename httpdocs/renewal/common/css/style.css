@@ -175,7 +175,10 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 #product .feature p.num {font-weight: bold; color: #FFF; background: #0A8888; padding: 8px 0px; letter-spacing: 5px;}
 #product .feature .box{background: #FAFAFA; padding: 25px 30px;}
 #product .main_feature .flex_c { display: flex; align-items: center; background: #FAFAFA;}
-#product .main_feature .flex_c h3{border-bottom: 1px solid #0A8888; font-weight: bold; padding: 0 0 5px; margin: 0 0 10px; color: #0A8888; font-size: 1.5em;}
+#product .main_feature .flex_c h3{    border-bottom: 1px solid #B8DBDB; font-weight: bold; padding: 0 0 5px; margin: 0 0 10px; color: #0A8888; font-size: 1.5em;}
+#product .main_feature .text_unit{padding: 0px 30px;}
+
+#product .detail h3{border-bottom: 2px solid #E5E5E5; font-weight: bold; padding: 0 0 5px; margin: 0 0 10px; color: #0F6C6C; font-size: 1.5em;}
 
 #product .feature .box h3{border-bottom: 1px solid #0A8888; font-weight: bold; padding: 0 0 5px; margin: 0 0 10px; color: #333; font-size: 1.5em; text-align: center;}
 #product .top .pos_ab{top:0; }
@@ -199,6 +202,7 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 		.cat_unit a { display:block; }
 		.cat_unit h3 { font-size:1.5em; }
 	}
+#product .d_tbl{display: table;}
 /*===================================================================
 	cairo
 ===================================================================*/

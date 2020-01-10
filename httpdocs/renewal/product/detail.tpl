@@ -26,192 +26,161 @@
 			<ul>
 				<li><a href="{$_RENEWAL_DIR}/"><i class="fa fa-home"></i></a></li>
 				<li><a href="{$_RENEWAL_DIR}/product/">鮮度保持剤</a></li>
-				<li>鮮度保持剤</li>
+				<li>{$t_product_category_detail.name}</li>
 			</ul>
 		</div>
 	</div>
 	<section>
-		<div class="wrapper-t center">
-			<h2 class="hl_4">有機系自力反応型キーピット</h2>
+		<div class="wrapper-t center detail">
+			<h2 class="hl_4">{$t_product_category_detail.name}</h2>
 			<div class="row">
-				<div class="col-xs-6"><img src="http://www.dorency.com/common/photo/product_category/image1_2/s_202001091931410187356.jpg" alt="有機系自力反応型キーピット"></div>
-				<div class="col-xs-6">
-					<h3>空気に触れると同時に、酸素の吸収を始めます</h3>
-					<p>有機系自力反応型には次のような2種類のタイプがあります。
-					YCタイプは吸収した酸素量とほぼ同容量の炭酸ガスを発生し、全体の体積変化が少ないという特長があります。
-					YFタイプは酸素吸収がはやく、又炭酸ガスを発生しない特長をもっています。
-					以上の2つのタイプは、いずれも非金属性化合物で作られたものなので、金属探知機に反応しません。</p>
+				<div class="col-xs-4 height-1"><div class="img_sq"><img src="/common/photo/product_category/image1_2/m_{$t_product_category_detail.image1_2}" alt="{$t_product_category_detail.name}"></div></div>
+				<div class="col-xs-8 d_tbl height-1">
+					<div class="disp_td">
+						<h3>{$t_product_category_detail.catchtitle}</h3>
+						<p>{$t_product_category_detail.comment|nl2br}</p>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+	{if $t_product_category_detail.index1 != NULL || $t_product_category_detail.comment1 != NULL || $t_product_category_detail.index2 != NULL || $t_product_category_detail.comment2 != NULL}
 	<section>
 		<div class="wrapper-t center main_feature">
 			<h2 class="hl_4">主な特徴</h2>
 			<div class="row">
+				{if $t_product_category_detail.index1 != NULL || $t_product_category_detail.comment1 != NULL}
 				<div class="col-xs-6 height-1 mb50">
-					<div class="pos_ac"><img src="http://www.dorency.com/common/photo/product_category/image2/l_201912131545490153555.jpg" alt="有機系自力反応型キーピット"></div>
+					<div class="pos_ac"><img src="{if $t_product_category_detail.image2 != NULL}/common/photo/product_category/image2/m_{$t_product_category_detail.image2}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
 				</div>
 				<div class="col-xs-6 height-1 mb50 flex_c">
 					<div class="text_unit pos_al">
-						<h3>異物として認識しない</h3>
-						<p>金属検出機はもちろんの事、長年培った独自開発技術により、X線にも対応した鮮度保持剤</p>
+						<h3>{$t_product_category_detail.index1}</h3>
+						<p>{$t_product_category_detail.comment1}</p>
 					</div>
 				</div>
+				{/if}
+				{if $t_product_category_detail.index2 != NULL || $t_product_category_detail.comment2 != NULL}
 				<div class="col-xs-6 col-xs-push-6 height-1">
-					<div class="pos_ac"><img src="http://www.dorency.com/common/photo/product_category/image2/l_201912131545490153555.jpg" alt="有機系自力反応型キーピット"></div>
+					<div class="pos_ac"><img src="{if $t_product_category_detail.image3 != NULL}/common/photo/product_category/image3/m_{$t_product_category_detail.image3}{else}{$_RENEWAL_DIR}/common/image/contents/null_rect.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
 				</div>
 				<div class="col-xs-6 col-xs-pull-6 height-1 flex_c">
 					<div class="text_unit pos_al">
-						<h3>異物として認識しない</h3>
-						<p>金属検出機はもちろんの事、長年培った独自開発技術により、X線にも対応した鮮度保持剤</p>
+						<h3>{$t_product_category_detail.index2}</h3>
+						<p>{$t_product_category_detail.comment2}</p>
 					</div>
 				</div>
+				{/if}
 			</div>
 		</div>
 	</section>
+	{/if}
 	<section>
 		<div class="wrapper-t center">
+			{foreach from=$t_product item="product" key="key" name="loopProduct"}
 			<div class="unit mb50">
-				<p class="fw_bold">有機系自力反応型キーピット 製品仕様</p>
+				<p class="fw_bold">{$product.name}　製品仕様</p>
 				<div class="hidden-only">
 					<table class="tbl_product mb10">
 						<thead>
 							<tr>
+								{if $product.detail.{$key}.type != NULL}
 								<th><span class="th">種類</span></th>
+								{/if}
+								{if $product.detail.{$key}.feature != NULL}
 								<th><span class="th">特徴</span></th>
+								{/if}
+								{if $product.detail.{$key}.days != NULL}
 								<th><span class="th">脱酸素日数</span></th>
+								{/if}
+								{if $product.detail.{$key}.time != NULL}
 								<th><span class="th">放置可能時間</span></th>
+								{/if}
+								{if $product.detail.{$key}.use != NULL}
 								<th><span class="th">主な用途</span></th>
+								{/if}
+								{if $product.detail.{$key}.necessary_time != NULL}
 								<th><span class="th">変化所要時間</span></th>
+								{/if}
 							</tr>
 						</thead>
+						{foreach from=$product.detail item="product_parts" key="key" name="loopProductParts"}
 						<tbody>
 							<tr>
-								<td>YC</td>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-							<tr>
-								<td rowspan="2">YC</td>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
+								{if $product_parts.type != NULL}
+									<td>{$product_parts.type|nl2br}</td>
+								{/if}
+								{if $product_parts.feature != NULL}
+									<td>{$product_parts.feature|nl2br}</td>
+								{/if}
+								{if $product_parts.days != NULL}
+									<td>{$product_parts.days|nl2br}</td>
+								{/if}
+								{if $product_parts.time != NULL}
+									<td>{$product_parts.time|nl2br}</td>
+								{/if}
+								{if $product_parts.use != NULL}
+									<td>{$product_parts.use|nl2br}</td>
+								{/if}
+								{if $product_parts.necessary_time != NULL}
+									<td>{$product_parts.necessary_time}</td>
+								{/if}
 							</tr>
 						</tbody>
+						{/foreach}
 					</table>
+					{if $product.notice !=NULL}<p>※{$product.notice}</p>{/if}
 				</div>
 				<div class="visible-only">
 					<table class="tbl_product mb10">
 						<thead>
 							<tr>
+								{if $product.detail.{$key}.feature != NULL}
 								<th><span class="th">特徴</span></th>
+								{/if}
+								{if $product.detail.{$key}.days != NULL}
 								<th><span class="th">脱酸素日数</span></th>
+								{/if}
+								{if $product.detail.{$key}.time != NULL}
 								<th><span class="th">放置可能時間</span></th>
+								{/if}
+								{if $product.detail.{$key}.use != NULL}
 								<th><span class="th">主な用途</span></th>
+								{/if}
+								{if $product.detail.{$key}.necessary_time != NULL}
 								<th><span class="th">変化所要時間</span></th>
+								{/if}
 							</tr>
 						</thead>
+						{foreach from=$product.detail item="product_parts" key="key" name="loopProductParts"}
 						<tbody>
 							<tr class="visible-only">
-								<th colspan="5">YC</th>
+								<th colspan="6">{$product_parts.type|nl2br}</th>
 							</tr>
 							<tr>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-							<tr class="visible-only">
-								<th colspan="5">YC</th>
-							</tr>
-							<tr>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
+								{if $product_parts.feature != NULL}
+									<td>{$product_parts.feature|nl2br}</td>
+								{/if}
+								{if $product_parts.days != NULL}
+									<td>{$product_parts.days|nl2br}</td>
+								{/if}
+								{if $product_parts.time != NULL}
+									<td>{$product_parts.time|nl2br}</td>
+								{/if}
+								{if $product_parts.use != NULL}
+									<td>{$product_parts.use|nl2br}</td>
+								{/if}
+								{if $product_parts.necessary_time != NULL}
+									<td>{$product_parts.necessary_time}</td>
+								{/if}
 							</tr>
 						</tbody>
+						{/foreach}
 					</table>
+					{if $product.notice !=NULL}<p>※{$product.notice}</p>{/if}
 				</div>
 			</div>
-			<div class="unit mb50">
-				<p class="fw_bold">有機系自力反応型キーピット 製品仕様</p>
-				<div class="hidden-only">
-					<table class="tbl_product mb10">
-						<thead>
-							<tr>
-								<th><span class="th">種類</span></th>
-								<th><span class="th">特徴</span></th>
-								<th><span class="th">脱酸素日数</span></th>
-								<th><span class="th">放置可能時間</span></th>
-								<th><span class="th">主な用途</span></th>
-								<th><span class="th">変化所要時間</span></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>YC</td>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-							<tr>
-								<td rowspan="2">YC</td>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-				<div class="visible-only">
-					<table class="tbl_product mb10">
-						<thead>
-							<tr>
-								<th><span class="th">特徴</span></th>
-								<th><span class="th">脱酸素日数</span></th>
-								<th><span class="th">放置可能時間</span></th>
-								<th><span class="th">主な用途</span></th>
-								<th><span class="th">変化所要時間</span></th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr class="visible-only">
-								<th colspan="5">YC</th>
-							</tr>
-							<tr>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-							<tr class="visible-only">
-								<th colspan="5">YC</th>
-							</tr>
-							<tr>
-								<td>3方シール<br>耐水、耐油性、炭酸ガス発生型</td>
-								<td>2~3日</td>
-								<td>2時間以内</td>
-								<td>ナッツ類、煮干し、おかき、珍味など。</td>
-								<td>変化所要時間変化所要時間</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
+			{/foreach}
 		</div>
 	</section>
 	<section>

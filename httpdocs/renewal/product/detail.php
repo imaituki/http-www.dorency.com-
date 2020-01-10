@@ -45,7 +45,7 @@ foreach ($t_product as $key => $val) {
         $t_product[$key]["detail"] = $objProduct->GetSearchDetail( array( "search_id_product_parts" => $t_product[$key]["id_product"] ) );
     }
 }
-//disp_arr($t_product);
+disp_arr($t_product);
 
 // クラス削除
 unset( $objProductCategory);
@@ -59,8 +59,9 @@ $smarty = new MySmarty("front");
 $smarty->compile_dir .= "product/";
 
 // テンプレートに設定
-$smarty->assign( "t_product"       , $t_product            );
-$smarty->assign( "t_product_category", $t_product_category );
+$smarty->assign( "t_product"                , $t_product                 );
+$smarty->assign( "t_product_category_detail", $t_product_category_detail );
+$smarty->assign( "t_product_category"       , $t_product_category        );
 
 // オプション設定
 $smarty->assign( "OptionProductCategory", $OptionProductCategory );
