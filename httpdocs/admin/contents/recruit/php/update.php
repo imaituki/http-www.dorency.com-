@@ -60,11 +60,13 @@ if( empty( $message["ng"] ) ) {
 	header( "Location: ./index.php" );
 
 } else {
-
 	// データ加工
-	$arr_post["display_start"] = date( "Y/m/d", strtotime( $arr_post["display_start"] ) );
-	$arr_post["display_end"]   = date( "Y/m/d", strtotime( $arr_post["display_end"]   ) );
-
+	if( !empty( $arr_post["display_start"] ) ){
+		$arr_post["display_start"] = date( "Y/m/d", strtotime( $arr_post["display_start"] ) );
+	}
+	if( !empty( $arr_post["display_end"] ) ){
+		$arr_post["display_end"]   = date( "Y/m/d", strtotime( $arr_post["display_end"]   ) );
+	}
 	// smarty設定
 	$smarty = new MySmarty("admin");
 	$smarty->compile_dir .= "recruit/";
@@ -78,7 +80,7 @@ if( empty( $message["ng"] ) ) {
 	$smarty->assign( "OptionSalaryUnit" , $OptionSalaryUnit  );
 	$smarty->assign( 'OptionEmployment' , $OptionEmployment  );
 	$smarty->assign( 'OptionRecruit'    , $OptionRecruit     );
-	
+
 
 
 	// 表示
