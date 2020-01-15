@@ -17,15 +17,15 @@
 		<section>
 			<div class="center2 wrapper">
 				<div class="item">
-					<h2 class="hl_1"><span>1</span>ハム・ベーコン</h2>
-					<div class="pos_ac"><img src="{$_RENEWAL_DIR}/common/image/contents/way/item1.jpg" alt="ハム・ベーコン"></div>
+					<h2 class="hl_1"><span>6</span>バウムクーヘン</h2>
+					<div class="pos_ac"><img src="{$_RENEWAL_DIR}/common/image/contents/way/item6.jpg" alt="バウムクーヘン"></div>
 					<h2 class="hl_4">効果/特徴</h2>
 					<div class="row feature">
 						<div class="col-xs-6 cg2">
 							<p>カビの発生防止</p>
 						</div>
 						<div class="col-xs-6 cg2">
-							<p>変色の防止</p>
+							<p>しっとり感の保持</p>
 						</div>
 					</div>
 				</div>
@@ -40,7 +40,7 @@
 							<div class="bg_f">
 								<p class="pos_ac mb20"><img src="{$_RENEWAL_DIR}/common/image/contents/way/test.jpg" alt=""></p>
 								<div class="pos_ac">
-									<p class="type"><a href="###"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピットYFタイプ</a><br><a href="###"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピットWYタイプ</a></p>
+									<p class="type"><a href="###"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピットLEタイプ</a><br><a href="###"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピットYFEタイプ</a></p>
 								</div>
 							</div>
 						</div>

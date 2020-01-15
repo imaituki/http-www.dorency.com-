@@ -71,7 +71,7 @@ $(function(){
 			<div class="center living wrapper">
 				<h2 class="hl_6 pos_ac fw_bold mb30">暮らしのいろんなところにキーピット</h2>
 				<p class="pos_ac mb30">さまざまな、食品の「安全」「おいしさ」を守っています。<br>この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミ</p>
-				<div class="button _type_2"><a href="/renewal/recruit/product/">キーピットについて<i class="arrow_cg"></i></a></div>
+				<div class="button _type_2"><a href="{$_RENEWAL_DIR}/product/">キーピットについて<i class="arrow_cg"></i></a></div>
 			</div>
 		</section>
 	</div>

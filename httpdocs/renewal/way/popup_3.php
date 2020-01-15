@@ -14,7 +14,7 @@ require "./config.ini";
 //  ヘッダー情報
 //----------------------------------------
 // タイトル
-$_HTML_HEADER["title"] = "ハム・ベーコン";
+$_HTML_HEADER["title"] = "ドーナッツ";
 
 // キーワード
 $_HTML_HEADER["keyword"] = "";
@@ -30,6 +30,6 @@ $smarty->compile_dir .= "way/";
 
 
 // 表示
-$smarty->display("popup_1.tpl");
+$smarty->display("popup_3.tpl");
 
 ?>

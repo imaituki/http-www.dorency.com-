@@ -241,8 +241,11 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 #iframe.popup .item .hl_1 span{color: #52A83E; font-family: Segoe UI; margin-right: 15px;}
 #iframe.popup .item .feature p{ border: 2px solid; text-align: center; border-radius: 5px; padding: 8px 0; font-weight: bold;}
 
-#iframe.popup .product .bg_f{padding: 25px 0100px;}
-#iframe.popup .product p.type{font-weight: bold;}
+#iframe.popup .product .bg_f{padding: 25px; text-align: center;}
+#iframe.popup .product p.type{font-weight: bold; display: inline-block; text-align: left;}
+#iframe.popup .product p.type a{color: #000;}
+#iframe.popup .product p.type i{margin-right: 5px; color: #008F4B;}
+
 /*===================================================================
 	cairo
 ===================================================================*/
