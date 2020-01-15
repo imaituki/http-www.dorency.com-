@@ -1,25 +1,24 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 18:41:26
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 15:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:5713087495df1ae08eeadd4-35954701%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15273771595e1eb42aa57a61-49104599%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '96e9e7344b958fd233cf98ca4bf316380b69bcc9' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/form.tpl',
-      1 => 1576230085,
+      1 => 1577421322,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5713087495df1ae08eeadd4-35954701',
+  'nocache_hash' => '15273771595e1eb42aa57a61-49104599',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df1ae09220df4_71051165',
   'variables' => 
   array (
     'message' => 0,
+    'OptionRecruit' => 0,
     'arr_post' => 0,
     'OptionEmployment' => 0,
     'OptionSalaryUnit' => 0,
@@ -32,11 +31,25 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_CONTENTS_CONF_PATH' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e1eb42ade37d6_86743501',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df1ae09220df4_71051165')) {function content_5df1ae09220df4_71051165($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
+<?php if ($_valid && !is_callable('content_5e1eb42ade37d6_86743501')) {function content_5e1eb42ade37d6_86743501($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
+if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
 if (!is_callable('smarty_function_html_select_ken')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_select_ken.php';
 ?><form id="inputForm" name="inputForm" class="form-horizontal" action="./preview.php?preview=1" method="post" enctype="multipart/form-data">
 	<div class="ibox-content">
+		<div class="form-group required">
+			<label class="col-sm-2 control-label">採用種別</label>
+			<div class="col-sm-6">
+				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['recruit'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['recruit'];?>
+</p><?php }?>
+				<div class="radio m-r-xs inline">
+					<?php echo smarty_function_html_radios(array('options'=>$_smarty_tpl->tpl_vars['OptionRecruit']->value,'class'=>"recruit",'name'=>"recruit",'selected'=>(($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['recruit'])===null||$tmp==='' ? "0" : $tmp),'separator'=>"&nbsp;&nbsp;"),$_smarty_tpl);?>
+
+				</div>
+			</div>
+		</div>
 		<div class="hr-line-dashed"></div>
 		<div class="form-group required">
 			<label class="col-sm-2 control-label">募集職種</label>
@@ -54,8 +67,11 @@ if (!is_callable('smarty_function_html_select_ken')) include '/var/www/vhosts/do
 				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['employment'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['employment'];?>
 </p><?php }?>
 				<div class="radio m-r-xs inline">
-					<?php echo smarty_function_html_radios(array('options'=>$_smarty_tpl->tpl_vars['OptionEmployment']->value,'class'=>"employment",'name'=>"employment",'selected'=>(($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['employment'])===null||$tmp==='' ? "1" : $tmp),'separator'=>"&nbsp;&nbsp;"),$_smarty_tpl);?>
+					<select class="form-control" name="employment" id="employment">
+						<option value="0">選択してください</option>
+						<?php echo smarty_function_html_options(array('options'=>$_smarty_tpl->tpl_vars['OptionEmployment']->value,'selected'=>$_smarty_tpl->tpl_vars['arr_post']->value['employment']),$_smarty_tpl);?>
 
+					</select>
 				</div>
 			</div>
 		</div>

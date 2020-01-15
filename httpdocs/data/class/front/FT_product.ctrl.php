@@ -142,24 +142,47 @@ class FT_product {
 
 	}
 	//-------------------------------------------------------
-		// 関数名：GetSearchDetail
-		// 引  数：$search - 検索条件
-		// 戻り値：リスト
-		// 内  容：検索を行いデータを取得
-		//-------------------------------------------------------
-		function GetSearchDetail( $search ) {
-			// SQL配列
-			$creation_kit = array(  "select" => "*",
-									"from"   => $this->_CtrTable2,
-									"where"  => "id_product = " . $search["search_id_product_parts"] . " ",
-									"order"  => "id_product_parts ASC"
-								);
+	// 関数名：GetSearchDetail
+	// 引  数：$search - 検索条件
+	// 戻り値：リスト
+	// 内  容：検索を行いデータを取得
+	//-------------------------------------------------------
+	function GetSearchDetail( $search ) {
+		// SQL配列
+		$creation_kit = array(  "select" => "*",
+								"from"   => $this->_CtrTable2,
+								"where"  => "id_product = " . $search["search_id_product_parts"] . " ",
+								"order"  => "id_product_parts ASC"
+							);
 
-			// データ取得
-			$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL ) );
-			// 戻り値
-			return $res;
-		}
+		// データ取得
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL ) );
+		// 戻り値
+		return $res;
+	}
+
+	//-------------------------------------------------------
+	// 関数名：GetSearchExample
+	// 引  数：$search - 検索条件
+	// 戻り値：リスト
+	// 内  容：検索を行いデータを取得
+	//-------------------------------------------------------
+	function GetSearchExample( $search ) {
+		// SQL配列
+		$creation_kit = array(  "select" => "*",
+								"from"   => $this->_CtrTable2,
+								"join"   => "JOIN {$this->_CtrTable} ON {$this->_CtrTable}.{$this->_CtrTablePk} = {$this->_CtrTable2}.{$this->_CtrTablePk} ",
+								"where"  => "1 ",
+								"order"  => "display_num ASC, id_product_parts ASC"
+							);
+
+		$creation_kit["where"] .= "AND " . $this->_DBconn->createWhereSql( $search["search_example"], "example", "LIKE", "OR", "%string%" ) . " ";
+
+		// データ取得
+		$res = $this->_DBconn->selectCtrl( $creation_kit, array( "fetch" => _DB_FETCH_ALL ) );
+		// 戻り値
+		return $res;
+	}
 
 	//-------------------------------------------------------
 	// 関数名: GetOption

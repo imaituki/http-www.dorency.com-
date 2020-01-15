@@ -17,7 +17,7 @@
 </head>
 <body class="fixed-sidebar no-skin-config">
 	<div id="wrapper">
-		{include file=$template_secondary action=information manage=$_CONTENTS_DIR}
+		{include file=$template_secondary action="product" manage=$_CONTENTS_DIR}
 		<div id="page-wrapper" class="gray-bg">
 			{include file=$template_header}
 			<div class="row wrapper border-bottom white-bg page-heading">

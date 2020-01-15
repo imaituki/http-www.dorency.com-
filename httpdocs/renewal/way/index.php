@@ -24,11 +24,32 @@ $_HTML_HEADER["description"] = "";
 
 // ページID
 $_HTML_HEADER["id"] = "way";
+
+//----------------------------------------
+//  データ取得
+//----------------------------------------
+// 操作クラス
+$objManage          = new DB_manage( _DNS );
+$objProduct         = new FT_product( $objManage );
+
+if( !empty( $OptionExample ) && is_array( $OptionExample ) ){
+	foreach( $OptionExample as $key => $val ){
+		$t_product_parts[$key] = $objProduct->GetSearchExample( array( "search_example" => $key ) );
+	}
+}
+
+// クラス削除
+unset( $objProduct );
+unset( $objManage  );
+
 //----------------------------------------
 //  smarty設定
 //----------------------------------------
 $smarty = new MySmarty("front");
 $smarty->compile_dir .= "way/";
+
+// テンプレートに設定
+$smarty->assign( "t_product", $t_product );
 
 // 表示
 $smarty->display("index.tpl");

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-10 12:Jan:th
          compiled from "./detail.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:5319263605e03391615bf04-91273135%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13499404655e17f65581b801-60650529%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '8f2188843651849d229ec72d945b4ebcb639e332' => 
     array (
       0 => './detail.tpl',
-      1 => 1577269182,
+      1 => 1577339677,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5319263605e03391615bf04-91273135',
+  'nocache_hash' => '13499404655e17f65581b801-60650529',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e03391623ac04_92948483',
+  'unifunc' => 'content_5e17f6558f7c30_05649126',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e03391623ac04_92948483')) {function content_5e03391623ac04_92948483($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e17f6558f7c30_05649126')) {function content_5e17f6558f7c30_05649126($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?><!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -61,7 +61,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="center">
 			<ul>
 				<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-"><i class="fa fa-home"></i></a></li>
+/"><i class="fa fa-home"></i></a></li>
 				<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /information/">お知らせ</a></li>
 				<li><?php echo $_smarty_tpl->tpl_vars['t_information']->value['title'];?>

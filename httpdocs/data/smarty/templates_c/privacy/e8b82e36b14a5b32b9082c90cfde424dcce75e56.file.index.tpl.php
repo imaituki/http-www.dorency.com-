@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 17:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2019-12-26 17:Dec:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:12258960215e032359638e08-46889894%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16677822775e04724de70103-85845757%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577258079,
+      1 => 1577339670,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '12258960215e032359638e08-46889894',
+  'nocache_hash' => '16677822775e04724de70103-85845757',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e03235969ee36_09846959',
+  'unifunc' => 'content_5e04724df3f814_58599965',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e03235969ee36_09846959')) {function content_5e03235969ee36_09846959($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e04724df3f814_58599965')) {function content_5e04724df3f814_58599965($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
@@ -57,7 +57,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div id="pankuzu" class="bg_gg">
 		<div class="center">
 			<ul>
-				<li><a href=""><i class="fa fa-home"></i></a></li>
+				<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/"><i class="fa fa-home"></i></a></li>
 				<li>個人情報保護方針</li>
 			</ul>
 		</div>

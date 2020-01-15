@@ -74,6 +74,15 @@
 								</div>
 							</div>
 							<div class="form-group">
+								<label class="col-sm-2 control-label">使用商品例</label>
+								<div class="col-sm-9">
+									{if $message.ng[detail_|cat:$key|cat:"_example"]|default:"" != NULL}<p class="error">{$message.ng[detail_|cat:$key|cat:"_example"]}</p>{/if}
+									<div class="checkbox m-r-xs inline">
+										{html_checkboxes options=$OptionExample class="product_parts_example" name="detail[$key][example]" id=product_parts_example_|cat:$key selected=$product_parts.example|default:"" separator="&nbsp;"}
+									</div>
+								</div>
+							</div>
+							<div class="form-group">
 								<label class="col-sm-2 control-label"></label>
 								<div class="col-sm-9 pos_ar">
 									<a href="javascript:void(0);" class="btn btn-danger detail-trash"><i class="icon-trash"></i> 削除</a>

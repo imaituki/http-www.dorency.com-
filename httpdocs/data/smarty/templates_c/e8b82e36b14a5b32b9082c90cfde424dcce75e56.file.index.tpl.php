@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:20769030765e033745ae0054-27714739%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:409543685e1f0a2952f0d5-56225167%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577255487,
+      1 => 1577418273,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '20769030765e033745ae0054-27714739',
+  'nocache_hash' => '409543685e1f0a2952f0d5-56225167',
   'function' => 
   array (
   ),
@@ -23,6 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'template_header' => 0,
     't_base' => 0,
     'base' => 0,
+    'mst_siteconf' => 0,
     't_information' => 0,
     'information' => 0,
     'OptionInformationCategory' => 0,
@@ -30,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e033745be8d11_21277173',
+  'unifunc' => 'content_5e1f0a29759989_46488705',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e033745be8d11_21277173')) {function content_5e033745be8d11_21277173($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e1f0a29759989_46488705')) {function content_5e1f0a29759989_46488705($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?><!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -210,7 +211,8 @@ GoogleMap">[GoogleMap]</a>
 						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
 							安全・安心を最優先に生産体制を整えています。</p>
 						<div>
-							<a href="###" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 						</div>
 					</div>
 					<div class="col-xs-4">
@@ -305,12 +307,14 @@ GoogleMap">[GoogleMap]</a>
 				<div class="row">
 					<div class="col-xs-6 col-6">
 						<div class="pos_ar">
-							<a href="###" class="button _green">鮮度保持剤<i class="arrow"></i></a>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/product/" class="button _green">鮮度保持剤<i class="arrow"></i></a>
 						</div>
 					</div>
 					<div class="col-xs-6 col-6">
 						<div class="pos_al">
-							<a href="###" class="button _green">用途のご紹介<i class="arrow"></i></a>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/way/" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
@@ -328,7 +332,8 @@ GoogleMap">[GoogleMap]</a>
 						<div><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 						<div>
-							<a href="###" class="button _green">用途のご紹介<i class="arrow"></i></a>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/cairo/" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
@@ -347,11 +352,14 @@ GoogleMap">[GoogleMap]</a>
 						<div class="col-xs-6">
 							<div class="tel_unit cg">
 								<h4>お電話でのお問い合わせ</h4>
-								<span class="tel" data-tel="0865-44-6655"><i class="fa fa-phone-alt"></i>0865-44-6655</span>
+								<span class="tel" data-tel="<?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
+"><i class="fa fa-phone-alt"></i><?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
+</span>
 							</div>
 						</div>
 						<div class="col-xs-6">
-							<a href="###" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
+							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
 						</div>
 					</div>
 				</div>

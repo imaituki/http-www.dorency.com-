@@ -13,7 +13,7 @@
 <div id="body">
 	<div id="page_title">
 		<div><img src="{$_RENEWAL_DIR}/common/image/contents/top.jpg" alt="お知らせ"></div>
-		<div class="page_title_wrap">
+		<div class="page_title_wrap common">
 			<div class="center mincho cg5">
 				<h2><span class="main">Privacy Policy</span><span class="sub">プライバシーポリシー</span></h2>
 			</div>

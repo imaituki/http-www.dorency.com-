@@ -17,6 +17,13 @@
 .radio > ul > li { margin-bottom: 5px; }
 .radio > ul > li:last-child { margin-bottom: 0; }
 
+.checkbox.inline { padding-top:0;}
+.checkbox.inline input[type="checkbox"] { margin-left:20px; position:relative;}
+.checkbox.inline input[type="checkbox"]:first-child { margin-left:0;}
+.checkbox.inline input[type="checkbox"] + label { }
+.checkbox > ul > li { margin-bottom: 5px; }
+.checkbox > ul > li:last-child { margin-bottom: 0; }
+
 /**/
 .error_txt { padding:10px; border: 1px solid red; color: red; margin-bottom: 15px; text-align: center; border-radius: 3px;}
 

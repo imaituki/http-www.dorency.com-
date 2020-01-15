@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-16 17:24:30
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
          compiled from "../template/edit.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1154025405df35fac1c72c0-97800095%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2947408895e1f0a391c6af5-73249228%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'be2cd0f6d05c5ea088364c2babfac075512b457f' => 
     array (
       0 => '../template/edit.tpl',
-      1 => 1576484669,
+      1 => 1579069503,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1154025405df35fac1c72c0-97800095',
+  'nocache_hash' => '2947408895e1f0a391c6af5-73249228',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df35fac20cce0_37819357',
   'variables' => 
   array (
     '_CONTENTS_NAME' => 0,
@@ -27,8 +25,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'template_header' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e1f0a3922f485_17521736',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df35fac20cce0_37819357')) {function content_5df35fac20cce0_37819357($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e1f0a3922f485_17521736')) {function content_5e1f0a3922f485_17521736($_smarty_tpl) {?><!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
@@ -56,7 +56,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 </head>
 <body class="fixed-sidebar no-skin-config">
 	<div id="wrapper">
-		<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_secondary']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('action'=>'information','manage'=>$_smarty_tpl->tpl_vars['_CONTENTS_DIR']->value), 0);?>
+		<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_secondary']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('action'=>"product",'manage'=>$_smarty_tpl->tpl_vars['_CONTENTS_DIR']->value), 0);?>
 
 		<div id="page-wrapper" class="gray-bg">
 			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_header']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>

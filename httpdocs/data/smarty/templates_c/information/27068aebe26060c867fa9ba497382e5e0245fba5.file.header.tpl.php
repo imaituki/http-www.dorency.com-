@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 10:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8166253105e0339163020b5-08573490%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13566487125e1e68d09187e9-48085925%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '27068aebe26060c867fa9ba497382e5e0245fba5' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl',
-      1 => 1577263930,
+      1 => 1578551284,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '8166253105e0339163020b5-08573490',
+  'nocache_hash' => '13566487125e1e68d09187e9-48085925',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e03391632a511_20177067',
+  'unifunc' => 'content_5e1e68d094d677_27062044',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e03391632a511_20177067')) {function content_5e03391632a511_20177067($_smarty_tpl) {?><header>
+<?php if ($_valid && !is_callable('content_5e1e68d094d677_27062044')) {function content_5e1e68d094d677_27062044($_smarty_tpl) {?><header>
 <div id="head">
 	<div class="center">
 		<h1 class="site_logo"><a class="ov" href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
@@ -33,7 +33,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /contact/" class="contact"><i class="fa fa-envelope"></i>お問い合わせ</a>
 			<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/contact/" class="sitemap"><i class="fa fa-envelope"></i>サイトマップ</a>
+/sitemap/" class="sitemap"><i class="fa fa-envelope"></i>サイトマップ</a>
 		</div>
 		<div id="btn_open"><a href="javascript:void(0);"><i class="fa fa-bars"></i><span>menu</span></a></div>
 	</div>
@@ -44,23 +44,27 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<li class="no"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /company/">会社概要</a></li>
 					<li class="sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/base/">本社/生産/開発拠点</a></li>
-					<li><a href="javascript:void(0);">研究開発</a></li>
-					<li><a href="/flow/">ドレンシーブランド</a></li>
+/#development">本社/生産/開発拠点</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#reserch">研究開発</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#brand">ドレンシーブランド</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">鮮度保持剤</a></li>
+/product/">鮮度保持剤</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">用途のご紹介</a></li>
+/way/">用途のご紹介</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">楽々カイロ</a></li>
-					<li><a href="/flow/">生産工場</a></li>
+/cairo/">楽々カイロ</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#factory">生産工場</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">バーチャル工場見学</a></li>
-					<li><a href="/recruit/">採用情報</a></li>
+/virtual/">バーチャル工場見学</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/recruit/">採用情報</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">新卒採用</a></li>
+/recruit/newcomer/">新卒採用</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">中途採用</a></li>
+/recruit/career/">中途採用</a></li>
 					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /information/">お知らせ</a></li>
 					<li class="no"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>

@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-25 19:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 10:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18234511285e03359d831458-20175863%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17380752715e1e68d07cd2f5-25755084%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577257427,
+      1 => 1577339677,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '18234511285e03359d831458-20175863',
+  'nocache_hash' => '17380752715e1e68d07cd2f5-25755084',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e03359d8a6806_29733761',
+  'unifunc' => 'content_5e1e68d0855fa5_99876366',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e03359d8a6806_29733761')) {function content_5e03359d8a6806_29733761($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e1e68d0855fa5_99876366')) {function content_5e1e68d0855fa5_99876366($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?><!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -62,7 +62,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div id="pankuzu" class="bg_gg">
 		<div class="center">
 			<ul>
-				<li><a href=""><i class="fa fa-home"></i></a></li>
+				<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/"><i class="fa fa-home"></i></a></li>
 				<li>お知らせ</li>
 			</ul>
 		</div>

@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 16:34:21
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
          compiled from "../template/index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9308678495df216990fb240-47472596%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14282433465e1f0a36853b40-67971352%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6c39e247f385d95767962e1dac86ee8434c9a9c2' => 
     array (
       0 => '../template/index.tpl',
-      1 => 1576222452,
+      1 => 1578617465,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '9308678495df216990fb240-47472596',
+  'nocache_hash' => '14282433465e1f0a36853b40-67971352',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df21699187c80_60814437',
   'variables' => 
   array (
     '_CONTENTS_NAME' => 0,
@@ -29,8 +27,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'message' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e1f0a368e1287_38615981',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df21699187c80_60814437')) {function content_5df21699187c80_60814437($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e1f0a368e1287_38615981')) {function content_5e1f0a368e1287_38615981($_smarty_tpl) {?><!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
@@ -47,6 +47,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 /common/js/plugins/datapicker/bootstrap-datepicker-import.js"></script>
 	<script src="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
 /common/js/list.js"></script>
+	<script src="./../js/script.js"></script>
 </head>
 <body class="fixed-sidebar no-skin-config">
 <div id="wrapper">

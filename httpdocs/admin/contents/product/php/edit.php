@@ -34,6 +34,12 @@ unset( $objProduct );
 //----------------------------------------
 if( !empty( $_POST["id_product"] ) ) {
 
+	// データ加工
+	if( !empty( $_POST["detail"] ) && is_array( $_POST["detail"] ) ){
+		foreach( $_POST["detail"] as $key => $val ){
+			$_POST["detail"][$key]["example"] = explode( ",", $val["example"] );
+		}
+	}
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
@@ -41,6 +47,7 @@ if( !empty( $_POST["id_product"] ) ) {
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
+	$smarty->assign( 'OptionExample'        , $OptionExample         );
 
 	// 表示
 	$smarty->display( "edit.tpl" );

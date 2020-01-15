@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-20 14:42:55
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 13:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1415413675df20b5cef9a99-48450984%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2087178485e1e9568740466-93768382%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'fdf666c42a6c36b470350a78742fa173a85766f8' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/base/template/form.tpl',
-      1 => 1576820572,
+      1 => 1577413936,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1415413675df20b5cef9a99-48450984',
+  'nocache_hash' => '2087178485e1e9568740466-93768382',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df20b5d076c50_17505087',
   'variables' => 
   array (
     'message' => 0,
@@ -30,8 +28,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_CONTENTS_CONF_PATH' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e1e956884cc84_99287348',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df20b5d076c50_17505087')) {function content_5df20b5d076c50_17505087($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_select_ken')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_select_ken.php';
+<?php if ($_valid && !is_callable('content_5e1e956884cc84_99287348')) {function content_5e1e956884cc84_99287348($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_select_ken')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_select_ken.php';
 if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
 ?><form id="inputForm" name="inputForm" class="form-horizontal" action="./preview.php?preview=1" method="post" enctype="multipart/form-data">
 	<div class="ibox-content">
@@ -85,6 +85,26 @@ if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorenc
 				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['address2'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['address2'];?>
 </p><?php }?>
 				<input type="text" class="form-control" name="address2" id="address2"  size="60" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['address2'])===null||$tmp==='' ? '' : $tmp);?>
+" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
+		<div class="form-group">
+			<label class="col-sm-2 control-label">電話番号</label>
+			<div class="col-sm-6">
+				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['tel'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['tel'];?>
+</p><?php }?>
+				<input type="text" class="form-control" name="tel" id="tel"  size="60" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['tel'])===null||$tmp==='' ? '' : $tmp);?>
+" />
+			</div>
+		</div>
+		<div class="hr-line-dashed"></div>
+		<div class="form-group">
+			<label class="col-sm-2 control-label">FAX番号</label>
+			<div class="col-sm-6">
+				<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['fax'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['fax'];?>
+</p><?php }?>
+				<input type="text" class="form-control" name="fax" id="fax"  size="60" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['arr_post']->value['fax'])===null||$tmp==='' ? '' : $tmp);?>
 " />
 			</div>
 		</div>

@@ -50,6 +50,7 @@ if( empty( $message["ng"] ) ) {
 
 			foreach ( $arr_detail as $key => $val ) {
 				$val["id_product"] = $arr_post["id_product"];
+				$val["example"] = implode( ",", $val["example"] );
 				// 登録処理
 				$res2 = $objProduct->insert_detail( $val );
 			}
@@ -92,7 +93,7 @@ if( empty( $message["ng"] ) ) {
 
 	// smarty設定
 	$smarty = new MySmarty("admin");
-	$smarty->compile_dir .= "mst_product/";
+	$smarty->compile_dir .= _CONTENTS_DIR."/";
 
 	// テンプレートに設定
 	$smarty->assign( "message"   , $message    );
@@ -101,7 +102,7 @@ if( empty( $message["ng"] ) ) {
 
 	// オプション設定
 	$smarty->assign( 'OptionProductCategory', $OptionProductCategory );
-
+	$smarty->assign( 'OptionExample'        , $OptionExample         );
 
 	// 表示
 	$smarty->display( "edit.tpl" );

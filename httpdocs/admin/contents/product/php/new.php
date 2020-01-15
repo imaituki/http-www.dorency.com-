@@ -24,6 +24,7 @@ $smarty->compile_dir .= "product/";
 
 // オプション設定
 $smarty->assign( 'OptionProductCategory', $OptionProductCategory );
+$smarty->assign( 'OptionExample'        , $OptionExample         );
 
 // 表示
 $smarty->display( "new.tpl" );

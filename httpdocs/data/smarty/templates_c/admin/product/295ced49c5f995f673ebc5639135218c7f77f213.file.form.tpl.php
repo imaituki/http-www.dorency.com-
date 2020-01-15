@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-16 17:44:21
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19490851015df2169faad5a4-03959593%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:339907375e1f0a392c4fd7-27940338%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '295ced49c5f995f673ebc5639135218c7f77f213' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl',
-      1 => 1576485860,
+      1 => 1579064086,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19490851015df2169faad5a4-03959593',
+  'nocache_hash' => '339907375e1f0a392c4fd7-27940338',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df2169fb667b9_37385712',
   'variables' => 
   array (
     'mode' => 0,
@@ -25,12 +23,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'arr_post' => 0,
     'key' => 0,
     'product_parts' => 0,
+    'OptionExample' => 0,
     '_CONTENTS_DIR' => 0,
     '_CONTENTS_CONF_PATH' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e1f0a39476f07_51652099',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df2169fb667b9_37385712')) {function content_5df2169fb667b9_37385712($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
+<?php if ($_valid && !is_callable('content_5e1f0a39476f07_51652099')) {function content_5e1f0a39476f07_51652099($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
+if (!is_callable('smarty_function_html_checkboxes')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_checkboxes.php';
 if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
 ?>			<form class="form-horizontal" action="./<?php if ($_smarty_tpl->tpl_vars['mode']->value=='edit') {?>update<?php } else { ?>insert<?php }?>.php" method="post" enctype="multipart/form-data" id="inputForm">
 				<div class="ibox-content">
@@ -51,7 +53,7 @@ if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorenc
 					</div>
 					<div class="hr-line-dashed"></div>
 					<div class="form-group required">
-						<label class="col-sm-2 control-label">種類</label>
+						<label class="col-sm-2 control-label">製品名</label>
 						<div class="col-sm-6">
 							<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng']['name'])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng']['name'];?>
 </p><?php }?>
@@ -61,7 +63,7 @@ if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorenc
 					</div>
 					<div class="hr-line-dashed"></div>
 					<div class="form-group">
-						<label class="col-sm-2 control-label">事業所追加</label>
+						<label class="col-sm-2 control-label">種類追加</label>
 						<div class="col-sm-9">
 							<p class="mb10 x-large"> <a href="javascript:void(0);" class="add_product_parts btn btn-primary btn-s"><i class="fa fa-r fa-plus-circle"></i>追加</a></p>
 						</div>
@@ -140,6 +142,17 @@ $_smarty_tpl->tpl_vars["product_parts"]->_loop = true;
 ][necessary_time]" id="product_parts_necessary_time_<?php echo $_smarty_tpl->tpl_vars['key']->value;?>
 "  size="60" value="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['product_parts']->value['necessary_time'])===null||$tmp==='' ? '' : $tmp);?>
 " />
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="col-sm-2 control-label">使用商品例</label>
+								<div class="col-sm-9">
+									<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng'][(('detail_').($_smarty_tpl->tpl_vars['key']->value)).("_example")])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng'][(('detail_').($_smarty_tpl->tpl_vars['key']->value)).("_example")];?>
+</p><?php }?>
+									<div class="checkbox m-r-xs inline">
+										<?php echo smarty_function_html_checkboxes(array('options'=>$_smarty_tpl->tpl_vars['OptionExample']->value,'class'=>"product_parts_example",'name'=>"detail[".((string)$_smarty_tpl->tpl_vars['key']->value)."][example]",'id'=>('product_parts_example_').($_smarty_tpl->tpl_vars['key']->value),'selected'=>(($tmp = @$_smarty_tpl->tpl_vars['product_parts']->value['example'])===null||$tmp==='' ? '' : $tmp),'separator'=>"&nbsp;"),$_smarty_tpl);?>
+
+									</div>
 								</div>
 							</div>
 							<div class="form-group">
