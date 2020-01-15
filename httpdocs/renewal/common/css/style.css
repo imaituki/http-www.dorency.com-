@@ -270,7 +270,10 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 #recruit .recruit .box .name{ font-size: 3em; color: #0F6C6C; margin-bottom: 30px;}
 #recruit .recruit .box .name span{display: block; color: #526565; font-size: 0.5em;}
 
-
+/*===================================================================
+	#career #newcomer
+===================================================================*/
+#career .entry_b,#newcomer .entry_b{margin-top: 50px; margin-bottom: 100px;}
 /*===================================================================
 	#sitemap
 ===================================================================*/
@@ -440,7 +443,7 @@ clip-path: polygon(0% 0%, 100% 0%, 0% 100%);}
 	.button._green._large { font-size:1.5em; max-width:380px; padding:25px; }
 	body.pc .button._green:hover { background:#fff; color:#106b6c; }
 
-	.button._back { border:1px solid #999; background:#999; }
+	.button._back { border:1px solid #999; background:#999; color: #FFF;}
 	.button._more { border:1px solid #fff; font-size:14px; }
 
 	.box { background:#fff; box-shadow:0 0 5px #ccc; margin-bottom:20px; }

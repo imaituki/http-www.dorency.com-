@@ -78,6 +78,8 @@
 				</tbody>
 			</table>
 			{/foreach}
+			<div class="pos_ac entry_b"><a href="###" class="button _green _large"><i class="fa fa-paper-plane" aria-hidden="true"></i>エントリーする</a></div>
+			<div class="button _type_2"><a href="{$_RENEWAL_DIR}/recruit/"><i class="arrow_cg2"></i>採用情報トップへ</a></div>
 		</div>
 	</section>
 </div>

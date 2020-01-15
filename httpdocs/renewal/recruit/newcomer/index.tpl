@@ -6,13 +6,13 @@
 <link rel="stylesheet" href="{$_RENEWAL_DIR}/common/css/import.css">
 {include file=$template_javascript}
 </head>
-<body id="career">
+<body id="newcomer">
 <div id="base">
 {include file=$template_header}
 <main>
 <div id="body">
 	<div id="page_title" class="b_sh">
-		<div><img src="{$_RENEWAL_DIR}/common/image/contents/recruit/career/top.jpg" alt="中途採用"></div>
+		<div><img src="{$_RENEWAL_DIR}/common/image/contents/recruit/career/top.jpg" alt="新卒採用"></div>
 		<div class="page_title_wrap">
 			<div class="center">
 				<div class="disp_td">
@@ -78,6 +78,8 @@
 				</tbody>
 			</table>
 			{/foreach}
+			<div class="pos_ac entry_b"><a href="###" class="button _green _large"><i class="fa fa-paper-plane" aria-hidden="true"></i>エントリーする</a></div>
+			<div class="button _type_2"><a href="{$_RENEWAL_DIR}/recruit/"><i class="arrow_cg2"></i>採用情報トップへ</a></div>
 		</div>
 	</section>
 </div>

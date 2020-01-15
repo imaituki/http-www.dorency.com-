@@ -90,7 +90,7 @@
 				<div class="col-xs-4">
 					<div class="cat_unit height-1">
 						<a href="./detail.php?id={$product_category.id_product_category}">
-							<div class="photo img_sq"><img src="{if $product_category.image1}/common/photo/product_category/image1/l_{$product_category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null.jpg{/if}" alt="{$product_category.name}}"></div>
+							<div class="photo img_sq"><img src="{if $product_category.image1}/common/photo/product_category/image1/l_{$product_category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$product_category.name}}"></div>
 							<div class="text">
 								<p class="pro_name">{$product_category.name}</p>
 							</div>

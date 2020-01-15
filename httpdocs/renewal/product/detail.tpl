@@ -34,7 +34,7 @@
 		<div class="wrapper-t center detail">
 			<h2 class="hl_4">{$t_product_category_detail.name}</h2>
 			<div class="row">
-				<div class="col-xs-4 height-1"><div class="img_sq"><img src="/common/photo/product_category/image1_2/m_{$t_product_category_detail.image1_2}" alt="{$t_product_category_detail.name}"></div></div>
+				<div class="col-xs-4 height-1"><div class="img_sq"><img src="{if $t_product_category_detail.image1_2 != NULL}/common/photo/product_category/image1_2/m_{$t_product_category_detail.image1_2}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$t_product_category_detail.name}"></div></div>
 				<div class="col-xs-8 d_tbl height-1">
 					<div class="disp_td">
 						<h3>{$t_product_category_detail.catchtitle}</h3>
@@ -51,7 +51,7 @@
 			<div class="row">
 				{if $t_product_category_detail.index1 != NULL || $t_product_category_detail.comment1 != NULL}
 				<div class="col-xs-6 height-1 mb50">
-					<div class="pos_ac"><img src="{if $t_product_category_detail.image2 != NULL}/common/photo/product_category/image2/m_{$t_product_category_detail.image2}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
+					<div class="pos_ac"><img src="{if $t_product_category_detail.image2 != NULL}/common/photo/product_category/image2/m_{$t_product_category_detail.image2}{else}{$_RENEWAL_DIR}/common/image/contents/null_re.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
 				</div>
 				<div class="col-xs-6 height-1 mb50 flex_c">
 					<div class="text_unit pos_al">
@@ -62,7 +62,7 @@
 				{/if}
 				{if $t_product_category_detail.index2 != NULL || $t_product_category_detail.comment2 != NULL}
 				<div class="col-xs-6 col-xs-push-6 height-1">
-					<div class="pos_ac"><img src="{if $t_product_category_detail.image3 != NULL}/common/photo/product_category/image3/m_{$t_product_category_detail.image3}{else}{$_RENEWAL_DIR}/common/image/contents/null_rect.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
+					<div class="pos_ac"><img src="{if $t_product_category_detail.image3 != NULL}/common/photo/product_category/image3/m_{$t_product_category_detail.image3}{else}{$_RENEWAL_DIR}/common/image/contents/null_re.jpg{/if}" alt="{$t_product_category_detail.name}"></div>
 				</div>
 				<div class="col-xs-6 col-xs-pull-6 height-1 flex_c">
 					<div class="text_unit pos_al">
@@ -205,7 +205,7 @@
 				<div class="col-xs-4">
 					<div class="cat_unit height-1">
 						<a href="./detail.php?id={$product_category.id_product_category}">
-							<div class="photo img_sq"><img src="{if $product_category.image1}/common/photo/product_category/image1/l_{$product_category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null.jpg{/if}" alt="{$product_category.name}}"></div>
+							<div class="photo img_sq"><img src="{if $product_category.image1}/common/photo/product_category/image1/l_{$product_category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$product_category.name}}"></div>
 							<div class="text">
 								<p class="pro_name">{$product_category.name}</p>
 							</div>
