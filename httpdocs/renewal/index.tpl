@@ -138,7 +138,7 @@
 						<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
 						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
 							安全・安心を最優先に生産体制を整えています。</p>
-						<div>
+						<div class="mb30sp">
 							<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 						</div>
 					</div>
@@ -266,7 +266,7 @@
 								<span class="tel" data-tel="{$mst_siteconf.tel1}"><i class="fa fa-phone-alt"></i>{$mst_siteconf.tel1}</span>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-xs-6 form">
 							<a href="{$_RENEWAL_DIR}/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
 						</div>
 					</div>

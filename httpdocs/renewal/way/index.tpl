@@ -49,7 +49,7 @@ $(function(){
 <main>
 <div id="body">
 	<div id="page_title" class="b_sh">
-		<div><img src="{$_RENEWAL_DIR}/common/image/contents/product/top.jpg" alt="鮮度保持剤"></div>
+		<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/product/top.jpg" alt="鮮度保持剤"></div>
 		<div class="page_title_wrap">
 			<div class="center">
 				<div class="disp_td">
