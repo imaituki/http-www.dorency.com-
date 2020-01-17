@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-26 17:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-16 13:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:14334688155e04724e1b8e06-84405809%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17907442405e1fe2f7487c43-74417976%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '27068aebe26060c867fa9ba497382e5e0245fba5' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl',
-      1 => 1577348652,
+      1 => 1579145034,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '14334688155e04724e1b8e06-84405809',
+  'nocache_hash' => '17907442405e1fe2f7487c43-74417976',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e04724e215cd7_92675517',
+  'unifunc' => 'content_5e1fe2f74bad07_20848566',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e04724e215cd7_92675517')) {function content_5e04724e215cd7_92675517($_smarty_tpl) {?><header>
+<?php if ($_valid && !is_callable('content_5e1fe2f74bad07_20848566')) {function content_5e1fe2f74bad07_20848566($_smarty_tpl) {?><header>
 <div id="head">
 	<div class="center">
 		<h1 class="site_logo"><a class="ov" href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
@@ -44,24 +44,27 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<li class="no"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /company/">会社概要</a></li>
 					<li class="sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/base/">本社/生産/開発拠点</a></li>
-					<li><a href="javascript:void(0);">研究開発</a></li>
-					<li><a href="/flow/">ドレンシーブランド</a></li>
+/#development">本社/生産/開発拠点</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#reserch">研究開発</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#brand">ドレンシーブランド</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">鮮度保持剤</a></li>
+/product/">鮮度保持剤</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">用途のご紹介</a></li>
+/way/">用途のご紹介</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">楽々カイロ</a></li>
-					<li><a href="/flow/">生産工場</a></li>
+/cairo/">楽々カイロ</a></li>
+					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/#factory">生産工場</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/information/">バーチャル工場見学</a></li>
+/virtual/">バーチャル工場見学</a></li>
 					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /recruit/">採用情報</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/recruit/">新卒採用</a></li>
+/recruit/newcomer/">新卒採用</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/recruit/">中途採用</a></li>
+/recruit/career/">中途採用</a></li>
 					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /information/">お知らせ</a></li>
 					<li class="no"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>

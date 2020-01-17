@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 11:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:409543685e1f0a2952f0d5-56225167%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13673451675e211eb51fb1a0-85506201%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577418273,
+      1 => 1579227886,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '409543685e1f0a2952f0d5-56225167',
+  'nocache_hash' => '13673451675e211eb51fb1a0-85506201',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1f0a29759989_46488705',
+  'unifunc' => 'content_5e211eb53212d3_07474104',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1f0a29759989_46488705')) {function content_5e1f0a29759989_46488705($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e211eb53212d3_07474104')) {function content_5e211eb53212d3_07474104($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?><!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -204,8 +204,8 @@ GoogleMap">[GoogleMap]</a>
 	<section>
 		<div id="factory" class="wrapper">
 			<div class="center">
-				<div class="row no-gutters">
-					<div class="col-xs-4">
+				<div class="row">
+					<div class="col-sm-4 pos_ac-sp">
 						<h2 class="hl_1 pos_al"><i class="title_i"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
 						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
@@ -215,11 +215,11 @@ GoogleMap">[GoogleMap]</a>
 /virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 						</div>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-sm-4 mb20">
 						<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/contents/top/image5.png" alt="">
 					</div>
-					<div class="col-xs-4">
+					<div class="col-sm-4 mb20">
 						<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/contents/top/image6.png" alt="">
 					</div>

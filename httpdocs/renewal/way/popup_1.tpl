@@ -39,9 +39,9 @@
 						{foreach from=$t_product item="product" key="category" name="loopProduct"}
 						<div class="col-xs-6{if $smarty.foreach.loopProduct.total >= 2} height-1{/if}">
 							<div class="bg_f">
-								<p class="pos_ac mb20"><img src="{*$_RENEWAL_DIR*}/common/photo/product_category/image1/m_{$t_product_category.$category.image1}" alt="{$t_product_category.$category.name}"></p>
+								<p class="pos_ac mb20"><img src="{if !empty( $t_product_category.$category.image1 )}/common/photo/product_category/image1/m_{$t_product_category.$category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$t_product_category.$category.name}"></p>
 								<div class="pos_ac">
-									<p class="type">{foreach from=$product item="product_parts" name="loopProductParts"}<a href="###" onclick="window.parent.location.href='{$_RENEWAL_DIR}/product/detail.php?id={$category}'"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピット{$product_parts.type}タイプ</a>{if !$smarty.foreach.loopProductParts.last}<br>{/if}{/foreach}</p>
+									<p class="type">{foreach from=$product item="product_parts" name="loopProductParts"}<a href="{$_RENEWAL_DIR}/product/detail.php?id={$category}" onclick="window.parent.location.href='{$_RENEWAL_DIR}/product/detail.php?id={$category}'"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピット{$product_parts.type}タイプ</a>{if !$smarty.foreach.loopProductParts.last}<br>{/if}{/foreach}</p>
 								</div>
 							</div>
 						</div>

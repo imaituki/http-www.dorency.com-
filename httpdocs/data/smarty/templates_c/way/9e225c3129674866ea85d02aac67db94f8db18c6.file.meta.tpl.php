@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 19:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 12:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/meta.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9063628085e1ee753d0fbe5-55251807%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2099891015e2125fa951367-52830341%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '9063628085e1ee753d0fbe5-55251807',
+  'nocache_hash' => '2099891015e2125fa951367-52830341',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1ee753db64b9_87701751',
+  'unifunc' => 'content_5e2125faa055f3_15540960',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1ee753db64b9_87701751')) {function content_5e1ee753db64b9_87701751($_smarty_tpl) {?><title><?php if ((($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER_ORIGINAL']->value['title'])===null||$tmp==='' ? '' : $tmp)!=null) {?><?php echo (($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER_ORIGINAL']->value['title'])===null||$tmp==='' ? '' : $tmp);?>
+<?php if ($_valid && !is_callable('content_5e2125faa055f3_15540960')) {function content_5e2125faa055f3_15540960($_smarty_tpl) {?><title><?php if ((($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER_ORIGINAL']->value['title'])===null||$tmp==='' ? '' : $tmp)!=null) {?><?php echo (($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER_ORIGINAL']->value['title'])===null||$tmp==='' ? '' : $tmp);?>
 <?php } else { ?><?php if ((($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER']->value['title'])===null||$tmp==='' ? '' : $tmp)!=null) {?><?php echo (($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER']->value['title'])===null||$tmp==='' ? '' : $tmp);?>
  | <?php }?><?php echo (($tmp = @$_smarty_tpl->tpl_vars['_HTML_HEADER_DEFAULT']->value['title'])===null||$tmp==='' ? '' : $tmp);?>
 <?php }?></title>

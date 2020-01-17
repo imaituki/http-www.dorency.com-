@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 19:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 12:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9135147365e1ee642d13de1-84616733%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2232943385e2125f0e50472-64029600%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1579047728,
+      1 => 1579159372,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '9135147365e1ee642d13de1-84616733',
+  'nocache_hash' => '2232943385e2125f0e50472-64029600',
   'function' => 
   array (
   ),
@@ -21,14 +21,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_RENEWAL_DIR' => 0,
     'template_javascript' => 0,
     'template_header' => 0,
+    't_product_parts' => 0,
+    'key' => 0,
+    'OptionExample' => 0,
+    'product_parts' => 0,
+    'parts' => 0,
     'template_product_foot' => 0,
     'template_footer' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1ee642d7ac77_01397103',
+  'unifunc' => 'content_5e2125f0ee7e76_34990646',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1ee642d7ac77_01397103')) {function content_5e1ee642d7ac77_01397103($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e2125f0ee7e76_34990646')) {function content_5e2125f0ee7e76_34990646($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
@@ -137,132 +142,50 @@ $(function(){
 			<div data-aos="fade-up" data-aos-once="true">
 				<div class="center wrapper">
 					<div class="row list item_list">
+						<?php  $_smarty_tpl->tpl_vars["product_parts"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["product_parts"]->_loop = false;
+ $_smarty_tpl->tpl_vars["key"] = new Smarty_Variable;
+ $_from = $_smarty_tpl->tpl_vars['t_product_parts']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+foreach ($_from as $_smarty_tpl->tpl_vars["product_parts"]->key => $_smarty_tpl->tpl_vars["product_parts"]->value) {
+$_smarty_tpl->tpl_vars["product_parts"]->_loop = true;
+ $_smarty_tpl->tpl_vars["key"]->value = $_smarty_tpl->tpl_vars["product_parts"]->key;
+?>
 						<div class="col-xs-4 unit height-1 mb30">
-							<a href="popup_1.php" class="boxer">
+							<a href="popup_<?php echo $_smarty_tpl->tpl_vars['key']->value;?>
+.php" class="boxer">
 								<div class="image col-xs-4">
 									<div class="img_sq">
 										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_1.jpg" alt="">
+/common/image/contents/way/item_<?php echo $_smarty_tpl->tpl_vars['key']->value;?>
+.jpg" alt="<?php echo $_smarty_tpl->tpl_vars['OptionExample']->value[$_smarty_tpl->tpl_vars['key']->value];?>
+">
 									</div>
 								</div>
 								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">1</span><span class="name">ハム・ベーコン</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットYFタイプ</p>
-									<p class="cat">キーピットWYタイプ</p>
+									<h3 class="title"><span class="num"><?php echo $_smarty_tpl->tpl_vars['key']->value;?>
+</span><span class="name"><?php echo $_smarty_tpl->tpl_vars['OptionExample']->value[$_smarty_tpl->tpl_vars['key']->value];?>
+</span></h3>
+									<p>【使用事例タイプ】</p>
+									<?php  $_smarty_tpl->tpl_vars["parts"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["parts"]->_loop = false;
+ $_from = $_smarty_tpl->tpl_vars['product_parts']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+ $_smarty_tpl->tpl_vars["parts"]->total= $_smarty_tpl->_count($_from);
+ $_smarty_tpl->tpl_vars["parts"]->iteration=0;
+foreach ($_from as $_smarty_tpl->tpl_vars["parts"]->key => $_smarty_tpl->tpl_vars["parts"]->value) {
+$_smarty_tpl->tpl_vars["parts"]->_loop = true;
+ $_smarty_tpl->tpl_vars["parts"]->iteration++;
+ $_smarty_tpl->tpl_vars["parts"]->last = $_smarty_tpl->tpl_vars["parts"]->iteration === $_smarty_tpl->tpl_vars["parts"]->total;
+ $_smarty_tpl->tpl_vars['smarty']->value['foreach']["loopParts"]['last'] = $_smarty_tpl->tpl_vars["parts"]->last;
+?>
+									<?php ob_start();?><?php echo $_smarty_tpl->tpl_vars['parts']->value['type'];?>
+<?php $_tmp1=ob_get_clean();?><?php if (!empty($_tmp1)) {?>
+									<p class="cat<?php if (!$_smarty_tpl->getVariable('smarty')->value['foreach']['loopParts']['last']) {?> mb10<?php }?>">キーピット<?php echo $_smarty_tpl->tpl_vars['parts']->value['type'];?>
+タイプ</p>
+									<?php }?>
+									<?php } ?>
 								</div>
 							</a>
 						</div>
-						<div class="unit col-xs-4 height-1 mb30">
-							<a href="popup_2.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_2.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">2</span><span class="name">ホットドッグ</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat">キーピットWREタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1 mb30">
-							<a href="popup_3.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_3.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">3</span><span class="name">ドーナッツ</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットPQ-PWタイプ</p>
-									<p class="cat">キーピットQ-PWタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1 mb30">
-							<a href="popup_4.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_4.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">4</span><span class="name">どら焼き</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットWRタイプ</p>
-									<p class="cat">キーピットPQ-PWタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1 mb30">
-							<a href="popup_5.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_5.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">5</span><span class="name">マドレーヌ</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットPQ-PWタイプ</p>
-									<p class="cat">キーピットLEタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1 mb30">
-							<a href="popup_6.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_6.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">6</span><span class="name">バウムクーヘン</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットLEタイプ</p>
-									<p class="cat">キーピットYFEタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1">
-							<a href="popup_7.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_7.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">7</span><span class="name">カステラ</span></h3>
-									<p>【仕様事例タイプ】</p>
-									<p class="cat mb10">キーピットLEタイプ</p>
-									<p class="cat">キーピットYC-PWタイプ</p>
-								</div>
-							</a>
-						</div>
-						<div class="unit col-xs-4 height-1">
-							<a href="popup_8.php" class="boxer">
-								<div class="image col-xs-4">
-									<div class="img_sq">
-										<img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/common/image/contents/way/item_8.jpg" alt="">
-									</div>
-								</div>
-								<div class="text col-xs-8">
-									<h3 class="title"><span class="num">8</span><span class="name">お餅</h3>
-	 								<p>【仕様事例タイプ】</p>
-									<p class="cat">キーピットWRタイプ</p>
-								</div>
-							</a>
-						</div>
+						<?php } ?>
+						
 					</div>
 				</div>
 			</div>

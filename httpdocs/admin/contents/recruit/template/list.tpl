@@ -31,7 +31,9 @@
 							<div class="lightBoxGallery">
 								{foreach from=$_ARR_IMAGE item="file" name="file"}
 									{if $recruit[$file.name]}
-										<a href="{$_IMAGEFULLPATH}/recruit/{$file.name}/l_{$recruit[$file.name]}" title="{$file.comment|default:""}" data-gallery=""><img src="{$_IMAGEFULLPATH}/recruit/{$file.name}/s_{$recruit[$file.name]}" width="50" /></a>
+										<a href="{$_IMAGEFULLPATH}/recruit/{$file.name}/l_{$recruit[$file.name]}" title="{$file.comment|default:""}" rel="lightbox[]">
+											<img src="{$_IMAGEFULLPATH}/recruit/{$file.name}/s_{$recruit[$file.name]}" width="50" />
+										</a>
 									{/if}
 								{/foreach}
 							</div>
@@ -64,13 +66,4 @@
 					</tr>
 				</tfoot>
 			</table>
-			<div id="blueimp-gallery" class="blueimp-gallery">
-				<div class="slides"></div>
-				<h3 class="title"></h3>
-				<a class="prev">‹</a>
-				<a class="next">›</a>
-				<a class="close">×</a>
-				<a class="play-pause"></a>
-				<ol class="indicator"></ol>
-			</div>
 			{include file=$template_pagenavi}

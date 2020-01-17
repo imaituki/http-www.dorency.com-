@@ -65,7 +65,7 @@
 					</tr>
 					<tr>
 						<th>給与</th>
-						<td>{$recruit.min_salary}～{$recruit.max_salary}</td>
+						<td>{$OptionSalaryUnit[$recruit.salary_unit]}{$recruit.min_salary|number_format}～{$recruit.max_salary|number_format}円</td>
 					</tr>
 					<tr>
 						<th>待遇</th>
@@ -78,7 +78,7 @@
 				</tbody>
 			</table>
 			{/foreach}
-			<div class="pos_ac entry_b"><a href="###" class="button _green _large"><i class="fa fa-paper-plane" aria-hidden="true"></i>エントリーする</a></div>
+			<div class="pos_ac entry_b"><a href="{$_RENEWAL_DIR}/recruit/form.php?recruit=2" class="button _green _large"><i class="fa fa-paper-plane" aria-hidden="true"></i>エントリーする</a></div>
 			<div class="button _type_2"><a href="{$_RENEWAL_DIR}/recruit/"><i class="arrow_cg2"></i>採用情報トップへ</a></div>
 		</div>
 	</section>
@@ -86,5 +86,75 @@
 </main>
 {include file=$template_footer}
 </div>
+
+<script type="application/ld+json">{literal}
+{
+	"@context": "http://schema.org/", 
+	"@type": "JobPosting", 
+	"title": "{/literal}{$t_recruit.0.recruitment}",
+	"description": "<ul>
+		<li>募集職種：{$t_recruit.0.recruitment}</li>
+		<li>雇用形態：{$OptionEmployment[$t_recruit.0.employment]}</li>
+		<li>仕事の内容：{$t_recruit.0.job_description|nl2br}</li>
+		<li>求める人材：{$t_recruit.0.people|nl2br}</li>
+		<li>就業時間：{$t_recruit.0.work_time|nl2br}</li>
+		<li>交通アクセス：{$t_recruit.0.access|nl2br}</li>
+		<li>福利厚生：{$t_recruit.0.welfare|nl2br}</li>
+		<li>条件：{$t_recruit.0.qualification|nl2br}</li>
+		<li>賃金：{if !empty( $t_recruit.0.max_salary )}{$t_recruit.0.min_salary|number_format}～{$t_recruit.0.max_salary|number_format}円{else}{$t_recruit.0.min_salary|number_format}円{/if}{if !empty( $t_recruit.0.salary )}<br>{$t_recruit.0.salary}{/if}</li>
+		<li>賞与：{$t_recruit.0.raise_bonus|nl2br}</li>
+		<li>通勤手当：{$t_recruit.0.commute|nl2br}</li>
+		<li>休日等：{$t_recruit.0.holiday|nl2br}</li>
+		<li>勤務地：{html_select_ken pre=1 selected=$t_recruit.0.prefecture}{$t_recruit.0.address1}{$t_recruit.0.address2}</li>
+		<li>試用期間：{$t_recruit.0.trial}</li>
+	</ul>",
+	"datePosted": "{$t_recruit.0.entry_date|date_format:"%Y-%m-%d"}",
+		{if $t_recruit.0.display_indefinite_flg == 0 && !empty( $t_recruit.0.display_end )}"validThrough": "{$t_recruit.0.display_end|date_format:"%Y-%m-%d"}",{/if}
+	"employmentType":"{$t_recruit.0.employment}"{literal},
+	"hiringOrganization": {
+		"@type": "Organization", 
+		"name": "ドレンシー株式会社", 
+		"logo": "http://www.dorency.com{/literal}{$_RENEWAL_DIR}{literal}/common/favicon/apple-touch-icon.png", 
+		"sameAs": "http://www.dorency.com"
+	}, 
+	"jobLocation": {
+		"@type": "Place", 
+		"address": {
+			"@type": "PostalAddress",
+			{/literal}
+			"streetAddress": "{$t_recruit.0.address2}",
+			"addressLocality": "{$t_recruit.0.address1}",
+			"addressRegion": "{html_select_ken pre=1 selected=$t_recruit.0.prefecture}",
+			"postalCode": "{$t_recruit.0.zip}",
+			"addressCountry": "JP"
+			{literal}
+		}
+	},
+	{/literal}
+	{if $t_recruit.0.remote_work}
+	"jobLocationType": "TELECOMMUTE",
+	{/if}
+	{literal}
+	"baseSalary": {
+		"@type": "MonetaryAmount",
+		"currency": "JPY",
+		"value": {
+			"@type": "QuantitativeValue",
+			{/literal}
+			"value": {$t_recruit.0.min_salary},
+			{if !empty( $t_recruit.0.max_salary )}"minValue": {$t_recruit.0.min_salary},
+			"maxValue": {$t_recruit.0.max_salary},{/if}
+			"unitText": "{$t_recruit.0.salary_unit}"
+			{literal}
+		}
+	},
+	"identifier": {
+		"@type": "PropertyValue",
+		"name": "ドレンシー株式会社",
+		"value": {/literal}"{$t_recruit.0.id_recruit}"{literal}
+	}
+}
+{/literal}</script>
+
 </body>
 </html>

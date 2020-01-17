@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 19:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 11:Jan:th
          compiled from "./popup_1.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:12663391895e1ee753ca20f2-63031029%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14735324945e211eb0eef826-67771823%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c8eebba8d235402cd14bdee1539b48820edbcc55' => 
     array (
       0 => './popup_1.tpl',
-      1 => 1579080851,
+      1 => 1579134106,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '12663391895e1ee753ca20f2-63031029',
+  'nocache_hash' => '14735324945e211eb0eef826-67771823',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1ee753d0a721_98215651',
+  'unifunc' => 'content_5e211eb1044263_01385641',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1ee753d0a721_98215651')) {function content_5e1ee753d0a721_98215651($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e211eb1044263_01385641')) {function content_5e211eb1044263_01385641($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_meta']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
@@ -81,8 +81,9 @@ $_smarty_tpl->tpl_vars["product"]->_loop = true;
 ?>
 						<div class="col-xs-6<?php if ($_smarty_tpl->getVariable('smarty')->value['foreach']['loopProduct']['total']>=2) {?> height-1<?php }?>">
 							<div class="bg_f">
-								<p class="pos_ac mb20"><img src="/common/photo/product_category/image1/m_<?php echo $_smarty_tpl->tpl_vars['t_product_category']->value[$_smarty_tpl->tpl_vars['category']->value]['image1'];?>
-" alt="<?php echo $_smarty_tpl->tpl_vars['t_product_category']->value[$_smarty_tpl->tpl_vars['category']->value]['name'];?>
+								<p class="pos_ac mb20"><img src="<?php if (!empty($_smarty_tpl->tpl_vars['t_product_category']->value[$_smarty_tpl->tpl_vars['category']->value]['image1'])) {?>/common/photo/product_category/image1/m_<?php echo $_smarty_tpl->tpl_vars['t_product_category']->value[$_smarty_tpl->tpl_vars['category']->value]['image1'];?>
+<?php } else { ?><?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/null_sq.jpg<?php }?>" alt="<?php echo $_smarty_tpl->tpl_vars['t_product_category']->value[$_smarty_tpl->tpl_vars['category']->value]['name'];?>
 "></p>
 								<div class="pos_ac">
 									<p class="type"><?php  $_smarty_tpl->tpl_vars["product_parts"] = new Smarty_Variable; $_smarty_tpl->tpl_vars["product_parts"]->_loop = false;
@@ -94,7 +95,9 @@ $_smarty_tpl->tpl_vars["product_parts"]->_loop = true;
  $_smarty_tpl->tpl_vars["product_parts"]->iteration++;
  $_smarty_tpl->tpl_vars["product_parts"]->last = $_smarty_tpl->tpl_vars["product_parts"]->iteration === $_smarty_tpl->tpl_vars["product_parts"]->total;
  $_smarty_tpl->tpl_vars['smarty']->value['foreach']["loopProductParts"]['last'] = $_smarty_tpl->tpl_vars["product_parts"]->last;
-?><a href="###" onclick="window.parent.location.href='<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+?><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/product/detail.php?id=<?php echo $_smarty_tpl->tpl_vars['category']->value;?>
+" onclick="window.parent.location.href='<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /product/detail.php?id=<?php echo $_smarty_tpl->tpl_vars['category']->value;?>
 '"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピット<?php echo $_smarty_tpl->tpl_vars['product_parts']->value['type'];?>
 タイプ</a><?php if (!$_smarty_tpl->getVariable('smarty')->value['foreach']['loopProductParts']['last']) {?><br><?php }?><?php } ?></p>

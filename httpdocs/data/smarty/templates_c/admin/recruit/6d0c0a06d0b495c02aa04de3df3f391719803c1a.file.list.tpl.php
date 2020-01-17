@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 15:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-16 15:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:15016193635e1eb4359371b3-42397926%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20024159765e1ffcfd18e877-96484876%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6d0c0a06d0b495c02aa04de3df3f391719803c1a' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/recruit/template/list.tpl',
-      1 => 1577422262,
+      1 => 1579147692,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '15016193635e1eb4359371b3-42397926',
+  'nocache_hash' => '20024159765e1ffcfd18e877-96484876',
   'function' => 
   array (
   ),
@@ -29,9 +29,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1eb4359f3083_35142875',
+  'unifunc' => 'content_5e1ffcfd213a97_89930640',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1eb4359f3083_35142875')) {function content_5e1eb4359f3083_35142875($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e1ffcfd213a97_89930640')) {function content_5e1ffcfd213a97_89930640($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?>			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 			<table class="footable table table-stripped toggle-arrow-tiny tbl_1" data-page-size="15">
@@ -85,10 +85,12 @@ $_smarty_tpl->tpl_vars["file"]->_loop = true;
 /recruit/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /l_<?php echo $_smarty_tpl->tpl_vars['recruit']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
 " title="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['file']->value['comment'])===null||$tmp==='' ? '' : $tmp);?>
-" data-gallery=""><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
+" rel="lightbox[]">
+											<img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
 /recruit/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /s_<?php echo $_smarty_tpl->tpl_vars['recruit']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
-" width="50" /></a>
+" width="50" />
+										</a>
 									<?php }?>
 								<?php } ?>
 							</div>
@@ -128,15 +130,6 @@ if (!$_smarty_tpl->tpl_vars["recruit"]->_loop) {
 					</tr>
 				</tfoot>
 			</table>
-			<div id="blueimp-gallery" class="blueimp-gallery">
-				<div class="slides"></div>
-				<h3 class="title"></h3>
-				<a class="prev">‹</a>
-				<a class="next">›</a>
-				<a class="close">×</a>
-				<a class="play-pause"></a>
-				<ol class="indicator"></ol>
-			</div>
 			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_pagenavi']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
 <?php }} ?>

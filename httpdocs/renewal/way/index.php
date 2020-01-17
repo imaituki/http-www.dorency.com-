@@ -49,8 +49,10 @@ $smarty = new MySmarty("front");
 $smarty->compile_dir .= "way/";
 
 // テンプレートに設定
-$smarty->assign( "t_product", $t_product );
+$smarty->assign( "t_product_parts", $t_product_parts );
+$smarty->assign( "OptionExample"  , $OptionExample   );
 
 // 表示
 $smarty->display("index.tpl");
+
 ?>

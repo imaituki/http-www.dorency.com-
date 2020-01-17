@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 15:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-16 15:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/footer.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19693619355e1eb41cb0d8b2-93887194%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15744824715e20064ba1c185-84792699%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19693619355e1eb41cb0d8b2-93887194',
+  'nocache_hash' => '15744824715e20064ba1c185-84792699',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1eb41cb28004_06130920',
+  'unifunc' => 'content_5e20064ba37f20_77176657',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1eb41cb28004_06130920')) {function content_5e1eb41cb28004_06130920($_smarty_tpl) {?><footer>
+<?php if ($_valid && !is_callable('content_5e20064ba37f20_77176657')) {function content_5e20064ba37f20_77176657($_smarty_tpl) {?><footer>
 <div id="foot">
 	<div class="bg_greeno">
 		<div class="center">

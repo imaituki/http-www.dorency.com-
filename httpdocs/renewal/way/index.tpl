@@ -97,6 +97,27 @@ $(function(){
 			<div data-aos="fade-up" data-aos-once="true">
 				<div class="center wrapper">
 					<div class="row list item_list">
+						{foreach from=$t_product_parts key="key" item="product_parts"}
+						<div class="col-xs-4 unit height-1 mb30">
+							<a href="popup_{$key}.php" class="boxer">
+								<div class="image col-xs-4">
+									<div class="img_sq">
+										<img src="{$_RENEWAL_DIR}/common/image/contents/way/item_{$key}.jpg" alt="{$OptionExample[$key]}">
+									</div>
+								</div>
+								<div class="text col-xs-8">
+									<h3 class="title"><span class="num">{$key}</span><span class="name">{$OptionExample[$key]}</span></h3>
+									<p>【使用事例タイプ】</p>
+									{foreach from=$product_parts item="parts" name="loopParts"}
+									{if !empty( {$parts.type} )}
+									<p class="cat{if !$smarty.foreach.loopParts.last} mb10{/if}">キーピット{$parts.type}タイプ</p>
+									{/if}
+									{/foreach}
+								</div>
+							</a>
+						</div>
+						{/foreach}
+						{*
 						<div class="col-xs-4 unit height-1 mb30">
 							<a href="popup_1.php" class="boxer">
 								<div class="image col-xs-4">
@@ -215,6 +236,7 @@ $(function(){
 								</div>
 							</a>
 						</div>
+						*}
 					</div>
 				</div>
 			</div>

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-15 21:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 12:Jan:th
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:339907375e1f0a392c4fd7-27940338%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11275427805e2125252598e2-61058412%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '339907375e1f0a392c4fd7-27940338',
+  'nocache_hash' => '11275427805e2125252598e2-61058412',
   'function' => 
   array (
   ),
@@ -29,9 +29,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1f0a39476f07_51652099',
+  'unifunc' => 'content_5e2125254661b6_65820266',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1f0a39476f07_51652099')) {function content_5e1f0a39476f07_51652099($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
+<?php if ($_valid && !is_callable('content_5e2125254661b6_65820266')) {function content_5e2125254661b6_65820266($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
 if (!is_callable('smarty_function_html_checkboxes')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_checkboxes.php';
 if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
 ?>			<form class="form-horizontal" action="./<?php if ($_smarty_tpl->tpl_vars['mode']->value=='edit') {?>update<?php } else { ?>insert<?php }?>.php" method="post" enctype="multipart/form-data" id="inputForm">

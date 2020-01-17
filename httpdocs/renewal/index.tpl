@@ -133,8 +133,8 @@
 	<section>
 		<div id="factory" class="wrapper">
 			<div class="center">
-				<div class="row no-gutters">
-					<div class="col-xs-4">
+				<div class="row">
+					<div class="col-sm-4 pos_ac-sp">
 						<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
 						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
 							安全・安心を最優先に生産体制を整えています。</p>
@@ -142,10 +142,10 @@
 							<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 						</div>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-sm-4 mb20">
 						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image5.png" alt="">
 					</div>
-					<div class="col-xs-4">
+					<div class="col-sm-4 mb20">
 						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image6.png" alt="">
 					</div>
 				</div>

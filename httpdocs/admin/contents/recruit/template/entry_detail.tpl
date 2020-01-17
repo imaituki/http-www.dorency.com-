@@ -22,7 +22,7 @@
 </head>
 <body class="fixed-sidebar no-skin-config">
 <div id="wrapper">
-	{include file=$template_secondary action="public" manage="recruit "}
+	{include file=$template_secondary action="public" manage="recruit"}
 	<div id="page-wrapper" class="gray-bg">
 		{include file=$template_header}
 		<div class="row wrapper border-bottom white-bg page-heading">
@@ -58,27 +58,28 @@
 												</td>
 											</tr>
 											<tr>
-												<th width="120">別募集</th>
-												<td>
-													{if $t_recruit_contact.hope_flg}希望する{else}希望しない{/if}
-												</td>
-											</tr>
-											<tr>
 												<th width="120">お名前</th>
 												<td>
 													{$t_recruit_contact.name}
 												</td>
 											</tr>
 											<tr>
-												<th>ふりがな</th>
+												<th>フリガナ</th>
 												<td>
 													{$t_recruit_contact.ruby}
 												</td>
 											</tr>
 											<tr>
-												<th>性別</th>
+												<th>ご住所</th>
 												<td>
-													{$t_recruit_contact.sex}
+													〒{$t_recruit_contact.zip}<br>
+													{html_select_ken selected=$t_recruit_contact.prefecture|default:"" pre=1}{$t_recruit_contact.address}
+												</td>
+											</tr>
+											<tr>
+												<th>電話番号</th>
+												<td>
+													{$t_recruit_contact.tel|default:"-"}
 												</td>
 											</tr>
 											<tr>
@@ -88,20 +89,7 @@
 												</td>
 											</tr>
 											<tr>
-												<th>電話番号</th>
-												<td>
-													{$t_recruit_contact.tel|default:"-"}
-												</td>
-											</tr>
-											
-											<tr>
-												<th>ご住所</th>
-												<td>
-													{$t_recruit_contact.address}
-												</td>
-											</tr>
-											<tr>
-												<th>自由項目（応募動機・自己PR・ご質問など）</th>
+												<th>自由項目</th>
 												<td>
 													{$t_recruit_contact.comment|nl2br}
 												</td>

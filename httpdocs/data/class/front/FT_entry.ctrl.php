@@ -20,8 +20,8 @@ class FT_entry {
 	var $_DBconn = null;
 
 	// 主テーブル
-	var $_CtrTable   = "t_career_contact";
-	var $_CtrTablePk = "id_career_contact";
+	var $_CtrTable   = "t_recruit_contact";
+	var $_CtrTablePk = "id_recruit_contact";
 
 	// コントロール機能（ログ用）
 	var $_CtrLogName = "エントリーフォーム";
@@ -92,31 +92,19 @@ class FT_entry {
 		// チェッククラス宣言
 		$objInputCheck = new FN_input_check( "UTF-8" );
 
-		// $arrVal["birthday"] = implode( "/", $arrVal["birthday"] );
-
 		// チェックエントリー
-		if( $mode != "index" ){
-			$objInputCheck->entryData( "基本情報", "id_career", $arrVal["id_career"], array( "CHECK_EMPTY", "CHECK_MIN_NUM" ), 1, null );
-			$objInputCheck->entryData( "別募集", "hope_flg", $arrVal["hope_flg"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
-		}else{
-			$objInputCheck->entryData( "働き方", "type", $arrVal["type"], array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
-		}
-		$objInputCheck->entryData( "お名前", "name", $arrVal["name"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "ふりがな", "ruby", $arrVal["ruby"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "生年月日", "birthday", implode( "/", $arrVal["birthday"] ), array( "CHECK_EMPTY", "CHECK_DATE" ), null, null );
-		$objInputCheck->entryData( "性別", "sex", $arrVal["sex"], array( "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "住所", "address", $arrVal["address"], array( "CHECK_MIN_MAX_LEN" ), 0, 255 );
-		$objInputCheck->entryData( "電話番号", "tel", $arrVal["tel"], array( "CHECK_EMPTY", "CHECK_TEL" ), null, null );
-		$objInputCheck->entryData( "メールアドレス", "mail", $arrVal["mail"], array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN", "CHECK_MAIL" ), 0, 255 );
-		$objInputCheck->entryData( "自由項目", "comment", $arrVal["comment"], array( "CHECK_MAX_LEN" ), null, 2000 );
+		$objInputCheck->entryData( "採用種別"  , "recruit"   , $arrVal["recruit"]   , array( "CHECK_EMPTY", "CHECK_NUM" ), null, null );
+		$objInputCheck->entryData( "お名前"    , "name"      , $arrVal["name"]      , array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN" ), 0, 255 );
+		$objInputCheck->entryData( "フリガナ"    , "ruby"      , $arrVal["ruby"]      , array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN", "CHECK_KANA" ), 0, 255 );
+		$objInputCheck->entryData( "郵便番号"  , "zip"       , $arrVal["zip"]       , array( "CHECK_EMPTY", "CHECK_ZIP","CHECK_MIN_MAX_LEN" ), 0, 8 );
+		$objInputCheck->entryData( "都道府県"  , "prefecture", $arrVal["prefecture"], array( "CHECK_EMPTY_ZERO" ), null, null );
+		$objInputCheck->entryData( "住所"      , "address"  , $arrVal["address"]    , array( "CHECK_EMPTY" ), null, null );
+		$objInputCheck->entryData( "メールアドレス", "mail"     , $arrVal["mail"]       , array( "CHECK_EMPTY", "CHECK_MIN_MAX_LEN", "CHECK_MAIL" ), 0, 255 );
+		$objInputCheck->entryData( "電話番号"  , "tel"      , $arrVal["tel"]        , array( "CHECK_EMPTY", "CHECK_TEL" ), null, null );
+		// $objInputCheck->entryData( "自由項目", "comment", $arrVal["comment"], array( "CHECK_EMPTY" ), null, null );
 
 		// チェック実行
 		$res["ng"] = $objInputCheck->execCheckAll();
-
-		// 生年月日が空のとき
-		if( empty( $res["ng"]["birthday"] ) && empty( $arrVal["birthday"]["Year"] ) && empty( $arrVal["birthday"]["Month"] ) && empty( $arrVal["birthday"]["Day"] ) ){
-			$res["ng"]["birthday"] = " 生年月日は必ず入力してください。";
-		}
 
 		// 戻り値
 		return $res;
@@ -136,7 +124,7 @@ class FT_entry {
 		// 登録データの作成
 		$arrVal = $this->_DBconn->arrayKeyMatchFecth( $arrVal, "/^[^\_]/" );
 
-		$arrVal["birthday"] = implode( "-", $arrVal["birthday"] );
+		$arrVal["id_recruit"]  = $arrVal["recruit"]; //管理画面表示用
 		$arrVal["entry_date"]  = date( "Y-m-d H:i:s" );
 		$arrVal["update_date"] = date( "Y-m-d H:i:s" );
 
