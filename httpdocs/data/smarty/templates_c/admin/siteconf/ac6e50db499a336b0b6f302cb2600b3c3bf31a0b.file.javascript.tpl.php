@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-16 14:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 16:Jan:nd
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/common/inc/javascript.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17117834245e1ff2742ab639-04188782%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16377024775e27fe063545e2-29809751%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17117834245e1ff2742ab639-04188782',
+  'nocache_hash' => '16377024775e27fe063545e2-29809751',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1ff2742cb249_75026311',
+  'unifunc' => 'content_5e27fe063751a8_44707316',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1ff2742cb249_75026311')) {function content_5e1ff2742cb249_75026311($_smarty_tpl) {?><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<?php if ($_valid && !is_callable('content_5e27fe063751a8_44707316')) {function content_5e27fe063751a8_44707316($_smarty_tpl) {?><meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <!-- Mainly scripts -->
 <script type="text/javascript" src="<?php echo $_smarty_tpl->tpl_vars['_ADMIN']->value['home'];?>
 /common/js/jquery-2.1.1.js"></script>

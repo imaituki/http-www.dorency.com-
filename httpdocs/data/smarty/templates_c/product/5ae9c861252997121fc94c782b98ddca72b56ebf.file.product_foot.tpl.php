@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 11:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 16:Jan:nd
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/product_foot.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3876016705e211d7e388c14-81239146%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:922219285e27fa96c0aa15-94464406%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '5ae9c861252997121fc94c782b98ddca72b56ebf' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/product_foot.tpl',
-      1 => 1578551284,
+      1 => 1579603115,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3876016705e211d7e388c14-81239146',
+  'nocache_hash' => '922219285e27fa96c0aa15-94464406',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e211d7e3cec32_29863916',
+  'unifunc' => 'content_5e27fa96c52986_85991255',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e211d7e3cec32_29863916')) {function content_5e211d7e3cec32_29863916($_smarty_tpl) {?><div id="common_product_foot">
+<?php if ($_valid && !is_callable('content_5e27fa96c52986_85991255')) {function content_5e27fa96c52986_85991255($_smarty_tpl) {?><div id="common_product_foot">
 	<?php if ($_smarty_tpl->tpl_vars['mode']->value!="menu") {?>
 	<div class="center">
 		<div id="contact_area">
@@ -50,7 +50,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 	<?php }?>
 	<div class="wrapper-t">
-		<h2 class="hl_4">関連メニュー</h2>
+		<h2 class="hl_4"><span>関連メニュー</span></h2>
 		<div class="row">
 			<?php if ($_smarty_tpl->tpl_vars['_HTML_HEADER']->value['id']!="product") {?>
 			<div class="col-xs-4 height-1">
@@ -68,7 +68,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<div class="col-xs-4 height-1">
 				<div class="page_link">
 					<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/way/">
+/use/">
 						<div class="photo"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /common/image/contents/menu2.jpg" alt="用途のご紹介"></div>
 						<div class="text">用途のご紹介</div>

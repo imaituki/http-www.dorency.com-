@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-17 12:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 16:Jan:nd
          compiled from "/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:11275427805e2125252598e2-61058412%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1543418965e27f9e86e61c4-86787176%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '295ced49c5f995f673ebc5639135218c7f77f213' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/admin/contents/product/template/form.tpl',
-      1 => 1579064086,
+      1 => 1579234424,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '11275427805e2125252598e2-61058412',
+  'nocache_hash' => '1543418965e27f9e86e61c4-86787176',
   'function' => 
   array (
   ),
@@ -29,9 +29,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e2125254661b6_65820266',
+  'unifunc' => 'content_5e27f9e8894f11_00922013',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e2125254661b6_65820266')) {function content_5e2125254661b6_65820266($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
+<?php if ($_valid && !is_callable('content_5e27f9e8894f11_00922013')) {function content_5e27f9e8894f11_00922013($_smarty_tpl) {?><?php if (!is_callable('smarty_function_html_options')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_options.php';
 if (!is_callable('smarty_function_html_checkboxes')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_checkboxes.php';
 if (!is_callable('smarty_function_html_radios')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/function.html_radios.php';
 ?>			<form class="form-horizontal" action="./<?php if ($_smarty_tpl->tpl_vars['mode']->value=='edit') {?>update<?php } else { ?>insert<?php }?>.php" method="post" enctype="multipart/form-data" id="inputForm">
@@ -150,7 +150,7 @@ $_smarty_tpl->tpl_vars["product_parts"]->_loop = true;
 									<?php if ((($tmp = @$_smarty_tpl->tpl_vars['message']->value['ng'][(('detail_').($_smarty_tpl->tpl_vars['key']->value)).("_example")])===null||$tmp==='' ? '' : $tmp)!=null) {?><p class="error"><?php echo $_smarty_tpl->tpl_vars['message']->value['ng'][(('detail_').($_smarty_tpl->tpl_vars['key']->value)).("_example")];?>
 </p><?php }?>
 									<div class="checkbox m-r-xs inline">
-										<?php echo smarty_function_html_checkboxes(array('options'=>$_smarty_tpl->tpl_vars['OptionExample']->value,'class'=>"product_parts_example",'name'=>"detail[".((string)$_smarty_tpl->tpl_vars['key']->value)."][example]",'id'=>('product_parts_example_').($_smarty_tpl->tpl_vars['key']->value),'selected'=>(($tmp = @$_smarty_tpl->tpl_vars['product_parts']->value['example'])===null||$tmp==='' ? '' : $tmp),'separator'=>"&nbsp;"),$_smarty_tpl);?>
+										<?php echo smarty_function_html_checkboxes(array('options'=>$_smarty_tpl->tpl_vars['OptionExample']->value,'class'=>"product_parts_example",'name'=>"detail[".((string)$_smarty_tpl->tpl_vars['key']->value)."][example]",'selected'=>(($tmp = @$_smarty_tpl->tpl_vars['product_parts']->value['example'])===null||$tmp==='' ? '' : $tmp),'separator'=>"&nbsp;"),$_smarty_tpl);?>
 
 									</div>
 								</div>

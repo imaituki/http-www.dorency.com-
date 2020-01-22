@@ -19,7 +19,7 @@
 	</div>
 	{/if}
 	<div class="wrapper-t">
-		<h2 class="hl_4">関連メニュー</h2>
+		<h2 class="hl_4"><span>関連メニュー</span></h2>
 		<div class="row">
 			{if $_HTML_HEADER.id != "product"}
 			<div class="col-xs-4 height-1">
@@ -34,7 +34,7 @@
 			{if $_HTML_HEADER.id != "way"}
 			<div class="col-xs-4 height-1">
 				<div class="page_link">
-					<a href="{$_RENEWAL_DIR}/way/">
+					<a href="{$_RENEWAL_DIR}/use/">
 						<div class="photo"><img src="{$_RENEWAL_DIR}/common/image/contents/menu2.jpg" alt="用途のご紹介"></div>
 						<div class="text">用途のご紹介</div>
 					</a>

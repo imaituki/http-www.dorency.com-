@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-13 16:07:39
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 16:Jan:nd
          compiled from "../template/list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:19610067475df30d2d57a7e3-08614156%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16959005475e27fe10f12182-09785966%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '536be3878faadbfd3173360df0efbc870ffbb3e2' => 
     array (
       0 => '../template/list.tpl',
-      1 => 1576220855,
+      1 => 1576230752,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19610067475df30d2d57a7e3-08614156',
+  'nocache_hash' => '16959005475e27fe10f12182-09785966',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5df30d2d664a23_10072135',
   'variables' => 
   array (
     'template_pagenavi' => 0,
@@ -29,8 +27,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_CONTENTS_NAME' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_5e27fe110752f1_85055796',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5df30d2d664a23_10072135')) {function content_5df30d2d664a23_10072135($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5e27fe110752f1_85055796')) {function content_5e27fe110752f1_85055796($_smarty_tpl) {?>
 <script type="text/javascript">
 sortableInit();
 </script>
@@ -71,7 +71,7 @@ $_smarty_tpl->tpl_vars["file"]->_loop = true;
 /base/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /l_<?php echo $_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
 " title="<?php echo (($tmp = @$_smarty_tpl->tpl_vars['file']->value['comment'])===null||$tmp==='' ? '' : $tmp);?>
-" data-gallery=""><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
+" rel="lightbox[]"><img src="<?php echo $_smarty_tpl->tpl_vars['_IMAGEFULLPATH']->value;?>
 /base/<?php echo $_smarty_tpl->tpl_vars['file']->value['name'];?>
 /s_<?php echo $_smarty_tpl->tpl_vars['base']->value[$_smarty_tpl->tpl_vars['file']->value['name']];?>
 " width="50" /></a>

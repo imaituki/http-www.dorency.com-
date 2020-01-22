@@ -62,6 +62,15 @@ $(function () {
 			$(this).val('');
 		});
 
+		ck.find('.product_parts_example').each(function () {
+			$(this).attr('name', 'detail[' + sirial + '][example]');
+			var id = $(this).attr('id');
+			id = id.replace('detail_0', 'detail_' + sirial);
+			$(this).attr('id', id);
+			$(this).next('label').attr('for', id);
+			$(this).prop('checked', false);
+		});
+
 		$(ck).attr('id', 'product_parts' + sirial).attr('data-sirial', sirial).val('');
 		$('.product_parts_loop:last').after(ck);
 

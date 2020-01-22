@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-16 13:Jan:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 09:Jan:nd
          compiled from "/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8532041175e1fe2ff93dd35-58898587%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:18231137905e2794bfa6ee14-81093517%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '27068aebe26060c867fa9ba497382e5e0245fba5' => 
     array (
       0 => '/var/www/vhosts/dorency.com/httpdocs/renewal/common/include/header.tpl',
-      1 => 1579145034,
+      1 => 1579603129,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '8532041175e1fe2ff93dd35-58898587',
+  'nocache_hash' => '18231137905e2794bfa6ee14-81093517',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e1fe2ff971363_09334502',
+  'unifunc' => 'content_5e2794bfaa1e03_16584101',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e1fe2ff971363_09334502')) {function content_5e1fe2ff971363_09334502($_smarty_tpl) {?><header>
+<?php if ($_valid && !is_callable('content_5e2794bfaa1e03_16584101')) {function content_5e2794bfaa1e03_16584101($_smarty_tpl) {?><header>
 <div id="head">
 	<div class="center">
 		<h1 class="site_logo"><a class="ov" href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
@@ -52,7 +52,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /product/">鮮度保持剤</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/way/">用途のご紹介</a></li>
+/use/">用途のご紹介</a></li>
 					<li class="no sub"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /cairo/">楽々カイロ</a></li>
 					<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>

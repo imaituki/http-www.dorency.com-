@@ -110,6 +110,7 @@ class MySmarty extends Smarty {
 		$this->assign( "template_secondary"  , _DOCUMENT_ROOT. _RENEWAL_DIR . $_FRONT["include"]. "/secondary.tpl"  );
 		$this->assign( "template_javascript" , _DOCUMENT_ROOT. _RENEWAL_DIR . $_FRONT["include"]. "/javascript.tpl" );
 		$this->assign( "template_product_foot" , _DOCUMENT_ROOT. _RENEWAL_DIR . $_FRONT["include"]. "/product_foot.tpl" );
+		$this->assign( "template_contact"    , _DOCUMENT_ROOT. _RENEWAL_DIR . $_FRONT["include"]. "/contact.tpl"    );
 
 	}
 

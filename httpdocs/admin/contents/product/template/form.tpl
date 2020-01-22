@@ -78,7 +78,7 @@
 								<div class="col-sm-9">
 									{if $message.ng[detail_|cat:$key|cat:"_example"]|default:"" != NULL}<p class="error">{$message.ng[detail_|cat:$key|cat:"_example"]}</p>{/if}
 									<div class="checkbox m-r-xs inline">
-										{html_checkboxes options=$OptionExample class="product_parts_example" name="detail[$key][example]" id=product_parts_example_|cat:$key selected=$product_parts.example|default:"" separator="&nbsp;"}
+										{html_checkboxes options=$OptionExample class="product_parts_example" name="detail[$key][example]" selected=$product_parts.example|default:"" separator="&nbsp;"}
 									</div>
 								</div>
 							</div>

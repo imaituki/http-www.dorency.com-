@@ -17,7 +17,7 @@
 					<li><a href="{$_RENEWAL_DIR}/#reserch">研究開発</a></li>
 					<li><a href="{$_RENEWAL_DIR}/#brand">ドレンシーブランド</a></li>
 					<li class="no sub"><a href="{$_RENEWAL_DIR}/product/">鮮度保持剤</a></li>
-					<li class="no sub"><a href="{$_RENEWAL_DIR}/way/">用途のご紹介</a></li>
+					<li class="no sub"><a href="{$_RENEWAL_DIR}/use/">用途のご紹介</a></li>
 					<li class="no sub"><a href="{$_RENEWAL_DIR}/cairo/">楽々カイロ</a></li>
 					<li><a href="{$_RENEWAL_DIR}/#factory">生産工場</a></li>
 					<li class="no sub"><a href="{$_RENEWAL_DIR}/virtual/">バーチャル工場見学</a></li>

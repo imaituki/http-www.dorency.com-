@@ -10,19 +10,6 @@
 //----------------------------------------
 require "./config.ini";
 
-//----------------------------------------
-//  ヘッダー情報
-//----------------------------------------
-// タイトル
-$_HTML_HEADER["title"] = "鮮度保持剤";
-
-// キーワード
-$_HTML_HEADER["keyword"] = "";
-
-// ディスクリプション
-$_HTML_HEADER["description"] = "";
-
-
 
 //----------------------------------------
 //  データ取得
@@ -70,6 +57,20 @@ unset( $objProductCategory);
 unset( $objProduct     );
 unset( $objManage      );
 
+
+//----------------------------------------
+//  ヘッダー情報
+//----------------------------------------
+// タイトル
+$_HTML_HEADER["title"] = $t_product_category_detail["name"];
+
+// キーワード
+$_HTML_HEADER["keyword"] = "";
+
+// ディスクリプション
+$_HTML_HEADER["description"] = "";
+
+
 //----------------------------------------
 //  smarty設定
 //----------------------------------------
@@ -86,4 +87,5 @@ $smarty->assign( "OptionProductCategory", $OptionProductCategory );
 
 // 表示
 $smarty->display("detail.tpl");
+
 ?>

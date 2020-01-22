@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2019-12-26 17:Dec:th
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 15:Jan:nd
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1633686435e04724fedf253-57377145%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1817183225e27eb2365de56-23757084%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577348017,
+      1 => 1577418207,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1633686435e04724fedf253-57377145',
+  'nocache_hash' => '1817183225e27eb2365de56-23757084',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e04725000b488_38511814',
+  'unifunc' => 'content_5e27eb236c9dc2_46669428',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e04725000b488_38511814')) {function content_5e04725000b488_38511814($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e27eb236c9dc2_46669428')) {function content_5e27eb236c9dc2_46669428($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
@@ -70,9 +70,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<h2 class="hl_5 mb10"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /company/">会社概要</a></h2>
 						<p class="link mb30"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/#">本社/生産/開発拠点</a></p>
+/#development">本社/生産/開発拠点</a></p>
 					<h2 class="hl_5 mb10"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/#">生産工場</a></h2>
+/#factory">生産工場</a></h2>
 						<p class="link mb30"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /virtual/">バーチャル工場見学</a></p>
 					<h2 class="hl_5 mb10"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
@@ -85,11 +85,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</div>
 				<div class="col-xs-6">
 					<h2 class="hl_5 mb30"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/#">研究開発</a></h2>
+/#reserch">研究開発</a></h2>
 					<h2 class="hl_5 mb10"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/product/">ドレンシーブランド</a></h2>
+/#brand">ドレンシーブランド</a></h2>
 						<p class="link"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/">鮮度保持剤</a></p>
+/product/">鮮度保持剤</a></p>
 						<p class="link"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
 /product/way/">用途のご紹介</a></p>
 						<p class="link mb30"><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>

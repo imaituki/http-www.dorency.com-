@@ -21,7 +21,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="copyright" class="bg_green2">&copy; 2019 Dorency Co.,Ltd. All rights reserved.</div>
+	<div id="copyright" class="bg_green2">&copy; 2020 Dorency Co.,Ltd. All rights reserved.</div>
 </div>
-<!--<div id="pagetop"><a href="javascript:void(0);"><span>↑</span></a></div>-->
+{*<!--<div id="pagetop"><a href="javascript:void(0);"><span>↑</span></a></div>-->*}
 </footer>

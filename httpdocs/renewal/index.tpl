@@ -13,24 +13,12 @@
 <main>
 <div id="top_main">
 	<div id="main_image">
-		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main.jpg" alt="ドレンシー株式会社"></div>
-			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
-			</div>
-		</div>
-		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main2.jpg" alt="ドレンシー株式会社"></div>
-			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
-			</div>
-		</div>
-		<div class="unit">
-			<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main3.jpg" alt="ドレンシー株式会社"></div>
-			<div class="text">
-				<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt=""></div>
-			</div>
-		</div>
+		<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main.jpg" alt="ドレンシー株式会社"></div>
+		<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main2.jpg" alt="ドレンシー株式会社"></div>
+		<div class="img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main3.jpg" alt="ドレンシー株式会社"></div>
+	</div>
+	<div class="text">
+		<div class="center img_back"><img src="{$_RENEWAL_DIR}/common/image/contents/top/main_text1.png" alt="食品の保存に関することはお気軽にお問い合わせください"></div>
 	</div>
 </div>
 <div id="body">
@@ -42,19 +30,19 @@
 			</div>
 			<div class="center">
 				<div class="row mb50">
-					{foreach from=$t_base item="base" key="key" name="LoopBase"}
+{foreach from=$t_base item="base" key="key" name="LoopBase"}
 					<div class="col-xs-6">
-						<div class="box bor10">
+						<div class="box bor10 parallax" data-parallax-in="vertical">
 							<div class="row no-gutters">
-								{if $base.image1}<div class="col-xs-7">{/if}
+								<div class="col-xs-{if $base.image1}7{else}12{/if}">
 									<div class="text height-1">
 										<h3>{$base.name}</h3>
-										<p>〒{$base.zip}{if $base.image1 != NULL}<br>{else}　{/if}
+										<p>〒{$base.zip}{if $base.image1 != NULL}<br>{else} {/if}
 											{$base.address1}{if $base.image1 != NULL}<br>{/if}{$base.address2}
-											<a href="{$base.map}" target="_blank" class="ga_link" data-text="{$base.name}GoogleMap">[GoogleMap]</a>
+											{if $base.map}<a href="{$base.map}" target="_blank" class="ga_link" data-text="{$base.name}GoogleMap">[GoogleMap]</a>{/if}
 										</p>
 									</div>
-								{if $base.image1}</div>{/if}
+								</div>
 								{if $base.image1}
 								<div class="col-xs-5">
 									<div class="photo img_back height-1"><img src="/common/photo/base/image1/m_{$base.image1}" alt="{$base.name}"></div>
@@ -63,11 +51,9 @@
 							</div>
 						</div>
 					</div>
-					{/foreach}
+{/foreach}
 				</div>
-				<div class="pos_ac">
-					<a href="{$_RENEWAL_DIR}/company/" class="button _green">会社概要<i class="arrow"></i></a>
-				</div>
+				<div class="pos_ac"><a href="{$_RENEWAL_DIR}/company/" class="button _green">会社概要<i class="arrow"></i></a></div>
 			</div>
 		</div>
 	</section>
@@ -80,7 +66,7 @@
 				<div class="col-xl-6 hidden-lg">
 					<div class="row no-gutters">
 						<div class="col-xs-2-5">
-							<img src="https://placehold.jp/800x700.png" alt="">
+							<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d1.jpg" alt="研究開発">
 						</div>
 						<div class="col-xs-3-5">
 							<div class="row no-gutters">
@@ -96,7 +82,7 @@
 									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d4.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-8">
-									<img src="https://placehold.jp/800x350.png" alt="">
+									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d5.jpg" alt="研究開発">
 								</div>
 							</div>
 						</div>
@@ -105,7 +91,7 @@
 				<div class="col-xl-6">
 					<div class="row no-gutters">
 						<div class="col-xs-2-5">
-							<img src="https://placehold.jp/800x700.png" alt="">
+							<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d1.jpg" alt="研究開発">
 						</div>
 						<div class="col-xs-3-5">
 							<div class="row no-gutters">
@@ -121,7 +107,7 @@
 									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d4.jpg" alt="研究開発">
 								</div>
 								<div class="col-xs-8">
-									<img src="https://placehold.jp/800x350.png" alt="">
+									<img src="{$_RENEWAL_DIR}/common/image/contents/top/r_d5.jpg" alt="研究開発">
 								</div>
 							</div>
 						</div>
@@ -135,18 +121,29 @@
 			<div class="center">
 				<div class="row">
 					<div class="col-sm-4 pos_ac-sp">
-						<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
-						<p class="mb50">厳格な品質保障の仕組を構築し、<br>
-							安全・安心を最優先に生産体制を整えています。</p>
-						<div class="mb30sp">
-							<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
+						<div class="height-1 disp_tbl">
+							<div class="disp_td">
+								<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
+								<p class="mb50">厳格な品質保障の仕組を構築し、<br>安全・安心を最優先に生産体制を整えています。</p>
+								<div class="mb30">
+									<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="col-sm-4 mb20">
-						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image5.png" alt="">
-					</div>
-					<div class="col-sm-4 mb20">
-						<img src="{$_RENEWAL_DIR}/common/image/contents/top/image6.png" alt="">
+					<div class="col-sm-8">
+						<div class="row no-gutters height-1">
+							<div class="col-xs-6 col-6">
+								<div class="parallax" data-parallax-in="vertical-r">
+									<img src="{$_RENEWAL_DIR}/common/image/contents/top/image5.png" alt="生産工場">
+								</div>
+							</div>
+							<div class="col-xs-6 col-6">
+								<div class="parallax" data-parallax-in="vertical">
+									<img src="{$_RENEWAL_DIR}/common/image/contents/top/image6.png" alt="生産工場">
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -157,14 +154,14 @@
 			<div class="center">
 				<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_i.png" alt=""></i>ドレンシーブランド・製品情報<span class="sub">Brand and Items</span></h2>
 				<p class="mb50 pos_ac">新しい領域から創り出された新しい製品。</p>
-				<div class="box">
+				<div class="box parallax" data-parallax-in="vertical">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
 							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k1.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
-								<h3>X線対応脱酸素剤/アルコール揮散剤</h3>
+								<h3 class="cg">X線対応脱酸素剤/アルコール揮散剤</h3>
 								<p>より確実で高度な品質管理に対応した、<br>X線対応型脱酸素剤。</p>
 							</div>
 						</div>
@@ -173,14 +170,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="box">
+				<div class="box parallax" data-parallax-in="vertical">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
 							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k2.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
-								<h3>アルコール揮散併用脱酸素剤</h3>
+								<h3 class="cg">アルコール揮散併用脱酸素剤</h3>
 								<p>アルコール揮散と脱酸素機能を併用し、<br>金属検出機にも対応</p>
 							</div>
 						</div>
@@ -189,14 +186,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="box">
+				<div class="box parallax" data-parallax-in="vertical">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
 							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k3.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
-								<h3>電子レンジ対応脱酸素剤</h3>
+								<h3 class="cg">電子レンジ対応脱酸素剤</h3>
 								<p>電子レンジにも対応した脱酸素剤。</p>
 							</div>
 						</div>
@@ -205,14 +202,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="box mb50">
+				<div class="box mb50 parallax" data-parallax-in="vertical">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
 							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_k4.jpg" alt=""></div>
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
-								<h3>酸素検知剤付キーピット</h3>
+								<h3 class="cg">酸素検知剤付キーピット</h3>
 								<p>脱酸素状態を「より正確に」、「より速く」、<br>「より見やすく」確認出来る酸素検知剤。<br>（一体型脱酸素剤）</p>
 							</div>
 						</div>
@@ -229,7 +226,7 @@
 					</div>
 					<div class="col-xs-6 col-6">
 						<div class="pos_al">
-							<a href="{$_RENEWAL_DIR}/way/" class="button _green">用途のご紹介<i class="arrow"></i></a>
+							<a href="{$_RENEWAL_DIR}/use/" class="button _green">用途のご紹介<i class="arrow"></i></a>
 						</div>
 					</div>
 				</div>
@@ -237,67 +234,53 @@
 		</div>
 	</section>
 	<section>
-		<div id="top_kairo" class="wrapper-t">
+		<div id="top_kairo">
 			<div class="row">
-				<div class="col-xs-5 col-xs-push-7 kairo_text height-1">
-					<div class="pos_ac disp_td">
-						<h2 class="hl_1 pos_ac"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo_i.png" alt=""></i>楽々カイロ<span class="sub">Heat Pad</span></h2>
-						<p class="mb20">すぐに温まりたい人必携、常に高温を維持、即効性をアピールした文章</p>
-						<div><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
-						<div>
-							<a href="{$_RENEWAL_DIR}/cairo/" class="button _green">用途のご紹介<i class="arrow"></i></a>
+				<div class="col-xl-3 col-xs-5 col-xs-push-7">
+					<div class="disp_tbl height-1">
+						<div class="disp_td">
+							<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo_i.png" alt=""></i>楽々カイロ<span class="sub">Heat Pad</span></h2>
+							<p class="mb20">脱酸素剤事業で培った鉄粉・包材技術を、<br>使い捨てカイロに応用し、製造しております。</p>
+							<div class="mb20"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
+							<div class="mb20"><a href="{$_RENEWAL_DIR}/cairo/" class="button _green">用途のご紹介<i class="arrow"></i></a></div>
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-7 col-xs-pull-5 height-1">
+				<div class="col-xl-7 col-xl-pull-3 col-xs-7 col-xs-pull-5">
 					<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo_p.jpg" alt="楽々カイロ"></div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<section>
-		<div id="contact_area" class="wrapper-t">
-			<div class="center">
-				<div class="contact_area bg_gray">
-					<div class="row">
-						<div class="col-xs-6">
-							<div class="tel_unit cg">
-								<h4>お電話でのお問い合わせ</h4>
-								<span class="tel" data-tel="{$mst_siteconf.tel1}"><i class="fa fa-phone-alt"></i>{$mst_siteconf.tel1}</span>
-							</div>
-						</div>
-						<div class="col-xs-6 form">
-							<a href="{$_RENEWAL_DIR}/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
-						</div>
-					</div>
-				</div>
-			</div>
+		<div class="wrapper-t center">
+			{include file=$template_contact}
 		</div>
-		<div class="wrapper-t top_recruit_b">
-			<div class="center">
+	</section>
+	<section>
+		<div class="wrapper-t center">
+			<div class="box mb0">
 				<a href="{$_RENEWAL_DIR}/recruit/" class="ov"><img src="{$_RENEWAL_DIR}/common/image/contents/top/recruit.jpg" alt="採用情報"></a>
 			</div>
 		</div>
 	</section>
 	<section>
-		<div id="top_info" class="wrapper">
-			<div class="center">
-				<div class="hl_2">
-					<h2><i class="title_news"><img src="{$_RENEWAL_DIR}/common/image/contents/top/news_i.png" alt=""></i>お知らせ<span class="sub">NEWS</span></h2>
-					<div class="right"><a href="{$_RENEWAL_DIR}/information/">一覧を見る</a></div>
-				</div>
-				<div class="info_list">
-					{foreach from=$t_information item="information" key="key" name="LoopInfomation"}
-					<a href="{$_RENEWAL_DIR}/information/detail.php?id={$information.id_information}" class="fa_a">
-						<dl>
-							<dt><span class="tag_1">{$OptionInformationCategory[$information.information_category]}</span></dt>
-							<dd>{$information.date|date_format:"%Y/%m/%d"}　{$information.title}</dd>
-						</dl>
-					</a>
-					{foreachelse}
-						<div>お知らせはありません。</div>
-					{/foreach}
-				</div>
+		<div id="top_info" class="wrapper center">
+			<div class="hl_2">
+				<h2><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/news_i.png" alt=""></i>お知らせ<span class="sub">NEWS</span></h2>
+				<div class="right"><a href="{$_RENEWAL_DIR}/information/">一覧を見る</a></div>
+			</div>
+			<div class="info_list">
+				{foreach from=$t_information item="information" key="key" name="LoopInfomation"}
+				<a href="{$_RENEWAL_DIR}/information/detail.php?id={$information.id_information}" class="fa_a">
+					<dl>
+						<dt><span class="tag_1">{$OptionInformationCategory[$information.information_category]}</span></dt>
+						<dd>{$information.date|date_format:"%Y/%m/%d"}　{$information.title}</dd>
+					</dl>
+				</a>
+				{foreachelse}
+					<div>お知らせはありません。</div>
+				{/foreach}
 			</div>
 		</div>
 	</section>
