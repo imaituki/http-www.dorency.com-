@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 20:Jan:nd
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-29 09:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:9130373015e2838b9b3a5f5-21449210%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:21254271085e30cc8f5ea844-43123119%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1579676075,
+      1 => 1580179976,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '9130373015e2838b9b3a5f5-21449210',
+  'nocache_hash' => '21254271085e30cc8f5ea844-43123119',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e2838b9ccf408_73182211',
+  'unifunc' => 'content_5e30cc8f715207_29108366',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e2838b9ccf408_73182211')) {function content_5e2838b9ccf408_73182211($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5e30cc8f715207_29108366')) {function content_5e30cc8f715207_29108366($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/var/www/vhosts/dorency.com/httpdocs/data/smarty/libs/plugins/modifier.date_format.php';
 ?><!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -299,7 +299,8 @@ GoogleMap">[GoogleMap]</a><?php }?>
 							</div>
 						</div>
 						<div class="col-xs-2-5">
-							<div class="photo img_back height-1"><img src="https://placehold.jp/800x400.png" alt=""></div>
+							<div class="photo img_back height-1"><img src="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
+/common/image/contents/top/d4.jpg" alt=""></div>
 						</div>
 					</div>
 				</div>

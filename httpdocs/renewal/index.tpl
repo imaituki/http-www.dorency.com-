@@ -214,7 +214,7 @@
 							</div>
 						</div>
 						<div class="col-xs-2-5">
-							<div class="photo img_back height-1"><img src="https://placehold.jp/800x400.png" alt=""></div>
+							<div class="photo img_back height-1"><img src="{$_RENEWAL_DIR}/common/image/contents/top/d4.jpg" alt=""></div>
 						</div>
 					</div>
 				</div>

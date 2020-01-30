@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2020-01-22 19:Jan:nd
+<?php /* Smarty version Smarty-3.1.18, created on 2020-01-28 17:Jan:th
          compiled from "./index.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18972120025e281f7fcfd6d4-25745651%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7167129565e2fead09f0110-52355864%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e8b82e36b14a5b32b9082c90cfde424dcce75e56' => 
     array (
       0 => './index.tpl',
-      1 => 1577417669,
+      1 => 1579698909,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '18972120025e281f7fcfd6d4-25745651',
+  'nocache_hash' => '7167129565e2fead09f0110-52355864',
   'function' => 
   array (
   ),
@@ -21,14 +21,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '_RENEWAL_DIR' => 0,
     'template_javascript' => 0,
     'template_header' => 0,
-    'mst_siteconf' => 0,
+    'template_contact' => 0,
     'template_footer' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_5e281f7fd58e73_53496771',
+  'unifunc' => 'content_5e2fead0a43276_15928276',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5e281f7fd58e73_53496771')) {function content_5e281f7fd58e73_53496771($_smarty_tpl) {?><!DOCTYPE html>
+<?php if ($_valid && !is_callable('content_5e2fead0a43276_15928276')) {function content_5e2fead0a43276_15928276($_smarty_tpl) {?><!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
@@ -59,7 +59,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</div>
 		</div>
 	</div>
-	<div id="pankuzu" class="bg_gg">
+	<div id="pankuzu">
 		<div class="center">
 			<ul>
 				<li><a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
@@ -97,26 +97,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		</div>
 	</section>
 	<section>
-		<div class="wrapper center" id="contact_area">
-			<h2 class="hl_4">採用に関するお問い合わせ</h2>
-			<div class="center">
-				<div class="contact_area bg_gray">
-					<div class="row">
-						<div class="col-xs-6">
-							<div class="tel_unit cg">
-								<h4>お電話でのお問い合わせ</h4>
-								<span class="tel" data-tel="<?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
-"><i class="fa fa-phone-alt"></i><?php echo $_smarty_tpl->tpl_vars['mst_siteconf']->value['tel1'];?>
-</span>
-							</div>
-						</div>
-						<div class="col-xs-6">
-							<a href="<?php echo $_smarty_tpl->tpl_vars['_RENEWAL_DIR']->value;?>
-/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
-						</div>
-					</div>
-				</div>
-			</div>
+		<div class="wrapper center">
+			<h2 class="hl_4"><span>採用に関するお問い合わせ</span></h2>
+			<?php echo $_smarty_tpl->getSubTemplate ($_smarty_tpl->tpl_vars['template_contact']->value, $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
+
 		</div>
 	</section>
 </div>

@@ -52,15 +52,10 @@ $(function(){
 			<div class="use_attention">数字をクリックするとポップアップ画面が表示されます。</div>
 			<div class="illust">
 				<img src="{$_RENEWAL_DIR}/common/image/contents/way/map.jpg" alt="脱酸素剤「キーピット」の用途">
-				<ul class="list">
-					<li class="menu1"><a href="#use1" class="colorbox">1</a></li>
-					<li><a href="popup_2.php" class="boxer"><div class="maru">2</div></a></li>
-					<li><a href="popup_3.php" class="boxer"><div class="maru">3</div></a></li>
-					<li><a href="popup_4.php" class="boxer"><div class="maru">4</div></a></li>
-					<li><a href="popup_5.php" class="boxer"><div class="maru">5</div></a></li>
-					<li><a href="popup_6.php" class="boxer"><div class="maru">6</div></a></li>
-					<li><a href="popup_7.php" class="boxer"><div class="maru">7</div></a></li>
-					<li><a href="popup_8.php" class="boxer"><div class="maru">8</div></a></li>
+				<ul>
+{foreach from=$OptionExample item="ex" key="key"}
+					<li class="menu{$key}"><a href="#use{$key}" class="colorbox">{$key}</a></li>
+{/foreach}
 				</ul>
 			</div>
 		</div>
@@ -93,7 +88,7 @@ $(function(){
 						<div style="display:none">
 							<div id="use{$key}" class="use_popup">
 								<div class="center2">
-									<h3 class="title"><span class="num">1</span>{$OptionExample[$key]}</h3>
+									<h3 class="title"><span class="num">{$key}</span>{$OptionExample[$key]}</h3>
 									<div class="pos_ac"><img src="{$_RENEWAL_DIR}/common/image/contents/way/item{$key}.jpg" alt="{$OptionExample[$key]}"></div>
 									<h3 class="hl_4"><span>効果/特徴</span></h3>
 									<div class="row mb50">
@@ -102,23 +97,28 @@ $(function(){
 									{/foreach}
 									</div>
 								</div>
+								{if $t_product_category[$key]}
 								<div class="bg_greeno2">
 									<div class="center2">
-										<h2 class="hl_3"><span>使用されている製品</span></h2>
-										<div class="row product">
-											{foreach from=$product_parts item="parts" name="loopParts2"}
-											<div class="col-xs-6 height-1">
-												<div class="bg_f">
-													<p class="pos_ac mb20"><img src="{if !empty( $t_product_category.$category.image1 )}/common/photo/product_category/image1/m_{$t_product_category.$category.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$t_product_category.$category.name}"></p>
-													<div class="pos_ac">
-														<p class="type">{foreach from=$product item="product_parts" name="loopProductParts"}<a href="{$_RENEWAL_DIR}/product/detail.php?id={$category}" onclick="window.parent.location.href='{$_RENEWAL_DIR}/product/detail.php?id={$category}'"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>キーピット{$product_parts.type}タイプ</a>{if !$smarty.foreach.loopProductParts.last}<br>{/if}{/foreach}</p>
-													</div>
+										<h3 class="hl_3"><span>使用されている製品</span></h3>
+										<div class="row">
+											{foreach from=$t_product_category[$key] item="cat" name="loopCat"}
+											<div class="col-xs-4">
+												<div class="use_cat_unit">
+													<a href="{$_RENEWAL_DIR}/product/detail.php?id={$cat.id_product_category}">
+														<div class="photo"><img src="{if !empty( $cat.image1 )}/common/photo/product_category/image1/m_{$cat.image1}{else}{$_RENEWAL_DIR}/common/image/contents/null_sq.jpg{/if}" alt="{$cat.name}"></div>
+														<div class="text">
+															<h4>{$cat.name}</h4>
+															{foreach from=$cat.data item="data"}<span><i class="fa fa-chevron-circle-right"></i>{$data.type}タイプ</span>{/foreach}
+														</div>
+													</a>
 												</div>
 											</div>
 											{/foreach}
 										</div>
 									</div>
 								</div>
+								{/if}
 							</div>
 						</div>
 					</div>

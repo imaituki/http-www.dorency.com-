@@ -279,39 +279,39 @@ body.pc .info_list a:hover { background:#e0ecec; }
 #use_illust a { text-decoration:none; }
 #use_illust li { position:absolute; height:40px; width:40px; font-size:25px; border-radius:50%; text-align:center; font-weight:bold; background:#FFF; color:#52A83E; border:2px solid #52A83E; line-height:35px; }
 
-#use_illust ul.list li{position: absolute;}
-#use_illust ul.list li:nth-child(1){ top: 37%; left: 84%;}
-#use_illust ul.list li:nth-child(2){ top: 10%; left: 85%;}
-#use_illust ul.list li:nth-child(3){ top: 53%; left: 72%;}
-#use_illust ul.list li:nth-child(4){ top: 53%; left: 53%;}
-#use_illust ul.list li:nth-child(5){ top: 50%; left: 43%;}
-#use_illust ul.list li:nth-child(6){ top: 67%; left: 64%;}
-#use_illust ul.list li:nth-child(7){ top: 64%; left: 41%;}
-#use_illust ul.list li:nth-child(8){ top: 10%; left: 38%;}
+#use_illust li{position: absolute;}
+#use_illust li:nth-child(1){ top: 37%; left: 84%;}
+#use_illust li:nth-child(2){ top: 10%; left: 85%;}
+#use_illust li:nth-child(3){ top: 53%; left: 72%;}
+#use_illust li:nth-child(4){ top: 53%; left: 53%;}
+#use_illust li:nth-child(5){ top: 50%; left: 43%;}
+#use_illust li:nth-child(6){ top: 67%; left: 64%;}
+#use_illust li:nth-child(7){ top: 64%; left: 41%;}
+#use_illust li:nth-child(8){ top: 10%; left: 38%;}
 
 @media (max-width: 991px) {
 	#use_illust .maru { height: 35px; width: 35px; font-size: 20px; 	line-height: 30px;}
 }
 @media (max-width: 767px){
 	#use_illust .maru { height: 30px; width: 30px; font-size: 18px; line-height: 26px;}
-	#use_illust ul.list li:nth-child(1) { top: 36%; left: 83%;}
-	#use_illust ul.list li:nth-child(2) { top: 7%; left: 84%;}
-	#use_illust ul.list li:nth-child(3) { top: 51%;}
-	#use_illust ul.list li:nth-child(4) { top: 52%; left: 54%;}
-	#use_illust ul.list li:nth-child(5) { top: 49%; left: 44%;}
-	#use_illust ul.list li:nth-child(7) { top: 66%; left: 41%;}
-	#use_illust ul.list li:nth-child(8) { top: 7%; left: 37%;}
+	#use_illust li:nth-child(1) { top: 36%; left: 83%;}
+	#use_illust li:nth-child(2) { top: 7%; left: 84%;}
+	#use_illust li:nth-child(3) { top: 51%;}
+	#use_illust li:nth-child(4) { top: 52%; left: 54%;}
+	#use_illust li:nth-child(5) { top: 49%; left: 44%;}
+	#use_illust li:nth-child(7) { top: 66%; left: 41%;}
+	#use_illust li:nth-child(8) { top: 7%; left: 37%;}
 }
 
 @media (max-width: 429px){
 	#use_illust .maru {height: 23px; width: 23px; font-size: 18px; line-height: 19px;}
-	#use_illust ul.list li:nth-child(1) { top: 34%; left: 82%;}
-	#use_illust ul.list li:nth-child(2) { top: 7%; left: 83%;}
-	#use_illust ul.list li:nth-child(3) {top: 47%;}
-	#use_illust ul.list li:nth-child(4) {top: 49%;}
-	#use_illust ul.list li:nth-child(5) {top: 46%;}
-	#use_illust ul.list li:nth-child(7) { left: 39%;}
-	#use_illust ul.list li:nth-child(8) { top: 6%; left: 34%;}
+	#use_illust li:nth-child(1) { top: 34%; left: 82%;}
+	#use_illust li:nth-child(2) { top: 7%; left: 83%;}
+	#use_illust li:nth-child(3) {top: 47%;}
+	#use_illust li:nth-child(4) {top: 49%;}
+	#use_illust li:nth-child(5) {top: 46%;}
+	#use_illust li:nth-child(7) { left: 39%;}
+	#use_illust li:nth-child(8) { top: 6%; left: 34%;}
 
 }
 
@@ -331,11 +331,14 @@ body.pc .use_unit a:hover { color:#008F4B; }
 .use_popup .title .num { color:#52A83E; margin-right:15px; }
 .use_popup .use_tag { display:block; color:#51a243; border:2px solid #51a243; text-align:center; border-radius:5px; padding:8px 0; font-weight:bold; }
 .use_popup .bg_greeno2 { padding:50px 0; }
-
-#iframe.popup .product .bg_f{padding: 25px; text-align: center;}
-#iframe.popup .product p.type{font-weight: bold; display: inline-block; text-align: left;}
-#iframe.popup .product p.type a{color: #000;}
-#iframe.popup .product p.type i{margin-right: 5px; color: #008F4B;}
+.use_cat_unit {}
+.use_cat_unit a { display:block; text-decoration:none; color:#444; }
+.use_cat_unit .photo { text-align:center; background:#fff; margin-bottom:10px; }
+.use_cat_unit .photo img { max-height:180px; }
+.use_cat_unit .text { padding:0 15px 30px; }
+.use_cat_unit .text h4 { text-align:center; font-weight:bold; margin-bottom:5px; }
+.use_cat_unit .text span { display:block; color:#008F4B; font-size:13px; }
+.use_cat_unit .text i { margin-right:5px; }
 
 
 

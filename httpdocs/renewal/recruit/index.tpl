@@ -24,7 +24,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="pankuzu" class="bg_gg">
+	<div id="pankuzu">
 		<div class="center">
 			<ul>
 				<li><a href="{$_RENEWAL_DIR}/"><i class="fa fa-home"></i></a></li>
@@ -57,23 +57,9 @@
 		</div>
 	</section>
 	<section>
-		<div class="wrapper center" id="contact_area">
-			<h2 class="hl_4">採用に関するお問い合わせ</h2>
-			<div class="center">
-				<div class="contact_area bg_gray">
-					<div class="row">
-						<div class="col-xs-6">
-							<div class="tel_unit cg">
-								<h4>お電話でのお問い合わせ</h4>
-								<span class="tel" data-tel="{$mst_siteconf.tel1}"><i class="fa fa-phone-alt"></i>{$mst_siteconf.tel1}</span>
-							</div>
-						</div>
-						<div class="col-xs-6">
-							<a href="{$_RENEWAL_DIR}/contact/" class="button _green _large"><i class="fa fa-envelope"></i>お問い合わせフォーム</a>
-						</div>
-					</div>
-				</div>
-			</div>
+		<div class="wrapper center">
+			<h2 class="hl_4"><span>採用に関するお問い合わせ</span></h2>
+			{include file=$template_contact}
 		</div>
 	</section>
 </div>
