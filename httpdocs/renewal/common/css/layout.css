@@ -55,7 +55,7 @@ body { position:relative; text-align:center; overflow-x:hidden; }
 body.pc #head_contact a:hover { background:#27AB0D; color:#fff; }
 body.pc #head_contact a:hover i { color:#fff; }
 	@media (max-width: 767px){
-		#head_contact { display:none; }
+		#head_contact { display:none !important; }
 	}
 	@media (min-width: 768px){
 		#top #head.fixed #head_contact a.sitemap, 

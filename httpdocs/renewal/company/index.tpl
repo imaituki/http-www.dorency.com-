@@ -16,7 +16,7 @@
 		<div class="page_title_wrap">
 			<div class="center">
 				<div class="disp_td">
-					<h2 class="mincho">会社概要<span class="sub">Company</span></h2>
+					<h2 class="mincho">会社概要<span class="sub">Company Profile</span></h2>
 				</div>
 			</div>
 		</div>
@@ -52,7 +52,7 @@
 					</tr>
 					<tr>
 						<th>創業</th>
-						<td>昭和61年1月</td>
+						<td>昭和61年1月（設立：平成8年12月{*17日*}）</td>
 					</tr>
 					{if $mst_siteconf.capital != NULL}
 					<tr>

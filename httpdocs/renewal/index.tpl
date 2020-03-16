@@ -25,7 +25,7 @@
 	<section>
 		<div id="development" class="wrapper">
 			<div class="center2">
-				<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/base_i.png" alt=""></i>本社/生産/開発拠点<span class="sub">Development base</span></h2>
+				<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/base_i.png" alt=""></i>本社/生産/開発拠点<span class="sub">Production & Development Bases</span></h2>
 				<p class="pos_ac mb50"><img src="{$_RENEWAL_DIR}/common/image/contents/top/image2.png" alt="本社/生産/開発拠点"></p>
 			</div>
 			<div class="center">
@@ -60,7 +60,7 @@
 	<section>
 		<div id="reserch" class="wrapper">
 			<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/deve_i.png" alt=""></i>研究開発<span class="sub">Research and Development</span></h2>
-			<p class="mb50">従来の「鮮度保持剤」から一歩踏み出し新しい領域で<br>
+			<p class="mb50">従来の「鮮度保持剤」の枠を超えた新しい領域で<br>
 				新しい製品の研究開発に取り組んでいます。</p>
 			<div class="row no-gutters">
 				<div class="col-xl-6 hidden-lg">
@@ -123,8 +123,8 @@
 					<div class="col-sm-4 pos_ac-sp">
 						<div class="height-1 disp_tbl">
 							<div class="disp_td">
-								<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Factory</span></h2>
-								<p class="mb50">厳格な品質保障の仕組を構築し、<br>安全・安心を最優先に生産体制を整えています。</p>
+								<h2 class="hl_1 pos_al"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/fact_i.png" alt=""></i>生産工場<span class="sub">Production Plant</span></h2>
+								<p class="mb50">厳格な品質保証の仕組みを構築し、<br>安全・安心を最優先に生産体制を整えています。</p>
 								<div class="mb30">
 									<a href="{$_RENEWAL_DIR}/virtual/" class="button _green">バーチャル工場見学<i class="arrow"></i></a>
 								</div>
@@ -152,8 +152,8 @@
 	<section>
 		<div id="brand" class="wrapper">
 			<div class="center">
-				<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_i.png" alt=""></i>ドレンシーブランド・製品情報<span class="sub">Brand and Items</span></h2>
-				<p class="mb50 pos_ac">新しい領域から創り出された新しい製品。</p>
+				<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/brand_i.png" alt=""></i>ドレンシーブランド製品情報<span class="sub">Original Brand Products</span></h2>
+				<p class="mb50 pos_ac">新しい領域で研究開発を進め、オリジナル製品を生み出しています。</p>
 				<div class="box parallax" data-parallax-in="vertical">
 					<div class="row no-gutters">
 						<div class="col-xs-1-5">
@@ -162,7 +162,7 @@
 						<div class="col-xs-2-5">
 							<div class="text height-1">
 								<h3 class="cg">X線対応脱酸素剤/アルコール揮散剤</h3>
-								<p>より確実で高度な品質管理に対応した、<br>X線対応型脱酸素剤。</p>
+								<p>X線検査機に反応しない脱酸素剤が確実で高度な品質管理を可能にします。</p>
 							</div>
 						</div>
 						<div class="col-xs-2-5">
@@ -178,7 +178,7 @@
 						<div class="col-xs-2-5">
 							<div class="text height-1">
 								<h3 class="cg">アルコール揮散併用脱酸素剤</h3>
-								<p>アルコール揮散と脱酸素機能を併用し、<br>金属検出機にも対応</p>
+								<p>アルコール揮散と脱酸素の機能を併せ持ち、金属検出機にも対応しています。</p>
 							</div>
 						</div>
 						<div class="col-xs-2-5">
@@ -194,7 +194,7 @@
 						<div class="col-xs-2-5">
 							<div class="text height-1">
 								<h3 class="cg">電子レンジ対応脱酸素剤</h3>
-								<p>電子レンジにも対応した脱酸素剤。</p>
+								<p>食品に脱酸素剤を添付した状態で電子レンジでの加熱が可能です。</p>
 							</div>
 						</div>
 						<div class="col-xs-2-5">
@@ -209,8 +209,8 @@
 						</div>
 						<div class="col-xs-2-5">
 							<div class="text height-1">
-								<h3 class="cg">酸素検知剤付キーピット</h3>
-								<p>脱酸素状態を「より正確に」、「より速く」、<br>「より見やすく」確認出来る酸素検知剤。<br>（一体型脱酸素剤）</p>
+								<h3 class="cg">酸素検知剤付き脱酸素剤</h3>
+								<p>脱酸素状態を即座に確認できる酸素検知剤と脱酸素剤が一体となっています。</p>
 							</div>
 						</div>
 						<div class="col-xs-2-5">
@@ -240,7 +240,7 @@
 					<div class="disp_tbl height-1">
 						<div class="disp_td">
 							<h2 class="hl_1"><i class="title_i"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo_i.png" alt=""></i>楽々カイロ<span class="sub">Heat Pad</span></h2>
-							<p class="mb20">脱酸素剤事業で培った鉄粉・包材技術を、<br>使い捨てカイロに応用し、製造しております。</p>
+							<p class="mb20">脱酸素剤事業で培った鉄粉・包材技術を応用し、<br>即暖性と持続性に優れた使い捨てカイロを製造しています。</p>
 							<div class="mb20"><img src="{$_RENEWAL_DIR}/common/image/contents/top/cairo.png" alt="楽々カイロ"></div>
 							<div class="mb20"><a href="{$_RENEWAL_DIR}/cairo/" class="button _green">用途のご紹介<i class="arrow"></i></a></div>
 						</div>
